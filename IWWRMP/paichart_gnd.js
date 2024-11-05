@@ -1,11 +1,22 @@
 // Define a color map for unique classes
 var colorMap = {
-    'Home garden': '#FF6384',
-    'Seasonal crop': '#36A2EB',
-    'Scrub land': '#FFCE56',
-    'Perennials': '#4BC0C0',
-    'Paddy': '#9966FF',
-    'Forest': '#FF9F40',
+    "Forest": { color: "#006400", fillOpacity: 0.6, weight: 2 },              // Dark green for Forest
+    "Forest Plantation": { color: "#228B22", fillOpacity: 0.6, weight: 2 },   // Lighter green for Forest Plantation
+    "AG": { color: "#3CB371", fillOpacity: 0.5, weight: 2 },                  // Medium sea green for Agriculture
+    "urban": { color: "#808080", fillOpacity: 0.7, weight: 2 },               // Gray for Urban
+    "Paddy": { color: "#FFD700", fillOpacity: 0.4, weight: 2 },               // Golden for Paddy
+    "Tea": { color: "#8B4513", fillOpacity: 0.5, weight: 2 },                 // Saddle brown for Tea
+    "Perennials": { color: "#556B2F", fillOpacity: 0.5, weight: 2 },          // Dark olive green for Perennials
+    "Seasonal crop": { color: "#32CD32", fillOpacity: 0.4, weight: 2 },       // Lime green for Seasonal crop
+    "Bareland": { color: "#D2B48C", fillOpacity: 0.5, weight: 2 },            // Tan for Bareland
+    "Farms/other": { color: "#B8860B", fillOpacity: 0.5, weight: 2 },         // Dark goldenrod for Farms/other
+    "Home garden": { color: "#66CDAA", fillOpacity: 0.5, weight: 2 },         // Medium aquamarine for Home garden
+    "Urban area": { color: "#696969", fillOpacity: 0.7, weight: 2 },          // Dim gray for Urban area
+    "Grassland": { color: "#ADFF2F", fillOpacity: 0.5, weight: 2 },           // Green yellow for Grassland
+    "Scrub land": { color: "#8B0000", fillOpacity: 0.5, weight: 2 },          // Dark red for Scrub land
+    "Rocks": { color: "#A9A9A9", fillOpacity: 0.6, weight: 2 },               // Dark gray for Rocks
+    "Water Bodies": { color: "#4682B4", fillOpacity: 0.5, weight: 2 },        // Steel blue for Water Bodies
+    "Wetland": { color: "#00CED1", fillOpacity: 0.4, weight: 2 },             // Dark turquoise for Wetland
     // Add more classes and colors as needed
 };
 

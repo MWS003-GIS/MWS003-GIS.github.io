@@ -1,11 +1,22 @@
 // Define a color map for unique classes
 var colorMap = {
-    'Home garden': '#FF6384',
-    'Seasonal crop': '#36A2EB',
-    'Scrub land': '#FFCE56',
-    'Perennials': '#4BC0C0',
-    'Paddy': '#9966FF',
-    'Forest': '#FF9F40',
+    "Forest": "#006400",              // Dark green for Forest
+    "Forest Plantation":  "#228B22",   // Lighter green for Forest Plantation
+    "AG": "#3CB371",                  // Medium sea green for Agriculture
+    "urban": "#808080",               // Gray for Urban
+    "Paddy": "#FFD700",          // Golden for Paddy
+    "Tea": "#8B4513",              // Saddle brown for Tea
+    "Perennials": "#556B2F",         // Dark olive green for Perennials
+    "Seasonal crop":  "#32CD32",       // Lime green for Seasonal crop
+    "Bareland":  "#D2B48C",           // Tan for Bareland
+    "Farms/other":  "#B8860B",       // Dark goldenrod for Farms/other
+    "Home garden":  "#66CDAA",         // Medium aquamarine for Home garden
+    "Urban area": "#696969",           // Dim gray for Urban area
+    "Grassland":  "#ADFF2F",           // Green yellow for Grassland
+    "Scrub land": "#8B0000",           // Dark red for Scrub land
+    "Rocks": "#A9A9A9",                // Dark gray for Rocks
+    "Water Bodies":  "#4682B4",         // Steel blue for Water Bodies
+    "Wetland":  "#00CED1",             // Dark turquoise for Wetland
     // Add more classes and colors as needed
 };
 
