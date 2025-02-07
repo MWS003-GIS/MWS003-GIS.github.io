@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-    <h1>IWWRMP Base Layer Upload</h1>
+    <h1>IWWRMP Proposal Layer Upload</h1>
     <form id="uploadForm">
         <label for="fileInput">Select a file to upload:</label>
         <input type="file" id="fileInput" required>
@@ -63,9 +63,9 @@
             }
 
             // Check if number2 is 0, and adjust the dynamic path accordingly
-            let dynamicPath = `IWWRMP/Data/EXD/MWS_${number1}_${number2}/`;
+            let dynamicPath = `IWWRMP/Data/EXD/100_PRP/MWS_${number1}_${number2}/`;
             if (number2 === '0') {
-                dynamicPath = `IWWRMP/Data/EXD/MWS_${number1}/`;
+                dynamicPath = `IWWRMP/Data/EXD/100_PRP/MWS_${number1}/`;
             }
 
             const repo = "MWS003-GIS.github.io";
