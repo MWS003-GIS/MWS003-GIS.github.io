@@ -1,0 +1,5 @@
+ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,geojson,Year
+1,MWS-018-2,Proposal,Soil and Water Conservation,Key activities proposed for soil and water conservation in MWS-018-2,,,,,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_018_2/Table 6_1.geojson,
+3,MWS-018-2,Proposal,Minor tanks restoration,Details of minor tank available in MWS-018-2,,,,,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_018_2/Table 6_3.geojson,
+6,MWS-018-2,Proposal,Minor tanks restoration,Detail summary of minor tanks restoration and repair costs in MWS-018-2,,,,,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_018_2/Table 6_6.geojson,
+15,MWS-018-2,Proposal,Stream Reservation,Total Cost Estimate for Stream Reservation Proposals,,,,,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_018_2/Table 6_15.geojson,
