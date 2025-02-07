@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6-8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": "503B", "Scheme": "Gedereiyawa Meda Ela", "Problem to be addressed /Recommendations": "Part of the canal is collapsing due to erosion (12 Acre). Request 6m long concrete lining. Recommendation\n1. to lay buried 10 m long x 150 mm diameter heavy duty PVC pipe as a slightly inverted syphon. \n2. To erect 10m long Gliricidia live fence to support the earth in the vicinity of the pipeline.\n3. To construct inlet transition with concrete.", "N": 7.134299, "E": 80.715524, "Estimated Cost": "80,000", "Total cost": null }, "geometry": { "type": "Point", "coordinates": [ 80.715524, 7.134299 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": "503B", "Scheme": "Gedereiyawa Meda Ela", "Problem to be addressed /Recommendations": "Part of a canal is collapsing due to erosion (22 Acre). Request 25m long concrete pipe on concrete columns. Recommendation \n1. to lay buried 25 m long x 150 mm diameter heavy duty PVC pipe as an inverted siphon.\n2. To erect 30m long Gliricidia live fence to support the earth in the vicinity of the pipeline.", "N": 7.134288, "E": 80.715518, "Estimated Cost": "92,000", "Total cost": null }, "geometry": { "type": "Point", "coordinates": [ 80.715518, 7.134288 ] } },
+{ "type": "Feature", "properties": { "No": 3, "GND No.": "503B", "Scheme": "Gedereiyawa Meda Ela", "Problem to be addressed /Recommendations": "Soil erosion of land on the downstream side about 150m. (12-acre cultivation) Recommendation\n1. Supply and lay 1600m long X 150 mm Dia heavy duty PVC pipes buried in ground with outlet transition structure. \n2. Plant Gliricidia fence at downstream to support the pipeline against sliding", "N": 7.134923, "E": 80.717109, "Estimated Cost": "590,000", "Total cost": "LKR 762,000" }, "geometry": { "type": "Point", "coordinates": [ 80.717109, 7.134923 ] } }
+]
+}
