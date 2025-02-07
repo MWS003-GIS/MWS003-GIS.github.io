@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6-2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 4, "GN Division No.": "491 A", "GN Division": "Moragolla", "Land Slides": "Rocks falling down - Gallena hena", "N or X": 7.149593, "E or Y": 80.817087, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "6 acres of government land need to be established with a reservation and planting forest trees would be advisable." }, "geometry": { "type": "Point", "coordinates": [ 80.817087, 7.149593 ] } },
+{ "type": "Feature", "properties": { "No.": 5, "GN Division No.": "491 C", "GN Division": "Rammalakandura", "Land Slides": "Landsliding below the road - Bogaha ella", "N or X": 7.142862, "E or Y": 80.826672, "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Establishing a side/retaining wall (35 m x 8 m x 0.5 m)" }, "geometry": { "type": "Point", "coordinates": [ 80.826672, 7.142862 ] } }
+]
+}
