@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6-6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Tank name": "Rookwood Bangalawa wewa", "Land ownership": "JEDB", "N": 7.090118, "E": 80.764384, "Tentative Estimate (LKR)": "4,850,000.00" }, "geometry": { "type": "Point", "coordinates": [ 80.764384, 7.090118 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Akkara Panaha wewa", "Land ownership": "JEDB", "N": 7.090096, "E": 80.760953, "Tentative Estimate (LKR)": null }, "geometry": { "type": "Point", "coordinates": [ 80.760953, 7.090096 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Total", "Land ownership": null, "N": null, "E": null, "Tentative Estimate (LKR)": "4,850,000.00" }, "geometry": null }
+]
+}
