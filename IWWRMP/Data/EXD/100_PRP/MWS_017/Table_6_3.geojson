@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6-3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Tank name": "Wellagiri Wewa", "Custodianship": "DAD", "N": 7.05151, "E": 80.78579, "Remarks": "Minor repairs to the bund, Tree planting, Testing the water quality, Bund rehabilitation" }, "geometry": { "type": "Point", "coordinates": [ 80.78579, 7.05151 ] } },
+{ "type": "Feature", "properties": { "Tank name": "No 5 Wewa", "Custodianship": "DAD", "N": 7.0656, "E": 80.8187, "Remarks": "Desilting the tank, Bund-Curtain wall, Connect the nearby stream to the tank" }, "geometry": { "type": "Point", "coordinates": [ 80.8187, 7.0656 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Maha Wewa", "Custodianship": "DAD", "N": 7.06741, "E": 80.79766, "Remarks": "Repair the Passerelle, Repair the right bank sluice gate and others, Extend the bund RB-5m, " }, "geometry": { "type": "Point", "coordinates": [ 80.79766, 7.06741 ] } }
+]
+}
