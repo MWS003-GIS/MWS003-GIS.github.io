@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6-3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": true, "Tank name": "Muloya Wewa", "Ownership": "NWS&DB", "N": 7.10277, "E": 80.75558, "Remarks": "Recommended to desilt the tank and improve reservation and agroforestry" }, "geometry": { "type": "Point", "coordinates": [ 80.75558, 7.10277 ] } }
+]
+}
