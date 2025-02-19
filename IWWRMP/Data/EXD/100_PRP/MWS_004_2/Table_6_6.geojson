@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6-6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Ambalammana Wewa", "Work description": "1. Dense planting of mixed vegetation comprising Kumbuk/ Mee/ Godapara/ Madan /Aththikka/ Wal del/ Kekuna /Mango/ Guava/ randomly mixed seedlings at 500 mm grid intervals for 1200 m2. \n2. Apply mulching, organic manure, and NPK fertilizer.\n3. Introduction of Bamboo, Vetiver grass, and riparian plants. Covered area 100 m2. \n4. Plant two lines of Areca nut trees beside the reserve and cultivate betel creeper or pepper inside an area of around 100 m2.", "N": 7.22741, "E": 80.6739, "Amount (LKR)": "651,500" }, "geometry": { "type": "Point", "coordinates": [ 80.6739, 7.22741 ] } }
+]
+}
