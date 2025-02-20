@@ -1,1010 +1,135 @@
-Table 6 18: Total Cost Estimate for Stream Reservation Proposals,,,,,,
-GND,Scheme/Name,Problem to be addressed,Coordinates,,Recommended Remedial Actions,Estimated Cost (LKR)
-946,Udadampola,"Reservation, and boundary making",7.245996,80.648483,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 300 m. 2. Protection by turfing sods with vetiver grass rows. Or 3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","261,000"
-947,Lunuwella ,Embankment  erosion & sewerage mixing,7.24951,80.64201,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+FID,No_,GND,Scheme_Nam,Problem_to,N,E,Recommende,Estimated,Soil Erosion Class
+0,1,946,Udadampola,"Reservation, and boundary making",7.245996,80.648483,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 300 m. 2. Protection by turfing sods with vetiver grass rows. Or 3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",261000,2
+1,2,947,Lunuwella,Embankment  erosion & sewerage mixing,7.24951,80.64201,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Construct a garbage trap with net  and diversion","140,000"
-947,Ihalamadiththa,"No reservation, Garbage inflow",7.24935,80.63963,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Construct a garbage trap with net  and diversion",140000,5
+2,3,947,Ihalamadiththa,"No reservation, Garbage inflow",7.24935,80.63963,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Construct a garbage trap with net","140,000"
-947,Pokune Ela,No reservation. Garbage inflow,7.24836,80.64213,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Construct a garbage trap with net",140000,2
+3,4,947,Pokune Ela,No reservation. Garbage inflow,7.24836,80.64213,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows
-3. Construct a garbage trap with net","140,000"
-947,Ellana Ihala Ela,No reservation. Garbage inflow,7.245714,80.634956,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Construct a garbage trap with net",140000,4
+4,5,947,Ellana Ihala Ela,No reservation. Garbage inflow,7.245714,80.634956,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Construct a garbage trap with net","140,000"
-947,Ellana Ihala Ela,"No reservation, Garbage inflow",7.246942,80.634651,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Construct a garbage trap with net",140000,5
+5,6,947,Ellana Ihala Ela,"No reservation, Garbage inflow",7.246942,80.634651,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Construct a garbage trap with net","140,000"
-947,Hunupihilla,No reservation. Garbage inflow,7.24807,80.634013,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Construct a garbage trap with net",140000,1
+6,7,947,Hunupihilla,No reservation. Garbage inflow,7.24807,80.634013,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Construct a garbage trap with net","140,000"
-947,do,No reservation. Garbage inflow,7.249594,80.63376,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Construct a garbage trap with net",140000,3
+7,8,947,do,No reservation. Garbage inflow,7.249594,80.63376,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Construct a garbage trap with net","140,000"
-947,do,"Protect, embankment & reservation",7.24968,80.632208,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Construct a garbage trap with net",140000,1
+8,9,947,do,"Protect, embankment & reservation",7.24968,80.632208,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 300 m2.","145,500"
-947,do,"Protect, embankment & reservation",7.1448827,80.381073,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 300 m2.",145500,4
+9,10,947,do,"Protect, embankment & reservation",7.246896389,80.63631389,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 300 m2.","145,500"
-947,Lunuwela,"Protect, embankment & reservation",7.25084,80.641876,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 300 m2.",145500,3
+10,11,947,Lunuwela,"Protect, embankment & reservation",7.25084,80.641876,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","126,000"
-947,Hunugalepihilla,Protect reservation/encroachments,7.25022,80.638154,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
-2. Protection by turfing sods with vetiver grass rows. 3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 400 m2.","165,000"
-949, confluence of Thelubu Falls & Diddeniya Oya ,Need to improve forest cover and riparian plants for erosion control ,7.25425,80.65792,"Plant single row of areca nut tree and mixed dense plantation of Mee, Kumbuk, Godapara, Kekuna etc. for 1.5m wide and 300m long reservation","68,100"
-949,Kekiriwela  canal,Need to improve forest cover,7.25187,80.66025,"Plant single row of areca nut tree and mixed dense plantation of Mee, Kumbuk, Godapara, Kekuna etc. for 1.5m wide and 200m long reservation","45,400"
-950,Road drainage path  crossing the canal ,Pipe or lined canal with a garbage  trapping net is required,7.25137,80.65721,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage.,"53,000"
-950,Puliyadda ketawala road drainage,Pipe or lined canal with a garbage trapping net is required,7.25135,80.65619,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage.,"53,000"
-950,Place the stream joins the thelabu Oya,Embankment erosion control with agro-forestry methods is need,7.24974,80.6542,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",126000,4
+11,12,947,Hunugalepihilla,Protect reservation/encroachments,7.25022,80.638154,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+2. Protection by turfing sods with vetiver grass rows. 3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 400 m2.",165000,4
+12,13,949, confluence of Thelubu Falls & Diddeniya Oya,Need to improve forest cover and riparian plants for erosion control,7.25425,80.65792,"Plant single row of areca nut tree and mixed dense plantation of Mee, Kumbuk, Godapara, Kekuna etc. for 1.5m wide and 300m long reservation",68100,1
+13,14,949,Kekiriwela  canal,Need to improve forest cover,7.25187,80.66025,"Plant single row of areca nut tree and mixed dense plantation of Mee, Kumbuk, Godapara, Kekuna etc. for 1.5m wide and 200m long reservation",45400,3
+14,15,950,Road drainage path  crossing the canal,Pipe or lined canal with a garbage  trapping net is required,7.25137,80.65721,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage.,53000,5
+15,16,950,Puliyadda ketawala road drainage,Pipe or lined canal with a garbage trapping net is required,7.25135,80.65619,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage.,53000,5
+16,17,950,Place the stream joins the thelabu Oya,Embankment erosion control with agro-forestry methods is need,7.24974,80.6542,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant a single row of areca nut tree and mixed dense plantation of Mee, Kumbuk, Godapara, Kekuna etc. for 1.5m wide and 300m long reservation","109,700"
-951,Uragala Oya,Animal garbage /dung leaking ,7.232947,80.650231,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage. Diversion of sewerage.,"153,000"
-951,Uragala Oya,Sewerage leaking/inflow ,7.232134,80.650066,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage. Diversion of sewerage.,"128,000"
-953,Ginihirawaththa stream,embankment/reservation erosion,7.1539285,80.39508,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length of about 200 m.
+3. Plant a single row of areca nut tree and mixed dense plantation of Mee, Kumbuk, Godapara, Kekuna etc. for 1.5m wide and 300m lon",109700,2
+17,18,951,Uragala Oya,Animal garbage /dung leaking,7.232947,80.650231,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage. Diversion of sewerage.,153000,4
+18,19,951,Uragala Oya,Sewerage leaking/inflow,7.232134,80.650066,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage. Diversion of sewerage.,128000,1
+19,20,953,Ginihirawaththa stream,embankment/reservation erosion,7.2609125,80.65141111,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length of about 200 m.
 2. Protection by turfing sods with vetiver grass rows. or
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","174,000"
-953,Ginihirawaththa stream,embankment/reservation erosion,7.153935,80.397799,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m.
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",174000,4
+20,21,953,Ginihirawaththa stream,embankment/reservation erosion,7.260930556,80.65216639,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m.
 2. Protection by turfing sods with vetiver grass rows. or
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","87,000"
-953,Ginihirawaththa stream,embankment/reservation erosion,7.153896,80.391314,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m.
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",87000,5
+21,22,953,Ginihirawaththa stream,embankment/reservation erosion,7.260822222,80.65365,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m.
 2. Protection by turfing sods with vetiver grass rows. or
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","87,000"
-953,Ginihirawaththa stream,embankment/reservation erosion,7.154552,80.39776,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 300 m.
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",87000,3
+22,23,953,Ginihirawaththa stream,embankment/reservation erosion,7.262644444,80.65215556,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 300 m.
 2. Protection by turfing sods with vetiver grass rows. or
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","261,000"
-953,Ginihirawaththa stream,embankment/reservation erosion,7.1154461,80.3996,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 200 m.
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",261000,5
+23,24,953,Ginihirawaththa stream,embankment/reservation erosion,7.262391667,80.65266667,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 200 m.
 2. Protection by turfing sods with vetiver grass rows. or
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","174,000"
-953,Ginihirawaththa stream,embankment/reservation erosion,7.15997,80.395222,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m.
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",174000,5
+24,25,953,Ginihirawaththa stream,embankment/reservation erosion,7.2613423,80.6537612,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m.
 2. Protection by turfing sods with vetiver grass rows. or
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","87,000"
-953,Ginihirawaththa stream,embankment/reservation erosion,7.1546269,80.393476,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m.
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",87000,4
+25,26,953,Ginihirawaththa stream,embankment/reservation erosion,7.2628525,80.65096556,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m.
 2. Protection by turfing sods with vetiver grass rows. or
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","87,000"
-953,Ginihirawaththa stream,embankment/reservation erosion,7.1542762,80.59402,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m. 
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",87000,4
+26,27,953,Ginihirawaththa stream,embankment/reservation erosion,7.261878333,80.65111667,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 100 m. 
 2. Protection by turfing sods with vetiver grass rows. or 
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","87,000"
-953,Ginihirawaththa stream,embankment/reservation erosion,7.154126,80.385567,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length of about 200 m. 
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",87000,1
+27,28,953,Ginihirawaththa stream,embankment/reservation erosion,7.261461111,80.64879722,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length of about 200 m. 
 2. Protection by turfing sods with vetiver grass rows. or 
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","174,000"
-953,stream in the forest near to the 'Wawe Kade',embankment/reservation erosion,7.542429,80.385164,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length of about 200 m. 
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",174000,1
+28,29,953,stream in the forest near to the 'Wawe Kade',embankment/reservation erosion,7.261785833,80.64767778,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length of about 200 m. 
 2. Protection by turfing sods with vetiver grass rows. or 
-3.Plant a single row of areca nut trees and mixed dense plantation of Mee, Kumbuk, Godapara, Kekuna etc. for a 1.5m wide and 300m long reservation","109,700"
-955,,debris and wastewater inflow,7.25681,80.64975,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage.,"53,000"
-955,,debris and wastewater inflow,7.25552,80.64779,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage.,"53,000"
-955,,canal overflow during the rainy period,7.25499,80.64793,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 300 m. 
+3.Plant a single row of areca nut trees and mixed dense plantation of Mee, Kumbuk, Godapara, K",109700,4
+29,30,955, ,debris and wastewater inflow,7.25681,80.64975,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage.,53000,1
+30,31,955, ,debris and wastewater inflow,7.25552,80.64779,Construction of a garbage trap using 600mm dia concrete pipes and a  GI gabion box cage.,53000,1
+31,32,955, ,canal overflow during the rainy period,7.25499,80.64793,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length about 300 m. 
 2. Protection by turfing sods with vetiver grass rows. or 
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","261,000"
-955,,canal overflow during the rainy period,7.152393,80.384178,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length of about 200 m. 
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",261000,1
+32,33,955, ,canal overflow during the rainy period,7.2545293,80.6478732,"1. Earth filling to narrow tracks to form channel bund of 1 -  1.5m wide and length of about 200 m. 
 2. Protection by turfing sods with vetiver grass rows. or 
-3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.","174,000"
-962,Imbulhitiyawa canal,severe erosion in embankment,7.151284,80.395632,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
+3. Cultivate edible varieties such as Mukunuwenna, Gotukola, and Thampala along the incline.",174000,2
+33,34,962,Imbulhitiyawa canal,severe erosion in embankment,7.253566667,80.66564444,"1. Earth filling to section of  100m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 100 m2.","106,500"
-962,Imbulhitiyawa canal,severe erosion in embankment,7.25278,80.66694,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 100 m2.",106500,5
+34,35,962,Imbulhitiyawa canal,severe erosion in embankment,7.25278,80.66694,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Mala Kandura,severe erosion in embankment,7.25361,80.66507,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,4
+35,36,962,Mala Kandura,severe erosion in embankment,7.25361,80.66507,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,stream at Dewagolla Land,severe erosion in embankment,7.151517,80.39475,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,4
+36,37,962,stream at Dewagolla Land,severe erosion in embankment,7.254213889,80.66319444,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,stream at Dewagolla Land,severe erosion in embankment,7.151416,80.4038,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,4
+37,38,962,stream at Dewagolla Land,severe erosion in embankment,7.253933333,80.6632644,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Hene Jala Kandura ,severe erosion in embankment,7.1518,80.406222,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,3
+38,39,962,Hene Jala Kandura,severe erosion in embankment,7.255,80.668395,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Dodamgedara stream,severe erosion in embankment,7.1457447,80.407576,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,5
+39,40,962,Dodamgedara stream,severe erosion in embankment,7.249290833,80.66877111,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Ethulgama Ini Kandura,severe erosion in embankment,7.144814,80.393829,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,5
+40,41,962,Ethulgama Ini Kandura,severe erosion in embankment,7.2525,80.66306,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Stream near Seneviratne land,severe erosion in embankment,7.151054,80.395734,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,2
+41,42,962,Stream near Seneviratne land,severe erosion in embankment,7.252927778,80.66592778,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Dewagolla stream,severe erosion in embankment,7.1523836,80.40437,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,5
+42,43,962,Dewagolla stream,severe erosion in embankment,7.256621111,80.66788056,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Mala Kandura,severe erosion in embankment,7.151903,80.402746,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,4
+43,44,962,Mala Kandura,severe erosion in embankment,7.255286111,80.66742944,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Bulugaha stream,severe erosion in embankment,7.152052,80.401565,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,5
+44,45,962,Bulugaha stream,severe erosion in embankment,7.2557,80.67101389,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Ajith stores Mala Kandura,severe erosion in embankment,7.25526,80.66948,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,1
+45,46,962,Ajith stores Mala Kandura,severe erosion in embankment,7.25526,80.66948,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-962,Stream Dewagollawatta,severe erosion in embankment,7.25587,80.67012,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,1
+46,47,962,Stream Dewagollawatta,severe erosion in embankment,7.25587,80.67012,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-964,Igurugolla stream,Erosion in both embankments,7.143647,80.392169,"1. Earth filling to section of  300m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,3
+47,48,964,Igurugolla stream,Erosion in both embankments,7.243463889,80.656025,"1. Earth filling to section of  300m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 300 m2.","358,500"
-964,Beerawala stream,Erosion in both embankments,7.24147,80.65469,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 300 m2.",358500,1
+48,49,964,Beerawala stream,Erosion in both embankments,7.24147,80.65469,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve and cultivate betel creeper inside an area of around 200 m2.","213,000"
-964,Suraganaya Oya,Erosion in both embankments,7.1423,80.391058,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve and cultivate betel creeper inside an area of around 200 m2.",213000,1
+49,50,964,Suraganaya Oya,Erosion in both embankments,7.239722222,80.65293889,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-964,Maha Oya,Erosion in both embankments,7.23766,80.65795,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,1
+50,51,964,Maha Oya,Erosion in both embankments,7.23766,80.65795,"1. Earth filling to section of  200m long, 1.5m wide and 0.5 depth.
 2. Protection by turfing sods with vetiver grass rows.
-3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.","213,000"
-,,                                             ,,,,"8,174,900 "
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+3. Plant two lines of Areca nut trees beside the reserve, and cultivate betel creeper inside an area of around 200 m2.",213000,4
