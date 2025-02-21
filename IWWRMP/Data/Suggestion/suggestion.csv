@@ -1,4 +1,4 @@
-ID,latitude,longitude,Date,category,description,photopath,
+ID,latitude,longitude,Date,category,description,photopath
 1,7,80,19/02/2025,soil,hi,xxxxx
 2,,,,,,
 3,79.9222869,stream,,stream,darshana,
@@ -24,4 +24,6 @@ ID,latitude,longitude,Date,category,description,photopath,
 23,6.8979941,79.9222869,2025-02-21T10:37:45.458Z,stream,xzxvxvzxvzvzxvzx,
 24,,,2025-02-21T17:14:01.639Z,soil,,
 25,6.8911104,79.9309824,2025-02-21T17:28:07.485Z,soil,heshan upendra,
-,6.8911104,79.9309824,2025-02-21T17:32:34.693Z,soil,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740159136468_qgis.png,
+26,6.8911104,79.9309824,2025-02-21T17:32:34.693Z,soil,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740159136468_qgis.png,
+27,,,,,,
+,6.8911104,79.9309824,2025-02-21T17:44:45.525Z,stream,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740159882208_kobotb.png,koki
