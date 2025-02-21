@@ -1,0 +1,36 @@
+name: Merge CSV Files
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
+    
+
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  merge_csv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Pandas
+        run: pip install pandas
+
+      - name: Run CSV Merge Script
+        run: python IWWRMP/Data/Suggestion/merge_csv.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add IWWRMP/Data/Suggestion/suggestion.csv
+          git commit -m "Merged CSV files"
+          git push
+        continue-on-error: true  # Avoid errors if nothing changed
