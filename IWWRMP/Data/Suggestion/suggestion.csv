@@ -26,4 +26,5 @@ ID,latitude,longitude,Date,category,description,photopath
 25,6.8911104,79.9309824,2025-02-21T17:28:07.485Z,soil,heshan upendra,
 26,6.8911104,79.9309824,2025-02-21T17:32:34.693Z,soil,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740159136468_qgis.png,
 27,,,,,,
-,,,2025-02-21T17:49:26.575Z,soil,457,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740158081285_Screenshot_20250221-212450_Zoom.jpg
+28,,,2025-02-21T17:49:26.575Z,soil,457,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740158081285_Screenshot_20250221-212450_Zoom.jpg
+1740161358117,6.8911104,79.9309824,2025-02-21T18:09:18.117Z,stream,Heshani,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740161354782_qgis.png
