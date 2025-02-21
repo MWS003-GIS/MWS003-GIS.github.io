@@ -28,4 +28,5 @@ ID,latitude,longitude,Date,category,description,photopath
 27,,,,,,
 28,,,2025-02-21T17:49:26.575Z,soil,457,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740158081285_Screenshot_20250221-212450_Zoom.jpg
 29,6.8911104,79.9309824,2025-02-21T18:14:17.293Z,stream,my,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740161653590_postgresql.png
-1740161818932,6.8911104,79.9309824,2025-02-21T18:16:58.932Z,soil,my3,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740161813566_qgis.png
+30,6.8911104,79.9309824,2025-02-21T18:16:58.932Z,soil,my3,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740161813566_qgis.png
+1740162581300,6.8911104,79.9309824,2025-02-21T18:29:41.300Z,stream,input 1,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740162578799_postgresql.png
