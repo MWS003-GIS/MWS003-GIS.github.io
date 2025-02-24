@@ -1,4 +1,11 @@
-      - name: Merge CSV Files
+name: Test Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+      - name: test
         run: |
           python - <<EOF
           import pandas as pd
