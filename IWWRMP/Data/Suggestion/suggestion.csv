@@ -1,32 +1,8 @@
-ID,latitude,longitude,Date,category,description,photopath
-1,7,80,19/02/2025,soil,hi,xxxxx
-2,,,,,,
-3,79.9222869,stream,,stream,darshana,
-4,6.8911104,79.9309824,,stream,my home,
-5,6.9116789,79.9157765,,economic,4th upload,
-6,6.8911104,79.9309824,2/21/2025,soil,data attempt,
-7,6.8911104,79.9309824,2/21/2025,stream,this is to check ID number,
-8,6.8911104,79.9309824,,soil,2nd phot0,
-9,6.8911104,79.9309824,,stream,hi,
-10,6.8911104,79.9309824,2/21/2025,stream,date,
-11,6.8911104,79.9309824,,stream,hiii,
-12,6.8911104,79.9309824,2025-02-20T22:12:41.232Z,water,giiiiii,
-13,6.8911104,79.9309824,2025-02-20T22:21:15.888Z,soil,sdddddddddddddddddddddd,
-14,6.8911104,79.9309824,2025-02-20T22:22:03.928Z,soil,sddddddddddddddddddddd,
-15,6.8979941,79.9222869,2025-02-21T05:31:47.959Z,water,hhhhhh,
-16,6.8979941,79.9222869,2025-02-21T05:51:25.446Z,stream,my phtoto path,
-17,6.8979941,79.9222869,2025-02-21T06:01:43.823Z,stream,tttttttt,
-18,6.8979941,79.9222869,2025-02-21T06:04:16.334Z,soil,rrrrrrrrrrrrrrr,
-19,6.8979941,79.9222869,2025-02-21T06:15:58.526Z,soil,yyyy,
-20,6.8979941,79.9222869,2025-02-21T06:29:09.750Z,soil,fffff,
-21,6.8979941,79.9222869,2025-02-21T10:06:41.138Z,soil,gggggg,
-22,6.8979941,79.9222869,2025-02-21T10:19:58.386Z,soil,hhhhhhhhhhh,
-23,6.8979941,79.9222869,2025-02-21T10:37:45.458Z,stream,xzxvxvzxvzvzxvzx,
-24,,,2025-02-21T17:14:01.639Z,soil,,
-25,6.8911104,79.9309824,2025-02-21T17:28:07.485Z,soil,heshan upendra,
-26,6.8911104,79.9309824,2025-02-21T17:32:34.693Z,soil,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740159136468_qgis.png,
-27,,,,,,
-28,,,2025-02-21T17:49:26.575Z,soil,457,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740158081285_Screenshot_20250221-212450_Zoom.jpg
-29,6.8911104,79.9309824,2025-02-21T18:14:17.293Z,stream,my,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740161653590_postgresql.png
-30,6.8911104,79.9309824,2025-02-21T18:16:58.932Z,soil,my3,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740161813566_qgis.png
-1740162620284,6.8911104,79.9309824,2025-02-21T18:30:20.284Z,stream,input2,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740162616343_qgis.png
+ID,Date,latitude,longitude,photopath,category,description
+1740376113501,2025-02-24T05:48:33.501Z,6.8979941,79.9222869,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740376110130_qgis.png,water,trst
+1740162768357,2025-02-21T18:32:48.357Z,6.8911104,79.9309824,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740162764904_kobotb.png,soil,input100
+1740385928803,2025-02-24T08:32:08.803Z,6.8979941,79.9222869,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740385919959_qgis.png,stream,attribute_add order
+1740376157661,2025-02-24T05:49:17.661Z,6.8979941,79.9222869,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740376110130_qgis.png,water,trst
+1740164848404,2025-02-21T19:07:28.404Z,6.8911104,79.9309824,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740164844526_kobotb.png,stream,heshi_1000
+1740381463980,2025-02-24T07:17:43.980Z,6.8979941,79.9222869,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740381461133_qgis.png,stream,attribute order
+1740162793924,2025-02-21T18:33:13.924Z,6.8911104,79.9309824,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740162789937_qgis.png,stream,input200
