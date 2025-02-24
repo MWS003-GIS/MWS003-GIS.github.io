@@ -1,3 +1,4 @@
 ID,latitude,longitude,Date,category,description,photopath
 1740398728944,6.8979941,79.9222869,2025-02-24T12:05:28.944Z,soil,merging,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740398725959_postgresql.png
 1740400027752,6.8979941,79.9222869,2025-02-24T12:27:07.752Z,soil,testing ,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740400024490_kobotb.png
+1740403079213,6.9116822,79.9157792,2025-02-24T13:17:59.213Z,water,3rd entity,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740403075302_qgis.png
