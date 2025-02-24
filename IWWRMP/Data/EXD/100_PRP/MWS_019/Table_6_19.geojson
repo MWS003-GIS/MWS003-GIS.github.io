@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_19",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Tank name": "Dehigolla Wewa", "N": 7.115079, "E": 80.785961, "Tentative Estimate (LKR)": "638,000" }, "geometry": { "type": "Point", "coordinates": [ 80.785961, 7.115079 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Uduwela Pathana Wewa", "N": 7.141659, "E": 80.781828, "Tentative Estimate (LKR)": "776,000" }, "geometry": { "type": "Point", "coordinates": [ 80.781828, 7.141659 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Rathland Wewa", "N": 7.122562, "E": 80.784029, "Tentative Estimate (LKR)": "1,200,000" }, "geometry": { "type": "Point", "coordinates": [ 80.784029, 7.122562 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Nikathenna Wewa", "N": 7.134434, "E": 80.805781, "Tentative Estimate (LKR)": "361,000" }, "geometry": { "type": "Point", "coordinates": [ 80.805781, 7.134434 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Illaketiya Wewa", "N": 7.144085, "E": 80.788898, "Tentative Estimate (LKR)": "542,400" }, "geometry": { "type": "Point", "coordinates": [ 80.788898, 7.144085 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Dewale Wewa", "N": 7.14298, "E": 80.79618, "Tentative Estimate (LKR)": "421,000" }, "geometry": { "type": "Point", "coordinates": [ 80.79618, 7.14298 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Kumbukwala Wewa", "N": 7.127949, "E": 80.814605, "Tentative Estimate (LKR)": "450,000" }, "geometry": { "type": "Point", "coordinates": [ 80.814605, 7.127949 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Nikaulpatha Wewa", "N": 7.132097, "E": 80.806323, "Tentative Estimate (LKR)": "420,000" }, "geometry": { "type": "Point", "coordinates": [ 80.806323, 7.132097 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Gonanwatta Ihala Wewa", "N": 7.15345, "E": 80.80336, "Tentative Estimate (LKR)": "800,000" }, "geometry": { "type": "Point", "coordinates": [ 80.80336, 7.15345 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Gonanwatta Pahala Wewa", "N": 7.14962, "E": 80.80464, "Tentative Estimate (LKR)": "640,000" }, "geometry": { "type": "Point", "coordinates": [ 80.80464, 7.14962 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Mahapitiya Wewa", "N": 7.14111, "E": 80.78739, "Tentative Estimate (LKR)": "650,600" }, "geometry": { "type": "Point", "coordinates": [ 80.78739, 7.14111 ] } }
+]
+}
