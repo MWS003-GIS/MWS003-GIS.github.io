@@ -22,15 +22,18 @@ jobs:
       - name: Install Pandas
         run: pip install pandas
 
+      - name: Configure Git user
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
       - name: Run CSV Merge Script
         run: python IWWRMP/Data/Suggestion/merge_csv.py
 
       - name: Check if there are changes to commit
         run: |
-          if ! git diff --exit-code; then
-            git add IWWRMP/Data/Suggestion/suggestion.csv
-            git commit -m "Merged CSV files"
+          git diff --exit-code || (
+            git add IWWRMP/Data/Suggestion/suggestion.csv &&
+            git commit -m "Merged CSV files" &&
             git push
-          else
-            echo "No changes detected, skipping commit."
-          fi
+          )
