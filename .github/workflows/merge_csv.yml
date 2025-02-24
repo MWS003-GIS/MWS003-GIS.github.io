@@ -31,9 +31,13 @@ jobs:
 
       - name: Check if there are changes to commit
         run: |
+          # Stage the file deletions and changes
+          git add IWWRMP/Data/Suggestion/suggestion.csv
+          git rm IWWRMP/Data/Suggestion/suggestion_*.csv || echo "No files to remove"
+          
+          # Check if there are any changes to commit
           git diff --exit-code || (
-            git add IWWRMP/Data/Suggestion/suggestion.csv &&
-            git commit -m "Merged CSV files"
+            git commit -m "Merged CSV files and removed old suggestion files"
           )
 
       - name: Push changes to repository
