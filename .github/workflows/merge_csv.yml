@@ -39,8 +39,8 @@ jobs:
 
       - name: Push changes to repository
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Use the PAT secret
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
-          git remote set-url origin https://github.com/MWS003-GIS/MWS003-GIS.github.io.git
-          git pull origin main  # Ensure your local branch is up to date
-          git push https://$GITHUB_TOKEN@github.com/MWS003-GIS/MWS003-GIS.github.io.git main
+          git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/MWS003-GIS/MWS003-GIS.github.io.git
+          git push
+
