@@ -39,8 +39,7 @@ jobs:
 
       - name: Push changes to repository
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}   # Use the secret here
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MWS003-GIS/MWS003-GIS.github.io.git
           git push
-
