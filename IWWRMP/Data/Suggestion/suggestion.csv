@@ -1,7 +1,9 @@
 ID,latitude,longitude,Date,category,description,photopath
 1740398728944,6.8979941,79.9222869,2025-02-24T12:05:28.944Z,soil,merging,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740398725959_postgresql.png
-1740400027752,6.8979941,79.9222869,2025-02-24T12:27:07.752Z,soil,"testing ",https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740400024490_kobotb.png
+1740400027752,6.8979941,79.9222869,2025-02-24T12:27:07.752Z,soil,testing ,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740400024490_kobotb.png
 1740403079213,6.9116822,79.9157792,2025-02-24T13:17:59.213Z,water,3rd entity,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740403075302_qgis.png
 1740404221892,6.917963142428254,79.93234190196083,2025-02-24T13:37:01.891Z,water,,
-1740403629260,6.8911104,79.9309824,2025-02-24T13:27:09.260Z,soil,"4 à·à¶± à¶ºà·à¶¢à¶±à·à· ",https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740403626542_qgis.png
-1740404793312,6.871949768812941,80.0251899796836,2025-02-24T13:46:33.312Z,soil,"4 à·à¶± à¶ºà·à¶¢à¶±à·à· à·à· à¶­à·à¶­à· ",https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740404790246_Screenshot%202023-03-15%20174159.png
+1740403629260,6.8911104,79.9309824,2025-02-24T13:27:09.260Z,soil,4 à·à¶± à¶ºà·à¶¢à¶±à·à· ,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740403626542_qgis.png
+1740404793312,6.871949768812941,80.0251899796836,2025-02-24T13:46:33.312Z,soil,4 à·à¶± à¶ºà·à¶¢à¶±à·à· à·à· à¶­à·à¶­à· ,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740404790246_Screenshot%202023-03-15%20174159.png
+1740403629260,6.8911104,79.9309824,2025-02-24T13:27:09.260Z,soil,4 වන යෝජනාව ,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740403626542_qgis.png
+1740404793312,6.871949768812941,80.0251899796836,2025-02-24T13:46:33.312Z,soil,4 වන යෝජනාව සහ තවත් ,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Suggestion/photo/1740404790246_Screenshot%202023-03-15%20174159.png
