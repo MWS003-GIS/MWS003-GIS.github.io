@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 4, "GND No.": 1015, "Scheme": "Oluwawatta Pradeshiya Sabha water supply scheme", "Problem to be addressed/Recommendation": "Storage tanks over 150 Cu.m are directly fed by pumping from the Haragama stream. It is recommended to construct a slow sand filter under the direction of NWS&DB, giving high priority.", "N": 7.204018, "E": 80.732612, "Estimated Cost": "3000000", "photocopy": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_006_1/Oluwawatta/O2.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.732612, 7.204018 ] } }
+]
+}

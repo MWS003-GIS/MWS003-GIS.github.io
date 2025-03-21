@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_18",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 14, "GND No.": "1011", "Scheme": "Meeriyakada Oya", "Problem to be addressed / Recommendation": "Erosion in both sides. Recommend 800 Sq.m area of Kumbuk, Mee, Jak, Kekuna, Areca, Kithuletc mixed dense potential vegetation.", "N": 7.208431, "E": 80.741504, "Estimated Cost": "229600     ", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.741504, 7.208431 ] } }
+]
+}
