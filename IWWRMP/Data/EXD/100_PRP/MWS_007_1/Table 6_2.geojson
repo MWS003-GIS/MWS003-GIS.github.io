@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": 1001, "GN Division": "Haragama", "Land Slides": "Landsliding - Anuragama Middle Road (85)", "N or X": 7.249301, "E or Y": 80.74272, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Trasferring occupants to other lands, Avoiding construction of heavy structures, trees etc., Monitoring continuously", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_007_1/Haragama/H12.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.74272, 7.249301 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "GN Division No.": 1001, "GN Division": "Haragama", "Land Slides": "-", "N or X": 7.249021, "E or Y": 80.743037, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Trasferring occupants to other lands, Avoiding construction of heavy structures, trees etc., Monitoring continuously", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_007_1/Haragama/H12.1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.743037, 7.249021 ] } },
+{ "type": "Feature", "properties": { "No.": 3, "GN Division No.": 1004, "GN Division": "Kekigannawala", "Land Slides": "Soil sloughing and damaging houses", "N or X": 7.213745, "E or Y": 80.750169, "NBRO Recommendation": "NBRO has visited", "Proposed Measures": "Establishing a retaining wall (50 m x 2.5 m)", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_007_1/Kathigannawela/KEG8.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.750169, 7.213745 ] } }
+]
+}

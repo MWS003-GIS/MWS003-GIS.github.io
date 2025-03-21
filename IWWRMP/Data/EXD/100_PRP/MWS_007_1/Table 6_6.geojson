@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": 1002, "Scheme": "Udamailapitiya North Dodamwaththa Public well", "Problem to be addressed/Recommendation": "Contamination by infiltration of runoff and debris inflow. Recommend 1. Construction of side protection walls\n2. Construction of a 1.5m wide perimeter slab with a 750mm deep cutoff wall", "N": 7.22893, "E": 80.75129, "Estimated Cost": "400,000", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_007_1/Udamayilapitiya_North/MLP12.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.75129, 7.22893 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": 1002, "Scheme": "Udamailapitiya North- Atapolayaya Kiwulatenna tube wells 3 nos", "Problem to be addressed/Recommendation": "Tube wells are unserviceable. Recommend replacing all Pump cylinders, Plunger, Check Valves, Riser Pipe, Seals and O rings, Foot Valve, Connecting rod, Pump handles and bearings etc., through agents or competent suppliers recommended by NWS&DB", "N": 7.2272, "E": 80.75532, "Estimated Cost": "1,800,000", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_007_1/Udamayilapitiya_North/MLP8.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.75532, 7.2272 ] } }
+]
+}
