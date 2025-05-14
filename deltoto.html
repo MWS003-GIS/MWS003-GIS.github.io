@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Deltoto</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        select {
+            padding: 10px;
+            font-size: 16px;
+        }
+                #image-container {
+            margin-top: 50px;
+        }
+        img {
+            max-width: 25%;
+            height: auto;
+            border: 2px solid #000;
+        }
+    </style>
+</head>
+<body>
+    <h1>Deltoto</h1>
+    <p>Select a Mini Watershed from the dropdown menu to navigate to the relevant page:</p>
+    <select id="codeSelect" onchange="navigateToPage()">
+        <option value="">--Select a Code--</option>
+        <option value="001.html">001</option>
+        <option value="002-1.html">002-1</option>
+        <option value="006-2.html">006-2</option>
+        <option value="008-2.html">008-2</option>
+    </select>
+
+    <script>
+        function navigateToPage() {
+            var select = document.getElementById("codeSelect");
+            var selectedValue = select.value;
+            if (selectedValue) {
+                window.location.href = selectedValue;
+            }
+        }
+    </script>
+        <div id="image-container">
+        <img src="MWS_Deltota_DSD.jpg" alt="MWS_Deltota_DSD">
+    </div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hanguranketa</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        select {
+            padding: 10px;
+            font-size: 16px;
+        }
+                #image-container {
+            margin-top: 50px;
+        }
+        img {
+            max-width: 25%;
+            height: auto;
+            border: 2px solid #000;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hanguranketa</h1>
+    <p>Select a Mini Watershed from the dropdown menu to navigate to the relevant page:</p>
+    <select id="codeSelect" onchange="navigateToPage()">
+        <option value="">--Select a Code--</option>
+        <option value="002-2.html">002-2</option>
+        <option value="009.html">009</option>
+        <option value="010.html">010</option>
+        <option value="011.html">011</option>
+        <option value="012.html">012</option>
+        <option value="013.html">013</option>
+        <option value="014.html">014</option>
+        <option value="018-2.html">018-2</option>
+        <option value="020-2.html">020-2</option>
+    </select>
+
+    <script>
+        function navigateToPage() {
+            var select = document.getElementById("codeSelect");
+            var selectedValue = select.value;
+            if (selectedValue) {
+                window.location.href = selectedValue;
+            }
+        }
+    </script>
+        <div id="image-container">
+        <img src="MWS_Hanguranketa_DSD_1.jpg" alt="MWS_Hanguranketa_DSD">
+    </div>
+</body>
+</html>

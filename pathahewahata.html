@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pathahewahata</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        select {
+            padding: 10px;
+            font-size: 16px;
+        }
+                #image-container {
+            margin-top: 50px;
+        }
+        img {
+            max-width: 25%;
+            height: auto;
+            border: 2px solid #000;
+        }
+    </style>
+</head>
+<body>
+    <h1>Pathahewahata</h1>
+    <p>Select a Mini Watershed from the dropdown menu to navigate to the relevant page:</p>
+    <select id="codeSelect" onchange="navigateToPage()">
+        <option value="">--Select a Code--</option>
+        <option value="003.html">003</option>
+        <option value="004-2.html">004-2</option>
+        <option value="005.html">005</option>
+        <option value="006-1.html">006-1</option>
+        <option value="007-1.html">007-1</option>
+        <option value="008-1.html">008-1</option>
+    </select>
+
+    <script>
+        function navigateToPage() {
+            var select = document.getElementById("codeSelect");
+            var selectedValue = select.value;
+            if (selectedValue) {
+                window.location.href = selectedValue;
+            }
+        }
+    </script>
+        <div id="image-container">
+        <img src="MWS_Pathahewaheta_DSD.jpg" alt="MWS_Pathahewaheta_DSD">
+    </div>
+</body>
+</html>

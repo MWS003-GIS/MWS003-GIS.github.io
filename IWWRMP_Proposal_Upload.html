@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IWWRMP Proposal Uploader</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>IWWRMP Proposal Uploader</h1>
+    <form id="uploadForm">
+        <label for="folderInput">Select folder to upload:</label>
+        <input type="file" id="folderInput" webkitdirectory directory required>
+        <br><br>
+        <label for="repoPath">Destination Path in Repo (IWWRMP/Data/Proposal/) :</label>
+        <input type="text" id="repoPath" placeholder="e.g., uploads/" required>
+        <br><br>
+        <label for="githubToken">Access Token:</label>
+        <input type="password" id="githubToken" placeholder="Enter your token" required>
+        <br><br>
+        <button type="submit">Upload</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', async (event) => {
+            event.preventDefault();
+
+            const folderInput = document.getElementById('folderInput');
+            const repoPath = document.getElementById('repoPath').value.trim();
+            const token = document.getElementById('githubToken').value.trim();
+            const files = folderInput.files;
+
+            if (!token) {
+                alert("Please enter a valid GitHub token.");
+                return;
+            }
+
+            if (files.length === 0) {
+                alert("Please select a folder with files.");
+                return;
+            }
+
+            const repo = "MWS003-GIS.github.io";
+            const owner = "MWS003-GIS";
+            const branch = "main"; // Adjust if using a different branch
+            const baseApiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/`;
+
+            const results = [];
+
+            // Function to upload a single file
+            const uploadFile = async (file, filePath) => {
+                const arrayBuffer = await file.arrayBuffer();
+                const content = btoa(String.fromCharCode(...new Uint8Array(arrayBuffer))); // Convert to Base64
+                const url = `${baseApiUrl}${filePath}`;
+
+                try {
+                    // Check if the file already exists
+                    const existingFileResponse = await fetch(url, {
+                        method: "GET",
+                        headers: {
+                            "Authorization": `token ${token}`
+                        }
+                    });
+
+                    let sha = null;
+
+                    if (existingFileResponse.ok) {
+                        const existingFileData = await existingFileResponse.json();
+                        sha = existingFileData.sha; // Get the current file's SHA to overwrite
+                    }
+
+                    // Upload or update the file
+                    const body = {
+                        message: `Add/Update ${file.name}`,
+                        content: content,
+                        branch: branch,
+                        ...(sha && { sha }) // Include `sha` if the file exists
+                    };
+
+                    const response = await fetch(url, {
+                        method: "PUT",
+                        headers: {
+                            "Authorization": `token ${token}`,
+                            "Content-Type": "application/json"
+                        },
+                        body: JSON.stringify(body)
+                    });
+
+                    if (response.ok) {
+                        results.push(`Uploaded/Updated: ${filePath}`);
+                    } else {
+                        const error = await response.json();
+                        results.push(`Error uploading ${filePath}: ${error.message}`);
+                    }
+                } catch (err) {
+                    results.push(`Error uploading ${filePath}: ${err.message}`);
+                }
+
+                // Update results dynamically
+                document.getElementById('result').innerHTML = results.join('<br>');
+            };
+
+            // Loop through all files and upload them
+            for (const file of files) {
+                const filePath = `${repoPath}${file.webkitRelativePath}`;
+                await uploadFile(file, filePath); // Sequential uploads
+            }
+
+            alert("Upload process completed!");
+        });
+    </script>
+</body>
+</html>

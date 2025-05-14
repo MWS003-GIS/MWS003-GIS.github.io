@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dropdown Navigation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        select {
+            padding: 10px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Select a DS Division</h1>
+    <p>Select a DS Division from the dropdown menu to navigate to the corresponding page:</p>
+    <select id="boundarySelect" onchange="navigateToPage()">
+        <option value="">--Select a Boundary--</option>
+        <option value="pathahewahata.html">Pathahewahata</option>
+        <option value="deltoto.html">Deltoto</option>
+        <option value="hanguranketa.html">Hanguranketa</option>
+        <option value="mathurat.html">Mathurat</option>
+    </select>
+
+    <script>
+        function navigateToPage() {
+            var select = document.getElementById("boundarySelect");
+            var selectedValue = select.value;
+            if (selectedValue) {
+                window.location.href = selectedValue;
+            }
+        }
+    </script>
+</body>
+</html>

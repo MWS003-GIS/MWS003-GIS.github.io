@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mathurat</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        select {
+            padding: 10px;
+            font-size: 16px;
+        }
+                #image-container {
+            margin-top: 50px;
+        }
+        img {
+            max-width: 25%;
+            height: auto;
+            border: 2px solid #000;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mathurat</h1>
+    <p>Select a Mini Watershed from the dropdown menu to navigate to the relevant page:</p>
+    <select id="codeSelect" onchange="navigateToPage()">
+        <option value="">--Select a Code--</option>
+        <option value="015.html">015</option>
+        <option value="016.html">016</option>
+        <option value="017.html">017</option>
+        <option value="018-1.html">018-1</option>
+        <option value="019.html">019</option>
+        <option value="020-1.html">020-1</option>
+        <option value="021-2.html">021-2</option>
+    </select>
+
+    <script>
+        function navigateToPage() {
+            var select = document.getElementById("codeSelect");
+            var selectedValue = select.value;
+            if (selectedValue) {
+                window.location.href = selectedValue;
+            }
+        }
+    </script>
+        <div id="image-container">
+        <img src="MWS_Mathurata_DSD.jpg" alt="MWS_Mathurata_DSD">
+    </div>
+</body>
+</html>

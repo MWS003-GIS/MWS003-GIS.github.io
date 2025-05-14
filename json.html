@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collapsible Tree Menu</title>
+    <style>
+        ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+        li {
+            margin: 5px 0;
+        }
+        .collapsible {
+            cursor: pointer;
+            padding: 5px;
+            display: inline-block;
+            background-color: #f1f1f1;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            width: 100%;
+        }
+        .collapsible:hover {
+            background-color: #ddd;
+        }
+        .nested {
+            display: none;
+        }
+        .active {
+            display: block;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Collapsible Tree Menu</h1>
+    <ul id="treeMenu"></ul>
+
+    <script>
+        // Fetch and parse JSON data
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                const menu = document.getElementById('treeMenu');
+                const buildTree = (items, parent) => {
+                    items.forEach(item => {
+                        const li = document.createElement('li');
+                        const span = document.createElement('span');
+                        span.classList.add('collapsible');
+                        span.textContent = item.Sub || item.Type;
+                        
+                        // Link for leaf nodes
+                        if (item.Link) {
+                            const a = document.createElement('a');
+                            a.href = item.Link;
+                            a.textContent = item.Sub;
+                            span.replaceWith(a);
+                        }
+                        
+                        li.appendChild(span);
+                        
+                        // Create nested list if there are child items
+                        const children = items.filter(i => i.Main === item.Type && i.Type !== item.Type);
+                        if (children.length) {
+                            const ul = document.createElement('ul');
+                            ul.classList.add('nested');
+                            buildTree(children, ul);
+                            li.appendChild(ul);
+                        }
+                        
+                        parent.appendChild(li);
+                    });
+                };
+                
+                buildTree(data, menu);
+                
+                // Collapsible functionality
+                document.querySelectorAll('.collapsible').forEach(button => {
+                    button.addEventListener('click', () => {
+                        button.classList.toggle('active');
+                        const nested = button.nextElementSibling;
+                        if (nested.style.display === 'block') {
+                            nested.style.display = 'none';
+                        } else {
+                            nested.style.display = 'block';
+                        }
+                    });
+                });
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    </script>
+</body>
+</html>

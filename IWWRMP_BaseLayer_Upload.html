@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IWWRMP Base Layer Upload</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>IWWRMP Base Layer Upload</h1>
+    <form id="uploadForm">
+        <label for="fileInput">Select a file to upload:</label>
+        <input type="file" id="fileInput" required>
+        <br><br>
+
+        <label for="number1">Enter MWS ID (001) :</label>
+        <input type="number" id="number1" required>
+        <br><br>
+
+        <label for="number2">Enter MWS ID - Sub (0 or 1 or 2) (:</label>
+        <input type="number" id="number2" required>
+        <br><br>
+
+        <label for="githubToken">Enter GitHub Token:</label>
+        <input type="text" id="githubToken" placeholder="Your GitHub Token" required>
+        <br><br>
+
+        <button type="submit">Upload File</button>
+    </form>
+
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', async (event) => {
+            event.preventDefault();
+
+            const fileInput = document.getElementById('fileInput').files[0];
+            const number1 = document.getElementById('number1').value.trim();
+            const number2 = document.getElementById('number2').value.trim();
+            const token = document.getElementById('githubToken').value.trim();
+
+            if (!fileInput) {
+                alert("Please select a file to upload.");
+                return;
+            }
+            if (!token) {
+                alert("Please enter a valid GitHub token.");
+                return;
+            }
+
+            // Ensure the file name follows the required naming convention
+            let newFileName = `AllDataLayer_${number1}.csv`; // Default name
+            if (number2 !== '0') {
+                newFileName = `AllDataLayer_${number1}_${number2}.csv`;
+            }
+
+            // Check if number2 is 0, and adjust the dynamic path accordingly
+            let dynamicPath = `IWWRMP/Data/EXD/MWS_${number1}_${number2}/`;
+            if (number2 === '0') {
+                dynamicPath = `IWWRMP/Data/EXD/MWS_${number1}/`;
+            }
+
+            const repo = "MWS003-GIS.github.io";
+            const owner = "MWS003-GIS";
+            const branch = "main"; // Adjust if using a different branch
+            const baseApiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/`;
+
+            const filePath = `${dynamicPath}${newFileName}`;
+            const url = `${baseApiUrl}${filePath}`;
+
+            try {
+                // Step 1: Read the file as Base64
+                const arrayBuffer = await fileInput.arrayBuffer();
+                const content = btoa(String.fromCharCode(...new Uint8Array(arrayBuffer))); // Convert to Base64
+
+                // Step 2: Check if the file already exists
+                let sha = null;
+                const existingFileResponse = await fetch(url, {
+                    method: "GET",
+                    headers: {
+                        "Authorization": `token ${token}`
+                    }
+                });
+
+                if (existingFileResponse.ok) {
+                    const existingFileData = await existingFileResponse.json();
+                    sha = existingFileData.sha; // Get the SHA of the existing file
+                }
+
+                // Step 3: Upload or overwrite the file
+                const body = {
+                    message: `Add/Update ${newFileName}`,
+                    content: content,
+                    branch: branch,
+                    ...(sha && { sha }) // Include SHA if the file exists
+                };
+
+                const uploadResponse = await fetch(url, {
+                    method: "PUT",
+                    headers: {
+                        "Authorization": `token ${token}`,
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(body)
+                });
+
+                if (uploadResponse.ok) {
+                    document.getElementById('result').innerHTML = `File uploaded/updated successfully at: ${dynamicPath}${newFileName}`;
+                } else {
+                    const error = await uploadResponse.json();
+                    document.getElementById('result').innerHTML = `Error uploading file: ${error.message}`;
+                }
+            } catch (err) {
+                document.getElementById('result').innerHTML = `Error: ${err.message}`;
+            }
+        });
+    </script>
+</body>
+</html>
