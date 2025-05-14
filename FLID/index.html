@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farmer-Led Irrigated Area Mapping – ASEAN</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; }
+        #map { height: 75%; width: 100%; }
+        .header, .footer { padding: 10px; text-align: center; background: #333; color: #fff; }
+        .dropdown { margin: 0 5px; }
+        #layerCheckbox { margin-right: 5px; }
+        .legend {
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            background-color: white;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Farmer-Led Irrigated Area Mapping – ASEAN</h1>
+    <label><input type="checkbox" id="layerCheckbox"> FLID Suitable Area</label>
+    <select id="countryDropdown" class="dropdown" onchange="loadAdminData();">
+        <option value="">Select Country</option>
+        <option value="KHM">Cambodia</option>
+        <option value="LAO">Laos</option>
+    </select>
+    <select id="admin0Dropdown" class="dropdown" disabled><option>Select Admin0</option></select>
+    <select id="admin1Dropdown" class="dropdown" disabled><option>Select Admin1</option></select>
+    <select id="admin2Dropdown" class="dropdown" disabled><option>Select Admin2</option></select>
+    <select id="admin3Dropdown" class="dropdown" disabled><option>Select Admin3</option></select>
+    <button onclick="changeBaseMap('osm')">OSM</button>
+    <button onclick="changeBaseMap('esri')">ESRI Satellite</button>
+</div>
+
+<div id="map"></div>
+
+<div class="footer">
+    © 2024 Farmer-Led Irrigated Area Mapping Project
+</div>
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="script.js"></script> <!-- Link to the JavaScript file -->
+</body>
+</html>
