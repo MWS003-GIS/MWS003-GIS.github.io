@@ -1,0 +1,11 @@
+﻿ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,Download,geojson,Year
+1,MWS-001,Proposal,,Soil and water conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_001/MWS0010601.geojson,2024
+2,MWS-001,Proposal,,Details of reported landslides,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_001/MWS0010602.geojson,2024
+3,MWS-001,Proposal,,Domestic water supply related activities,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_001/MWS0010609.geojson,2024
+4,MWS-001,Proposal,,Water source protection related activities,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_001/MWS0010610.geojson,2024
+5,MWS-001,Proposal,,Minor irrigation related proposals,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_001/MWS0010611.geojson,2024
+6,MWS-001,Proposal,,Details of water pollution ,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_001/MWS0010614.geojson,2024
+7,MWS-001,Proposal,,Stream reservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_001/MWS0010616.geojson,2024
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

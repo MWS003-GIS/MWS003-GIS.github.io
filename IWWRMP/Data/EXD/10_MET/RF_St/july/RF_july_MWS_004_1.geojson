@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RF_july_MWS_004_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "station_na": "kundasale farm", "longitude": 80.68, "latitude": 7.27, "year_1976": 64.0, "year_1977": 72.0, "year_1978": 62.0, "year_1979": 105.0, "year_1980": 74.0, "year_1981": 168.0, "year_1982": 113.0, "year_1983": 80.0, "year_1984": 126.0, "year_1985": 151.0, "year_1986": 50.0, "year_1987": 15.0, "year_1988": 137.0, "year_1989": 198.0, "year_1990": 23.0, "year_1991": 51.0, "year_1992": 82.0, "year_1993": 73.0, "year_1994": 17.0, "year_1995": 16.0, "year_1996": 88.0, "year_1997": 38.0, "year_1998": 80.0, "year_1999": 12, "year_2000": 14.0, "year_2001": 56.0, "year_2002": 38.0, "year_2003": 27.0, "year_2004": 25, "year_2005": 48, "year_2006": 35.0, "year_2007": 126.0, "year_2008": 62.0, "year_2009": 29, "year_2010": 167.0, "year_2011": 18.0, "year_2012": 67.0, "year_2013": 46.0, "year_2014": 20.0, "year_2015": 26.0, "year_2016": 43.0, "year_2017": 7, "year_2018": 34.0, "year_2019": 66.0, "year_2020": 83.0, "AVG": 49.38095238 }, "geometry": { "type": "Point", "coordinates": [ 80.680000017008098, 7.270000005107587 ] } }
+]
+}

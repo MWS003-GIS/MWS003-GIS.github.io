@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MWS0080614",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GND No.": 1030, "Scheme": "Tank at 5th mile post", "Problem to be addressed/Recommendation": "Accumulation of animal waste and domestic refuse. Recommend \n1. Demarcate an area of 20 perch as a reservation around the well. 2. Make riparian buffer strip and dense planting of mixed vegetation comprising Agave/ Vetiver/ Canas/ Areca nut trees/ Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal del/Kekuna / local fruits/ randomly mixed seedlings at 500 mm grid interval.\n3. Apply mulching, organic manure and NPK fertilizer. Covered area 500 m2.\n4. Establish a CBO and awareness and training programs for waste management and disposal ", "N": 7.183315, "E": 80.73876, "Estimated Cost": "317,000" }, "geometry": { "type": "Point", "coordinates": [ 80.73876, 7.183315 ] } },
+{ "type": "Feature", "properties": { "GND No.": 1031, "Scheme": "Rainwater harvesting tanks", "Problem to be addressed/Recommendation": "Requirement of a new tank. Recommend constructing ferro cement storage tank of 35 cum - size internal 3m diameter x 4m high", "N": 7.185161, "E": 80.7506, "Estimated Cost": "325,000" }, "geometry": { "type": "Point", "coordinates": [ 80.7506, 7.185161 ] } },
+{ "type": "Feature", "properties": { "GND No.": 1036, "Scheme": "Rainwater harvesting tanks", "Problem to be addressed/Recommendation": "Requests for a�large number of RWH tanks. Recommend constructing 20 nos of Ferro cement storage tank of 35 cum - size internal 3m diameter x 4m high with 25% contribution from the stakeholders", "N": 0.0, "E": 0.0, "Estimated Cost": "4,875,000" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } }
+]
+}

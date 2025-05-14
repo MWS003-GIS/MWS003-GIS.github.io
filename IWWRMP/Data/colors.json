@@ -1,0 +1,36 @@
+{
+    "polygons": {
+        "Forest": {
+            "fill": "#FF5733",
+            "boundary": "#000000"
+        },
+        "Home garden": {
+            "fill": "#ff0000",
+            "boundary": "#000000"
+        },
+        "Paddy": {
+            "fill": "#00ff00",
+            "boundary": "#000000"
+        },
+        "Scrub land": {
+            "fill": "#0000ff",
+            "boundary": "#000000"
+        },		
+        "Urban": {
+            "fill": "#33FF57",
+            "boundary": "#FF0000"
+        },
+        "Water": {
+            "fill": "#3357FF",
+            "boundary": "#00FFFF"
+        }
+    },
+    "lines": {
+        "Road": {
+            "color": "#F0F033"
+        },
+        "Railway": {
+            "color": "#FF33A8"
+        }
+    }
+}

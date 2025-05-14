@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RF_annual_MWS_002_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "station_na": "loolecondera estate", "longitude": 80.7, "latitude": 7.12, "Jan": 216.2380952, "Feb": 132.3809524, "March": 126.9047619, "April": 261.2857143, "May": 188.8571429, "June": 122.952381, "July": 140.0, "August": 124.7142857, "Sep": 150.5714286, "Oct": 329.3809524, "Nov": 348.1428571, "Dec": 354.4761905, "sum": 2495.904762 }, "geometry": { "type": "Point", "coordinates": [ 80.700000016976162, 7.120000005256173 ] } },
+{ "type": "Feature", "properties": { "station_na": "loolecondera_est", "longitude": 80.711, "latitude": 7.128, "Jan": 216.2380952, "Feb": 132.3809524, "March": 126.9047619, "April": 261.2857143, "May": 188.8571429, "June": 122.952381, "July": 140.0, "August": 124.7142857, "Sep": 150.5714286, "Oct": 329.3809524, "Nov": 348.1428571, "Dec": 354.4761905, "sum": 2495.904762 }, "geometry": { "type": "Point", "coordinates": [ 80.711000016951502, 7.128000005246367 ] } }
+]
+}

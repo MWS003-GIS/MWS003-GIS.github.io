@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RF_annual_MWS_017",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "station_na": "goonapitiya", "longitude": 80.8, "latitude": 7.05, "Jan": 311.8095238, "Feb": 163.8095238, "March": 159.6666667, "April": 216.1428571, "May": 157.1904762, "June": 58.14285714, "July": 75.85714286, "August": 86.33333333, "Sep": 117.1428571, "Oct": 294.1428571, "Nov": 407.047619, "Dec": 440.4285714, "sum": 2487.714286 }, "geometry": { "type": "Point", "coordinates": [ 80.800000016764017, 7.05000000531167 ] } }
+]
+}

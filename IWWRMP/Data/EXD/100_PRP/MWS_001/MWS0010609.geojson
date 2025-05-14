@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MWS0010609",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GND No.": 977, "Scheme": "Tank of Bellwood Janapada", "Problem to be addressed/Recommendation": "Insufficient capacity of the tank. Recommend constructing ferro cement 4m (diameter) x3m (high) tank. (35m3)", "N": 7.20616, "E": 80.67581, "Estimated Cost": "325,000" }, "geometry": { "type": "Point", "coordinates": [ 80.67581, 7.20616 ] } },
+{ "type": "Feature", "properties": { "GND No.": 980, "Scheme": "Construct a tank at Ambalammana School to store spring water", "Problem to be addressed/Recommendation": "No storage tank at the source and needs a pipeline. Recommend 1. To construct ferro cement 4m (diameter) x3m (high) tank. (35m3) 2. Form a CBO to operate and manage. 3. Install a 63mm Dia pipe line with 18mm lateral pipes for houses. 50% of pipe network cost has to be obtained as community contribution.", "N": 7.21344, "E": 80.67042, "Estimated Cost": "455,000" }, "geometry": { "type": "Point", "coordinates": [ 80.67042, 7.21344 ] } },
+{ "type": "Feature", "properties": { "GND No.": 979, "Scheme": "Rainwater harvesting tanks", "Problem to be addressed/Recommendation": "Requirement of rainwater new tanks. Recommend constructing 15 numbers of 2m Dia x 2mhigh cylindrical rainwater storage tanks (25m3) with 25% contribution from the consumer. ", "N": 0.0, "E": 0.0, "Estimated Cost": "2,812,500" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "GND No.": 976, "Scheme": "Common tank at new housing", "Problem to be addressed/Recommendation": "Water leakages from the tank and the insufficient capacity of the tank. Recommend constructing 4m diameter x3 m high ferro cement tank (35 m3) with 25% contribution from the community. (325,000)", "N": 7.19768, "E": 80.67611, "Estimated Cost": "243,750" }, "geometry": { "type": "Point", "coordinates": [ 80.67611, 7.19768 ] } }
+]
+}

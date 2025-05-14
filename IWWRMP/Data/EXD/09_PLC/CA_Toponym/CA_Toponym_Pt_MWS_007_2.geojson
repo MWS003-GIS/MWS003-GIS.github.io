@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "CA_Toponym_Pt_MWS_007_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "KONAKONDASALA 750.42", "TO_Lb_meth": "1", "TO_GFCODE": "TRIGP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.723181002523205, 7.252184474316695, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Gonawatta", "TO_Lb_meth": "1", "TO_GFCODE": "VILLP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.706448073113322, 7.266286787668888, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Maligatenna", "TO_Lb_meth": "1", "TO_GFCODE": "PLCEP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.712393606615549, 7.261559367578388, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Haragama", "TO_Lb_meth": "1", "TO_GFCODE": "VILLP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.71084561723417, 7.26438764517007, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Haragama Group", "TO_Lb_meth": "1", "TO_GFCODE": "PLCEP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.706983842269295, 7.257163250938073, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "HARAGAMA ESTATE", "TO_Lb_meth": "13", "TO_GFCODE": "ESTTP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.720569433594093, 7.255390494101991, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Maligatenna Gama", "TO_Lb_meth": "1", "TO_GFCODE": "VILLP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.703786488507447, 7.260547460518999, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Haragama Field 03", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.70979193943289, 7.258057793617559, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Haragama Field 04", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.717464150105442, 7.257043333789507, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Haragama Field 05", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "007_2" }, "geometry": { "type": "Point", "coordinates": [ 80.721641464904394, 7.25789851321296, 0.0 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TR_Transport_Pt_MWS_002_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "36", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.713194320695209, 7.126711376009364, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "37", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.720487462676218, 7.128215229421031, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "38", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.725680504396408, 7.13401239162198, 0.0 ] } }
+]
+}

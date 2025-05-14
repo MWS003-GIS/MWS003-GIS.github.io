@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RF_july_MWS_021_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "station_na": "high forest estate", "longitude": 80.84, "latitude": 7.06, "year_1976": 15.0, "year_1977": 129.0, "year_1978": 48.0, "year_1979": 47.0, "year_1980": 14.0, "year_1981": 309.0, "year_1982": 18.0, "year_1983": 65.0, "year_1984": 135.0, "year_1985": 25.0, "year_1986": 151.0, "year_1987": 0.0, "year_1988": 160.0, "year_1989": 392.0, "year_1990": 20.0, "year_1991": 53.0, "year_1992": 197.0, "year_1993": 74.0, "year_1994": 107.0, "year_1995": 46.0, "year_1996": 160.0, "year_1997": 50.0, "year_1998": 137.0, "year_1999": 14, "year_2000": 53.0, "year_2001": 125.0, "year_2002": 29.0, "year_2003": 88.0, "year_2004": 36, "year_2005": 36, "year_2006": 93.0, "year_2007": 35.0, "year_2008": 60.0, "year_2009": 32, "year_2010": 153.0, "year_2011": 14.0, "year_2012": 25.0, "year_2013": 111.0, "year_2014": 7.0, "year_2015": 28.0, "year_2016": 206.0, "year_2017": 12, "year_2018": 129.0, "year_2019": 79.0, "year_2020": 285.0, "AVG": 77.9047619 }, "geometry": { "type": "Point", "coordinates": [ 80.840000016676342, 7.060000005295482 ] } }
+]
+}

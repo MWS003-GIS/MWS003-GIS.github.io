@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "MWS0060603",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Tank name": "Punchiwaththa Ihala Wewa", "Ownership": "DAD", "Location details": "7.19354 E, 80.70804 N", "N": 7.19354, "E": 80.70804, "Remarks": "Recommended to improve reservation" }, "geometry": { "type": "Point", "coordinates": [ 80.70804, 7.19354 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Punchiwaththa Pahala Wewa", "Ownership": "DAD", "Location details": "7.19432 E, 80.70904 N", "N": 7.19432, "E": 80.70904, "Remarks": "Recommended to improve reservation, Spill, Structural repairs to bund, sluice, etc" }, "geometry": { "type": "Point", "coordinates": [ 80.70904, 7.19432 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Attamalai Wewa", "Ownership": "DAD", "Location details": "7.19924 E, 80.71345N", "N": 7.19924, "E": 80.71345, "Remarks": "Recommended to improve reservation, desilting " }, "geometry": { "type": "Point", "coordinates": [ 80.71345, 7.19924 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Karuppamalai Wewa", "Ownership": "DAD", "Location details": "7.19924 E, 80.70918 N", "N": 7.19924, "E": 80.70918, "Remarks": "Recommended to improve reservation" }, "geometry": { "type": "Point", "coordinates": [ 80.70918, 7.19924 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Maussawa Tank", "Ownership": "DAD", "Location details": "7.18616 E, 80.73117N", "N": 7.18616, "E": 80.73117, "Remarks": "Recommended to improve reservation" }, "geometry": { "type": "Point", "coordinates": [ 80.73117, 7.18616 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Gongalegoda Tank", "Ownership": "DAD", "Location details": "7.19266 E, 80.72498 N", "N": 7.19266, "E": 80.72498, "Remarks": "Recommended Partial desilting, improve reservation, Structural repairs to the bund, sluice, etc" }, "geometry": { "type": "Point", "coordinates": [ 80.72498, 7.19266 ] } }
+]
+}

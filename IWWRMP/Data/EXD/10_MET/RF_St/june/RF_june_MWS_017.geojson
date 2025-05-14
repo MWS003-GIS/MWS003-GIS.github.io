@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RF_april_MWS_017",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "station_na": "goonapitiya", "longitude": 80.8, "latitude": 7.05, "year_1976": 7, "year_1977": 37, "year_1978": 28, "year_1979": 94, "year_1980": 25, "year_1981": 72, "year_1982": 57, "year_1983": 10, "year_1984": 9, "year_1985": 131, "year_1986": 10, "year_1987": 15, "year_1988": 19, "year_1989": 115, "year_1990": 78, "year_1991": 70, "year_1992": 21, "year_1993": 112, "year_1994": 11, "year_1995": 33, "year_1996": 175, "year_1997": 103, "year_1998": 119, "year_1999": 77, "year_2000": 95, "year_2001": 62, "year_2002": 15, "year_2003": 27, "year_2004": 67, "year_2005": 21, "year_2006": 110, "year_2007": 186, "year_2008": 3, "year_2009": 19, "year_2010": 99, "year_2011": 9, "year_2012": 0, "year_2013": 211, "year_2014": 67, "year_2015": 62, "year_2016": 30, "year_2017": 17, "year_2018": 45, "year_2019": 7, "year_2020": 69, "AVG": 58.14285714 }, "geometry": { "type": "Point", "coordinates": [ 80.800000016764017, 7.05000000531167 ] } }
+]
+}

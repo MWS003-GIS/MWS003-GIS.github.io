@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EV_004_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "station_na": "Kundasale", "longitude": 80.68, "latitude": 7.27, "jan": 3.0, "feb": 3.59, "mar": 3.86, "apr": 3.36, "may": 3.03, "jun": 2.8, "jul": 3.19, "aug": 3.08, "sep": 2.89, "oct": 2.83, "nov": 2.44, "dec": 2.37, "annual": 3.04 }, "geometry": { "type": "Point", "coordinates": [ 80.680000017008098, 7.270000005107591 ] } }
+]
+}

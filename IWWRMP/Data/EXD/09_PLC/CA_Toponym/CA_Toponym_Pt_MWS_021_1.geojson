@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "CA_Toponym_Pt_MWS_021_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bramley-Division", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.853353341869166, 7.06227116344528, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bingantalawa", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.85978629282927, 7.053336426898308, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bingantalawa", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.848414816723988, 7.039106388344055, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Mahahudugala", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.83554367123935, 7.049295652326296, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Woodcord Watta", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.843962312968074, 7.065435073906193, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hiforest Bazaar", "TO_Lb_meth": "13", "TO_GFCODE": "PLCEP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.841296660593329, 7.065071060432429, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hiforest Watta", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.843094611558328, 7.063766500571048, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hiforest Watta Part 02", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.827007409260474, 7.058131733074894, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hiforest Watta Part 01", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.82770284342007, 7.057104904019154, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bingantalawa", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.824801061407967, 7.038467997400569, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Mahakudugala", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.835412081785179, 7.036929942157136, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "MAHA COODOOGALLA ESTATE", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.831567979129517, 7.044353844260956, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "ST.JONES ESTATE", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.829548824087865, 7.026970748270581, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Thawana", "TO_Lb_meth": "13", "TO_GFCODE": "PLCEP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.829255203776327, 7.032932830894359, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Mahakudugala Estate", "TO_Lb_meth": "13", "TO_GFCODE": "PLCEP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.836493331816115, 7.040315708102876, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Wewatenna Colony", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.820787244920709, 7.035251914321253, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Apple Farm", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.821424223773661, 7.026111065343868, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "MAHAKUDAGALA (2100.072)", "TO_Lb_meth": "1", "TO_GFCODE": "TRIGP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.843842689008795, 7.043315606661952, 0.0 ] } }
+]
+}

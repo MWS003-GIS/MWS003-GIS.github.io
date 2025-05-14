@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CA_Toponym_Pt_MWS_020_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Panana", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.835914580342958, 7.188509414120317, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Galauda", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.823271034929746, 7.176304535755032, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Udagalauda", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.811441465203558, 7.158309953193412, 0.0 ] } }
+]
+}

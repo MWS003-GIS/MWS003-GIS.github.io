@@ -1,0 +1,10 @@
+﻿ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,Download,geojson,Year
+1,MWS-006-2,Proposal,Proposal Soil,Soil and water conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_006_2/MWS0060601.geojson,2024
+2,MWS-006-2,Proposal,Proposal Soil,Details of reported landslides,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_006_2/MWS0060602.geojson,2024
+3,MWS-006-2,Proposal,Proposal Irrigation,Details of minor tanks available,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_006_2/MWS0060603.geojson,2024
+4,MWS-006-2,Proposal,Proposal Irrigation,Details of minor tank restoration and repair ,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_006_2/MWS0060613.geojson,2024
+5,MWS-006-2,Proposal,Proposal Irrigation,Domestic water supply related activities,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_006_2/MWS0060619.geojson,2024
+6,MWS-006-2,Proposal,Proposal Irrigation,Water source protection related activities,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_006_2/MWS0060620.geojson,2024
+7,MWS-006-2,Proposal,Proposal Irrigation,Minor irrigation related proposals,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_006_2/MWS0060621.geojson,2024
+8,MWS-006-2,Proposal,Proposal Irrigation,Details of water pollution ,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_006_2/MWS0060622.geojson,2024
+9,MWS-006-2,Proposal,Proposal Irrigation,Stream reservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_006_2/MWS0060624.geojson,2024

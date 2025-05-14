@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "TR_Transport_Pt_MWS_004_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "12", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.687816534373582, 7.236545089642831, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "8", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.685270136034717, 7.25901419710172, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "9", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.688629415823556, 7.254783601168235, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "10", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.690158246987622, 7.247732063584611, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "11", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.69007031112325, 7.241264114480305, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "13", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.684074927144906, 7.232170285274819, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kossinna 5 Kanuwa Handiya", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.685919064643699, 7.259526596311538, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Ankelipitiya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.688549021905985, 7.23717979998516, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Dambagahatenna Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.690119924576507, 7.236584615046937, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Pahanwala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.681035025643013, 7.240186012697258, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Anchiru Kotuwa Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.682726257612586, 7.228055562001778, 0.0 ] } }
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "TR_Transport_Pt_MWS_002_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "29", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.697038572460443, 7.165907762828915, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "35", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.711550715985098, 7.131219255747478, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "30", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.704394790081622, 7.15744490157838, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "31", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.706483181161687, 7.154060653722205, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "32", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.70893827875696, 7.151717390986533, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "33", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.713554165727118, 7.144680351530496, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "34", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.713284105030738, 7.136946065654126, 0.0 ] } }
+]
+}

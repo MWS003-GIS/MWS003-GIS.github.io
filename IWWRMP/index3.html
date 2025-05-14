@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet Map with Dropdowns</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.pm/dist/leaflet.pm.min.js"></script>
+    <script src="scripts.js" defer></script>
+    <script src="dropdown.js" defer></script>
+
+
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        #map {
+            height: 600px;
+            width: 100%;
+        }
+        #layerControl {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+        }
+        .layer-group {
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: none; /* Remove bullet points */
+            padding-left: 20px;    /* Indent the list */
+            display: none;          /* Initially hide the layer lists */
+        }
+        .database-header {
+            cursor: pointer; /* Show pointer cursor on hover */
+            color: blue;     /* Change color to indicate clickable */
+        }
+    </style>	
+
+
+</head>
+<body>
+    <header>
+        <h1>Your Map Title</h1>
+        <label for="dsdDropdown">Select DSD:</label>
+        <select id="dsdDropdown">
+            <option value="">--Select DSD--</option>
+        </select>
+        <label for="mwsDropdown">Select MWS_ID:</label>
+        <select id="mwsDropdown">
+            <option value="">--Select MWS_ID--</option>
+        </select>
+    </header>
+
+    <div id="map" style="height: 600px;"></div>
+	<div id="layerControl"></div>	
+	    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    
+    <!-- PapaParse for CSV Parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+    <!-- Include the dropdown.js file -->
+    <script src="dropdowns.js"></script>	
+    <footer>
+        <p>Your footer content here.</p>
+    </footer>
+</body>
+</html>

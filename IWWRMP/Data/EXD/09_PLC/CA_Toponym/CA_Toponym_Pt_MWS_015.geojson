@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "CA_Toponym_Pt_MWS_015",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Galkandulla Colony", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.767595335615951, 7.059849693979273, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Deegalahinna", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.771740498132743, 7.058874333526247, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Suwandelpotha", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.770673812100966, 7.053181668450384, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "ELAMULLA (PART) ESTATE", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.752813871562395, 7.046462649901822, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "KABARAGALA DIVISION", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.759106093090651, 7.055081383802789, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "ELAMULLA ESTATE", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.765341610610761, 7.053608739155318, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Elamulla Gama", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.768614303307515, 7.052528161103303, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Kabaragala Upper Part", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.750658497089361, 7.055747332624033, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "ELLAMULLE ESTATE", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.752643639126603, 7.044761714501472, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "ELLAMULLE ESTATE", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.763394683546395, 7.04523266665679, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Pedro Conservation Forest", "TO_Lb_meth": "13", "TO_GFCODE": "MISCP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.755536100263782, 7.019268663733139, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Suwandelpotha", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.774220925909248, 7.054360653032524, 0.0 ] } }
+]
+}

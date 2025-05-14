@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "TR_Transport_Pt_MWS_007_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "9", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.731231270350037, 7.246614704811194, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "10", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.7249045469717, 7.245480303488005, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "11", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.726071883270521, 7.241006282111162, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "13", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.726970868916084, 7.237673893432383, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "14", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.732548933184887, 7.239901010263161, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "15", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.740286921363449, 7.23743145673793, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "16", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.74357008201666, 7.235964757056578, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kiullinda Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.721834957318038, 7.240500014804063, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Anuragama Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.731193568392314, 7.246912942512218, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Pubudugama Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.72396127541839, 7.246429988715974, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "17", "TP_Lb_meth": "9", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.74836786805632, 7.230589278735977, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "19", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.751174924965554, 7.222681645766926, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "20", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.754420417058668, 7.214423711319562, 0.0 ] } }
+]
+}

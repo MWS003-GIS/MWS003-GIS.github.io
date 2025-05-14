@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "MWS0060613",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "Tank name": "a. Punchiwaththa Ihala Wewa", "Land ownership": "DAD", "N": 7.19354, "E": 80.70804, "Tentative Estimate (LKR)": "2,600,000" }, "geometry": { "type": "Point", "coordinates": [ 80.70804, 7.19354 ] } },
+{ "type": "Feature", "properties": { "No": 2, "Tank name": "b. Punchiwaththa Pahala Wewa", "Land ownership": "DAD", "N": 7.19432, "E": 80.70904, "Tentative Estimate (LKR)": "6,001,500" }, "geometry": { "type": "Point", "coordinates": [ 80.70904, 7.19432 ] } },
+{ "type": "Feature", "properties": { "No": 3, "Tank name": "c. Attamalai Wewa", "Land ownership": "DAD", "N": 7.19924, "E": 80.71345, "Tentative Estimate (LKR)": "775,000" }, "geometry": { "type": "Point", "coordinates": [ 80.71345, 7.19924 ] } },
+{ "type": "Feature", "properties": { "No": 4, "Tank name": "d. Karuppamalai Wewa", "Land ownership": "DAD", "N": 7.19924, "E": 80.70918, "Tentative Estimate (LKR)": "900,000" }, "geometry": { "type": "Point", "coordinates": [ 80.70918, 7.19924 ] } },
+{ "type": "Feature", "properties": { "No": 5, "Tank name": "e. Maussawa Wewa", "Land ownership": "DAD", "N": 7.18616, "E": 80.73117, "Tentative Estimate (LKR)": "1,031,000" }, "geometry": { "type": "Point", "coordinates": [ 80.73117, 7.18616 ] } },
+{ "type": "Feature", "properties": { "No": 6, "Tank name": "f. Gongalegoda Wewa", "Land ownership": "DAD", "N": 7.19266, "E": 80.72498, "Tentative Estimate (LKR)": "785,000" }, "geometry": { "type": "Point", "coordinates": [ 80.72498, 7.19266 ] } },
+{ "type": "Feature", "properties": { "No": null, "Tank name": " ", "Land ownership": null, "N": null, "E": null, "Tentative Estimate (LKR)": null }, "geometry": null }
+]
+}

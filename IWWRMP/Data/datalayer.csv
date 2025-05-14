@@ -1,0 +1,36 @@
+ID,Database,Layer,Data provider,Download-SHP,Download-KML,Code,Code,geojson
+1,Administration,Country boundary,SD,https://drive.google.com/file/d/1kupighNCiMlagVOQhVqd1LPQSYASbf32/view?usp=drive_link,https://drive.google.com/file/d/1ZPRHtd2Mosz0V-0ziqPykvv85-UMSTSl/view?usp=drive_link,ADM,CNT,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+2,Administration,Provincial boundary,SD,,,,PRV,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+3,Administration,District boundary,SD,,,,DIS,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+4,Administration,DS boundary,SD,,,,DSD,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+5,Administration,GN boundary,SD,,,,GND,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+6,Hydrology,Stream network,IWMI,,,HYD,DRN,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+7,Hydrology,Mini watershed,IWMI,,,,MWS,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/mws_4326.geojson
+8,Hydrology,Irrigation scheme,ID,,,,IRS,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+9,Hydrology,water features -point,SD,,,,,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+10,Hydrology,water features -line,SD,,,,,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+11,Hydrology,water features polygon,SD,,,,,https://raw.githubusercontent.com/darshanacw/darshanacw.github.io/main/QGIS/lulc_4326.geojson
+12,Reservation,Forest cover,FD,,,RSV,FRC,
+13,Reservation,National Park,DWC,,,,NTP,
+14,Reservation,Environmental protection area,CEA,,,,EPA,
+15,Land cover,Land Use Land Cover,LUPPD,,,LND,LULC,
+16,Soil related data,Soil type,NRMC,,,SOL,SLT,
+17,Topography,Spot height,MASL,,,TPG,SPH,
+18,Topography,Contour,MASL,,,,CTR,
+19,Topography,DEM,IWMI,,,,,
+20,Topography,Slope,IWMI,,,,,
+21,Socio-economic data,Population,RP,,,SED,PPL,
+22,Transportation,Road type,SD,,,TRP,RDT,
+23,Places,Town,SD,,,PLC,TWN,
+24,Places,Village,SD,,,,VLG,
+25,Places,Bulding,SD,,,,,
+26,Meteorology,Rainfall,MD,,,,,
+27,Meteorology,Temporature,MD,,,,,
+28,Meteorology,Evoporation,MD,,,,,
+29,Meteorology,Wind direction,,,,,,
+30,Climate,Climatic zone,,,,MET,CLZ,
+31,Climate,Agro-ecological zone,NRMC,,,,AEZ,
+32,Hazard and risk,Landslide,NBRO,,,HZR,LDS,
+33,Hazard and risk,Flood,,,,,FLD,
+34,Hazard and risk,Forest fire,IWMI,,,,FRF,
+35,Hazard and risk,Soil erosion ,IWMI,,,,,

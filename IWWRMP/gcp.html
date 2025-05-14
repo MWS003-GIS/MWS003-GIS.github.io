@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Excel Data from GitHub</title>
+</head>
+<body>
+
+    <h2>Excel Data to HTML Table</h2>
+    <table id="excelTable" border="1">
+        <thead></thead>
+        <tbody></tbody>
+    </table>
+
+    <!-- Include the SheetJS library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+
+    <script>
+        // URL of the Excel file from GitHub (raw link)
+        var fileUrl = 'https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/Pathahewaheta_name%20lists.xlsx';
+
+        // Fetch the file and convert to ArrayBuffer
+        fetch(fileUrl)
+            .then(response => response.arrayBuffer())
+            .then(data => {
+                // Read the Excel file data using SheetJS
+                var workbook = XLSX.read(data, {type: 'array'});
+                
+                // Specify the sheet name or use index [0] for the first sheet
+                var sheetName = workbook.SheetNames[2]; // Adjust this if another sheet is needed
+                var worksheet = workbook.Sheets[sheetName];
+
+                // Convert the sheet to JSON format
+                var jsonSheet = XLSX.utils.sheet_to_json(worksheet, {header: 1});
+
+                // Populate the HTML table with Excel data
+                var table = document.getElementById('excelTable');
+                var thead = table.querySelector('thead');
+                var tbody = table.querySelector('tbody');
+                
+                // Clear previous data
+                thead.innerHTML = '';
+                tbody.innerHTML = '';
+
+                // Generate table headers from the first row of the sheet
+                var headers = jsonSheet[0];
+                var headerRow = document.createElement('tr');
+                headers.forEach(header => {
+                    var th = document.createElement('th');
+                    th.textContent = header;
+                    headerRow.appendChild(th);
+                });
+                thead.appendChild(headerRow);
+
+                // Generate table rows from the remaining rows
+                jsonSheet.slice(1).forEach(row => {
+                    var tr = document.createElement('tr');
+                    row.forEach(cell => {
+                        var td = document.createElement('td');
+                        td.textContent = cell || ''; // Handle empty cells
+                        tr.appendChild(td);
+                    });
+                    tbody.appendChild(tr);
+                });
+            })
+            .catch(error => {
+                console.error("Error fetching or parsing Excel file:", error);
+            });
+    </script>
+
+</body>
+</html>

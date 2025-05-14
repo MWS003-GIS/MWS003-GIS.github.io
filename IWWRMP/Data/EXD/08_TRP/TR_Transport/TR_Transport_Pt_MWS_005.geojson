@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "TR_Transport_Pt_MWS_005",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "14", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.688230064216214, 7.229770303662175, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Maditta Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.692866344239576, 7.234442913018235, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Dewala Para Handiya", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.698221687706308, 7.242010654114239, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Mudunakade Bawlana Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.700648350665318, 7.240381140550333, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Navy Camp Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.698905737322193, 7.245304708106126, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Sagama Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.700239771510994, 7.233278011475008, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "12", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.720802424552346, 7.240764530002608, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Poojagoda Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.706443910660795, 7.228742601656457, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kapukotuwa Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.701966039438261, 7.229920060609107, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kalawellagoda Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.701702402818711, 7.230656484602981, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kiullinda Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.719913761403063, 7.240345096877931, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "15", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.681698974260513, 7.225837551788061, 0.0 ] } }
+]
+}

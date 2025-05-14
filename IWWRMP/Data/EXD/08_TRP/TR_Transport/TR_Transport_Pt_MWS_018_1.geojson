@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TR_Transport_Pt_MWS_018_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "Marthuwela Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.786824878190131, 7.079234042867999, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "Wellagiriya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.792597185330408, 7.083217695725896, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "Rockwood Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.787310003556939, 7.090358884598224, 0.0 ] } }
+]
+}

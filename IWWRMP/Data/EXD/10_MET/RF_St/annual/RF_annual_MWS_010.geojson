@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RF_annual_MWS_010",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "station_na": "hope estate", "longitude": 80.75, "latitude": 7.1, "Jan": 331.2857143, "Feb": 189.0, "March": 127.5238095, "April": 277.8095238, "May": 198.0, "June": 140.5714286, "July": 163.8095238, "August": 126.3809524, "Sep": 169.3333333, "Oct": 362.8095238, "Nov": 384.5714286, "Dec": 465.5238095, "sum": 2936.619048 }, "geometry": { "type": "Point", "coordinates": [ 80.750000016868754, 7.100000005268743 ] } },
+{ "type": "Feature", "properties": { "station_na": "hope_est", "longitude": 80.75, "latitude": 7.1, "Jan": 331.2857143, "Feb": 189.0, "March": 127.5238095, "April": 277.8095238, "May": 198.0, "June": 140.5714286, "July": 163.8095238, "August": 126.3809524, "Sep": 169.3333333, "Oct": 362.8095238, "Nov": 384.5714286, "Dec": 458.8095238, "sum": 2929.904762 }, "geometry": { "type": "Point", "coordinates": [ 80.750000016868754, 7.100000005268743 ] } }
+]
+}

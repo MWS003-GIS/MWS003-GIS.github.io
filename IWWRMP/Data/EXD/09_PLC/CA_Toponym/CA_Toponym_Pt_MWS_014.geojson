@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "CA_Toponym_Pt_MWS_014",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Mapilla", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.784463338994826, 7.233268157228948, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Welikada", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.783961824840276, 7.220965900242052, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Mapilla", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.785543922588985, 7.226253814608522, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Welikada", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.795389811919762, 7.221855322685214, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Udagama", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.795114832494576, 7.209911818656503, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hilpenkandura", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.810087999240437, 7.192650243533008, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hindagala", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.79990779182063, 7.19311857503974, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bodigolla", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.791195108385907, 7.196822086364643, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Udawatta", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.79930870037164, 7.186218157787031, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Galauda", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.821073233879176, 7.188114334274412, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hilpenkandura", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.805492545468169, 7.181123292987382, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Udawatta", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.798959222458464, 7.168422481068141, 0.0 ] } }
+]
+}

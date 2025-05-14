@@ -1,0 +1,25 @@
+ID,MWS,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,Download,geojson,Year
+1,UMW,Administration,DSD Bounday,,SD,Raw,Yes,Vector,,https://docs.google.com/spreadsheets/d/1j_3yvrEsH5C0DnXzB-6eZzT0OWNMf-7Q/edit?usp=drive_link&ouid=111144810877791116933&rtpof=true&sd=true,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/MWS_003/ED_07_SED_PPL_poly_v1.geojson,2019
+2,MWS-003,Administration,GN Boundary,,SD,Raw,Yes,Vector,,https://docs.google.com/spreadsheets/d/1j_3yvrEsH5C0DnXzB-6eZzT0OWNMf-7Q/edit?usp=drive_link&ouid=111144810877791116933&rtpof=true&sd=true,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/MWS_003/ED_04_LND_LULC_poly_v1.geojson,2019
+3,MWS-003,Land cover,Land cover,,LUPPD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/MWS_003/ED_04_LND_LULC_poly_v1.geojson,2019
+4,MWS-003,Reservation,Forest cover,,FD,Raw,Yes,Vector,,,,2019
+5,MWS-003,Reservation,Wild life boundary,,DWC,Raw,Yes,Vector,,,,2019
+6,UMW,Topography,Spote height,,MASL,Raw,Yes,Vector,,,,2010
+7,UMW,Topography,Contour,,MASl,Raw,Yes,Vector,,,,2010
+8,UMW,Topography,DEM,,IWMI,Derive,Yes,Raster,,,,2024
+9,UMW,Topography,Slope,,IWMI,Derive,Yes,Raster,,,,2024
+10,MWS-003,Soil,Soil type,,NRMC,Raw,Yes,Vector,,,,2010
+11,MWS-003,Climate,Agro-ecological zone,,NRMC,Raw,Yes,Vector,,,,2010
+12,MWS-003,Risk and Hazard,Landslide hazard zone,,NBRO,Raw,Yes,Vector,,,,2020
+13,MWS-003,Risk and Hazard,Flood,,,,Yes,Vector,,,,
+14,MWS-003,Risk and Hazard,Forest Fire,,IWMI,Derive,Yes,Vector,,,,2024
+15,MWS-003,Demography,Population,,RP,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/MWS_003/ED_07_SED_PPL_poly_v1.geojson,2023
+16,UMW,Hydrology,Stream network,,IWMI,Derive,Yes,Vector,,,,2024
+17,UMW,Hydrology,Mini watershed,,IWMI,Derive,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/UMW/MWS_Boundary_Updated_UMC_Names.geojson,2024
+18,MWS-003,Proposal Soil,Soil Conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Proposal/MWS_03_Soil_Conservation_ON_site_and_OFF_site_V1.csv,2024
+19,MWS-003,Proposal Soil,Non-point source pollution,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Proposal/MWS_03_Non_point_source_pollution_V1.csv,2024
+20,MWS-003,Proposal Soil,Lanslides,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Proposal/MWS_03_Lanslides_V1.csv,2024
+21,MWS-003,Proposal Soil,Household Waste,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Proposal/MWS_03_Household_Waste_V1.csv,2024
+22,MWS-003,Report,Watershed managment plan,,IWMI,Derive,No,Text,,,,2024
+23,MWS-003,Map,Atlas,,IWMI,Derive,No,Image,,,,2024
+24,MWS-003,Photo,,,IWMI,Derive,Yes,Photo,,,,2024

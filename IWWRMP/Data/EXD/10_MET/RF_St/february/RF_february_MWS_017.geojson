@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RF_february_MWS_017",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "station_na": "goonapitiya", "longitude": 80.8, "latitude": 7.05, "year_1976": 57.0, "year_1977": 89.0, "year_1978": 129.0, "year_1979": 122, "year_1980": 1, "year_1981": 163.0, "year_1982": 0, "year_1983": 14, "year_1984": 475.0, "year_1985": 186.0, "year_1986": 246.0, "year_1987": 71, "year_1988": 76.0, "year_1989": 33.0, "year_1990": 199.0, "year_1991": 84.0, "year_1992": 0, "year_1993": 70.0, "year_1994": 242.0, "year_1995": 140.0, "year_1996": 213.0, "year_1997": 52.0, "year_1998": 37.0, "year_1999": 288.0, "year_2000": 324.0, "year_2001": 195.0, "year_2002": 124.0, "year_2003": 85.0, "year_2004": 142.0, "year_2005": 30.0, "year_2006": 175.0, "year_2007": 56.0, "year_2008": 170.0, "year_2009": 6.0, "year_2010": 21, "year_2011": 437.0, "year_2012": 145.0, "year_2013": 214.0, "year_2014": 71.0, "year_2015": 509.0, "year_2016": 121.0, "year_2017": 210.0, "year_2018": 57.0, "year_2019": 179.0, "year_2020": 169.0, "AVG": 163.8095238 }, "geometry": { "type": "Point", "coordinates": [ 80.800000016764017, 7.05000000531167 ] } }
+]
+}

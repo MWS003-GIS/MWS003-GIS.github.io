@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MWS_7_1_Table_6_12",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "N": 7.22958, "E": 80.75434, "GND No.": 1002, "Scheme": "Udamailapitiya North Kolabotenna mala kandura", "Problem to be addressed / Recommendation": "Excessive embankment erosion. Recommended to 1. Dense planting of mixed vegetation comprising Areca nut trees /Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal del/ Kekuna randomly mixed seedlings at 500 mm grid intervals.\n2. Apply mulching, organic manure and NPK fertilizer. 3. Introduction of riparian plants within water holes. Covered area 300 m2.\n4. Construct six numbers of SABO-type rock boulder-packed dams across the stream at 200m intervals (H=1m, B= 1m, W=3m)", "Estimated Cost": "300000\n600000" }, "geometry": { "type": "Point", "coordinates": [ 80.75434, 7.22958 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "N": 7.22958, "E": 80.75434, "GND No.": 1002, "Scheme": "Udamailapitiya North Pragathi plant nursery stream", "Problem to be addressed / Recommendation": "Embankment erosion. Recommended 1. The introduction of sugar cane and vegetable grass covered an area of 200 m2.\n2. Construction of 300mm x 300mm x 100mm thick concrete canal lining for 50m length", "Estimated Cost": "200000\n400000" }, "geometry": { "type": "Point", "coordinates": [ 80.75434, 7.22958 ] } }
+]
+}

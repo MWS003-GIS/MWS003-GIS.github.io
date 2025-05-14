@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MWS_004_2_Table_6_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "N": 7.22566, "E": 80.68032, "Name": "Moragolla Wewa", "Work description": "1. Dense planting of mixed vegetation comprising Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal del/Kekuna randomly mixed seedlings at 500 mm grid intervals for 1000 m2. \n2. Apply mulching, organic manure, and NPK fertilizer.\n3. Introduction of Bamboo, Vetiver grass, and riparian plants. Covered area 100 m2. \n4. Plant two lines of Areca nut trees beside the reserve and cultivate betel creeper inside an area of around 50 m2.", "Amount (LKR)": "333,500" }, "geometry": { "type": "Point", "coordinates": [ 80.68032, 7.22566 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "N": 7.22548, "E": 80.67969, "Name": "Dug well inside Moragolla Wewa", "Work description": "Recommend removing silt deposits, cleaning the well, and re-plastering the damaged walls. ", "Amount (LKR)": "35,000" }, "geometry": { "type": "Point", "coordinates": [ 80.67969, 7.22548 ] } }
+]
+}

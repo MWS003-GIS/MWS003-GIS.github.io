@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "CA_Toponym_Pt_MWS_004_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "VALAMALA", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.67458073250333, 7.266392063741725, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "DOMBAWELLAWATTA", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.678696083565214, 7.267244572129875, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "WOODEN", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.699957600544678, 7.264461585269181, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Kirimetiya", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.690936913032061, 7.268581708136948, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Eramudugolla Gama", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.677368793198539, 7.255523028144309, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Enkendagolla Gama", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.66774902417194, 7.258832566767818, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Ketawala Gama", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.673181434952085, 7.261901131958296, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Elhena Colony", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.673316656720715, 7.264237739897609, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Gurudeniya Gama", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.691986617573576, 7.267145301897485, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Gurudeniya", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.689014851692377, 7.264817708066299, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bo Tree", "TO_Lb_meth": "8", "TO_GFCODE": "PLCEP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.674421509384644, 7.265333388326126, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "DAMBAWELAWATTA", "TO_Lb_meth": "13", "TO_GFCODE": "ESTTP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.680884997949548, 7.268126189980953, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Delumwatta", "TO_Lb_meth": "13", "TO_GFCODE": "PLCEP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.689351155922623, 7.265348675294084, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Dambawela", "TO_Lb_meth": "13", "TO_GFCODE": "PLCEP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.690011243883177, 7.268273794827965, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Thanda Yudapan Kovil", "TO_Lb_meth": "13", "TO_GFCODE": "PLCEP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.674970871896392, 7.26707614877106, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Lewla Gama", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.680335878811917, 7.255011851464213, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Kossinna Colony", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.681120188573146, 7.259450663215531, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Valamale Gama", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.674520251884687, 7.266430610653255, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Kedawalamaditta", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.697671688812321, 7.26428692294813, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Dambawela Colony", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.684393309423228, 7.267265936596959, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "MALIGATENNA", "TO_Lb_meth": "1", "TO_GFCODE": "ESTTP", "MWS_ID_No": "004_1" }, "geometry": { "type": "Point", "coordinates": [ 80.702443096858062, 7.258888789281573, 0.0 ] } }
+]
+}

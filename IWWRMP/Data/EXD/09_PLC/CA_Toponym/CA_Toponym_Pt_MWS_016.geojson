@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "CA_Toponym_Pt_MWS_016",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Udawela", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.773048774030229, 7.046095469641403, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "ELLAMULLE ESTATE", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.769324719677059, 7.043445429442211, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "WELLAKELLIE ESTATE", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.770407310721339, 7.036148395416567, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Pedro Mountain Range", "TO_Lb_meth": "13", "TO_GFCODE": "MISCP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.773238615207845, 7.002374809903059, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Elamulla Estate", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.769210961098509, 7.043310840215336, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Dothurukadura Colony", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.771682432517053, 7.038290928698735, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Medawela", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.781595658018858, 7.047913458674496, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Udawela", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.777121899466096, 7.046560238648683, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Mandarannuwara", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.787860801247874, 7.047004099247359, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Medawela Village", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.780478565921811, 7.048491355006351, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Mandarannuwara", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.783217778590327, 7.032084694844968, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Deegalahinna", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.77615830939969, 7.03347521153023, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "MANDARANNUWARA ESTATE", "TO_Lb_meth": "8", "TO_GFCODE": "ESTTP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.794865238279058, 7.034224392557046, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Dumbara Pitamale Kanda", "TO_Lb_meth": "13", "TO_GFCODE": "MISCP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.792020442501808, 7.044380120498587, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Piduruthalagala Forest", "TO_Lb_meth": "13", "TO_GFCODE": "PLCEP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.781187781686327, 7.010861459808551, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Malsara Nuwara", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.788718372839568, 7.034612062543558, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bangala Colony", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.784556464410656, 7.038019032750845, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Horagolla Estate", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.77473722633691, 7.033377311575509, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Wellakele", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.776126275948059, 7.036392083973101, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Udawela", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.774186342839158, 7.044120412002633, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hunukotuwa No:1 Colony", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.782000962539115, 7.043796941740058, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Park Farm", "TO_Lb_meth": "13", "TO_GFCODE": "VILLP", "MWS_ID_No": "000" }, "geometry": { "type": "Point", "coordinates": [ 80.796019709365169, 7.009159532585488, 0.0 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MWS0060602",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": 1035, "GN Division": "Maussawa", "Land Slides": "No major issues reported", "N or X": 0.0, "E or Y": 0.0, "NBRO Recommendation": null, "Proposed Measures": null }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "GN Division No.": 998, "GN Division": "Bawlanawatta ", "Land Slides": "Flooding houses", "N or X": 7.196531, "E or Y": 80.716866, "NBRO Recommendation": null, "Proposed Measures": "Facilitating drainage" }, "geometry": { "type": "Point", "coordinates": [ 80.716866, 7.196531 ] } }
+]
+}

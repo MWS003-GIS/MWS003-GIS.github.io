@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "CA_Toponym_Pt_MWS_008_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bbopitiya Watta", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.711395297282309, 7.187643631977184, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hulankada Colony", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.725198518444827, 7.182844628137, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Neelawala Watta", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.732749594528258, 7.182849507229686, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Kolabissa(Part)", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.739220641487961, 7.182743397664729, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Kolabissa(Part)", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.743305288515771, 7.182039195826021, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Murapola Colony(Part)", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.740674761401593, 7.185910325645653, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Murapola Colony(Part)", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.750245461013265, 7.184395371973276, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Wanahapuwa", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.719653551993133, 7.176327435130228, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bopitiyawatta", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.721047240070703, 7.17855870708001, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Medihene Colony", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.725407324450913, 7.173429674367063, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Hulankada Colony", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.724007310164453, 7.180101892198013, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Maussawa Neelawalawatta", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.729814418862716, 7.179617267399144, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Kiriwanaketiya", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.735006712562509, 7.178313189182354, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Kolabissa", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.740199325927762, 7.179881899860866, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Murapola", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.745733776783936, 7.181565591738784, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Watapandura", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.749796412876009, 7.179482399600349, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Bembiya", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.740192630538175, 7.169454245449006, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Nawaneliya", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.730512500538651, 7.167851305969989, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Mahagammedda", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.727290122252313, 7.163587943092145, 0.0 ] } },
+{ "type": "Feature", "properties": { "TO_Nm_Topo": "Kotagepitiya", "TO_Lb_meth": "8", "TO_GFCODE": "VILLP", "MWS_ID_No": "008_2" }, "geometry": { "type": "Point", "coordinates": [ 80.735573695467053, 7.163038873143349, 0.0 ] } }
+]
+}

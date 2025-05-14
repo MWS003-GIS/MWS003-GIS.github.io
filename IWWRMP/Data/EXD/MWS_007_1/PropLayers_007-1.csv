@@ -1,0 +1,12 @@
+ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,Download,geojson,Year
+1,MWS-007-1,Proposal,Proposal Soil,Soil and water conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_007_1/MWS_7_1_Table_6_1.geojson,2024
+2,MWS-007-1,Proposal,Proposal Soil,Reported landslides,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_007_1/MWS_7_1_Table_6_2.geojson,2024
+3,MWS-007-1,Proposal,Proposal Soil,Water source protection,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_007_1/MWS_7_1_Table_6_7.geojson,2024
+4,MWS-007-1,Proposal,Proposal Soil,Stream reservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_007_1/MWS_7_1_Table_6_12.geojson,2024
+5,MWS-007-1,Report,Report,Watershed managment plan,,IWMI,Derive,No,Text,,,,2024
+6,MWS-007-1,Map,Map,Atlas,,IWMI,Derive,No,Image,,,,2024
+7,MWS-007-1,Photo,Photo,Photo,,IWMI,Derive,Yes,Photo,,,,2024
+8,MWS-007-1,Proposal,Proposal Irrigation,Domestic water supply related activities,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_007_1/MWS_7_1_Table_6_6.geojson,2024
+9,MWS-007-1,Proposal,Proposal Irrigation,Minor irrigation related proposals,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_007_1/MWS_7_1_Table_6_8.geojson,2024
+10,MWS-007-1,Proposal,Proposal Irrigation,Water quality improvement,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_007_1/MWS_7_1_Table_6_9.geojson,2024
+11,MWS-007-1,Proposal,Proposal Irrigation,,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_004_2/MWS_004_2_Table_6_20.geojson,2024

@@ -1,0 +1,12 @@
+ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,Download,geojson,Year
+1,MWS-004-2,Proposal,Proposal Soil,Soil Conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_004_2/MWS_004_2_Table_6_1.geojson,2024
+2,MWS-004-2,Proposal,Proposal Soil,Non-point source pollution,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_004_2/MWS_004_2_Table_6_2.geojson,2024
+3,MWS-004-2,Proposal,Proposal Soil,Lanslides,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_004_2/MWS_004_2_Table_6_3.geojson,2024
+4,MWS-004-2,Proposal,Proposal Soil,Household Waste,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_004_2/MWS_004_2_Table_6_5.geojson,2024
+5,MWS-004-2,Report,Report,Watershed managment plan,,IWMI,Derive,No,Text,,,,2024
+6,MWS-004-2,Map,Map,Atlas,,IWMI,Derive,No,Image,,,,2024
+7,MWS-004-2,Photo,Photo,Photo,,IWMI,Derive,Yes,Photo,,,,2024
+1,MWS-004-2,Proposal,Proposal Irrigation,Soil Conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_004_2/MWS_004_2_Table_6_14.geojson,2024
+1,MWS-004-2,Proposal,Proposal Irrigation,Soil Conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_004_2/MWS_004_2_Table_6_15.geojson,2024
+1,MWS-004-2,Proposal,Proposal Irrigation,Soil Conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_004_2/MWS_004_2_Table_6_16.geojson,2024
+1,MWS-004-2,Proposal,Proposal Irrigation,Soil Conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_004_2/MWS_004_2_Table_6_20.geojson,2024
