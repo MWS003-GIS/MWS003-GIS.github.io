@@ -1,0 +1,43 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.22.5-Bia?owie?a">
+  <identifier>MWS_updating_sld99_DSD</identifier>
+  <parentidentifier></parentidentifier>
+  <language>ENG</language>
+  <type>dataset</type>
+  <title>MWS_updating_sld99_DSD</title>
+  <abstract></abstract>
+  <contact>
+    <name></name>
+    <organization></organization>
+    <position></position>
+    <voice></voice>
+    <fax></fax>
+    <email></email>
+    <role></role>
+  </contact>
+  <links/>
+  <fees></fees>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys>
+      <wkt>PROJCRS["SLD99 / Sri Lanka Grid 1999",BASEGEOGCRS["SLD99",DATUM["Sri Lanka Datum 1999",ELLIPSOID["Everest 1830 (1937 Adjustment)",6377276.345,300.8017,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",5233]],CONVERSION["Sri Lanka Grid 1999",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",7.00047152777778,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",80.7717130833333,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9999238418,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",500000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Sri Lanka - onshore."],BBOX[5.86,79.64,9.88,81.95]],ID["EPSG",5235]]</wkt>
+      <proj4>+proj=tmerc +lat_0=7.00047152777778 +lon_0=80.7717130833333 +k=0.9999238418 +x_0=500000 +y_0=500000 +ellps=evrst30 +towgs84=-0.293,766.95,87.713,0.195704,1.695068,3.473016,-0.039338 +units=m +no_defs</proj4>
+      <srsid>28058</srsid>
+      <srid>5235</srid>
+      <authid>EPSG:5235</authid>
+      <description>SLD99 / Sri Lanka Grid 1999</description>
+      <projectionacronym>tmerc</projectionacronym>
+      <ellipsoidacronym>EPSG:7015</ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial minx="0" maxx="0" dimensions="2" crs="EPSG:5235" minz="0" miny="0" maxy="0" maxz="0"/>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>

@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "lc": "A",
+        "name": "Forest Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[30.5, 50.5], [30.6, 50.6], [30.7, 50.5], [30.5, 50.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lc": "B",
+        "name": "Grassland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[30.8, 50.8], [30.9, 50.9], [31.0, 50.8], [30.8, 50.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lc": "C",
+        "name": "Urban Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[31.1, 50.1], [31.2, 50.2], [31.3, 50.1], [31.1, 50.1]]]
+      }
+    }
+  ]
+}
