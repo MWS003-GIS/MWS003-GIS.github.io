@@ -1,4 +1,4 @@
-ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,Download,geojson,Year
+ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Description,Download,geojson,Year
 21,MWS-003,Proposal,Proposal-Soil and Water Conservation,Soil and water conservation,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_003/Table 6_1.geojson,2024
 22,MWS-003,Proposal,Proposal-Water Resource Management,Domestic water supply and water source protection,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_003/Table 6_12.geojson,2024
 22,MWS-003,Proposal,Proposal-Water Resource Management,Minor irrigation related proposals,,IWMI/GCP,Field,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_003/Table 6_13.geojson,2024

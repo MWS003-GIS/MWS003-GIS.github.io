@@ -1,0 +1,17 @@
+ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Description,Download,geojson,Year
+1,MWS-002-2,Proposal,Proposal-Soil and Water Conservation,Soil and Water Conservation,Key activities proposed for soil and water conservation in MWS-002-2,,,,,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_002_2/Table_6_1.geojson,
+7,MWS-002-2,Proposal,Proposal-Water resource management,Water resource management,Estimate of domestic water supply and water source protection-related activities,,,,,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_002_2/Table_6_7.geojson,
+8,MWS-002-2,Proposal,Proposal-Water resource management,Water resource management,Cost estimate of minor irrigation related proposals with locations,,,,,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_002_2/Table_6_8.geojson,
+12,MWS-002-2,Proposal,Proposal-Stream reservation,Stream reservation,Total Cost Estimate for Stream Reservation Proposals,,,,,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/MWS_002_2/Table_6_12.geojson,
+25,MWS-002-2,Report,Report,Watershed managment plan,,IWMI,Derive,No,Text,,,,2024
+26,MWS-002-2,Map,Map,Atlas,,IWMI,Derive,No,Image,,,,2024
+27,MWS-002-2,Photo,Photo,Photo,,IWMI,Derive,Yes,Photo,,,,2024
+28,MWS-002-2,Detail,Location,Building,,SD,Raw,Yes,Vector,,,,
+29,MWS-002-2,Detail,Water features,Water features-point,,SD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/02_HYD/Hydro_Pt/HY_Hydro_Pt_MWS_002_2.geojson,
+30,MWS-002-2,Detail,Water features,Water features-line,,SD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/02_HYD/Hydro_Li/HY_Hydro_Li_MWS_002_2.geojson,
+31,MWS-002-2,Detail,Water features,Water features-polygon,,SD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/02_HYD/Hydro_Pg/HY_Hydro_Pg_MWS_002_2.geojson,
+32,MWS-002-2,Detail,Trasport,Raod,,SD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/08_TRP/TR_Transport/TR_Transport_Pt_MWS_002_2.geojson,
+33,MWS-002-2,Detail,Location ,Places,,,,,,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/09_PLC/CA_Toponym/CA_Toponym_Pt_MWS_002_2.geojson,
+22,MWS-002-2,Proposal,Proposal-Product and entrepreneurships developments,Pecoe Trail,,,,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/UMW/PekoeTrail_Li.geojson,2024
+22,MWS-002-2,Proposal,Proposal-Product and entrepreneurships developments,Tourist attract places,,,,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/UMW/Hanguranketha_Tourism.geojson,2024
+22,MWS-002-2,Proposal,Proposal-Product and entrepreneurships developments,Economic hubs,,,,Yes,Text,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/100_PRP/UMW/Hanguranketha_Economic_Hubs.geojson,2024
