@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "Name of the anicut": "Daraanakubura anicut", "GND No": "502", "Name of GND": "Ekiriya", "N": 7.144678, "E": 80.761994, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_011/AK3.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.761994, 7.144678 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "Name of the anicut": "Orukandawela anicut 1", "GND No": "502A", "Name of GND": "Hapugasdeniya", "N": 7.155494, "E": 80.757988, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_011/HG1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.757988, 7.155494 ] } },
+{ "type": "Feature", "properties": { "No.": 3, "Name of the anicut": "Orukandawela anicut 2", "GND No": "502A", "Name of GND": "Hapugasdeniya", "N": 7.155238, "E": 80.7576, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_011/HG4.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.7576, 7.155238 ] } },
+{ "type": "Feature", "properties": { "No.": 5, "Name of the anicut": "Madumana 2 Ela anicut", "GND No": "501C", "Name of GND": "Madumana", "N": 7.116463, "E": 80.756937, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.756937, 7.116463 ] } },
+{ "type": "Feature", "properties": { "No.": 6, "Name of the anicut": "Palle Hiran Ella anicut", "GND No": "498E", "Name of GND": "Puranagama", "N": 7.13445, "E": 80.754956, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_011/P (04)1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.754956, 7.13445 ] } },
+{ "type": "Feature", "properties": { "No.": 7, "Name of the anicut": "Weli Liyadda anicut", "GND No": "497", "Name of GND": "Unanthenna", "N": 7.166334, "E": 80.74429, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_011/UT (04)1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.74429, 7.166334 ] } },
+{ "type": "Feature", "properties": { "No.": 8, "Name of the anicut": "Gallegoda anicut", "GND No": "498", "Name of GND": "Wegama", "N": 7.129373, "E": 80.764866, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_011/W (04)5.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.764866, 7.129373 ] } }
+]
+}

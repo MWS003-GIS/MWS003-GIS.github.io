@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": true, "Tank name": "Imbuldanda Pathana Wewa", "Ownership": "DAD", "N": 7.14593, "E": 80.76925, "Remarks": "Recommended to improve reservation", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.76925, 7.14593 ] } }
+]
+}

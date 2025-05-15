@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6_13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": "499 B", "Name (Water resource/ Community water/ Community well/ Tube well/ Other)": "Sarvodaya community water tanks", "N": 7.124437, "E": 80.746595, "Observed problems (Construct tanks at the source/ Apply pipes/ Pipelines/ Water pollution/ Requirement of water quality tests)": "The tank cannot be used due to leakages. ", "Best solution": "The tanks should be reconstructed (3 tanks)", "Estimate (Rs)": "   1, 652, 000.00 ", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.746595, 7.124437 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": "500D", "Name (Water resource/ Community water/ Community well/ Tube well/ Other)": "\"Dunudiya Pahara\" water project", "N": 7.154035, "E": 80.744106, "Observed problems (Construct tanks at the source/ Apply pipes/ Pipelines/ Water pollution/ Requirement of water quality tests)": "The tank has not enough capacity to store water. ", "Best solution": "Construction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5", "Estimate (Rs)": "  550, 000.00 ", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_011/KB13.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.744106, 7.154035 ] } }
+]
+}
