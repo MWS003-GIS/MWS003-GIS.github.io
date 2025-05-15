@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": "503B", "Scheme": "Kakkutu kandura springs", "Problem to be addressed/Recommendation": "No Storage tank, No reservation for the spring, (10 families) Recommend \n1. to construct a ferro cement storage tank of 35 m3 capacity.\n2. Demarcate an area of 40 perch as a reservation around. \n3. Make dense planting of mixed vegetation comprising Agave/ Vetiver/ Canas/ Areca nut trees /Kumbuk/Mee/ Godapara/ Kaduru/ Aththikka/Wal del/ Kekuna / Kithul/ local fruits/ randomly mixed seedlings at 500 mm grid interval.\n4. Apply mulching, organic manure and NPK fertilizer. Covered area 600m2.\n5. Establishing a CBO and awareness for operation and maintenance \n6. Install 63mm Dia delivery pipe and 18mm lateral pipes for consumers and 25% of pipe cost contribution to be obtained from the users.", "N": 7.13366, "E": 80.71464, "Estimated Cost": "642,000", "Total cost": null }, "geometry": { "type": "Point", "coordinates": [ 80.71464, 7.13366 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": "503B", "Scheme": "Springs near the house of Mr. Samarakoon", "Problem to be addressed/Recommendation": "Dilapidated tank. Recommendations. \n1. to construct a ferro cement storage tank of 35 m3 capacity.\n2. Demarcate an area of 10 perch as a reservation around. \n3. Make dense planting of mixed vegetation comprising Agave/ Vetiver/ Canas/ Areca nut trees /Kumbuk/Mee/ Godapara/ Kaduru/ Aththikka/ Wal del/Kekuna /Kithul/ local fruits/ randomly mixed seedlings at 500 mm grid interval.\n4. Apply mulching, organic manure and NPK fertilizer. Covered area 400 m2", "N": 7.13372, "E": 80.71629, "Estimated Cost": "508,000", "Total cost": "LKR 1,150,000" }, "geometry": { "type": "Point", "coordinates": [ 80.71629, 7.13372 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": true, "GN Division No.": 998, "GN Division": "Bawlanawatta", "Land Slides": "Flooding houses", "N or X": 7.196531, "E or Y": 80.716866, "NBRO Recommendation": "-", "Proposed Measures": "Facilitating drainage", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_006_2/Bowlana_Waththa/BW30.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.716866, 7.196531 ] } }
+]
+}

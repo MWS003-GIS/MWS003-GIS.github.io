@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6-3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "field_1": 1, "Tank name": "Kurunduwaththa Wewa", "Custodian": "DAD", "N": 7.212206, "E": 80.782552, "Remarks on the condition": "Require de-silting of the tank" }, "geometry": { "type": "Point", "coordinates": [ 80.782552, 7.212206 ] } },
+{ "type": "Feature", "properties": { "field_1": 2, "Tank name": "Karadan Wewa", "Custodian": "DAD", "N": 7.20534, "E": 80.784728, "Remarks on the condition": "Require de-silting of the tank" }, "geometry": { "type": "Point", "coordinates": [ 80.784728, 7.20534 ] } },
+{ "type": "Feature", "properties": { "field_1": 3, "Tank name": "Malulla Wewa", "Custodian": "DAD", "N": 7.188907, "E": 80.790049, "Remarks on the condition": "Require de-silting of the tank" }, "geometry": { "type": "Point", "coordinates": [ 80.790049, 7.188907 ] } },
+{ "type": "Feature", "properties": { "field_1": 4, "Tank name": "Alakola Wewa", "Custodian": "DAD", "N": 7.187834, "E": 80.788752, "Remarks on the condition": "Require de-silting of the tank" }, "geometry": { "type": "Point", "coordinates": [ 80.788752, 7.187834 ] } },
+{ "type": "Feature", "properties": { "field_1": 5, "Tank name": "Batuketiya Wewa", "Custodian": "DAD", "N": 7.180648, "E": 80.780165, "Remarks on the condition": "Reservation is required." }, "geometry": { "type": "Point", "coordinates": [ 80.780165, 7.180648 ] } },
+{ "type": "Feature", "properties": { "field_1": 6, "Tank name": "Ethdaththawa Wewa", "Custodian": "DAD", "N": 7.20922, "E": 80.78004, "Remarks on the condition": "Bund strengthening" }, "geometry": { "type": "Point", "coordinates": [ 80.78004, 7.20922 ] } },
+{ "type": "Feature", "properties": { "field_1": 7, "Tank name": "Aswedduma Anicut", "Custodian": "DAD", "N": 7.219855, "E": 80.773231, "Remarks on the condition": "Rehabilitation of anicut" }, "geometry": { "type": "Point", "coordinates": [ 80.773231, 7.219855 ] } },
+{ "type": "Feature", "properties": { "field_1": 8, "Tank name": "Udage Ela Anicut", "Custodian": "DAD", "N": 7.218377, "E": 80.773514, "Remarks on the condition": "Rehabilitation of anicut and lining of canal" }, "geometry": { "type": "Point", "coordinates": [ 80.773514, 7.218377 ] } },
+{ "type": "Feature", "properties": { "field_1": 9, "Tank name": "Darakota Gaha Yata Ela Anicut", "Custodian": "DAD", "N": 7.214528, "E": 80.775348, "Remarks on the condition": "Concrete wall along the outlet canal" }, "geometry": { "type": "Point", "coordinates": [ 80.775348, 7.214528 ] } },
+{ "type": "Feature", "properties": { "field_1": 10, "Tank name": "Maraka Anicut", "Custodian": "DAD", "N": 7.199372, "E": 80.781233, "Remarks on the condition": "Timber planks needed for the anicut" }, "geometry": { "type": "Point", "coordinates": [ 80.781233, 7.199372 ] } }
+]
+}
