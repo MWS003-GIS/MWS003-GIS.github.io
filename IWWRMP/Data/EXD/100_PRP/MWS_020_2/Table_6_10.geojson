@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Tank name": "Hekatuwa Wewa  ", "Land ownership": "DAD", "N": 7.150099, "E": 80.81193, "Tentative Estimate (LKR)": "715,000.00", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.81193, 7.150099 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Kondatenna Wewa", "Land ownership": "DAD", "N": 7.15692, "E": 80.81054, "Tentative Estimate (LKR)": "3,070,500.00", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_2/UGU (04)9.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.81054, 7.15692 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Mawaramaditta Wewa", "Land ownership": "DAD", "N": 7.16159, "E": 80.8186, "Tentative Estimate (LKR)": "2,765,000.00", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_2/UGU (04)5.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.8186, 7.16159 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Wilpassa Wewa", "Land ownership": "DAD", "N": 7.1596, "E": 80.80473, "Tentative Estimate (LKR)": "2,667,000.00", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.80473, 7.1596 ] } }
+]
+}

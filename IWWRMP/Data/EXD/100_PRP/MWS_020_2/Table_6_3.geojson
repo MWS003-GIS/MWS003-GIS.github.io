@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
-"name": "Table 6-3",
+"name": "Table 6_3",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Tank name": "Hekatuwa Wewa", "Ownership": "DAD", "N": 7.150099, "E": 80.81193, "Remarks": "Recommended, Sluice repair, spill raise, Sediment control" }, "geometry": { "type": "Point", "coordinates": [ 80.81193, 7.150099 ] } },
-{ "type": "Feature", "properties": { "Tank name": "Kondatenna Wewa", "Ownership": "DAD", "N": 7.15692, "E": 80.81054, "Remarks": "Recommended, Upstream protection, improve reservation, Removal of invasive plants" }, "geometry": { "type": "Point", "coordinates": [ 80.81054, 7.15692 ] } },
-{ "type": "Feature", "properties": { "Tank name": "Mawaramaditta Wewa", "Ownership": "DAD", "N": 7.16159, "E": 80.8186, "Remarks": "Recommended sluice repair, improve earthen bund, improve reservation" }, "geometry": { "type": "Point", "coordinates": [ 80.8186, 7.16159 ] } },
-{ "type": "Feature", "properties": { "Tank name": "Wilpassa Wewa", "Ownership": "DAD", "N": 7.1596, "E": 80.80473, "Remarks": "Good Condition Recommended to improve reservation, capacity enhancement, US protection" }, "geometry": { "type": "Point", "coordinates": [ 80.80473, 7.1596 ] } }
+{ "type": "Feature", "properties": { "Tank name": "Hekatuwa Wewa", "Ownership": "DAD", "N": 7.150099, "E": 80.81193, "Remarks": "Recommended, Sluice repair, spill raise, Sediment control", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.81193, 7.150099 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Kondatenna Wewa", "Ownership": "DAD", "N": 7.15692, "E": 80.81054, "Remarks": "Recommended, Upstream protection, improve reservation, Removal of invasive plants", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_2/UGU (04)9.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.81054, 7.15692 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Mawaramaditta Wewa", "Ownership": "DAD", "N": 7.16159, "E": 80.8186, "Remarks": "Recommended sluice repair, improve earthen bund, improve reservation", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_2/UGU (04)5.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.8186, 7.16159 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Wilpassa Wewa", "Ownership": "DAD", "N": 7.1596, "E": 80.80473, "Remarks": "Good Condition Recommended to improve reservation, capacity enhancement, US protection", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.80473, 7.1596 ] } }
 ]
 }

@@ -1,12 +1,8 @@
 {
 "type": "FeatureCollection",
-"name": "Table 6-2",
+"name": "Table 6_2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": "501G", "GN Division": "Hope", "Land Slides": "No special issues reported", "N or X": null, "E or Y": null, "NBRO Recommendation": null, "Proposed Measures": null }, "geometry": null },
-{ "type": "Feature", "properties": { "No.": 2, "GN Division No.": "499G", "GN Division": "Kirimetiya2", "Land Slides": "No special issues reported", "N or X": null, "E or Y": null, "NBRO Recommendation": null, "Proposed Measures": null }, "geometry": null },
-{ "type": "Feature", "properties": { "No.": 3, "GN Division No.": "501B", "GN Division": "Muloya", "Land Slides": "Soil sloughing, breaking/collapsing walls of the buildings - - Muloya Regional Hospital", "N or X": 7.09745, "E or Y": 80.750984, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Establishing a rubble masonry wall (30 m x 3.6 m)" }, "geometry": { "type": "Point", "coordinates": [ 80.750984, 7.09745 ] } },
-{ "type": "Feature", "properties": { "No.": 4, "GN Division No.": "501", "GN Division": "Rahathungoda", "Land Slides": "No special issues reported", "N or X": null, "E or Y": null, "NBRO Recommendation": null, "Proposed Measures": null }, "geometry": null },
-{ "type": "Feature", "properties": { "No.": 5, "GN Division No.": "501F", "GN Division": "Rookwood Estate", "Land Slides": "No special issues reported", "N or X": null, "E or Y": null, "NBRO Recommendation": null, "Proposed Measures": null }, "geometry": null }
+{ "type": "Feature", "properties": { "No.": 3, "GN Division No.": "501B", "GN Division": "Muloya", "Land Slides": "Soil sloughing, breaking/collapsing walls of the buildings - - Muloya Regional Hospital", "N or X": 7.09745, "E or Y": 80.750984, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Establishing a rubble masonry wall (30 m x 3.6 m)", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.750984, 7.09745 ] } }
 ]
 }

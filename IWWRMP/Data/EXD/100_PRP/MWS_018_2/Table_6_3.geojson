@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
-"name": "Table 6-3",
+"name": "Table 6_3",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Tank name": "Rookwood Bangalawa wewa", "Ownership": "JEDB", "N": 7.090118, "E": 80.764384, "Remarks": "Recommended to desilt the tank and improve reservation and agroforestry" }, "geometry": { "type": "Point", "coordinates": [ 80.764384, 7.090118 ] } },
-{ "type": "Feature", "properties": { "Tank name": "Rookwood Akkara 50 wewa", "Ownership": "JEDB", "N": 7.090096, "E": 80.760953, "Remarks": "Recommended to desilt the tank and improve reservation and agroforestry" }, "geometry": { "type": "Point", "coordinates": [ 80.760953, 7.090096 ] } }
+{ "type": "Feature", "properties": { "Tank name": "Rookwood Bangalawa wewa", "Ownership": "JEDB", "N": 7.090118, "E": 80.764384, "Remarks": "Recommended to desilt the tank and improve reservation and agroforestry", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_018_2/R (04)1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.764384, 7.090118 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Rookwood Akkara 50 wewa", "Ownership": "JEDB", "N": 7.090096, "E": 80.760953, "Remarks": "Recommended to desilt the tank and improve reservation and agroforestry", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_018_2/R (04)2.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.760953, 7.090096 ] } }
 ]
 }
