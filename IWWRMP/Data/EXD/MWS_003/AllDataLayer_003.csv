@@ -3,7 +3,6 @@ ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,Downloa
 2,MWS-003,Base,Administration,DSD Boundary,,SD,Raw,Yes,Vector,,https://docs.google.com/spreadsheets/d/1j_3yvrEsH5C0DnXzB-6eZzT0OWNMf-7Q/edit?usp=drive_link&ouid=111144810877791116933&rtpof=true&sd=true,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/01_ADM/DSD/EXD_01_ADM_DSD_PATHAHEWAHETA.geojson,2019
 3,MWS-003,Base,Administration,GN Boundary,,SD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/01_ADM/GND/MWS_003.geojson,2019
 4,MWS-003,Base,Land cover,Land cover,,LUPPD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/04_LND/LND_LULC/LND_LULC_MWS_003.geojson,2019
-5,MWS-003,Base,Reservation,,,FD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/03_RSV/RSV_FRC_TF/RSV_FRC_TF_MWS_003.geojson,
 6,MWS-003,Base,Reservation,Reserved forest,,FD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/03_RSV/RSV_FRC_RF/RSV_FRC_RF_UMW.geojson,
 7,MWS-003,Base,Reservation,Conservation forest,,FD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/03_RSV/RSV_FRC_CNF/RSV_FRC_CNF_UMW.geojson,2019
 8,MWS-003,Base,Reservation,Wild life boundary,,DWC,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/03_RSV/RSV_DWC/RSV_DWC_UMW.geojson,2019
