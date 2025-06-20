@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "119_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "4", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 474559.451000000059139, 525895.148799999500625, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "3", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 473492.021400000608992, 526840.906300000729971, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "5", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 473534.0397999996203, 525563.49449999933131, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "5", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 474091.412600001320243, 525502.5900999995647, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "3", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 474533.251599999959581, 526607.841399999451824, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Nagahamula Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 473958.862199999799486, 525885.197599999140948, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Bandarahenthenna Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 473584.572200000518933, 525825.497599999420345, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Hapudandawala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 473513.496500000474043, 525947.780899998964742, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Nagahamula Juntion", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 473692.336799999698997, 526568.386600001365878, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kethgalla Ambagasthenna Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 473411.129200000141282, 526573.198499999474734, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Tigolmanda Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 473021.079600000753999, 527128.36060000048019, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Balungala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 472530.401000000012573, 527593.026199999265373, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kurukuththala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 473252.05309999990277, 526883.392300000181422, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Ganhatha Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 474316.598399999784306, 525839.372600001166575, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "2", "TP_Lb_meth": "9", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 472915.907600000267848, 527250.267599999904633, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "4", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 473454.583200000051875, 526062.938100001774728, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Dihitiyawala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 474743.427799999248236, 524847.148400000063702, 0.0 ] } }
+]
+}

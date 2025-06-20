@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "042_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "83", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 505247.38190000114264, 492033.059900000458583, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "81", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 503446.461000000766944, 492762.29890000144951, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "80", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 502849.649100000155158, 493180.013599998317659, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "79", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 502190.200100001064129, 493831.163799999456387, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "82", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 504297.5320999994874, 492318.181500000180677, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Hakgala", "TP_Lb_meth": "1", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 505432.6173000006238, 491814.902899998822249, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Seethaeliya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 503327.712100000411738, 492993.990700000780635, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Bakers Farm Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 501919.155699999653734, 494096.898900001426227, 0.0 ] } }
+]
+}

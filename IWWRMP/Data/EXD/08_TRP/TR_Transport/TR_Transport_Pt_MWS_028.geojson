@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "028",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "Elma Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 506279.379099998914171, 508965.484099998953752, 0.0 ] } }
+]
+}

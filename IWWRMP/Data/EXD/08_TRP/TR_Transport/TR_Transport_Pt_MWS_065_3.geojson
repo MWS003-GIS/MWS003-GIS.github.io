@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "065_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "17", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 523751.19776346400613, 481131.909154612163547, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "16", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 523339.014656585291959, 480463.285088703094516, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "15", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 523287.770353027968667, 480030.20662191224983, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "9", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 522751.377863364759833, 480144.441300835867878, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "14", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 522822.349517637514509, 479213.069865232449956, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "13", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 522518.327094081090763, 478370.578165085171349, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "12", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 522459.199540640460327, 477913.877166851714719, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Pirivena Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 524395.686100000049919, 479947.529300001449883, 0.0 ] } }
+]
+}

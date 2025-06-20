@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "144_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "10", "TP_Lb_meth": "2", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 468692.525299999921117, 500173.631799999857321, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "9", "TP_Lb_meth": "2", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 468706.659600000130013, 500940.940800000331365, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Blackwater Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 468630.046199999691453, 500439.865900000673719, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Freshwater Fisheries Center Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 468860.727800001564901, 500694.283399999374524, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "53", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 469200.006599999265745, 498668.737999999779277, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "54", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 469906.821599999384489, 497974.923399999679532, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "56", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 470742.612900000356603, 497069.398099999933038, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "57", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 471230.420400000875816, 496480.96539999981178, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "58", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 471743.126499999722, 495776.676600000530016, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "59", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 472479.35090000013588, 495231.284200000111014, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Diyagala Junction", "TP_Lb_meth": "8", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 471742.80819999956293, 495826.933299999858718, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "1", "TP_Lb_meth": "12", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 472626.329299999633804, 495562.394199999922421, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "2", "TP_Lb_meth": "12", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 472741.91980000078911, 495632.268900000257418, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "12", "TP_Lb_meth": "12", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 469080.072700000717305, 498794.517300001054537, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "11", "TP_Lb_meth": "12", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 468844.323000000207685, 499513.2058, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "60", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 473147.315399999381043, 494660.094599999603815, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "61", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 473777.021400000434369, 493982.166300000972115, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "62", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 474364.605500000121538, 493415.711799999291543, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "63", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 474926.960300000850111, 492739.23800000018673, 0.0 ] } }
+]
+}

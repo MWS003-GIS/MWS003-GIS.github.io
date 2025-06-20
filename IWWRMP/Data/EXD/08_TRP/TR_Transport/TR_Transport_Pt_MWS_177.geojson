@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "177",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "11", "TP_Lb_meth": "2", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 479325.165000000793952, 501487.243699999933597, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "12", "TP_Lb_meth": "2", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 479720.923899999703281, 501194.043400000082329, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "13", "TP_Lb_meth": "2", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 480248.414300001342781, 501503.168500000319909, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "14", "TP_Lb_meth": "2", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 480697.673599999630824, 501301.857599999057129, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "15", "TP_Lb_meth": "2", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 480811.601299999339972, 500713.332900001318194, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Ketambula Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 480193.092199999722652, 501574.424900001322385, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "16", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 480830.648899999330752, 499961.657900000573136, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "17", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 481366.07810000050813, 499380.173299999150913, 0.0 ] } }
+]
+}

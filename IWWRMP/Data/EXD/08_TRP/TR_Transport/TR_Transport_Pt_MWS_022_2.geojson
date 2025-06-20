@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "022_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "11", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 505852.384099999791943, 500382.465699999884237, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "12", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 505771.169900001084898, 501189.738600000913721, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "13", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 505738.14259999897331, 501630.290699998789933, 0.0 ] } }
+]
+}

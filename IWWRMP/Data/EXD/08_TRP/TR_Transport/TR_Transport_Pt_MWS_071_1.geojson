@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "071_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Dehigolla Kandura Junction", "TP_Lb_meth": "8", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 525660.655499999877065, 501894.824000000080559, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kobbeketiya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 524306.580600001150742, 500208.759299999161158, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Muthuwallapitiya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 524357.173799999756739, 500129.0685, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Amunegoda Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 525485.056100000627339, 500313.544199998781551, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Jagulla Temple Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 525731.020099999499507, 500653.94800000009127, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Narangala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 524731.771700000041164, 502840.096000001823995, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "13", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 524556.438000000314787, 502775.898300000058953, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "12", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 524790.101300000795163, 502355.544299999601208, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "11", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 525296.440599999972619, 501979.858200000075158, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "10", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 525502.48400000075344, 501445.499700000684243, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "9", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 525735.216299999388866, 500635.299699998518918, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Ketawala Junction", "TP_Lb_meth": "12", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 526397.05570000060834, 499279.0041000014171, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Millagaspitiya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 525250.652999999816529, 499638.694399999920279, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Pathanakade Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 525469.393100000917912, 499793.607600000745151, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "8", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 525882.226300000213087, 499970.605900000198744, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "7", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 526548.025499999639578, 499434.230399999476504, 0.0 ] } }
+]
+}

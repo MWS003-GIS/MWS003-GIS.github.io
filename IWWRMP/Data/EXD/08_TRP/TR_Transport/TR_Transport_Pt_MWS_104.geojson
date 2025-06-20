@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "104",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "1", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 492404.669999999401625, 535578.439899999648333, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "4", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 494301.910099999920931, 535845.460899998433888, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Udagama Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 492631.140000000130385, 535664.949899998377077, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "621 Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 491976.8260000005248, 534834.078500001225621, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "11", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 494079.905500000342727, 531187.963100000168197, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "10", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 493345.030600001220591, 531774.482100000488572, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "5", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 492972.266000000527129, 534251.464199998648837, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "12", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 494192.9459, 532045.879099999787286, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "13", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 494789.259200001077261, 532457.702600000426173, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "6", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 493839.519500001275446, 534098.968699998571537, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "4", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 492211.321200000471435, 534769.456300000776537, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Ambakote Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 494966.955900000408292, 532497.428100000135601, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Diyabubula Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 494493.936800000141375, 532329.824299999978393, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kengalla Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 494224.89500000042608, 532175.621099998592399, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Kolongahawatta Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 494712.297900000354275, 532436.114499999326654, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Galkaduwa Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 493983.666700000525452, 534752.502099999808706, 0.0 ] } }
+]
+}

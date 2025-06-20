@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "085",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Oyekade  Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 502468.877700000186451, 535663.42159999825526, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Heeloya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 502955.500599999679253, 535519.139899999951012, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Rangala Junction", "TP_Lb_meth": "8", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 501800.303999998664949, 539274.392699999851175, 0.0 ] } }
+]
+}

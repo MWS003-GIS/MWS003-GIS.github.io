@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "092",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Gatagahawela Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 499974.200000001059379, 536753.14000000001397, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "23", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 499637.852800001273863, 533117.766099999542348, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "22", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 499335.433400000736583, 533844.842599998461083, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "21", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 498549.275100000202656, 534565.817999999388121, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Rangala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 499334.242800000240095, 533420.582300000707619, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "26", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 501311.523299999244045, 530841.279300000402145, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "25", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 500894.781699999759439, 531732.859699998865835, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "24", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 500267.809899999236222, 532407.916300001554191, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Siridigana Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 500514.22609999938868, 534893.70310000074096, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Dehigashinna Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 502099.729099999298342, 534717.196200000937097, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Udispattuwa Junction", "TP_Lb_meth": "8", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 501285.246499999775551, 534645.961699999403208, 0.0 ] } }
+]
+}

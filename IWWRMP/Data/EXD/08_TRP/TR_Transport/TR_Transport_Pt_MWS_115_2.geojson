@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "115_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Ihagama Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 477652.345000000845175, 540136.571599999442697, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Amuwandeniya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 476576.809000000939704, 540406.437900000135414, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "5", "TP_Lb_meth": "9", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 477512.564199999440461, 540134.741099999868311, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "4", "TP_Lb_meth": "4", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 477161.921600001049228, 539702.490900000208057, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "9", "TP_Lb_meth": "4", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 477312.774299999233335, 539280.752699999138713, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "School Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 479403.135199999378528, 539201.011000000522472, 0.0 ] } }
+]
+}

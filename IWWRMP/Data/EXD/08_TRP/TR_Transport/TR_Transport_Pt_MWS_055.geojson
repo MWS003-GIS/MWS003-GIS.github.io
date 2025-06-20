@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "055",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "8", "TP_Lb_meth": "1", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 510638.546749229426496, 484165.990964766184334, 0.0 ] } }
+]
+}

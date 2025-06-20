@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "107_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "6 Kanuwa Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 487794.020000000193249, 535934.530999998562038, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Polgollawatta Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 487434.130600000789855, 535907.707699998863973, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "5", "TP_Lb_meth": "14", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 487862.80999999854248, 535948.640400000731461, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "4", "TP_Lb_meth": "14", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 486929.019699999364093, 535856.650099999154918, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "2", "TP_Lb_meth": "4", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 487038.171700000762939, 534600.342199998907745, 0.0 ] } }
+]
+}

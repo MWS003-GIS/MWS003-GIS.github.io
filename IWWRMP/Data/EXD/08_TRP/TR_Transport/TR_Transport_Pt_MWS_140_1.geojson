@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "140_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "5", "TP_Lb_meth": "2", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 470275.734100000874605, 503729.334799999254756, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "6", "TP_Lb_meth": "2", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 469804.681100000278093, 502996.758300000103191, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Nagasthenna Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 470155.038299999549054, 503713.546499999298248, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Vidyala Handiya", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 469932.093099999823608, 503196.773099999583792, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Pansala Handiya", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 469725.168299999088049, 502749.850199999345932, 0.0 ] } }
+]
+}

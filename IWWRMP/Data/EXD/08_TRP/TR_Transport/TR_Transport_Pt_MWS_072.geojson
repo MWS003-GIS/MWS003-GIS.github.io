@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "072",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Bokanoruwa Ambalama", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 524069.787899999180809, 504489.288000000407919, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "17", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 524308.585199999623001, 503694.887299999827519, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "16", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 524205.77979999978561, 503344.796599998837337, 0.0 ] } }
+]
+}

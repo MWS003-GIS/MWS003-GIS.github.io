@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "095",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "8", "TP_Lb_meth": "9", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 494023.393700000713579, 547961.791499999351799, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "9", "TP_Lb_meth": "9", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 493553.8123, 548536.860599999316037, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Nellimale Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 494144.615799999621231, 547898.693199999281205, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Galagiriya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 493950.018100000161212, 548301.685300000244752, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Diyanilla Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 493188.239999999583233, 549478.648699999786913, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "10", "TP_Lb_meth": "9", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 493342.146599999512546, 549260.840600000112318, 0.0 ] } }
+]
+}

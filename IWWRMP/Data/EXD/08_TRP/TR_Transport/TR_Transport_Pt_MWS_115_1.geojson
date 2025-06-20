@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "115_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "16", "TP_Lb_meth": "6", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 474967.391900001093745, 540357.255799999227747, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Walatenna Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 474663.209800000011455, 540869.811699999729171, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "18", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 475054.25339999893913, 538780.79150000133086, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Diyapalagoda Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 475003.35000000015134, 539018.92000000004191, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "1", "TP_Lb_meth": "4", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 476289.705099999206141, 537999.930999999982305, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "3", "TP_Lb_meth": "4", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 476977.363399999216199, 538872.191199999302626, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "2", "TP_Lb_meth": "4", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 476604.389600000693463, 538401.306099999696016, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Muthukeliyawa Junction", "TP_Lb_meth": "4", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 476701.015200001362246, 538461.45099999953527, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Marawanagoda M P S Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 476071.095099999685772, 537842.260999999707565, 0.0 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "043_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Paranagama", "TP_Lb_meth": "1", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 511663.389073290280066, 495944.786637207842432, 0.0 ] } }
+]
+}

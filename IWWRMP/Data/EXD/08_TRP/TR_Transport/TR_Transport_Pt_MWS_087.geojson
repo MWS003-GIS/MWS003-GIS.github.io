@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "087",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Retiyagama Busstop Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 503622.644500001159031, 534445.509899999131449, 0.0 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "113_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Happyland Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 476980.265200000663754, 538864.021000000182539, 0.0 ] } }
+]
+}

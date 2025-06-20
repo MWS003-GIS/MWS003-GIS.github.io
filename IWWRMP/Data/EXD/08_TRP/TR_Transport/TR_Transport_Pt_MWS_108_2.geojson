@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "108_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Bogahamula Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 482552.811800000781659, 544223.781600000569597, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Akurana Siya Hospital junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 482891.705500001087785, 540178.27800000004936, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Uggala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 483678.405099999043159, 540194.225099999224767, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "8 Mile post Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 482688.384299999626819, 542600.587200000300072, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Dunuwila Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 482892.012799999676645, 540210.77059999993071, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "10", "TP_Lb_meth": "14", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 482700.715500000573229, 540520.768799999263138, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "11", "TP_Lb_meth": "14", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 482976.715299999457784, 541358.01459999976214, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "12", "TP_Lb_meth": "14", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 482783.937199999403674, 542319.010800000629388, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "13", "TP_Lb_meth": "14", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 482580.985700000601355, 543248.71920000074897, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "14", "TP_Lb_meth": "14", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 482362.243200001074001, 543965.990300000179559, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "15", "TP_Lb_meth": "14", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 482155.936900000786409, 544648.740099999587983, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Tenna Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 484115.255199998966418, 543504.520999999251217, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Dunuwila Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 485843.725099999748636, 541977.000999999581836, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "9", "TP_Lb_meth": "9", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 482795.549100000585895, 539782.395600001444109, 0.0 ] } }
+]
+}

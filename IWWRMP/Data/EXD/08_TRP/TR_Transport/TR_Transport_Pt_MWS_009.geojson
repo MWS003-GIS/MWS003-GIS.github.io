@@ -1,12 +1,12 @@
 {
 "type": "FeatureCollection",
-"name": "TR_Transport_Pt_MWS_009",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "009",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
 "features": [
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "39", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.730659769572497, 7.129731717401732, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "40", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.736872844788493, 7.126380862177061, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "41", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.741079117551664, 7.121292131884804, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Handawalapitiya School Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.735026762274259, 7.127073859232624, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Hope Watta Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.743118005705526, 7.12002286930834, 0.0 ] } }
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "39", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 495242.159399999422021, 514257.288800000154879, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "40", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 495928.389000000490341, 513886.68340000056196, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "41", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 496392.950500001257751, 513323.927399999462068, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Handawalapitiya School Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 495724.486500000057276, 513963.333799999556504, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Hope Watta Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 496618.148600000946317, 513183.553999999712687, 0.0 ] } }
 ]
 }

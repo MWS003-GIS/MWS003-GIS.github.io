@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "137",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
+"features": [
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "2", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 474291.232099999440834, 505050.606500000809319, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "3", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 475057.031100000487641, 505020.739900001499336, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "1", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 473719.181400000990834, 505229.704000000143424, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Dekida Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 473871.446699999563862, 505213.725700001115911, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": null, "TP_Lb_meth": "1", "TP_GFCODE": "RLCPP" }, "geometry": { "type": "Point", "coordinates": [ 473738.707099999883212, 503267.91410000086762, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": null, "TP_Lb_meth": "1", "TP_GFCODE": "RLCPP" }, "geometry": { "type": "Point", "coordinates": [ 472978.807799999020062, 504411.203300000226591, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": null, "TP_Lb_meth": "1", "TP_GFCODE": "RLCPP" }, "geometry": { "type": "Point", "coordinates": [ 474819.963299999362789, 501952.460000000195578, 0.0 ] } }
+]
+}

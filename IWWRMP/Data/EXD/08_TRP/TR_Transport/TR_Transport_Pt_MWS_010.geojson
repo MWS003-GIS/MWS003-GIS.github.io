@@ -1,14 +1,14 @@
 {
 "type": "FeatureCollection",
-"name": "TR_Transport_Pt_MWS_010",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "010",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5235" } },
 "features": [
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "42", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.746286122103015, 7.1168702962627, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "43", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.751892111833044, 7.113655870515256, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "44", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.757362741910512, 7.108094999749348, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "45", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.763680219956626, 7.106795146967581, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "46", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 80.762809572304519, 7.110717745880557, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Muloya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.763721871661033, 7.106683271030178, 0.0 ] } },
-{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Aligala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 80.762339819989606, 7.100384028883965, 0.0 ] } }
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "42", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 496968.065499998512678, 512834.914499999547843, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "43", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 497587.269900000072084, 512479.422700000053737, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "44", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 498191.520500000275206, 511864.466399999568239, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "45", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 498889.342199999140576, 511720.703099999576807, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 2, "TP_Nm_Tran": "46", "TP_Lb_meth": "8", "TP_GFCODE": "KLMPP" }, "geometry": { "type": "Point", "coordinates": [ 498793.183400000212714, 512154.471500000334345, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Muloya Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 498893.942699999548495, 511708.331599999219179, 0.0 ] } },
+{ "type": "Feature", "properties": { "TP_Tp_Tran": 1, "TP_Nm_Tran": "Aligala Junction", "TP_Lb_meth": "13", "TP_GFCODE": "JUNCP" }, "geometry": { "type": "Point", "coordinates": [ 498741.260200001357589, 511011.758500000752974, 0.0 ] } }
 ]
 }
