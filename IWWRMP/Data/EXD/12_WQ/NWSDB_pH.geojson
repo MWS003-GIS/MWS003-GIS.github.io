@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "NWSDB_pH",
+"name": "pH",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Water Supp": "Rikillagaskada", "Water Sour": "Mul Oya", "Location o": "Rikillagaskada", "Lat": 7.102550787, "Long": 80.75525007, "WQ_12022": 7.31, "WQ_22022": 8.09, "WQ_32022": 7.82, "WQ_42022": 7.44, "WQ_52022": 7.28, "WQ_62022": 7.26, "WQ_72022": 7.81, "WQ_82022": "7.75", "WQ_92022": 7.56, "WQ_102022": 7.27, "WQ_112022": 8.16, "WQ_122022": 7.62, "WQ_12023": "8.51", "WQ_22023": "6.78", "WQ_32023": "6.78", "WQ_42023": "6.45", "WQ_52023": "7.3", "WQ_62023": "7.26", "WQ_72023": "6.95", "WQ_82023": "7.1", "WQ_92023": "7.42", "WQ_102023": "6.65", "WQ_112023": "8.11", "WQ_122023": "7.33", "Monthly_av": 7.417083333 }, "geometry": { "type": "Point", "coordinates": [ 80.75525007, 7.102550787 ] } },
