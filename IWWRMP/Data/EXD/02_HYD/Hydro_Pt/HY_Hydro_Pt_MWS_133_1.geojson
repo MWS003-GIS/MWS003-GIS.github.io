@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pt_MWS_133_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.54580510544163, 7.205610449723062, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.545751548962556, 7.205539047951011, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.545282601030422, 7.207143402298251, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.551959545619738, 7.203412355393575, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.552318834978095, 7.203416282559545, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.553977937775187, 7.203083647684523, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.554275649841131, 7.20287586777338, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.554401461173143, 7.202034652250895, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.554611801331149, 7.201380809401788, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.555467410423432, 7.200279710773867, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.554757495551485, 7.194370736084495, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.554684125771985, 7.193539042738391, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.554521057478894, 7.191514226942915, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.555788498035938, 7.190843102433793, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.551797505110898, 7.191108695557642, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.571181002340339, 7.19056881815104, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.559825343305548, 7.190767596090216, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": "Deldeniya Spring", "HP_Lb_meth": "13", "HP_GFCODE": "SPRNP" }, "geometry": { "type": "Point", "coordinates": [ 80.569171218424515, 7.189654499602434, 0.0 ] } }
+]
+}

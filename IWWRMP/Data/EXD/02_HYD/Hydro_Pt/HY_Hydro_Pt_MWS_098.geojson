@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pt_MWS_098",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.772769977134985, 7.387051441111166, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.77183414484422, 7.387441083685105, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.770591510993469, 7.387885760783804, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.77089552077544, 7.38783620884685, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.770415763794091, 7.388621769751976, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.770861623518343, 7.389358872740755, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.77101942250502, 7.389666879833119, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.770053454107213, 7.392415131557002, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.770188879492522, 7.392581613568201, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.769924374793405, 7.392101671634983, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.77088450689017, 7.392230482261149, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.776149793561189, 7.387450357294008, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.778259341921981, 7.392530864225962, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.778039976321807, 7.396938085516543, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.778003616926938, 7.398656705121216, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.776379877702695, 7.390340487812737, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.774726835881935, 7.390092349966555, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.774253137351764, 7.39084288138588, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.777089680353939, 7.388642572855393, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Gonawala Diya Ella", "HP_Lb_meth": "13", "HP_GFCODE": "WTRFP" }, "geometry": { "type": "Point", "coordinates": [ 80.809341276463073, 7.39508436253032, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Jodu Ella", "HP_Lb_meth": "13", "HP_GFCODE": "WTRFP" }, "geometry": { "type": "Point", "coordinates": [ 80.773832159298991, 7.401739258437819, 0.0 ] } }
+]
+}

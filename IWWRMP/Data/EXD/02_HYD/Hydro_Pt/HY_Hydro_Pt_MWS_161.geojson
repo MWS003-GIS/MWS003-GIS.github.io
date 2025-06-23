@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pt_MWS_161",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Aljin Water Fall", "HP_Lb_meth": "13", "HP_GFCODE": "WTRFP" }, "geometry": { "type": "Point", "coordinates": [ 80.78073704739495, 6.884521131330808, 0.0 ] } }
+]
+}

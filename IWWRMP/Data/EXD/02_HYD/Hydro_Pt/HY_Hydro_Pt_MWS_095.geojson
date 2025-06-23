@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pt_MWS_095",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.712311074206937, 7.44793644769229, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.712634734195873, 7.447631486970548, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.713297736307226, 7.445232553410393, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.714100992841935, 7.441265839374574, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.714269427809597, 7.440869655123035, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.713864416502346, 7.443172680084971, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.715382332619498, 7.439247272281542, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.716350561042006, 7.438528836246079, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.718572578339902, 7.436268523580243, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.718955195549015, 7.435475450096114, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "2", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.707597852216551, 7.45563128901366, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "2", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.706498562734538, 7.45505561604561, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "2", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.719033876397347, 7.454800256039225, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "2", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.718622547012572, 7.455479416242146, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "2", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.717565035918227, 7.457846560356114, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "2", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.716180666312169, 7.462097425823029, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "2", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.716330402367461, 7.463436514022288, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "2", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.720105516525621, 7.461403469290613, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "2", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.731115422446706, 7.456378667207837, 0.0 ] } }
+]
+}

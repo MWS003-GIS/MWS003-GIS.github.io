@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pt_MWS_114_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "8", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.555984146394962, 7.332896747458791, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "4", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.556769192038388, 7.339206335159905, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.557793916338284, 7.32125234191668, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.556429107602398, 7.317906425609462, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.556945709511282, 7.332278532379129, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.55931385094695, 7.331895058361522, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.560791513691285, 7.331107469837613, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.556761799789442, 7.326978297144245, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.556780596819678, 7.324164800662676, 0.0 ] } }
+]
+}

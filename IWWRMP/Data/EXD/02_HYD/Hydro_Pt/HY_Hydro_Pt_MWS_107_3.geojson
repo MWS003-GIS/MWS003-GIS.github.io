@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pt_MWS_107_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Domba Ula Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.666314036495535, 7.353452417841962, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Kudarahas Ella", "HP_Lb_meth": "13", "HP_GFCODE": "WTRFP" }, "geometry": { "type": "Point", "coordinates": [ 80.692487763878404, 7.345781980375528, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Rahas Ella", "HP_Lb_meth": "13", "HP_GFCODE": "WTRFP" }, "geometry": { "type": "Point", "coordinates": [ 80.691892479230162, 7.347378387954991, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.665088737797831, 7.348582976670166, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.665124321556078, 7.348368305126869, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.678401883128601, 7.343422231691517, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.69191314480706, 7.345794173881733, 0.0 ] } }
+]
+}

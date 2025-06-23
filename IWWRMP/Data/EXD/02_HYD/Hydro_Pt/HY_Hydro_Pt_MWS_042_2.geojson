@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pt_MWS_042_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.804001365331843, 6.937885976320531, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.793828265791831, 6.926666315705206, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.796042615309702, 6.925573231166589, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.798315227576609, 6.942804619677497, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.796502139805057, 6.944163078188422, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.79589536062899, 6.9446663289176, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.795088424155438, 6.945322479065948, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.806912261139701, 6.933395213671852, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.808335855366025, 6.93515766193021, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.782112796968676, 6.939079712170522, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.782584967721036, 6.938789335762892, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.787780598079337, 6.938246404705002, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "12", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.794992350477798, 6.926538507009934, 0.0 ] } }
+]
+}

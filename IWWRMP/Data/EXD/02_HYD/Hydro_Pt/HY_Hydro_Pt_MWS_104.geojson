@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pt_MWS_104",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "4", "HP_GFCODE": "TBWLP" }, "geometry": { "type": "Point", "coordinates": [ 80.709242265995385, 7.319765513735661, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "4", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.723648207682501, 7.329380182459507, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "TBWLP" }, "geometry": { "type": "Point", "coordinates": [ 80.71087833854358, 7.298952730651938, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "TBWLP" }, "geometry": { "type": "Point", "coordinates": [ 80.714123103062704, 7.315315325961465, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.719284053578619, 7.315020820681124, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "TBWLP" }, "geometry": { "type": "Point", "coordinates": [ 80.731911678748233, 7.286320607091253, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "6", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.712297619563756, 7.309819769685107, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Valli Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.709520024742147, 7.312268004073482, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Sannasi Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.706478027291141, 7.309242683572699, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Muna Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.708019884110428, 7.308129543780002, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Henawala Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.708641439893711, 7.30634346964137, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Dodamgolla Yaya Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.709140586137963, 7.294217500062612, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Palle Ela Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.717442014015873, 7.313395461788581, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Kumbalmetiya Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.715917063610007, 7.31369466694168, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.707767943307005, 7.28485922932401, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.722208093856793, 7.292833746310852, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.724882352072825, 7.281926813164337, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "9", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.723584242064632, 7.281595981611518, 0.0 ] } }
+]
+}

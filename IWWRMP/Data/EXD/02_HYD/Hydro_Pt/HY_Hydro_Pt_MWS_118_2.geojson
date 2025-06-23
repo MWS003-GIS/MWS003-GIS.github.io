@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pt_MWS_118_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": "Pihilladeniya Spring", "HP_Lb_meth": "13", "HP_GFCODE": "SPRNP" }, "geometry": { "type": "Point", "coordinates": [ 80.574564288277259, 7.286789053607941, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Iriyagahamula Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.57044745206106, 7.305205455933746, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 1, "HP_Nm_Hydr": "Paluwatta Anicut", "HP_Lb_meth": "13", "HP_GFCODE": "ANCTP" }, "geometry": { "type": "Point", "coordinates": [ 80.570809761111022, 7.302762029504291, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "4", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.569907765776421, 7.268170406286719, 0.0 ] } },
+{ "type": "Feature", "properties": { "HP_Tp_Hydr": 2, "HP_Nm_Hydr": null, "HP_Lb_meth": "4", "HP_GFCODE": "CLVTP" }, "geometry": { "type": "Point", "coordinates": [ 80.573781876132585, 7.267842729994485, 0.0 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HY_Hydro_Pg_MWS_075",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "HG_Nm_Hydr": "Maha Oya", "HG_Lb_meth": "8", "HG_GFCODE": "STRMA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 80.939556120310101, 7.265885533151491, 0.0 ], [ 80.939555220384804, 7.265881048741137, 0.0 ], [ 80.939550783546892, 7.265889221013063, 0.0 ], [ 80.939556120310101, 7.265885533151491, 0.0 ] ] ] ] } }
+]
+}
