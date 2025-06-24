@@ -2,7 +2,7 @@ ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,Downloa
 ,UMW,Climate,Station ,Rainfall,,MD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/10_MET/RF_St/MET_RF_St.geojson,
 ,UMW,Climate,Station ,Temporature,,MD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/10_MET/Temp/MET_Temp_St.geojson,
 ,UMW,Climate,Station ,Evoporation,,MD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/10_MET/EV_St/MET_EV_St.geojson,
-,UMW,Climate,Station ,Water Quality -CEA,,CEA,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/12_WQ/Level%202/pH.geojson,
+,UMW,Climate,Station ,Water Quality -CEA,,CEA,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/12_WQ/Level 2/pH.geojson,
 ,UMW,Climate,Rainfall,Annual Rainfall,,IWMI,Derive,Yes,Raster,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Derive/RF_sum.png,
 ,UMW,Climate,Rainfall,Monthly Rainfall - 01,,IWMI,Derive,Yes,Raster,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Derive/RF_1.png,
 ,UMW,Climate,Rainfall,Monthly Rainfall - 02,,IWMI,Derive,Yes,Raster,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/Derive/RF_2.png,
