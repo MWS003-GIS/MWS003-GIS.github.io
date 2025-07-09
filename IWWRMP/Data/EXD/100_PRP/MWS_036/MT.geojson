@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "Name of Tank": "Bambara wewa", "Custodianship": "DAD", "N": 7.0942, "E": 80.87488, "Remarks": "No need to repair. " }, "geometry": { "type": "Point", "coordinates": [ 80.87488, 7.0942 ] } },
+{ "type": "Feature", "properties": { "No": 2, "Name of Tank": "Sevan Idal ketiya wewa", "Custodianship": "DAD", "N": 7.08909, "E": 80.90114, "Remarks": "Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.90114, 7.08909 ] } },
+{ "type": "Feature", "properties": { "No": 3, "Name of Tank": "Punchagala wewa", "Custodianship": "DAD", "N": 7.10498, "E": 80.90192, "Remarks": "Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.90192, 7.10498 ] } },
+{ "type": "Feature", "properties": { "No": 4, "Name of Tank": "Tittawel kandura wewa", "Custodianship": "DAD", "N": 7.09583, "E": 80.89514, "Remarks": "Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.89514, 7.09583 ] } },
+{ "type": "Feature", "properties": { "No": 5, "Name of Tank": "Raththajja loku wewa", "Custodianship": "DAD", "N": 7.1178, "E": 80.90562, "Remarks": "Construction of New Sluice, Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.90562, 7.1178 ] } },
+{ "type": "Feature", "properties": { "No": 6, "Name of Tank": "Raththajja podi wewa", "Custodianship": "DAD", "N": 7.1166, "E": 80.90431, "Remarks": "Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.90431, 7.1166 ] } },
+{ "type": "Feature", "properties": { "No": 7, "Name of Tank": "Raththriya wewa", "Custodianship": "DAD", "N": 7.11128, "E": 80.90463, "Remarks": "Planting Vetiver grasses to prevent erosion on the downstream slope of the tank bund." }, "geometry": { "type": "Point", "coordinates": [ 80.90463, 7.11128 ] } },
+{ "type": "Feature", "properties": { "No": 8, "Name of Tank": "Maha wewa", "Custodianship": "DAD", "N": 7.11397, "E": 80.90989, "Remarks": "Rehabilitated recently. No developments proposed." }, "geometry": { "type": "Point", "coordinates": [ 80.90989, 7.11397 ] } },
+{ "type": "Feature", "properties": { "No": 9, "Name of Tank": "Gataha wewa", "Custodianship": "DAD", "N": 7.08463, "E": 80.90156, "Remarks": "Rehabilitation of tank bund, Desilting of tank bed." }, "geometry": { "type": "Point", "coordinates": [ 80.90156, 7.08463 ] } },
+{ "type": "Feature", "properties": { "No": 10, "Name of Tank": "Meda wewa", "Custodianship": "DAD", "N": 7.08463, "E": 80.89762, "Remarks": "Construction of 30.0m long, 2.5m high concrete wall as a tank bund, Desilting of tank bed" }, "geometry": { "type": "Point", "coordinates": [ 80.89762, 7.08463 ] } }
+]
+}

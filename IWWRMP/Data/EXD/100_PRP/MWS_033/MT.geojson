@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "Name of Tank": "Wemulla lake", "Custodianship": "DAD", "N": 7.03614, "E": 80.92203, "Remarks": "Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.92203, 7.03614 ] } },
+{ "type": "Feature", "properties": { "No": 2, "Name of Tank": "Heenmukalana lake", "Custodianship": "DAD", "N": 7.03618, "E": 80.92405, "Remarks": "Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.92405, 7.03618 ] } },
+{ "type": "Feature", "properties": { "No": 3, "Name of Tank": "Mr W. Jayathissa de Silva - Small Pond", "Custodianship": "Mr. Jayathissa private land", "N": 7.011925, "E": 80.906987, "Remarks": "Private pond.No proposal under the project. " }, "geometry": { "type": "Point", "coordinates": [ 80.906987, 7.011925 ] } },
+{ "type": "Feature", "properties": { "No": 4, "Name of Tank": "Mr B.M Nandasena � Small Pond", "Custodianship": "Mr. Nandasena private land", "N": 7.0136, "E": 80.91662, "Remarks": "Private pond.No proposal under the project." }, "geometry": { "type": "Point", "coordinates": [ 80.91662, 7.0136 ] } },
+{ "type": "Feature", "properties": { "No": 5, "Name of Tank": "Diya Bibula resevation", "Custodianship": "DAD", "N": 7.0172, "E": 80.92072, "Remarks": "Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.92072, 7.0172 ] } },
+{ "type": "Feature", "properties": { "No": 6, "Name of Tank": "Arawe Lake", "Custodianship": "DAD", "N": 7.04622, "E": 80.92257, "Remarks": "Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.92257, 7.04622 ] } },
+{ "type": "Feature", "properties": { "No": 7, "Name of Tank": "Peshiya Kumbura Lake", "Custodianship": "DAD", "N": 7.05085, "E": 80.92798, "Remarks": "Desilting of Tank Bed, Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.92798, 7.05085 ] } },
+{ "type": "Feature", "properties": { "No": 8, "Name of Tank": "Pallekumbura small lake (02)", "Custodianship": "DAD", "N": 7.04657, "E": 80.93093, "Remarks": "Desilting of Tank Bed" }, "geometry": { "type": "Point", "coordinates": [ 80.93093, 7.04657 ] } },
+{ "type": "Feature", "properties": { "No": 9, "Name of Tank": "Udakumbura lake", "Custodianship": "DAD", "N": 7.04605, "E": 80.93223, "Remarks": "Desilting of Tank Bed" }, "geometry": { "type": "Point", "coordinates": [ 80.93223, 7.04605 ] } }
+]
+}

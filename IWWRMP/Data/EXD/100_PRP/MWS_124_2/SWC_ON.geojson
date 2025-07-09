@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": 1147, "GN Division": "Panvilathanna", "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices - Panvilathanna GND (40�-60�)", "Priority based on Soil Erosion Hazard": 1, "N": 7.155298, "E": 80.637007, "Quantity": "20 ha", "Proposed measure/s": "Live fencing/SALT and/or stone terracing/lock and spills, as applied", "Uniti Cost (Rs.)": "250 m-1", "Total Cost (Rs.)": "5,000,000", "Contribution": "Labour and other basic services by the Local community", "Time frame for the implementation": "1 Year" }, "geometry": { "type": "Point", "coordinates": [ 80.637007, 7.155298 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "GN Division No.": 1141, "GN Division": "Masgolla", "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices)  (50�-60�)", "Priority based on Soil Erosion Hazard": 4, "N": 7.155291, "E": 80.652686, "Quantity": "10 ha", "Proposed measure/s": "Live fencing/SALT and/or stone terracing/lock and spills, as applied", "Uniti Cost (Rs.)": "250 m-1", "Total Cost (Rs.)": "2,500,000", "Contribution": "Labour and other basic services by the Local community", "Time frame for the implementation": "0.5 Years" }, "geometry": { "type": "Point", "coordinates": [ 80.652686, 7.155291 ] } },
+{ "type": "Feature", "properties": { "No.": 4, "GN Division No.": 1142, "GN Division": "Hunugala", "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices) (35�-40�)", "Priority based on Soil Erosion Hazard": 3, "N": 7.146069, "E": 80.670381, "Quantity": "32 ha", "Proposed measure/s": "Live fencing/SALT and/or stone terracing/lock and spills, as applied", "Uniti Cost (Rs.)": "400 m-1", "Total Cost (Rs.)": "12,800,000", "Contribution": "Labour and other basic services by the Local community", "Time frame for the implementation": "1 Year" }, "geometry": { "type": "Point", "coordinates": [ 80.670381, 7.146069 ] } }
+]
+}

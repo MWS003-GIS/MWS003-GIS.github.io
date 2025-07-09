@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GN Divisio": "515E", "GN Divis_1": "Maha Uva", "Land Slide": "Land sinking - Field No. 2 Division", "N or X": 7.069336, "E or Y": 80.87431, "NBRO Recom": "Needs NBRO concern", "Proposed M": "Sinking happened in 2013 and it is settled at the moment. Land use planning and removal of risky houses should be done following the advices of NBRO. Further, providing suitable lands is needed." }, "geometry": { "type": "Point", "coordinates": [ 80.87431, 7.069336 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "GN Divisio": "516", "GN Divis_1": "Ketakandura", "Land Slide": "Landslide - Ketakandura Madawala Watta (The embankment, about 12 m high, was cut vertically during the construction of the road, Therefore, banks collapse during rainy season)", "N or X": 7.102161, "E or Y": 80.873781, "NBRO Recom": "NBRO has been informed", "Proposed M": "Actions should be taken following the advice of NBRO" }, "geometry": { "type": "Point", "coordinates": [ 80.873781, 7.102161 ] } },
+{ "type": "Feature", "properties": { "No.": 6, "GN Divisio": "516D", "GN Divis_1": "Mahapathana", "Land Slide": "Landslide - Ma Ussakelle", "N or X": 7.05791, "E or Y": 80.872832, "NBRO Recom": "NBRO is aware", "Proposed M": "Removal of risky houses and providing suitable lands" }, "geometry": { "type": "Point", "coordinates": [ 80.872832, 7.05791 ] } }
+]
+}

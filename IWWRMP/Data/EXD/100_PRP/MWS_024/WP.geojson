@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6_18",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 2, "GN Divisio": "526A", "GN Divis_1": "Palalpathana", "Non-point": "Improper disposal of domestic waste - Palalpathana", "N or X": 7.039929, "E or Y": 80.862297, "Number of": "-", "Point sour": "-", "Add. N or": "-", "Add. E or": "-", "Recommende": "Preparing a separate place in home gardens for disposing household waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection", "Unit Cost": "-", "Total Cost": "50,000.00", "Contributi": "Local/Central governments", "Time frame": "0.5 Years" }, "geometry": { "type": "Point", "coordinates": [ 80.862297, 7.039929 ] } },
+{ "type": "Feature", "properties": { "No.": 3, "GN Divisio": "526B", "GN Divis_1": "Harasbedda North", "Non-point": "Improper disposal of domestic waste - Harasbedda North", "N or X": 7.04279, "E or Y": 80.875902, "Number of": "-", "Point sour": "-", "Add. N or": "-", "Add. E or": "-", "Recommende": "Preparing a separate place in home gardens for disposing household waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection", "Unit Cost": "-", "Total Cost": "50,000.00", "Contributi": "Local/Central governments", "Time frame": "0.5 Years" }, "geometry": { "type": "Point", "coordinates": [ 80.875902, 7.04279 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": "503B", "Scheme": "Kakkutu kandura springs", "Problem to": "No Storage tank, No reservation for the spring, (10 families) Recommend \n1. to construct a ferro cement storage tank of 35 m3 capacity.\n2. Demarcate an area of 40 perch as a reservation around. \n3. Make dense planting of mixed vegetation comprising Agave", "N": 7.13366, "E": 80.71464, "Estimated": "642,000", "Total cost": null }, "geometry": { "type": "Point", "coordinates": [ 80.71464, 7.13366 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": "503B", "Scheme": "Springs near the house of Mr. Samarakoon", "Problem to": "Dilapidated tank. Recommendations. \n1. to construct a ferro cement storage tank of 35 m3 capacity.\n2. Demarcate an area of 10 perch as a reservation around. \n3. Make dense planting of mixed vegetation comprising Agave/ Vetiver/ Canas/ Areca nut trees /Ku", "N": 7.13372, "E": 80.71629, "Estimated": "508,000", "Total cost": "LKR 1,150,000" }, "geometry": { "type": "Point", "coordinates": [ 80.71629, 7.13372 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GN Divisio": "513 B", "GN Divis_1": "Serasunthenna", "Key Activi": "1. Renovation of natural drains - Pannal Oya", "Priority b": "-", "On/Off Sit": "-", "N": 7.145793, "E": 80.856578, "Quantity": "3 km", "Proposed m": "Clearing and planting some trees along the banks (Aracanut) and other conservation practices", "Unit Cost": "-", "Total Cost": "300,000.00", "Contributi": "Labour and other basic services by the Local community/ Shramadana", "Time frame": "0.5 Years" }, "geometry": { "type": "Point", "coordinates": [ 80.856578, 7.145793 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "GN Divisio": "513 B", "GN Divis_1": "Serasunthenna", "Key Activi": "2. Renovation of natural drains - Happawala Kandura", "Priority b": "-", "On/Off Sit": "-", "N": 7.151519, "E": 80.862164, "Quantity": "1.5 km", "Proposed m": "Clearing and planting some trees along the banks (Aracanut) and other conservation practices", "Unit Cost": "-", "Total Cost": "150,000.00", "Contributi": "Labour and other basic services by the Local community/ Shramadana", "Time frame": "0.25 Years" }, "geometry": { "type": "Point", "coordinates": [ 80.862164, 7.151519 ] } },
+{ "type": "Feature", "properties": { "No.": 3, "GN Divisio": "513 B", "GN Divis_1": "Serasunthenna", "Key Activi": "3. Soil conservation practices - Serasunthenna  (50d - 60d)", "Priority b": "-", "On/Off Sit": "-", "N": 7.153683, "E": 80.865977, "Quantity": "16 ha", "Proposed m": "Live fencing/SALT and /or Stone terracing/lock and spills, as applied", "Unit Cost": "250.00 m-1", "Total Cost": "4,000,000.00", "Contributi": "Labour and other basic services by the Local community", "Time frame": "0.5 Years" }, "geometry": { "type": "Point", "coordinates": [ 80.865977, 7.153683 ] } }
+]
+}

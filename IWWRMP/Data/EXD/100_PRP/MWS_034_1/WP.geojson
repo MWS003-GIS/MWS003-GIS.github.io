@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": "527C", "GN Division": "Kandeyaya", "Non-point sources of pollution": "Potential to add human waste - Kandeyaya", "N or X": 7.07566707, "E or Y": 80.94563622, "No. of Toilets": "37", "Point sources of pollution": "-", "N or X_1": "-", "E or Y_1": "-", "Recommended water quality improvement measures": "-", "Unit Cost (Rs.)": "-", "Total Cost (Rs.)": "-", "Contributions (Local Community, LA, Project)": "-", "Time frame for the implementation": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.94563622, 7.07566707 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "GN Division No.": "527C", "GN Division": "Kandeyaya", "Non-point sources of pollution": "Improper disposal of domestic waste - Kandeyaya", "N or X": 7.07566707, "E or Y": 80.94563622, "No. of Toilets": "-", "Point sources of pollution": "-", "N or X_1": "-", "E or Y_1": "-", "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection", "Unit Cost (Rs.)": "-", "Total Cost (Rs.)": "50,000.00", "Contributions (Local Community, LA, Project)": "Local/Central governments ", "Time frame for the implementation": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.94563622, 7.07566707 ] } }
+]
+}

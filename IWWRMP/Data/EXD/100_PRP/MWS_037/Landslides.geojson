@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 2, "GN Division No.": "518B", "GN Division": "Udamadura North", "Land Slides": "Landslide - Udamadura 6th km post (Reported in 1957)", "N or X": 7.102326, "E or Y": 80.918402, "NBRO Recommendation": "NBRO is aware ", "Proposed Measures": "Soil conservation should be carried out. Recommendations of NBRO should be followed. " }, "geometry": { "type": "Point", "coordinates": [ 80.918402, 7.102326 ] } },
+{ "type": "Feature", "properties": { "No.": 3, "GN Division No.": "518B", "GN Division": "Udamadura North", "Land Slides": "Landslide - Salt Village - Dadayampola", "N or X": 7.105878, "E or Y": 80.924042, "NBRO Recommendation": "NBRO is aware ", "Proposed Measures": "Soil conservation should be carried out. Recommendations of NBRO should be followed. " }, "geometry": { "type": "Point", "coordinates": [ 80.924042, 7.105878 ] } },
+{ "type": "Feature", "properties": { "No.": 4, "GN Division No.": "518C", "GN Division": "Galkadawela", "Land Slides": "Landslide - Galpadipela Area", "N or X": 7.100406, "E or Y": 80.925691, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Soil conservation should be carried out. Recommendations of NBRO should be followed. " }, "geometry": { "type": "Point", "coordinates": [ 80.925691, 7.100406 ] } },
+{ "type": "Feature", "properties": { "No.": 5, "GN Division No.": "518C", "GN Division": "Galkadawela", "Land Slides": "Boulders rolling - Papolpatha Galpila", "N or X": 7.100286, "E or Y": 80.9339, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Precations should be taken to remove the affected people and site-specific measures should be taken to avoing rolling." }, "geometry": { "type": "Point", "coordinates": [ 80.9339, 7.100286 ] } },
+{ "type": "Feature", "properties": { "No.": 6, "GN Division No.": "521", "GN Division": "Bolagandawela", "Land Slides": "Landslide - Rathnahena (Reported in 2006)", "N or X": 7.112577, "E or Y": 80.9312, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Precations should be taken to remove the affected people and site-specific measures should be taken to avoing rolling." }, "geometry": { "type": "Point", "coordinates": [ 80.9312, 7.112577 ] } }
+]
+}

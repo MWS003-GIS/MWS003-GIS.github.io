@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": 512, "Name of the Torrent/ Stream/ Canal": "Belihul Oya", "Location N": 7.08509, "Location E": 80.78712, "Observed problems": "Soil erosion of the lands on both sides of the river.", "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance", "Amount (Rs)": "182,000" }, "geometry": { "type": "Point", "coordinates": [ 80.78712, 7.08509 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": 512, "Name of the Torrent/ Stream/ Canal": "Hawariella Oya", "Location N": 7.067708, "Location E": 80.786231, "Observed problems": "Soil erosion of the lands on both sides of the river.", "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance", "Amount (Rs)": "138,000" }, "geometry": { "type": "Point", "coordinates": [ 80.786231, 7.067708 ] } }
+]
+}

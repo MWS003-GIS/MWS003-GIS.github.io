@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "Name of th": "Wewakele tank", "Custodians": "DAD", "N": 7.125171, "E": 80.849431, "Remarks": "Desilting and Rehabilitation of Tank Bund" }, "geometry": { "type": "Point", "coordinates": [ 80.849431, 7.125171 ] } },
+{ "type": "Feature", "properties": { "No": 2, "Name of th": "Boraluwela Wewa", "Custodians": "DAD", "N": 7.12959, "E": 80.85756, "Remarks": "Desilting and repairs to the bund" }, "geometry": { "type": "Point", "coordinates": [ 80.85756, 7.12959 ] } },
+{ "type": "Feature", "properties": { "No": 3, "Name of th": "Maha Wewa", "Custodians": "DAD", "N": 7.10963, "E": 80.85179, "Remarks": "Rehabilitation of tank bund, Desilting of Tank Bed, Construction of New Sluice" }, "geometry": { "type": "Point", "coordinates": [ 80.85179, 7.10963 ] } },
+{ "type": "Feature", "properties": { "No": 4, "Name of th": "Kuda Wewa", "Custodians": "DAD", "N": 7.11255, "E": 80.8509, "Remarks": "Rehabilitation of tank bund, Desilting , Construction of New Sluice and spill" }, "geometry": { "type": "Point", "coordinates": [ 80.8509, 7.11255 ] } }
+]
+}

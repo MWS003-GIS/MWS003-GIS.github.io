@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Tank name": "Medihena Wewa", "Ownership": "DAD", "N": 7.1758, "E": 80.727, "Remarks": "Good Condition Recommended to improve reservation" }, "geometry": { "type": "Point", "coordinates": [ 80.727, 7.1758 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Wanahapuwa Wewa", "Ownership": "ID", "N": 7.1808, "E": 80.7183, "Remarks": "Good Condition Recommended to improve reservation" }, "geometry": { "type": "Point", "coordinates": [ 80.7183, 7.1808 ] } },
+{ "type": "Feature", "properties": { "Tank name": "Bopitiya Wewa", "Ownership": "DAD", "N": 7.1859, "E": 80.7101, "Remarks": "Good Condition Recommended to improve reservation and desilting" }, "geometry": { "type": "Point", "coordinates": [ 80.7101, 7.1859 ] } }
+]
+}

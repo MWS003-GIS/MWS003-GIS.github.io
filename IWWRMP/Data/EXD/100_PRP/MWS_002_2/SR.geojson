@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": "503B", "Scheme": "Kakkutu kandura stream", "Problem to": "Soil erosion of land on both sides(100m). Recommend to construct 200 m long x 1mx1m leader drain with cascaded drops and areca nut with vetiver edge and betel or pepper creepers on Gliricidia stems and mixed agro forestry of Anoda, Avocado, Oranges, Duri", "N": 7.135572, "E": 80.716116, "Estimated": "507000\n50000", "Total cost": "LKR 557,000" }, "geometry": { "type": "Point", "coordinates": [ 80.716116, 7.135572 ] } }
+]
+}

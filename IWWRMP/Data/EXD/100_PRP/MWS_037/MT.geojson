@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "Name of Tank": "Aliya Eruna Wewa", "Custodianship": "DAD", "N": 7.09223, "E": 80.90777, "Remarks": "Desilt, Rehabilitate the bund construct a new CO spill" }, "geometry": { "type": "Point", "coordinates": [ 80.90777, 7.09223 ] } },
+{ "type": "Feature", "properties": { "No": 2, "Name of Tank": "Pambe Wewa", "Custodianship": "DAD", "N": 7.09543, "E": 80.90917, "Remarks": "Desilt, Rehabilitate the bund construct a new CO spill" }, "geometry": { "type": "Point", "coordinates": [ 80.90917, 7.09543 ] } },
+{ "type": "Feature", "properties": { "No": 3, "Name of Tank": "Dumkolahena Wewa", "Custodianship": "DAD", "N": 7.09012, "E": 80.90991, "Remarks": "Desilt, Rehabilitate the bund, including breached section, Construct a new CO spill  " }, "geometry": { "type": "Point", "coordinates": [ 80.90991, 7.09012 ] } },
+{ "type": "Feature", "properties": { "No": 4, "Name of Tank": "Paragahalanda Wewa", "Custodianship": "DAD", "N": 7.104932, "E": 80.917511, "Remarks": "Replace the sluice gate, Construct a U/S toe wall" }, "geometry": { "type": "Point", "coordinates": [ 80.917511, 7.104932 ] } },
+{ "type": "Feature", "properties": { "No": 5, "Name of Tank": "Karakaduwa Wewa", "Custodianship": "DAD", "N": 7.104176, "E": 80.917402, "Remarks": "Replace 225mm. CI sluice gate, Desilt" }, "geometry": { "type": "Point", "coordinates": [ 80.917402, 7.104176 ] } },
+{ "type": "Feature", "properties": { "No": 6, "Name of Tank": "Linde Gedara Wewa", "Custodianship": "DAD", "N": 7.101336, "E": 80.923201, "Remarks": "14m long rectangular Section for spill" }, "geometry": { "type": "Point", "coordinates": [ 80.923201, 7.101336 ] } },
+{ "type": "Feature", "properties": { "No": 7, "Name of Tank": "Wewe Pihilla Wewa", "Custodianship": "DAD", "N": 7.099737, "E": 80.918932, "Remarks": "No repairs" }, "geometry": { "type": "Point", "coordinates": [ 80.918932, 7.099737 ] } },
+{ "type": "Feature", "properties": { "No": 8, "Name of Tank": "Papolpatha Wewa", "Custodianship": "-", "N": 7.098967, "E": 80.93572, "Remarks": "Rehabilitate the bund, construct a 1.5m long CO spill and sluice, Desilt" }, "geometry": { "type": "Point", "coordinates": [ 80.93572, 7.098967 ] } },
+{ "type": "Feature", "properties": { "No": 9, "Name of Tank": "Polgaha Wewa", "Custodianship": "-", "N": 7.116515, "E": 80.928291, "Remarks": "Desilt, construct a curtain wall for US toe wall, repair the spill, Construct new 225m H/ wall sluice" }, "geometry": { "type": "Point", "coordinates": [ 80.928291, 7.116515 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Table 6_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": "484D", "GN Division": "Dimbulkumbura", "Land Slides": "Landsliding -Kolongas Ella", "N or X": 7.142325, "E or Y": 80.801331, "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "The families need to be evacuated, and lands need to be improved with the coordination of NBRO.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_2 /D (11)1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.801331, 7.142325 ] } },
+{ "type": "Feature", "properties": { "No.": 3, "GN Division No.": "489B", "GN Division": "Uda Galauda", "Land Slides": "Landsliding - Ihala Gedara", "N or X": 7.161266, "E or Y": 80.811379, "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Constructing a side wall/retaining wall (H - 6 m, W - 1.2 m)", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/UGU (11)1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.811379, 7.161266 ] } },
+{ "type": "Feature", "properties": { "No.": 4, "GN Division No.": "489B", "GN Division": "Uda Galauda", "Land Slides": "Soil sloughing - Uda Galauda Vidyalaya", "N or X": 7.163117, "E or Y": 80.815629, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Constructing a side wall/retaining wall (L- 50 m, H - 4 m)", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.815629, 7.163117 ] } }
+]
+}

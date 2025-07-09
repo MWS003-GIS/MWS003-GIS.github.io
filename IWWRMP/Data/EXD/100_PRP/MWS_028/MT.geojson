@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Table_6_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "Tank name": "Madiththa Golla tank", "Ownership": "Tea Estate", "Lat": 7.116675, "Lon": 80.822365, "Remarks": "Construct tank bund, new HW sluice and CO spill" }, "geometry": { "type": "Point", "coordinates": [ 80.822365, 7.116675 ] } },
+{ "type": "Feature", "properties": { "No": 2, "Tank name": "Kithulgolla tank", "Ownership": "Tea Estate", "Lat": 7.111909, "Lon": 80.82354, "Remarks": "Construct tank bund, sluice and a CO spill" }, "geometry": { "type": "Point", "coordinates": [ 80.82354, 7.111909 ] } },
+{ "type": "Feature", "properties": { "No": 3, "Tank name": "Maha Wewa", "Ownership": "DAD", "Lat": 7.09554, "Lon": 80.82698, "Remarks": "No need to develop the tank." }, "geometry": { "type": "Point", "coordinates": [ 80.82698, 7.09554 ] } },
+{ "type": "Feature", "properties": { "No": 4, "Tank name": "Rukahthtana Madiththa", "Ownership": "DAD", "Lat": 7.113408, "Lon": 80.833578, "Remarks": "Construct tank bund, sluice and CO spill" }, "geometry": { "type": "Point", "coordinates": [ 80.833578, 7.113408 ] } },
+{ "type": "Feature", "properties": { "No": 5, "Tank name": "Pambe Ulpotha tank", "Ownership": "DAD", "Lat": 7.117521, "Lon": 80.832279, "Remarks": "Rehabilitate the tank bund, desilt, sluice" }, "geometry": { "type": "Point", "coordinates": [ 80.832279, 7.117521 ] } },
+{ "type": "Feature", "properties": { "No": 6, "Tank name": "Bootewa tank", "Ownership": "DAD", "Lat": 7.108899, "Lon": 80.832931, "Remarks": "Desilt, Construct HW sluice" }, "geometry": { "type": "Point", "coordinates": [ 80.832931, 7.108899 ] } }
+]
+}
