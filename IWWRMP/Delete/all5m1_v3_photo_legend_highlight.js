@@ -745,7 +745,7 @@ icon = L.divIcon({
                 // Define actions for each feature (e.g., polygons, lines)
    onEachFeature: function (feature, layer) {
         layer.on('click', function () {
-            updateInfoPanel(feature.properties, 'Layer Name', layer);
+            updateInfoPanel(feature.properties, layerName, layer);
 			highlightFeature(layer);
 			
         });
@@ -1267,7 +1267,7 @@ function loadGeoJsonLayer(url, layerName) {
                 },
    onEachFeature: function (feature, layer) {
         layer.on('click', function () {
-            updateInfoPanel(feature.properties, 'Layer Name', layer);
+            updateInfoPanel(feature.properties, layerName, layer);
 			highlightFeature(layer);
         });
     }
