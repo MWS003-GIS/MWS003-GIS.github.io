@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ID,MWS,Group,Database,Layer,Name,Provider,Level,Geocode,Type,Discription,Download,geojson,Year
 ,UMW,Climate,Station ,Rainfall,,MD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/10_MET/RF_St/MET_RF_St.geojson,
 ,UMW,Climate,Station ,Temporature,,MD,Raw,Yes,Vector,,,https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/10_MET/Temp/MET_Temp_St.geojson,
