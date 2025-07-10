@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 window.onload = function() {
 
     // Show README modal on load

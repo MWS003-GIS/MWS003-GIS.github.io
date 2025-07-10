@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const tablePanel = document.getElementById('tablePanel');
 const mwsDropdown = document.getElementById('selectMWSID'); // Dropdown for selecting MWS_ID
 let csvData = [];

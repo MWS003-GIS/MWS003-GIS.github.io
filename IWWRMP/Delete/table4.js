@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Get the select element
 const selectElement = document.getElementById('selectMWSID');
 let allData = []; 

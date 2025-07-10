@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Initialize the map
 
 
