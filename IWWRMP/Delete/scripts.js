@@ -183,5 +183,3 @@ fetch(geojsonURL2)
         console.error("Error loading GeoJSON:", error);
     });
 
-
->>>>>>> 5cbfb5af309b66b3e85f2911040423d43e79fda9

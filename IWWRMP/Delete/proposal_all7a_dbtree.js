@@ -709,4 +709,3 @@ function clearExistingDropdown() {
     const existingDropdown = document.querySelector('#descriptionDropdown');
     if (existingDropdown) existingDropdown.remove();
 }
->>>>>>> 5cbfb5af309b66b3e85f2911040423d43e79fda9

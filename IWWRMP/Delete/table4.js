@@ -277,4 +277,4 @@ function filterTable() {
 ['filterID', 'filterDatabase', 'filterLayer', 'filterProvider'].forEach(id => {
     document.getElementById(id).addEventListener('change', filterTable);
 });
->>>>>>> 5cbfb5af309b66b3e85f2911040423d43e79fda9
+

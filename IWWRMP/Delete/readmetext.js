@@ -29,4 +29,3 @@ window.onload = function() {
         document.getElementById('readme-modal').style.display = 'flex';
     };
 };
->>>>>>> 5cbfb5af309b66b3e85f2911040423d43e79fda9
