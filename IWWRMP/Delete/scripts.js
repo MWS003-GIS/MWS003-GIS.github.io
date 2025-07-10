@@ -91,7 +91,6 @@ fetch(geojsonURL2)
     });
 
 
-=======
 // Initialize the map
 
 

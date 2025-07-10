@@ -137,7 +137,7 @@ function filterTable() {
 ['filterID', 'filterDatabase', 'filterLayer', 'filterProvider'].forEach(id => {
     document.getElementById(id).addEventListener('change', filterTable);
 });
-=======
+
 // Get the select element
 const selectElement = document.getElementById('selectMWSID');
 let allData = []; 

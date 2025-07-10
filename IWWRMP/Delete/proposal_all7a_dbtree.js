@@ -353,7 +353,7 @@ function clearExistingDropdown() {
     const existingDropdown = document.querySelector('#descriptionDropdown');
     if (existingDropdown) existingDropdown.remove();
 }
-=======
+
 const tablePanel = document.getElementById('tablePanel');
 const mwsDropdown = document.getElementById('selectMWSID'); // Dropdown for selecting MWS_ID
 let csvData = [];

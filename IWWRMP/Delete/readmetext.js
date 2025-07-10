@@ -13,7 +13,7 @@ window.onload = function() {
         document.getElementById('readme-modal').style.display = 'flex';
     };
 };
-=======
+
 window.onload = function() {
 
     // Show README modal on load
