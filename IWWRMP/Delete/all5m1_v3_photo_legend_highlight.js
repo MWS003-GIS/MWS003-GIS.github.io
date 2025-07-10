@@ -265,7 +265,7 @@ const colorRanges = {
         { "range": "450.0 to 500", "color": "#265c56" },
         { "range": "500.0 to 683.86", "color": "#155f4a" }
     ],
-    "Monthly  Temporature - Max-01": [
+    "Monthly  Temperature - Max-01": [
         { "range": "11.12", "color": "#999bff" },
         { "range": "11.12 to 12", "color": "#99a5ff" },
         { "range": "12.0 to 13", "color": "#9cb3ff" },
@@ -570,7 +570,7 @@ style: function (feature) {
                             iconSize: [40, 40],
                             iconAnchor: [20, 20]
                         });
-                    } else if (layerName === 'Temporature') {
+                    } else if (layerName === 'Temperature') {
                         icon = L.divIcon({
                             className: 'temperature-icon',
                             html: `
@@ -1171,7 +1171,7 @@ function loadGeoJsonLayer(url, layerName) {
                             iconSize: [40, 40],
                             iconAnchor: [20, 20]
                         });
-                    } else if (layerName === 'Temporature') {
+                    } else if (layerName === 'Temperature') {
                         icon = L.divIcon({
                             className: 'temperature-icon',
                             html: `
@@ -1307,7 +1307,7 @@ if (layerName === 'Rainfall') {
             <span>Rainfall</span>
         </div>
     `;
-} else if (layerName === 'Temporature') {
+} else if (layerName === 'Temperature') {
     // Custom SVG symbol for the legend
     div.innerHTML += `
         <div style="display: flex; align-items: center; margin-bottom: 5px;">
