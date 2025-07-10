@@ -49,6 +49,18 @@
             background-color: #388e3c;
             padding: 10px;
         }
+	.top-bar {
+  background-color: #e8f5e9; /* Light green background */
+  color: #333;
+  font-size: 12px;
+  padding: 5px 10px;
+  display: flex;
+  justify-content: flex-end; /* Align translate element to right */
+  align-items: center;
+  border-bottom: 1px solid #c8e6c9;
+  height: 30px;
+}
+    
         .map {
             flex: 1;
             position: relative;
@@ -342,7 +354,10 @@
 	
 </head>
 <body>
-<div id="google_translate_element"></div>
+<div class="top-bar">
+  <div id="google_translate_element"></div>
+</div>
+	
 
 <script type="text/javascript">
 function googleTranslateElementInit() {
