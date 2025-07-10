@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"features": [
+{ "type": "Feature", "properties": { "No": "1", "Tank name": "Nawa Nillamba Tank", "Custodianship": "DAD", "N": "7.201426", "E": "80.6519", "Remarks": "Rehabilitation of the tank and prevent leaking from the bund." }, "geometry": null }
+]
+}

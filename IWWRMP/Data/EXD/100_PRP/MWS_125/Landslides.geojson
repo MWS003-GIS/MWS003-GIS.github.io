@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"features": [
+{ "type": "Feature", "properties": { "No.": "1", "GN Division No.": "1147", "GN Division": "Panvilathanna", "Land Slides": "No special issues reported", "N or X": "-", "E or Y": "-", "NBRO Recommendation": "-", "Proposed Measures": "-" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "2", "GN Division No.": "1141", "GN Division": "Masgolla", "Land Slides": "Earthen dam collapse to road, Morahena", "N or X": "7.156566", "E or Y": "80.665726", "NBRO Recommendation": "NBRO is aware ", "Proposed Measures": "It needs to follow the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "3", "GN Division No.": "1138", "GN Division": "Gurukele", "Land Slides": "No special issues reported", "N or X": "-", "E or Y": "-", "NBRO Recommendation": "-", "Proposed Measures": "-" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "4", "GN Division No.": "1142", "GN Division": "Hunugala", "Land Slides": "No special issues reported", "N or X": "-", "E or Y": "-", "NBRO Recommendation": "-", "Proposed Measures": "-" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "5", "GN Division No.": "1134", "GN Division": "Ududeniya", "Land Slides": "Landslide, Ududeniya", "N or X": "7.15029", "E or Y": "80.674117", "NBRO Recommendation": "NBRO is aware ", "Proposed Measures": "It needs to follow the recommendations of NBRO" }, "geometry": null }
+]
+}

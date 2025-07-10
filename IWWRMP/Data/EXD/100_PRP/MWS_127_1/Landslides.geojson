@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"features": [
+{ "type": "Feature", "properties": { "No.": "1", "GN Division No.": "1157", "GN Division": "Megoda Kalugamuwa", "Land Slides": "No special issues are reported", "N or X": "-", "E or Y": "-", "NBRO Recommendation": "-", "Proposed Measures": "-" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "2", "GN Division No.": "1161", "GN Division": "Wariyagala", "Land Slides": "No special issues are reported", "N or X": "-", "E or Y": "-", "NBRO Recommendation": "-", "Proposed Measures": "-" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "3", "GN Division No.": "1160", "GN Division": "Haloya", "Land Slides": "Bank collapsing - Both sides of the Haloya main road", "N or X": "7.208905", "E or Y": "80.621214", "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Taking appropriate action on the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "4", "GN Division No.": "1137", "GN Division": "Nillamba", "Land Slides": "High risk area - Nillamba Ihala village", "N or X": "7.19776", "E or Y": "80.637365", "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Follow the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "5", "GN Division No.": "1162", "GN Division": "Galoya", "Land Slides": "The house has been damaged, with cracked walls and sinking foundations - Mr. rajarathnam Selvarathnam's house", "N or X": "7.210763", "E or Y": "80.615562", "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Follow the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "6", "GN Division No.": "1158", "GN Division": "Ganegoda", "Land Slides": "Landsliding - Dankele of Illagolla division", "N or X": "7.200509", "E or Y": "80.61533", "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Follow the recommendations of NBRO" }, "geometry": null }
+]
+}

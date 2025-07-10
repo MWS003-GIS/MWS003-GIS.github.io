@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"features": [
+{ "type": "Feature", "properties": { "No": "1", "Tank name": "Oruthota Thenna Wewa", "Custodianship": "DAD", "N": "7.182742", "E": "80.614536", "Remarks": "Repairs to sluice and removing silt." }, "geometry": null },
+{ "type": "Feature", "properties": { "No": "2", "Tank name": "Doluwa Wewa", "Custodianship": "DAD", "N": "7.183976", "E": "80.608169", "Remarks": "Tae tank is in good condition. No proposals to improve it. " }, "geometry": null },
+{ "type": "Feature", "properties": { "No": "3", "Tank name": "Nawa Gurukele Pond", "Custodianship": "-", "N": "7.184871", "E": "80.620773", "Remarks": "Silt removal and improving vegetative growth." }, "geometry": null },
+{ "type": "Feature", "properties": { "No": "4", "Tank name": "Anga Wewa", "Custodianship": "DAD", "N": "7.165919", "E": "80.58237", "Remarks": "Repairs to the bund and silt removal with improving vegetative growth. " }, "geometry": null },
+{ "type": "Feature", "properties": { "No": "5", "Tank name": "Wickremabahu Wewa", "Custodianship": "DAD", "N": "7.170383", "E": "80.583924", "Remarks": "Silt removal and improving vegetative growth." }, "geometry": null },
+{ "type": "Feature", "properties": { "No": "6", "Tank name": "Pussethenna Wewa", "Custodianship": "DAD", "N": "7.173208", "E": "80.612384", "Remarks": "Tank bund rehabilitation, silt removal and repairs to sluice" }, "geometry": null },
+{ "type": "Feature", "properties": { "No": "7", "Tank name": "Kande Wewa", "Custodianship": "DAD", "N": "7.190338", "E": "80.614703", "Remarks": "Tank bund rehabilitation and silt removal" }, "geometry": null },
+{ "type": "Feature", "properties": { "No": "8", "Tank name": "Siyambalagahamula Wewa", "Custodianship": "DAD", "N": "7.188389", "E": "80.61618", "Remarks": "Improve vegetative growth around the tank" }, "geometry": null }
+]
+}

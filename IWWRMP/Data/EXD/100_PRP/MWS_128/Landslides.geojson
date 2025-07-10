@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"features": [
+{ "type": "Feature", "properties": { "No.": "1", "GN Division No.": "1136", "GN Division": "Nawa Nillamba", "Land Slides": "Landslides - Halwattha Ihala", "N or X": "7.192945", "E or Y": "80.657546", "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Follow the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "2", "GN Division No.": "1132", "GN Division": "Mulgama", "Land Slides": "Landslides - Mulgama", "N or X": "7.157405", "E or Y": "80.67253", "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Taking appropriate action on the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "3", "GN Division No.": "1135", "GN Division": "Palledelthota", "Land Slides": "Landsliding (moderate risk) - Palledelthota village Maussawa division", "N or X": "7.186923", "E or Y": "80.655349", "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Follow the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "4", "GN Division No.": "1140", "GN Division": "Thumpelawaka", "Land Slides": "Landslides - Dewalawattha ", "N or X": "7.163453", "E or Y": "80.660906", "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Follow the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "5", "GN Division No.": "1133", "GN Division": "Pitawala", "Land Slides": "High risk area - Pitawala Village 1", "N or X": "7.15936", "E or Y": "80.674833", "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Follow the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "6", "GN Division No.": "1133", "GN Division": "Pitawala", "Land Slides": "Landslides - Pitawala Village 2", "N or X": "7.159157", "E or Y": "80.674835", "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Taking appropriate action on the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "7", "GN Division No.": "1133", "GN Division": "Pitawala", "Land Slides": "Landslides - C.G. Division 1", "N or X": "7.167001", "E or Y": "80.681003", "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Follow the recommendations of NBRO" }, "geometry": null },
+{ "type": "Feature", "properties": { "No.": "8", "GN Division No.": "1133", "GN Division": "Pitawala", "Land Slides": "High risk area - C.G. Division 2", "N or X": "7.166062", "E or Y": "80.680408", "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Follow the recommendations of NBRO" }, "geometry": null }
+]
+}
