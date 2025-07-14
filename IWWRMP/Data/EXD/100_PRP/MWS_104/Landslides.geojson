@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 8, "MWS_ID": "104", "GN Divisio": 704, "GN Divis_1": "Hurikaduwa Madige", "Land Slide": "1. The sunken bridge at Kengalla - Hurekaduwa Road", "N or X": 7.298953, "E or Y": 80.710909, "Add. Coord": "-", "NBRO Recom": "Needs NBRO concern", "Proposed M": "Improving drainage facility" }, "geometry": { "type": "Point", "coordinates": [ 80.710909, 7.298953 ] } },
+{ "type": "Feature", "properties": { "No.": 9, "MWS_ID": "104", "GN Divisio": 704, "GN Divis_1": "Hurikaduwa Madige", "Land Slide": "2. Poor drainage - Hurekaduwa Road (infront of the \"Sevapiyasa\")", "N or X": 7.299351, "E or Y": 80.710288, "Add. Coord": "-", "NBRO Recom": "Needs NBRO concern", "Proposed M": "Constructing a 350 m long concrete drain" }, "geometry": { "type": "Point", "coordinates": [ 80.710288, 7.299351 ] } },
+{ "type": "Feature", "properties": { "No.": 12, "MWS_ID": "104", "GN Divisio": 710, "GN Divis_1": "Daliiwalathanna", "Land Slide": "1. Landslide - Gammedda", "N or X": 7.320519, "E or Y": 80.719989, "Add. Coord": "-", "NBRO Recom": "NBRO is aware", "Proposed M": "Giving allotment of other suitable lands as advised by NBRO. The construction of stone terraces, SALT systems and live fence is suitable for the soil conservation. Necessary stone are available on the land." }, "geometry": { "type": "Point", "coordinates": [ 80.719989, 7.320519 ] } }
+]
+}

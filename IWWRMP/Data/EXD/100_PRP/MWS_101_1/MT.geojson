@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "101-1", "Name of Ta": "Pathaha??", "Custodians": "DAD??", "N": 7.312861, "E": 80.729072, "Remarks?": "The spring to be developed. Sludge has been removed in July 2024.?" }, "geometry": { "type": "Point", "coordinates": [ 80.729072, 7.312861 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": "101-1", "Name of Ta": "Hulu ganga?", "Custodians": "DAD or Forest Department??", "N": 7.331511, "E": 80.741763, "Remarks?": "Planting trees such as Areca nut, Kumbuk, Mee or Bamboo is proposed.? Paving available stones in the stream banks necessary for preventing bank erosion.??" }, "geometry": { "type": "Point", "coordinates": [ 80.741763, 7.331511 ] } }
+]
+}

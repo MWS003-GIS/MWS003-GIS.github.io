@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "MWS_ID": "107-2", "GN Divisio": 666, "GN Divis_1": "Uda Gunnepana North", "Land Slide": "1. Flooding of houses by rainwater - Balatotaela area", "N or X": 7.32486, "E or Y": 80.66253, "Add. Coord": "-", "NBRO Recom": "Needs NBRO concern", "Proposed M": "Taking appropriate actions on the recommendation of NBRO." }, "geometry": { "type": "Point", "coordinates": [ 80.66253, 7.32486 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "MWS_ID": "107-2", "GN Divisio": 667, "GN Divis_1": "Udagunnepana South", "Land Slide": "1. Landslide - No. 236/3, Mrs. P.W.G. Seelawathes' home, Galahitiyawaththa", "N or X": 7.31828, "E or Y": 80.66061, "Add. Coord": "-", "NBRO Recom": "Needs NBRO concern", "Proposed M": "Taking appropriate actions on the recommendation of NBRO" }, "geometry": { "type": "Point", "coordinates": [ 80.66061, 7.31828 ] } },
+{ "type": "Feature", "properties": { "No.": 4, "MWS_ID": "107-2", "GN Divisio": 669, "GN Divis_1": "Gabadagama North", "Land Slide": "1. Landslide - Pussawaththa area", "N or X": 7.32903, "E or Y": 80.658, "Add. Coord": "-", "NBRO Recom": "Needs NBRO concern", "Proposed M": "Taking appropriate actions on the recommendation of NBRO. Construction of a retaining wall 8 m long and 3 m high" }, "geometry": { "type": "Point", "coordinates": [ 80.658, 7.32903 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 6, "MWS_ID": "105", "GN Divisio": "703", "GN Divis_1": "Diya Bubula", "Key Activi": "1. Construction of a concrete drain - Near the embankment of ICC Village", "Priority b": 2, "N": 7.29163, "E": 80.72855, "Quantity": "300 m", "Proposed m": "Concrete Drain", "Total Cost": "18,051,000.00", "Contributi": "By the project", "Time frame": "0.25 Years" }, "geometry": { "type": "Point", "coordinates": [ 80.72855, 7.29163 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "100-1", "GND No.": 646, "Name of th": "Kolagahamula anicut and canal", "N": 7.352408, "E": 80.712198, "Observatio": "The existing 300mm x 300mm rectangle concrete canal  ,  some places wall are very dilapidated condition. Water from this canal is used to grow paddy on an area of about 18 acres.Existing anicut is good condition", "Descriptio": "Demolishing and removing collapsed\nconcrete lining 30 m away from reservation\n\nCanal reservation protection by concrete lining  For  100mm thick , 0.3m  wide  and 0.3m high canal -double banking\n\nConstruction of 1.5m high 1:3:6 (40mm) cement concrete Ret", "Amount (Rs": "2,373,000" }, "geometry": { "type": "Point", "coordinates": [ 80.712198, 7.352408 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": "100-1", "GND No.": 648, "Name of th": "Yakadakumburuvela", "N": 7.34722, "E": 80.703339, "Observatio": "The existing 450mm x 450mm rectangle concrete canal  ,  some places wall are very dilapidated condition. Water from this canal is used to grow paddy on an area of about 18 acres.", "Descriptio": "Clearing, preparing the site and settingout\n\nConstruction of 1m high 1:3:6 (40mm) cement concrete Retaining Wall \n\nMiscellaneous\n\nContingancies 10%", "Amount (Rs": "1,336,500" }, "geometry": { "type": "Point", "coordinates": [ 80.703339, 7.34722 ] } }
+]
+}
