@@ -1,12 +1,12 @@
 "Table 2.1: Administrative details of MWS-003","","","","","",""
-"ID","GND.No","GN.Name","Total.Area.of.the.GN..ha.","Area.in.the.MWS..003..ha.","X..Area.belongs.to.MWS..003","Remarks"
+"ID","GND No","GN Name","Total Area of the GN  ha","Area in the MWS  003  ha","X  Area belongs to MWS  003","Remarks"
 "1","247","Bowalawatta*","219.5","0.3","0.1%","Included in MWS in Gangawata Korale"
 "2","968","Ethulgama East*","47.6","0.5","1.0%","Included in MWS-004-2"
-"3","967","Ethulgama North","72.5","62.3","85.9%"," "
+"3","967","Ethulgama North","72.5","62.3","85.9%",
 "4","965","Ethulgama South*","203.1","63.1","31.0%","Included in MWS-004-2"
-"5","966","Ethulgama West","206.9","202.0","97.6%"," "
-"6","955","Galthenna","40.8","40.8","100.0%"," "
-"7","963","Godompitiya","43.6","33.1","76.0%"," "
+"5","966","Ethulgama West","206.9","202.0","97.6%",
+"6","955","Galthenna","40.8","40.8","100.0%",
+"7","963","Godompitiya","43.6","33.1","76.0%",
 "8","1160","Haloya*","550.8","2.8","0.5%","Included in MWS in Doluwa"
 "9","263","Hanthana Pedesa*","135.6","0.0","0.0%","Included in MWS in Gangawata Korale"
 "10","242","Heeressagala*","323.8","2.6","0.8%","Included in MWS in Gangawata Korale"
@@ -15,17 +15,17 @@
 "13","280","Lewla*","66.8","0.1","0.2%","Included in MWS-004-1"
 "14","254","Malwatta*","248.2","0.6","0.3%","Included in MWS in Gangawata Korale"
 "15","272","Meddegama*","90.0","1.0","1.1%","Included in MWS in Gangawata Korale"
-"16","952","Monarangala","89.8","89.0","99.1%"," "
-"17","962","Nehiniwela","108.6","105.7","97.3%"," "
+"16","952","Monarangala","89.8","89.0","99.1%",
+"17","962","Nehiniwela","108.6","105.7","97.3%",
 "18","981","Perawatta West*","642.3","71.2","11.1%","Included in Included in MWS-001"
-"19","964","Pooliyadda","96.6","96.6","100.0%"," "
-"20","951","Ratemulla","280.3","280.3","100.0%"," "
+"19","964","Pooliyadda","96.6","96.6","100.0%",
+"20","951","Ratemulla","280.3","280.3","100.0%",
 "21","249","Uda Peradeniya*","451.8","4.3","1.0%","Included in MWS in Gangawata Korale"
-"22","949","Uduwela Pallegama     East","30.0","30.0","100.0%"," "
-"23","948","Uduwela Pallegama South","24.3","24.3","100.0%"," "
-"24","950","Uduwela Pallegama West","23.7","23.7","100.0%"," "
-"25","946","Uduwela Udagama East","179.5","178.5","99.5%"," "
-"26","947","Uduwela Udagama West","199.0","198.3","99.6%"," "
-"27","954","Uduwelawatta Colony","145.9","144.2","98.9%"," "
-"28","953","Wathuliyadda2","146.9","135.5","92.2%"," "
+"22","949","Uduwela Pallegama     East","30.0","30.0","100.0%",
+"23","948","Uduwela Pallegama South","24.3","24.3","100.0%",
+"24","950","Uduwela Pallegama West","23.7","23.7","100.0%",
+"25","946","Uduwela Udagama East","179.5","178.5","99.5%",
+"26","947","Uduwela Udagama West","199.0","198.3","99.6%",
+"27","954","Uduwelawatta Colony","145.9","144.2","98.9%",
+"28","953","Wathuliyadda2","146.9","135.5","92.2%",
 "29","274","Wewathenna1*","121.6","0.3","0.2%","Included in MWS in Gangawata Korale"

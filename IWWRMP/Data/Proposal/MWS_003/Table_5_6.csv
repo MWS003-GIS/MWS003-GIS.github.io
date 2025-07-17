@@ -1,5 +1,5 @@
 "Table 5.6: Salient details of tanks in MWS-003","",""
-"Tank.Name.","Hanthana.Wewa","TSHDA.Tank"
+"Tank Name","Hanthana Wewa","TSHDA Tank"
 "GN","Uduwela Udagama East","Uduwela Udagama West"
 "MWS","3","3"
 "DS","Pathahewaheta","Pathahewaheta"
@@ -10,43 +10,42 @@
 "Location (Lat, Lon)","7.2412 N, 80.6434 E","7.2474 N, 80.6305 E"
 "Agro-Ecological zone","WM2","WM2"
 "Water Surface Area (approx.) (ha)","0.12","0.25"
-"Tank capacity (m3)"," 1400","2500"
-"Catchment Area (gross) (km2)"," ",""
+"Tank capacity (m3)","1400","2500"
+"Catchment Area (gross) (km2)",,
 "Total command area (ha)","10","No cultivation"
-"Farm Organisation"," Hanthana ","-"
-"F.O. registration number"," ","-"
+"Farm Organisation","Hanthana","-"
+"F.O. registration number",,"-"
 "Reservations are available or not","Yes","No"
 "Reservations are marked or not","No","No"
-" "," ",""
+,,
 "Bund","Earthen","Earthen"
 "Bund Length (m)","42","25"
 "Top width (m)","4","2.5"
 "Visible bund height (m)","4.5","3.5"
 "US & DS slopes (h/b)","1:1   + Vertical Concrete wall","1:2"
-"Availability of rip rap ","No","No"
-" "," ",""
-"Spillway"," ",""
+"Availability of rip rap","No","No"
+,,
+"Spillway",,
 "Station (km+m)","0+018","0+006"
 "Type","Rectangular Double Notch Morning Glory","Broad Crested Weir"
 "Length (m)","2 x 1.2 m","2 x 1.0 m"
-"Observed Afflux (m)","0.5","0.3
-"
+"Observed Afflux (m)","0.5","0.3"
 "Duration of spilling (days)","over 45","over 60"
-" "," ",""
-"Sluices"," ",""
+,,
+"Sluices",,
 "No of Sluices (nos)","1","No"
 "Station/s (km+m)","0+18","-"
 "Type/s","HP","-"
 "Barrel size/s (mm)","225","-"
 "Command area of the sluice (ha)","10","For domestic consumption"
-" "," ",""
+,,
 "Observations / Damages","1. Dam failure - at LB side
 2. Spill is size- not sufficient
 3. Clearing of forest for Cultivation - inside the catchment
 4. Sluice is not operable","1. Seepage under the spill 
 2. Peripheral ground erosion
 3. Sand bags provided at D/S of the spill prevent water leaks"
-"Recommendation         ","Demolish the concrete wall and re-construct an earthen bund with 1:2    US/Ds slopes.
+"Recommendation","Demolish the concrete wall and re-construct an earthen bund with 1:2    US/Ds slopes.
 Provide U/S geotextile and reno mattress protection
 Construct RCC morning glory type spill (or optional structure) with a 1.2m D stem/ barrel and 4m (top edge) diameter funnel
 Re-construct the sluice structure with 300mm diameter pipe

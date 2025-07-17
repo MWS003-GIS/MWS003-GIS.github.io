@@ -1,0 +1,27 @@
+"Table 5.45: Crop suitability","","","","","","",""
+"X Crop","Agriculture practice based on water resource","NA","NA  1","NA  2","NA  3","NA  4","NA  5"
+,"Agro ecological region IM1a/IM1c","Agro ecological region IU2","Agro ecological region IM1c",,,,
+,,,,,,,
+,"Rainfed","Irrigated","Mid-season","Rainfed","Irrigated","Rainfed","Irrigated"
+"Rice","#","*","^",,,,"*"
+"Maize",,,,,,,
+"Kurakkan","#",,,,,"#",
+"Green gram",,,,,,,
+"Cowpea",,,,,,,
+"Soya bean",,,,,,,
+"Red onion","#",,,,,"#",
+"Large onion","#",,,,,"#",
+"Chili","#",,,,,"#",
+"Ginger",,,,,,"#",
+"Local Vegetables","#","*","^","#",,,"*"
+"Bean","#","*",,"#","*",,"*"
+"Carrot","#",,,,"*",,
+"Cabbage",,,,,"*",,
+"Tomato","#","*","^",,,,
+"Beet",,"*",,,"*",,"*"
+"Lettuce",,,,,"*",,
+"Kollu",,,"^",,,,
+"Tobaco",,"*",,"#",,,"*"
+"Potato","#",,,"#",,,
+"Cassava",,,,"#",,,
+"Sweet potato",,,,"#",,,

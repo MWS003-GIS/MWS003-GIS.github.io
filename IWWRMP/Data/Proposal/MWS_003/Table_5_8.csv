@@ -6,12 +6,12 @@
 "4","Earth excavation form, cut & lift to 1.0m, placing, spreading, watering and compacting by machinery including transport by 0.75cu Tractor & Tailor within 30m - 1.0Km -including Forming and Sloping in Tank Bund","m³","610","95","57,912"
 "5","Dry rubble packing (rubble size over 225mm)","m³","4,928","216","1,064,534"
 "6","Construction of puddle core wall including making puddle (without transport)","m³","3,894","25","97,350"
-"","","","","",""
+,,,,,
 "7","1:3:6 (40mm) concrete with concrete mixer (volume batching)","m³","25,052","12","300,628"
 "8","Plywood form work including making, fixing & removing for structure -05 uses","m²","3,896","70","272,748"
 "9","Item allow for slice gate and wooden spill gates","Item","Sum","Allow","300,000"
 "10","Item allow for turfing above the riprap","Item","Sum","Allow","32,900"
-"","","","","",""
-"","CIVIL COST","","","","2,287,072"
+,,,,,
+,"CIVIL COST",,,,"2,287,072"
 "11","Contingencies 10%","Item","Sum","Allow","228,828"
-"","TOTAL COST","","","","2,515,900"
+,"TOTAL COST",,,,"2,515,900"

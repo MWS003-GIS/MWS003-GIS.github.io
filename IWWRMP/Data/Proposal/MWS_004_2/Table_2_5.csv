@@ -1,5 +1,5 @@
 "Table 2.5: GN-wise demographic details of the MWS-004-2","","","","",""
-"GND.No","GND.Name","No.of.Houses","No.of.Families","Female","Male"
+"GND No","GND Name","No of Houses","No of Families","Female","Male"
 "971","Ankelipitiya","265","305","485","452"
 "959","Batagalla","184","208","426","378"
 "968","Ethulgama East","185","206","346","329"
@@ -14,4 +14,4 @@
 "957","Pussatenna","286","302","612","593"
 "961","Thalathuoya East","170","208","376","345"
 "960","Thalathuoya West","163","192","327","289"
-""," Total","3,467","3,871","6,501","6,352"
+,"Total","3,467","3,871","6,501","6,352"

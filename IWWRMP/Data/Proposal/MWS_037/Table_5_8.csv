@@ -1,26 +1,36 @@
-"Table 5.8: Provisional cost estimate of TSHDA tank rehabilitation","","","","",""
-"No","Description","Unit","Rate","Qty","Amount"
-"1","Stripping topsoil and including cut and lift up to 1.5m and haul 60 m distance by machinery","m³","184.8","25","4,657"
-"2","Stripping topsoil and including cut and lift up to 1.5m and haul 60 m distance by machinery","m³","184.8","125","23,100"
-"3","Earth excavation for foundation or quarry materials and haul the surplus materials up to 30m. by Machinery. (excluding of transporting of machinery)","m³","366.0","600","219,600"
-"4","Earth excavation form , cut & lift up to 1.0m , placing, spreading, watering and compacting by machinery including transport by 0.75cu Tractor & Tailor within 30m - 1.0Km -including Forming and Sloping in Tank Bund","m³","609.6","2,460","1,499,616"
-"5","Gravel excavation for Canal or Tank and haul the surplus materials up to 1.6 km distance by Machinery. (excluding of transporting of machinery)","m³","508.8","150","76,320"
-"6","Forming tank bund machinery (This rate is excluding of transporting of machinery)","m³","193.2","150","28,980"
-"7","Gravel excavation for Canal or Tank and haul the surplus materials up to 1.6 km distance by Machinery. (excluding of transporting of machinery)","m³","508.8","189","96,163"
-"8","Construction of puddle core wall including making puddle (without transport)","m³","3,894.0","189","735,966"
-""," ","","","",""
-"","SUB TOTAL","","","","2,684,402"
-"9","1:2:4 (20mm) concrete with concrete mixer  (volume batching) ","m³","27,344.1","50","1,367,205"
-"10","Plywood form work including making, fixing & removing for structure -05 uses","m²","3,896.4","260","1,013,064"
-"11","Steel Formwork  in spill funnel  ( Single use)","m²","6,196.0","65","402,740"
-"12","Cutting, Bending & Placing tor steel reinforcement bars","kg","455.5","1,730","788,015"
-"","SUB TOTAL","","","","3,571,024"
-"","Supplying and laying 5mm thick wowen synthetic geotextiles for upstream slope","Sq.m","900.0","300","270,000"
-"","Supplying 6mx2mx300mm pvc coated  Renometress  (Use ISO Standard material) and erecting and positioning on upstream slope","Nos","59,500.0","20","1,190,000"
-"","Dry rubble packing (rubble size over 225mm)","m³","4,928.4","95","468,198"
-"","Allow for 300mm dia sluice and hoisting and sheltor","Item","Sum","Allow","600,000"
-"","SUB TOTAL","","","","2,528,198"
-""," ","","","",""
-"","CIVIL COST","","","","8,783,624"
-"","Contingencies 10%","Item","Sum","Allow","878,346"
-"","TOTAL COST","","","","9,661,970"
+"Table 5.8: Details Salient features of Papolpatha Wewa and Polgaha Wewa in MWS-037","",""
+"Tank Name","Papolpatha Wewa","Polgaha Wewa"
+"GN","Galkadawela","Bolagandawela"
+"MWS","MWS-037","MWS-037"
+"DS","Nildandahinna","Nildandahinna"
+"District","Nuwara Eliya","Nuwara Eliya"
+"Custodianship",,
+"Year of Construction",,
+"Location (Lat)","7.098967","7.1165150"
+"Location (Lon)","80.93572","80.928281"
+"Hydrological zone",,
+"Water Surface Area (approx.) (ha)","0.02","0.05"
+"Catchment Area (gross) (km2)",,
+"Catchment Area (net) (km2)",,
+"Total command area (ha)","1.2","5.6"
+"Farmer Organization",,
+"F.O. registration number",,
+"Reservations are available or not","No","No"
+"Reservations are marked or not","No","No"
+"Bund",,
+"Bund Length (m)","24","32"
+"Top width (m)","1","3"
+"Visible bund height (m)","1.5","2.5"
+"US & DS slopes (h/b)","1:1","Vertical / 1:2"
+"Availability of rip rap","No spill",
+"Station (km+m)",,"0+28m"
+"Type",,"CO"
+"Length (m)",,
+"Observed Afflux (m)",,
+"Duration of spilling (days)",,
+"No of Sluices (nos)","No sluice","No sluice"
+"Station/s (km+m)",,
+"Type/s",,
+"Barrel size/s (mm)",,
+"command area of the sluice (ha)",,
+"Rectification Details","Very small water pond","Desilting of tank bed and construction of 1200mm height, 100mm thick concrete curtain wall for the existing concrete toe wall, Rehabilitation of Existing CO spill, Rehabilitation of existing tank bund"

@@ -1,57 +1,38 @@
-"Table 5.7: Provisional cost estimate of Hanthana Wewa restoration","",""
-"Tank.Name.","Hanthana.Wewa","TSHDA.Tank"
-"GN","Uduwela Udagama East","Uduwela Udagama West"
-"MWS","3","3"
-"DS","Pathahewaheta","Pathahewaheta"
-"District","Kandy","Kandy"
-"Ownership","DAD","TSHDA"
-"Land ownership","Hanthana Raja Maha Viharaya","TSHDA"
-"Construction","By the Irrigation Department in 1974","About 1940"
-"Location (Lat, Lon)","7.2412 N, 80.6434 E","7.2474 N, 80.6305 E"
-"Agro-Ecological zone","WM2","WM2"
-"Water Surface Area (approx.) (ha)","0.12","0.25"
-"Tank capacity (m3)"," 1400","2500"
-"Catchment Area (gross) (km2)"," ",""
-"Total command area (ha)","10","No cultivation"
-"Farm Organisation"," Hanthana ","-"
-"F.O. registration number"," ","-"
-"Reservations are available or not","Yes","No"
-"Reservations are marked or not","No","No"
-" "," ",""
-"Bund","Earthen","Earthen"
-"Bund Length (m)","42","25"
-"Top width (m)","4","2.5"
-"Visible bund height (m)","4.5","3.5"
-"US & DS slopes (h/b)","1:1   + Vertical Concrete wall","1:2"
-"Availability of rip rap ","No","No"
-" "," ",""
-"Spillway"," ",""
-"Station (km+m)","0+018","0+006"
-"Type","Rectangular Double Notch Morning Glory","Broad Crested Weir"
-"Length (m)","2 x 1.2 m","2 x 1.0 m"
-"Observed Afflux (m)","0.5","0.3
-"
-"Duration of spilling (days)","over 45","over 60"
-" "," ",""
-"Sluices"," ",""
-"No of Sluices (nos)","1","No"
-"Station/s (km+m)","0+18","-"
-"Type/s","HP","-"
-"Barrel size/s (mm)","225","-"
-"Command area of the sluice (ha)","10","For domestic consumption"
-" "," ",""
-"Observations / Damages","1. Dam failure - at LB side
-2. Spill is size- not sufficient
-3. Clearing of forest for Cultivation - inside the catchment
-4. Sluice is not operable","1. Seepage under the spill 
-2. Peripheral ground erosion
-3. Sand bags provided at D/S of the spill prevent water leaks"
-"Recommendation         ","Demolish the concrete wall and re-construct an earthen bund with 1:2    US/Ds slopes.
-Provide U/S geotextile and reno mattress protection
-Construct RCC morning glory type spill (or optional structure) with a 1.2m D stem/ barrel and 4m (top edge) diameter funnel
-Re-construct the sluice structure with 300mm diameter pipe
-600 m2 dense natural reforestation for the upper catchment area","Provide concrete cut-off wall, clay blanket, and clay core in the vicinity of the spill   
-Provide a sluice, sediment ejector, and spill gates 
-Bund strengthening, Desilting, and protection against erosion by stone walls, terracing, and perennial crops.
-Build an intake well with an infiltration gallery or filtering system before pumping.
-500 m2 dense natural vegetation with vetiver grass edge"
+"Table 5.7: Details Salient features of Paragahalanda Wewa, Karakaduwa Wewa, Linde Gedara Wewa and Wewe Pihilla Wewa in MWS-037","","","",""
+"Tank Name","Paragahalanda Wewa","Karakaduwa Wewa","Linde Gedara Wewa","Wewe Pihilla Wewa"
+"GN","Udamadura north","Udamadura north","Udamadura north","Udamadura north"
+"MWS","MWS-037","MWS-037","MWS-037","MWS-037"
+"DS","Nildandahinna","Nildandahinna","Nildandahinna","Nildandahinna"
+"District","Nuwara Eliya","Nuwara Eliya","Nuwara Eliya","Nuwara Eliya"
+"Custodianship","DAD","DAD","DAD","DAD"
+"Year of Construction",,,,
+"Location (Lat)","7.1048460","7.104176","7.101336","7.099737"
+"Location (Lon)","80.917332","80.917402","80.923201","80.93572"
+"Hydrological zone",,,,
+"Water Surface Area (approx.) (ha)","0.12","0.1","0.075","0.07"
+"Catchment Area (gross) (km2)",,,,
+"Catchment Area (net) (km2)",,,,
+"Total command area (ha)",,,,
+"Farmer Organization",,,,
+"F.O. registration number",,,,
+"Reservations are available or not","Yes","Yes","No","No"
+"Reservations are marked or not","No","No","No","No"
+"Bund",,,,
+"Bund Length (m)","52","24","54","35"
+"Top width (m)","3","3","3","2"
+"Visible bund height (m)","6","6","3.2","3"
+"US & DS slopes (h/b)","1:2","1:2","1:2","Vertical / 1:2"
+"Availability of rip rap","No","No","No","Con. Wall and earthen"
+"Spillway",,,,
+"Station (km+m)","0+47m","0+20m","0+48m","0+30m"
+"Type","CO","CO","CO","CO"
+"Length (m)","4","4","3.2","4"
+"Observed Afflux (m)","0.3","0.3","0.3","0.3"
+"Duration of spilling (days)",,,,
+"Sluices",,,,
+"No of Sluices (nos)","1","1","1","1"
+"Station/s (km+m)","0+30m","0+15m","0+30m","0+22m"
+"Type/s","H/wall","Head wall","H/wall","H/wall"
+"Barrel size/s (mm)","225","225","225","225"
+"command area of the sluice (ha)",,,,
+"Rectification Details","Replace 225m Ø GI gate and Concrete wall in bund US toe. Removal of water weeds and silt","Replace 225m Ø GI gate. Removal of water weeds and silt","Newly rehabilitated tank","Newly rehabilitated tank."

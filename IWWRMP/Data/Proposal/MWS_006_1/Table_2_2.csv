@@ -1,6 +1,6 @@
 "Table 2.2: Land use and land cover details of MWS-006-1","","",""
-"No.","Land.cover","Area..Ha.","NA."
-"","","ha","%"
+"No","Land cover","Area  Ha","NA"
+,,"ha","%"
 "1","Builtup land","9.3","0.8%"
 "2","Chena","176.9","14.4%"
 "3","Forest lands","4.9","0.4%"

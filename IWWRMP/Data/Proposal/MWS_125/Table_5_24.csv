@@ -1,0 +1,80 @@
+"Table 5.24: Proposed interventions MWS-125","","","","","","",""
+"Activity","Location","Description","Quantity","Units","Rate  LKR","Amount  LKR","Duration"
+"Boundary Demarcation
+(replace 35 damaged boundary posts)","Lulkandura forest
+7.1456341,
+80.707021","Purchase boundary posts","35","Boundary posts","4,500","157,500","2026"
+,,"Loading boundary posts","1","Man days","2,500","2,500",
+,,"Unloading boundary posts","1","Man days","2,500","2,500",
+,,"Transport cost (to the nearest motorable place) 100 boundary posts/ lorry load","1","2,500","2,500","2,500",
+,,"Head load - Transport boundary posts to the forest boundary","18","Man days","2,500","45,000",
+,,"Holing (500 mm x 200mm x 200)","4","Man days","2,500","10,000",
+,,"Preparation field and erection","4","Man days","2,500","10,000",
+,,"Cost of Cement, metal and sand","35","nr","375","13,125",
+,,"Head load -Transport Cement, metal and sand","14","Man days","2,500","35,000",
+,," "," "," ","Sub Total","278,125",
+,,"Contingency (10%)"," "," "," ","27,813",
+,," "," "," "," ","305,938",
+"Maintenance of 292 boundary posts","Lulkandura forest
+7.1456341,
+80.707021","Clearing land around boundary posts (1m circle)","30","Man days","2,500","75,000","2026"
+,,"Cleaning boundary posts","30","Man days","2,500","75,000",
+,,"Painting boundary posts with Red and Yellow colours","21","Man days","2,500","52,500",
+,,"Numbering boundary posts","3","Man days","2,500","7,500",
+,,"Paint, Brushes and thinner","292","Lump sum","100","29,200",
+,," "," "," ","Sub Total","239,200",
+,," "," "," "," ","23,920",
+,," "," "," ","Total","263,120",
+"Establish live fence with Hana (Two rows in the zig zag arrangement)
+7.3 km","Lulkandura forest
+7.1456341,
+80.707021","Seedling Production (12\"x8\")","2,920","Seedlings","50","146,000","2026"
+,,"Transportation of seedlings to the site, (300 Seedlings / Lorry load)","10","Lorry loads","7,500","75,000",
+,,"loading and unloading (300 plants/ Man day)","10","Man days","2,500","25,000",
+,,"Seedling transportation within the field (1000/6 Man days)","18","Man days","2,500","45,000",
+,,"Clearing the land and holing and planting (1000 plants/25 Man days)","73","Man days","2,500","182,500",
+,,"Fertilizer (100g /plant)","292","Kg","300","87,600",
+,,"Applying fertilizer (5 Man days /1000 plants)","15","Man days","2,500","37,500",
+,,"Vacancy Planting -Seedling cost (20%)","584","Seedlings","300","175,200","2027"
+,,"Vacancy Planting - Holing & Planting (7 Man days)","51","man days","2,500","127,750",
+,,"Vacancy Planting (10% )- Seedling cost","292","Seedlings","300","87,600","2028"
+,,"Vacancy Planting - Holing & Planting (4 Man days)","29","Man days","2,500","73,000",
+,,"(1st years 3 maintenance,","263","Man days","2,500","657,000","2027"
+,,"2nd year 2 maintenance,","175","Man days","2,500","438,000","2028"
+,,"3rd year 2 maintenance,","175","Man days","2,500","438,000","2029"
+,,"4th year 1 maintenance)","88","Man days","2,500","219,000","2030"
+,,"Fuel (Supervision)","1","Lump sum","60,000","60,000","2026-2030"
+,," "," "," ","Sub Total","2,874,150",
+,,"Contingency (10%)"," "," "," ","287,415",
+,," "," "," ","Total","3,161,565",
+"Promote Alley Cropping (SALT system) - 6 ha","Popuressa,
+Hunugala,
+Masgolla","Purchasing fruit plants (12\"x18\")","1,980","Seedlings","300","594,000","2027"
+,,"Loading (01 Man day/300 Seedlings)","7","Man days","2,500","17,500",
+,,"Loading unloading (01 Man day/300 Seedlings)","7","Man days","2,500","17,500",
+,,"Transportation and distribution (300 Seedling/Lorry load)","7","Lorry load","7,500","52,500",
+,,"Transportation of seedlings inside the field (5 Man days / ha)","25","Man days","2,500","12,500",
+,,"Holing and planting (33 Man days /ha)","163","Man days","2,500","408,375",
+,,"Vacancy Planting -Seedling cost (20%)","396","Seedlings","300","118,800","2028"
+,,"Vacancy Planting - Holing & Planting (7 Man days)","35","Man days","2,500","86,625",
+,," "," "," ","Sub Total","1,307,800",
+,,"Contingency (10%)"," "," "," ","130,780",
+,," "," "," ","Total","1,438,580",
+"Conduct 06 awareness programmes","Gurukele,
+Pupuressa,
+Masgolla","Refreshments","240","Packs","400","96,000","2025"
+,,"Fuel (Rs 3,750/programs) - Two visits ( for organizing and conducting program)","12","Lump sum","3,750","45,000",
+,,"Stationaries (file covers/ Handouts)","6","Lump sum","2,500","12,500",
+,," "," "," ","Sub total","153,500",
+,,"Contingency (10%)"," "," "," ","15,350",
+,," "," "," ","Total","168,850",
+"Erect 02 display boards","Gurukele,
+Masgolla","Preparation of display Boards (2’x3) (Aluminium sheets and GI pipes)","2","Boards","24,250","48,500","2025"
+,,"Transportation of boards","2","Truck load","5,000","10,000",
+,,"Metal, Sand and Cement mixture for erection of board","2","Lump sum","750","1,500",
+,,"Fixing Boards (2 Man days/Board)","4","Man days","2,500","10,000",
+,," "," "," ","Sub Total","70,000",
+,,"Contingency (10%)"," "," "," ","7,000",
+,," "," "," ","Total","77,000",
+,,,,,"Total","5,415,053.00",
+"Total",,,,,,,

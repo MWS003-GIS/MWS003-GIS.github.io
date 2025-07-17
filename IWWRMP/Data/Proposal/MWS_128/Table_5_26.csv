@@ -1,0 +1,77 @@
+"Table 5.26: Proposed interventions MWS-128","","","","","","",""
+"Activity","Location","Description","Quantity","Units","Rate  LKR","Amount  LKR","Duration"
+"Boundary demarcation (Replace Damaged concrete posts)","Lulkandura forest 7.154739,
+80.693121","Purchase boundary posts","25","Boundary posts","4,500","112,500","2025"
+,,"Loading boundary posts","1","Man days","2,500","2,500",
+,,"Unloading boundary posts","1","Man days","2,500","2,500",
+,,"Transport cost (to the nearest motorable place) 100 boundary posts/ lorry load","1","2,500","2,500","2,500",
+,,"Head load - Transport boundary posts to the forest boundary","13","Man days","2,500","32,500",
+,,"Holing (500 mm x 200mm x 200)","3","Man days","2,500","7,500",
+,,"Preparation field and erection","3","Man days","2,500","7,500",
+,,"Cost of Cement, metal and sand","25","nr","375","9,375",
+,,"Head load -Transport Cement, metal and sand","10","Man days","2,500","25,000",
+,,,,,"Sub Total","201,875",
+,,"Contingency (10%)",,,,"20,188",
+,,,,,"Total","222,063",
+"Maintenance of 560 Forest boundary posts – 14 km","Lulkandura forest 7.154739,
+80.693121","Clearing land around boundary posts (1m circle)","56","Man days","2,500","140,000","2025"
+,,"Cleaning boundary posts","56","Man days","2,500","140,000",
+,,"Painting boundary posts with Red and Yellow colours","40","Man days","2,500","100,000",
+,,"Numbering boundary posts","6","Man days","2,500","15,000",
+,,"Paint, Brushes and thinner","560","Lump sum","100","56,000",
+,,,,,"Sub Total","451,000",
+,,,,,,"45,100",
+,,,,,"Total","496,100",
+"Establish live fence with Hana (Two rows in the zig zag arrangement)
+14 km","Lulkandura forest 7.154739,
+80.693121","Seedling Production (12\"x8\")","5,600","Seedlings","50","280,000","2026"
+,,"Transportation of seedlings to the site, (300 Seedlings / Lorry load)","19","Lorry loads","7,500","142,500",
+,,"loading and unloading (300 plants/ Man day)","19","Man days","2,500","47,500",
+,,"Seedling transportation within the field (1000/6 Man days)","34","Man days","2,500","85,000",
+,,"Clearing the land and holing and planting (1000 plants/25 Man days)","140","Man days","2,500","350,000",
+,,"Fertilizer (100g /plant)","560","Kg","300","168,000",
+,,"Applying fertilizer (5 Man days /1000 plants)","28","Man days","2,500","70,000",
+,,"Vacancy Planting -Seedling cost (20%)","1,120","Seedlings","300","336,000","2027"
+,,"Vacancy Planting - Holing & Planting (7 Man days)","98","man days","2,500","245,000",
+,,"Vacancy Planting (10% )- Seedling cost","560","Seedlings","300","168,000","2028"
+,,"Vacancy Planting - Holing & Planting (4 Man days)","56","Man days","2,500","140,000",
+,,"(1st years 
+3 maintenance,","504","Man days","2,500","1,260,000","2027"
+,,"2nd year
+ 2 maintenance,","336","Man days","2,500","840,000","2028"
+,,"3rd year 
+2 maintenance,","336","Man days","2,500","840,000","2029"
+,,"4th year 
+1 maintenance)","168","Man days","2,500","420,000","2030"
+,,"Fuel (Supervision)","1","Lump sum","60,000","60,000","2026-2030"
+,,,,,"Sub Total","5,452,000",
+,,"Contingency (10%)",,,,"545,200",
+,,,,,"Total","5,997,200",
+"Promote Alley cropping (2ha)","Palledelthota,7.187830,
+80.661904","Purchasing fruit plants (12\"x18\")","660","Seedlings","300","198,000","2026"
+,,"Loading                                                                           (01 Man day/300 Seedlings)","3","Man days","2,500","7,500",
+,,"Loading unloading                                                      (01 Man day/300 Seedlings)","3","Man days","2,500","7,500",
+,,"Transportation and distribution (300 Seedling/Lorry load)","3","Lorry load","7,500","22,500",
+,,"Transportation of seedlings inside the field (5 Man days / ha)","8","Man days","2,500","12,500",
+,,"Holing and planting (33 Man days /ha)","54","Man days","2,500","136,125",
+,,"Vacancy Planting -Seedling cost (20%)","132","Seedlings","300","39,600","2027"
+,,"Vacancy Planting - Holing & Planting (7 Man days)","12","Man days","2,500","28,875",
+,,,,,"Sub Total","452,600",
+,,"Contingency (10%)",,,,"45,260",
+,,,,,"Total","497,860",
+"Conduct 06 awareness programmes","PalledelthiotaPanvilathenna
+Mulgama","Refreshments","320","Packs","400","128,000","2025-2029"
+,,"Fuel                                                  (Rs 3,750/programs) - Two visits ( for organizing and conducting program)","16","Lump sum","3,750","60,000",
+,,"Stationaries (file covers/ Handouts)","8","Lump sum","2,500","12,500",
+,,,,,"Sub total","200,500",
+,,"Contingency (10%)",,,,"20,050",
+,,,,,"Total","220,550",
+"Erect 02 display boards","Palledelthota, 
+Lulkandura","Preparation of display Boards (2’x3) (Aluminium sheets and GI pipes)","2","Boards","24,250","48,500","2026"
+,,"Transportation of boards","2","Truck load","5,000","10,000",
+,,"Metal, Sand and Cement mixture for erection of board","2","Lump sum","750","1,500",
+,,"Fixing Boards (2 Man days/Board)","4","Man days","2,500","10,000",
+,,,,,"Sub Total","70,000",
+,,"Contingency (10%)",,,,"7,000",
+,,,,,"Total","77,000",
+"Total",,,,,,"7,510,773",

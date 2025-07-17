@@ -1,5 +1,5 @@
 "Table 2.5: GN-wise demographic details of the MWS-002-1","","","","",""
-"GND.No","GND.Name","No..of.Houses","No..of.Families","Female","Male"
+"GND No","GND Name","No  of Houses","No  of Families","Female","Male"
 "1034","Wetakepotha","199","308","520","499"
 "1037","Medakekila","168","210","510","475"
 "1039","Pattiyagama Udagama","147","148","319","270"
@@ -11,4 +11,4 @@
 "1045","Pattiyagama Gabadagama North","296","378","861","810"
 "1046","Kandegama","64","87","134","131"
 "1047","Wadiyagoda","98","112","173","171"
-"","Total","3076","3763","7216","6725"
+,"Total","3076","3763","7216","6725"

@@ -1,6 +1,6 @@
 "Table 2.4: Monthly average temperature details of the MWS-006-2","",""
-"Month.","Temperature","NA."
-"","Maximum","Minimum"
+"Month","Temperature","NA"
+,"Maximum","Minimum"
 "January","28.0","18.0"
 "February","29.5","18.0"
 "March","31.0","18.8"

@@ -1,6 +1,6 @@
 "Table 5.24: Vegetation cover vs population in MWS-006-1","","","",""
-"X","Land.use","Extent","Percentage","Population"
+"X","Land use","Extent","Percentage","Population"
 "1","Forests and associated lands","140.30","11.44","15 GNDs"
-"2","Tea","7.80","0.64",""
-"3","Home gardens","627.20","51.15",""
-"","Total","775.3","63.23","10862"
+"2","Tea","7.80","0.64",
+"3","Home gardens","627.20","51.15",
+,"Total","775.3","63.23","10862"
