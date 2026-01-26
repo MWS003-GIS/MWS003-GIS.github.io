@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "MWS_ID": 81, "GN_Divisio": 835, "GN_Divis_1": "Pamunethenna", "Key_Activi": "1. Establishing a retaining wall", "Priority_b": 3, "N": 7.264928, "E": 80.8623, "Quantity": "3 m x 2 m", "Proposed_m": "Retaining Wall (Masonary)", "Total_Cost": 132000, "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.8623, 7.264928 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 80, "Name_of_Ta": "Kudugale Wewa", "Custodians": "DAD", "N": 7.305249, "E": 80.898838, "Remarks": "Rehabilitation of the bund, Desilting and Reconstruction of Head wall type sluice.  Reserves related to the lake should be marked and appropriate measures should be taken to prevent bank erosion.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_080/IMG_20250528_140510  Kudugale lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.898838, 7.305249 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 80, "Name_of_Ta": "Thunne Kotuwe Wewa", "Custodians": "DAD", "N": 7.30123, "E": 80.897291, "Remarks": "Rehabilitation of the bund. Desilting and reconstruction of Head wall type sluice.  Reserves related to the lake should be marked and appropriate measures should be taken to prevent bank erosion.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_080/IMG_20250528_121744 Thunnekotuwa lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.897291, 7.30123 ] } },
+{ "type": "Feature", "properties": { "No": 3, "MWS_ID": 80, "Name_of_Ta": "Deegalla Wewa", "Custodians": "DAD", "N": 7.310545, "E": 80.90126, "Remarks": "Rehabilitation of the bund, desilting   and reconstruction of sluice.  Reserves related to the lake should be marked and appropriate measures should be taken to prevent bank erosion.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_080/IMG_20250529_123022 Deegalla lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.90126, 7.310545 ] } }
+]
+}

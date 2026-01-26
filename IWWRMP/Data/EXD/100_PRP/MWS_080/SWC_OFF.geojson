@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 80, "GN_Divisio": 854, "GN_Divis_1": "Godakumbura", "Key_Activi": "Establishing a retaining wall - Godakumbura community hall area", "Priority_b": 1, "N": 7.299721, "E": 80.896894, "Quantity": "4.5 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "533,500.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.896894, 7.299721 ] } }
+]
+}

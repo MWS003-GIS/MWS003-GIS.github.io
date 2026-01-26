@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 81, "GND_No_": 836, "Name_of_th": "Salali Dhara water project", "N": 7.253726, "E": 80.84796, "Observatio": "Cuuuently in progress", "Descriptio": "Construction of 2.0 m  x 2.0 m x 1.5 m (L x W x H) Filter tank \n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete", "Amount__Rs": "412,500.00", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_081/Saliladara co.water project.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.84796, 7.253726 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 81, "GND_No_": 836, "Name_of_th": "Near the community hall of Bambarabedda East", "N": 7.25024, "E": 80.84875, "Observatio": "Cuuuently in progress", "Descriptio": "Construction of 2.0 m  x 2.0 m x 1.5 m (L x W x H) Filter tank \n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete", "Amount__Rs": "412,500.00", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_081/Diyadahara co.water project.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.84875, 7.25024 ] } },
+{ "type": "Feature", "properties": { "No": 3, "MWS_ID": 81, "GND_No_": 836, "Name_of_th": "Near the Mr Ajantha's store", "N": 7.251457, "E": 80.85036, "Observatio": "The tube well is good condition", "Descriptio": "cleaning of the inside of the tube well including minor repairs", "Amount__Rs": "12,000.00", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_081/Ajantha tube well.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.85036, 7.251457 ] } }
+]
+}

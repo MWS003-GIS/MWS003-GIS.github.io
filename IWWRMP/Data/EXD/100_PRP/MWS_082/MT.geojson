@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 82, "Name_of_Ta": "Madugalla South Tank", "Custodians": "DAD", "N": 7.260389, "E": 80.886466, "Remarks": "Rehabilitation of tank bund. Desilting and establishing tree cover.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_082/IMG_20250612_104848 Madugalla south lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.886466, 7.260389 ] } }
+]
+}

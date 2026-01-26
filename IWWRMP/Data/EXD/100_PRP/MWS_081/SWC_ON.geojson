@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 81, "GN_Divisio": 836, "GN_Divis_1": "Bambarabedda East", "Key_Activi": "1. Soil conservation practices (60�-70�)", "Priority_b": 4, "N": 7.252161, "E": 80.855773, "Quantity": "1.5 ha", "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied", "Uniti_Cost": "250.00 m-1", "Total_Cost": 375000, "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_081/Soilconservetion.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.855773, 7.252161 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "MWS_ID": 81, "GN_Divisio": 837, "GN_Divis_1": "Bambarabedda West", "Key_Activi": "1. Soil conservation practices (60�-70�)", "Priority_b": 3, "N": 7.247019, "E": 80.853956, "Quantity": "4 ha", "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied", "Uniti_Cost": "250.00 m-1", "Total_Cost": 1000000, "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_081/Soil conseversation.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.853956, 7.247019 ] } }
+]
+}
