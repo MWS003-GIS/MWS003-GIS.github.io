@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 89, "Name_of_Ta": "Thawarane wewa", "Custodians": "DAD/FD", "N": 7.275608, "E": 80.828894, "Remarks": "Desilting of the tank", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_089/IMG_20250430_095550Thawarane Lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.828894, 7.275608 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 89, "Name_of_Ta": "Delkandura wewa", "Custodians": "-", "N": 7.256063, "E": 80.834815, "Remarks": "Tree plantation around the tank", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_089/IMG_20250509_103448 Delkanda lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.834815, 7.256063 ] } },
+{ "type": "Feature", "properties": { "No": 3, "MWS_ID": 89, "Name_of_Ta": "Wewathanna wewa", "Custodians": "SPC", "N": 7.263653, "E": 80.838744, "Remarks": "Tree plantation around the tank", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_089/IMG_20250509_114701 Wewathenne lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.838744, 7.263653 ] } },
+{ "type": "Feature", "properties": { "No": 4, "MWS_ID": 89, "Name_of_Ta": "Delkandura wewa", "Custodians": "DAD", "N": 7.262997, "E": 80.831123, "Remarks": "Desilting of the tank", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_089/IMG_20250509_103448 Delkanda lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.831123, 7.262997 ] } }
+]
+}

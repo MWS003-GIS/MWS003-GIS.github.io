@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 87, "GN_Divisio": 801, "GN_Divis_1": "Retiyagama", "Key_Activi": "1. Establishing a wall - Nearby Helth Center Ratiyagama", "Priority_b": 4, "N": 7.311087, "E": 80.80795, "Quantity": "12 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "1,402,500.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_087/Road side Disaster area_20250401_143938.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.80795, 7.311087 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "MWS_ID": 87, "GN_Divisio": 801, "GN_Divis_1": "Retiyagama", "Key_Activi": "2. Establishing a wall - Nearby Dhanuska's Boutique", "Priority_b": 3, "N": 7.306503, "E": 80.811428, "Quantity": "10 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "1,171,500.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_087/801 Retiyagama Disaster place Dhanushka area20250401_113626.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.811428, 7.306503 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "MWS_ID": 87, "GN_Divisio": 802, "GN_Divis_1": "Kandekumbura", "Key_Activi": "1. Establishing a wall - The road infront of Kahadawala House", "Priority_b": 2, "N": 7.302686, "E": 80.81541, "Quantity": "25 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "2,909,500.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_087/landslide Kandawela house_20250403_094651 - Copy.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.81541, 7.302686 ] } }
+]
+}

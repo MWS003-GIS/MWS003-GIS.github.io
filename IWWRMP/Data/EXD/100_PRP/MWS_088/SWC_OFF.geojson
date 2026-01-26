@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 5, "MWS_ID": 88, "GN_Divisio": 807, "GN_Divis_1": "Rambukpotha", "Key_Activi": "1. Establishing a wall - Galekele", "Priority_b": 4, "N": 7.29501, "E": 80.848643, "Quantity": "20 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "2,332,000.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_088/Galekele Landslide.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.848643, 7.29501 ] } }
+]
+}

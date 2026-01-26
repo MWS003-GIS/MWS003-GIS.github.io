@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 3, "MWS_ID": 86, "GN_Divisio": 796, "GN_Divis_1": "Heeloya", "Key_Activi": "1. Soil conservation practices - Mr A.M. Kudabanda land (40�-55�)", "Priority_b": 3, "N": 7.321616, "E": 80.805653, "Quantity": "0.4 ha", "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied", "Uniti_Cost": "250.00 m-1", "Total_Cost": "110,000.00", "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.5 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250423_123015 Mr A.M Kudabanda pepper cultivated land.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.805653, 7.321616 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "MWS_ID": 86, "GN_Divisio": 798, "GN_Divis_1": "Kiribattalawa", "Key_Activi": "1. Soil conservation practices - Kiribattalawa cultivation land (60�-70�)", "Priority_b": 1, "N": 7.3061, "E": 80.806673, "Quantity": "1.25 ha", "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied", "Uniti_Cost": "250.00 m-1", "Total_Cost": "312,500.00", "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250425_130652.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.806673, 7.3061 ] } }
+]
+}

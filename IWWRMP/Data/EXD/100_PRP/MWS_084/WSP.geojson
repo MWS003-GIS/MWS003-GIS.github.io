@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 84, "GND_No_": 820, "Name_of_Sp": "Moragaha Spring (Meegahadivela)", "N": 7.223197, "E": 80.813371, "Add__Coord": "-", "Observatio": "It is as lake 15 m long and 10 m wide, filled with water . Water is taken to bathing and cultivation", "Descriptio": "New Well Costruction \n\nEarth excavation for foundation or quarry \nmaterials and haul the surplus materials up to \n30m by Manually.\n\n150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures\n\nPlaster 12mm thick in 1:3 cement and", "Amount__Rs": "259,765.00", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_084/Moragaha spring_20250326_142601.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.813371, 7.223197 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 84, "GND_No_": 820, "Name_of_Sp": "Pihimbiyaketiya Well", "N": 7.230248, "E": 80.808063, "Add__Coord": "-", "Observatio": "There is a 2.5mx3.0mx3.5m(LxWxH)well. Water is taken for  drinking and bathing", "Descriptio": "150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures\n\nPlaster 12mm thick in 1:3 cement and sand \nfinished smooth with gray cement floating\n\n1:3:6 (40mm) concrete manual mix (volume batching)-For pavement\n\nMiscellaneous\n \nC", "Amount__Rs": "88,110.00", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_084/Pihimbiyaketiya linda_20250326_135940.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.808063, 7.230248 ] } }
+]
+}

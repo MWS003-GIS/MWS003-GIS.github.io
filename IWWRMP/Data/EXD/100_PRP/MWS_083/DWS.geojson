@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 83, "GND_No_": 823, "Name_of_th": "Delsiyambalawa", "N": 7.212251, "E": 80.831581, "Add__Coord": "-", "Observatio": "The dilapidated well built near the Anguruwala Oya should be repaired. A 10000 liter water storage tank should be constructed 800m from that location. A distribution pipe line system of about 1.5km should be constructed.", "Descriptio": "Light jungle clearing with vegetation, thorny bushes, undergrowth and less than 300 trees up to 300mm girth, and few isolated trees of less than 900mm girth including cutting uprooting and heaping on approved places Manually.\n\nRepairs to the well (withou", "Amount__Rs": "3,992,000.00", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.831581, 7.212251 ] } }
+]
+}

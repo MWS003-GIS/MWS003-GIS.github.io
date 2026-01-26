@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "MWS_ID": 84, "GN_Divisio": 820, "GN_Divis_1": "Thannalanda", "Land_Slide": "Landslide - Kurundugalgoda Road", "N": 7.239204, "E": 80.799997, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Basic soil conservation practices should be adopted", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_084/Kurundugalgodakandura Disaster_20250326_150000.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.799997, 7.239204 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 84, "GN_Divisio": 820, "GN_Divis_1": "Thannalanda", "Land_Slide": "Landslide - Near the Samurdhi Well Road", "N": 7.24254, "E": 80.800836, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Should construction a  retaining wall about 20 m long and 3 m high on the Southern side of the road", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_084/Disaster near thr Samurdhe linda road_20250326_151515.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.800836, 7.24254 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "MWS_ID": 84, "GN_Divisio": 820, "GN_Divis_1": "Thannalanda", "Land_Slide": "Landslide - House of Mr. Wijekumar", "N": 7.233765, "E": 80.80839, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Suitable for allotment of lands at another area", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_084/Disaster Vijekumara home_20250326_120030.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.80839, 7.233765 ] } }
+]
+}

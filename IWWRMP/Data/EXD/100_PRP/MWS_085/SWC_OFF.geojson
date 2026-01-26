@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "MWS_ID": 85, "GN_Divisio": 787, "GN_Divis_1": "Poddalgoda", "Key_Activi": "1. Establishing a wall - Puranewela", "Priority_b": 4, "N": 7.322199, "E": 80.792957, "Quantity": "15 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "1,749,000.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_085/Puranevela road erotion_20250327_131328.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.792957, 7.322199 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "MWS_ID": 85, "GN_Divisio": 789, "GN_Divis_1": "Katugoda", "Key_Activi": "1. Establishing a retaining wall - near No. 355/2 Mr. A.M.P.G. weerakoon Banda's house", "Priority_b": 1, "N": 7.327549, "E": 80.801052, "Quantity": "10 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "1,171,500.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.801052, 7.327549 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "MWS_ID": 85, "GN_Divisio": 789, "GN_Divis_1": "Katugoda", "Key_Activi": "2. Establishing a retaining wall - near Mr. Indika's house", "Priority_b": 1, "N": 7.328423, "E": 80.799835, "Quantity": "20 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "2,332,000.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.799835, 7.328423 ] } },
+{ "type": "Feature", "properties": { "No_": 5, "MWS_ID": 85, "GN_Divisio": 789, "GN_Divis_1": "Katugoda", "Key_Activi": "3. Establishing a retaining wall - Katugoda Meda road near the Mrs. Tikirikumari's house", "Priority_b": 1, "N": 7.327683, "E": 80.797309, "Quantity": "5 m x 2 m", "Proposed_m": "Retaining Wall (Masonary)", "Total_Cost": "220,000.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.797309, 7.327683 ] } }
+]
+}

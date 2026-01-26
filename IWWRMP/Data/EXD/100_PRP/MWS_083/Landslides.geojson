@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "MWS_ID": 83, "GN_Divisio": 818, "GN_Divis_1": "Bambaragahadeniya", "Land_Slide": "Landslide in 2012 - Anguruwalagama Nelligolla Part", "N": 7.241322, "E": 80.836345, "NBRO_Recom": "NBRO is aware", "Proposed_M": "The land is settling and no people reside there. This needs to be continued", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_083/Landslide area.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.836345, 7.241322 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 83, "GN_Divisio": 821, "GN_Divis_1": "Meegahalanda", "Land_Slide": "Potential for road sinking - Mahakumbura 6th post to Kudugala area", "N": 7.239448, "E": 80.828324, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Road maintenance should be carried out properly through PRDA", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_083/Road Landslide.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.828324, 7.239448 ] } }
+]
+}

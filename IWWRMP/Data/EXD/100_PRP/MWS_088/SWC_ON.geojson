@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 88, "GN_Divisio": 804, "GN_Divis_1": "Hatheyalwela", "Key_Activi": "1. Soil conservation practices - Wethalawa Estate (40�-60�)", "Priority_b": 4, "N": 7.313971, "E": 80.824636, "Quantity": "2 ha", "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied", "Uniti_Cost": "250.00 m-1", "Total_Cost": "500,000.00", "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_088/Soil conservation Vathalawa waththa area.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.824636, 7.313971 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "MWS_ID": 88, "GN_Divisio": 806, "GN_Divis_1": "Mangoda", "Key_Activi": "1. Soil conservation practices (40�-60�)", "Priority_b": 1, "N": 7.292439, "E": 80.831961, "Quantity": "0.5 ha", "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied", "Uniti_Cost": "250.00 m-1", "Total_Cost": "125,000.00", "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_088/Finess forest_20250408_124508.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.831961, 7.292439 ] } }
+]
+}

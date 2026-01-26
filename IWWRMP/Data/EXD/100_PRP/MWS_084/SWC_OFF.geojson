@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "MWS_ID": 84, "GN_Divisio": 820, "GN_Divis_1": "Thannalanda", "Key_Activi": "1. Establishing a retaining wall - Near the Samurdhi Well Road", "Priority_b": 1, "N": 7.24254, "E": 80.800836, "Quantity": "20 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "2,332,000.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.800836, 7.24254 ] } }
+]
+}
