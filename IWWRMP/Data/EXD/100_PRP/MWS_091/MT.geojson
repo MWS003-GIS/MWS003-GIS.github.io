@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 91, "Name_of_Ta": "Elagolla Wewa", "Custodians": "-", "N": 7.354854, "E": 80.782171, "Remarks": "Rehabilitation of the bund and desilting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Elagolla Lake 2.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.782171, 7.354854 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 91, "Name_of_Ta": "Hewanmada Pathaha", "Custodians": "-", "N": 7.352275, "E": 80.767549, "Remarks": "Rehabilitation of the bund and desilting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Hevanmada Pathaha.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.767549, 7.352275 ] } },
+{ "type": "Feature", "properties": { "No": 3, "MWS_ID": 91, "Name_of_Ta": "Bogahalanda Pathaha", "Custodians": "-", "N": 7.352955, "E": 80.765624, "Remarks": "Rehabilitation of the bund and desilting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Bogahalanda Pathaha.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.765624, 7.352955 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 93, "GN_Divisio": 771, "GN_Divis_1": "Wegala", "Land_Slide": "Bank erosion - Around the Water Treatment Plant", "N": 7.290175, "E": 80.803798, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Should construct a retaining wall for about 25 m long and 3 m high between the existing tanks", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.803798, 7.290175 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "MWS_ID": 93, "GN_Divisio": 811, "GN_Divis_1": "Udathanna", "Land_Slide": "Land collapse to the road - Kandy Mahiyangana Main Road", "N": 7.286428, "E": 80.814996, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "It is under the perview of RD. Safety netting and concreting can be considered, as appropriate", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_093/Landslide near the school (3).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.814996, 7.286428 ] } }
+]
+}

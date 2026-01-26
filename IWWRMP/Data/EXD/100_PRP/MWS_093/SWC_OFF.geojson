@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 93, "GN_Divisio": 771, "GN_Divis_1": "Wegala", "Key_Activi": "1. Establishing a wall - Around the Water Treatment Plant", "Priority_b": 3, "N": 7.290175, "E": 80.803798, "Quantity": "25 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "2,909,500.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.803798, 7.290175 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 93, "Name_of_Ta": "Wegala Wewa", "Custodians": "DAD", "N": 7.292057, "E": 80.795289, "Remarks": "Rehabilitation of the bund and desilting. Repairs to sluice", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_093/Vagala lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.795289, 7.292057 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 93, "Name_of_Ta": "Labuwangoda madiththa patha", "Custodians": "DAD", "N": 7.296938, "E": 80.806958, "Remarks": "Desilting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_093/Labuwangoda Madiththa (4).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.806958, 7.296938 ] } },
+{ "type": "Feature", "properties": { "No": 3, "MWS_ID": 93, "Name_of_Ta": "Palu Ambalame Pathaha", "Custodians": "DAD", "N": 7.245042, "E": 80.824896, "Remarks": "Rehabilitation of the bund and desilting. New sluice and spill should be built.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_093/Paluambalama patha.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.824896, 7.245042 ] } },
+{ "type": "Feature", "properties": { "No": 4, "MWS_ID": 93, "Name_of_Ta": "Palle wewa", "Custodians": "DAD", "N": 7.245978, "E": 80.82246, "Remarks": "Desilting and new sluice door and accessories should be provided.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_093/Palle wewa (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.82246, 7.245978 ] } },
+{ "type": "Feature", "properties": { "No": 5, "MWS_ID": 93, "Name_of_Ta": "Uda wewa", "Custodians": "DAD", "N": 7.246626, "E": 80.82062, "Remarks": "Replace sluice door with accessories.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_093/Udawewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.82062, 7.246626 ] } }
+]
+}
