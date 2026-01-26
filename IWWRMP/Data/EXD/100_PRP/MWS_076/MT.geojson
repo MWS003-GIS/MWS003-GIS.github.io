@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 76, "Name_of_Ta": "Dunuke Wewa", "Custodians": "DAD", "N": 7.258525, "E": 80.901703, "Remarks": "Desilting and excavation of inlet canal.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Dunuke ulpatha tank (3).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.901703, 7.258525 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 76, "Name_of_Ta": "Kabatitiya Wewa", "Custodians": "-", "N": 7.299062, "E": 80.914454, "Remarks": "Desilting and rehabilitation of the tank", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.914454, 7.299062 ] } }
+]
+}

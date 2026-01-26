@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Landslide",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 78, "GN_Divisio": 861, "GN_Divis_1": "Kalalwala", "Land_Slide": "Landslide - Wall near the Mr. U.G. Hemachandra's house", "N": 7.246285, "E": 80.883802, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Follow NBRO advice", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_078/IMG_20250530_105617 U.G Hemachandra Earth slip land.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.883802, 7.246285 ] } }
+]
+}

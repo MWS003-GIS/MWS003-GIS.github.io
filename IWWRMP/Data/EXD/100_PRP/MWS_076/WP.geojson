@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "MWS_ID": 76, "GN_Divisio": 864, "GN_Divis_1": "Hapukanda West", "Non_point": "Potential to add human waste - Oyee Kade", "N": 7.2693317, "E": 80.9006142, "No__of_Toi": "1", "Point_sour": "-", "Add__N": "-", "Add__E": "-", "Recommende": "-", "Unit_Cost": "-", "Total_Cost": "-", "Contributi": "-", "Time_frame": "-", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.9006142, 7.2693317 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "MWS_ID": 76, "GN_Divisio": 866, "GN_Divis_1": "Udapitawala", "Non_point": "Potential to add human waste - Oyee Kade", "N": 7.3106891, "E": 80.91083, "No__of_Toi": "5", "Point_sour": "-", "Add__N": "-", "Add__E": "-", "Recommende": "-", "Unit_Cost": "-", "Total_Cost": "-", "Contributi": "-", "Time_frame": "-", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.91083, 7.3106891 ] } },
+{ "type": "Feature", "properties": { "No_": 5, "MWS_ID": 76, "GN_Divisio": 868, "GN_Divis_1": "Pitawala Udagammedda", "Non_point": "Potential to add human waste - Rangala and Podawagolla", "N": 7.2925277, "E": 80.9120469, "No__of_Toi": "6", "Point_sour": "-", "Add__N": "-", "Add__E": "-", "Recommende": "-", "Unit_Cost": "-", "Total_Cost": "-", "Contributi": "-", "Time_frame": "-", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.9120469, 7.2925277 ] } },
+{ "type": "Feature", "properties": { "No_": 6, "MWS_ID": 76, "GN_Divisio": 868, "GN_Divis_1": "Pitawala Udagammedda", "Non_point": "Informal disposal of houshold wastes/garbage", "N": 7.2925277, "E": 80.9120469, "No__of_Toi": "-", "Point_sour": "-", "Add__N": "-", "Add__E": "-", "Recommende": "Preparing a separate place in homegardens for disposing houshold waste,Awareness programme on how to disposal household waste properly and converting them to usable products such as compost,Facilitating garbage collection", "Unit_Cost": "-", "Total_Cost": "50,000.00", "Contributi": "Local/Central governments", "Time_frame": "0.5 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.9120469, 7.2925277 ] } }
+]
+}

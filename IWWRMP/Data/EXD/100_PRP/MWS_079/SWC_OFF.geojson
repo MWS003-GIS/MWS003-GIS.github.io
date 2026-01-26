@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 10, "MWS_ID": 79, "GN_Divisio": 848, "GN_Divis_1": "Nawanagala", "Key_Activi": "1. Establishing a retaining wall - Near the Mr. Wilson's house", "Priority_b": 3, "N": 7.314607, "E": 80.861751, "Quantity": "10 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "1,171,500.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.861751, 7.314607 ] } },
+{ "type": "Feature", "properties": { "No_": 11, "MWS_ID": 79, "GN_Divisio": 848, "GN_Divis_1": "Nawanagala", "Key_Activi": "2. Establishing a retaining wall", "Priority_b": 4, "N": 7.311556, "E": 80.863683, "Quantity": "10 m x 2 m", "Proposed_m": "Retaining Wall (Masonary)", "Total_Cost": "440,000.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.863683, 7.311556 ] } },
+{ "type": "Feature", "properties": { "No_": 12, "MWS_ID": 79, "GN_Divisio": 848, "GN_Divis_1": "Nawanagala", "Key_Activi": "3. Establishing a drain", "Priority_b": 3, "N": 7.311753, "E": 80.86406, "Quantity": "50 m", "Proposed_m": "Concrete Drain", "Total_Cost": "3,008,500.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.86406, 7.311753 ] } }
+]
+}

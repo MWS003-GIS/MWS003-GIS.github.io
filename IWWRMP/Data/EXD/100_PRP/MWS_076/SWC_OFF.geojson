@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 5, "MWS_ID": 76, "GN_Divisio": 868, "GN_Divis_1": "Pitawala Udagammedda", "Key_Activi": "1. Establishing a retaining wall", "Priority_b": 3, "N": 7.294033, "E": 80.909722, "Quantity": "13 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "1,518,000.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Road erotion Devahandiya road.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.909722, 7.294033 ] } }
+]
+}
