@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 132, "GND_No_": 1187, "Name_of_th": "Wewekumbura", "N": 7.093715, "E": 80.585707, "Observatio": "This water scheme works well. but it is reported that the built-in filter system does not properly purify the water.", "Descriptio": "Remove the existing filter media and cleaning the filter tank\n\nproviding filter media\n\nFabricating & fixing security weld mesh in open-type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of", "Amount__Rs": "72,600", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_132/Streams - Wewekumbura Canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.585707, 7.093715 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 132, "GND_No_": 1188, "Name_of_th": "Weligaga, Mawathura, Kalugalhinna", "N": 7.093715, "E": 80.585707, "Observatio": "This water scheme works well. but it is reported that the built-in filter system does not properly purify the water.", "Descriptio": "Remove the existing filter media and cleaning the filter tank\n\nproviding filter media\n\nFabricating & fixing security weld mesh in open-type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of", "Amount__Rs": "72,600", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_132/Water Catchment area Conservation - Weligaga Water source.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.585707, 7.093715 ] } }
+]
+}

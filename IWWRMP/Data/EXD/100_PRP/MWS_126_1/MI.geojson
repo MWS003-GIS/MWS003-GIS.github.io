@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "126-1", "GND_No_": 1163, "Name_of_th": "Weli-anga canal and anicut", "N": 7.162024, "E": 80.58291, "Observatio": "The total length of canal is 1Km. Although some parts of the canal have been concreted exist remains as a earthen canal.  5 Acres of paddy is cultivated from this canal.", "Descriptio": "Paving available rubble to prevent bank erosion and planting trees\n\nDry rubble packing (with locally found rubble, size over 225mm )\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel p", "Amount__Rs": "170,500.00", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_126_1/Minor Irrigation - Weli-anga canal (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.58291, 7.162024 ] } }
+]
+}

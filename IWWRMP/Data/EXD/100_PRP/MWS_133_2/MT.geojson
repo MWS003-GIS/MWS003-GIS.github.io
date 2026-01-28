@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "133-2", "Name_of_Ta": "Heartfield Wewa", "Custodians": "DAD", "N": 7.176196, "E": 80.554111, "Remarks": "Desilting and Rehabilitation of the sluice", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Minor Tanks - Heartfield Estate tank.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.554111, 7.176196 ] } }
+]
+}

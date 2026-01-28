@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": 132, "GN_Divisio": 1187, "GN_Divis_1": "Mawathura", "Non_point": "Potential to add human waste - Due to low maintenance of gullies in Mahaweli Quarters, toilet waste mixing with water sources including Mahaweli River", "N": 7.0857457, "E": 80.5792512, "No__of_Toi": 3, "Point_sour": "-", "Add__N": "-", "Add__E": "-", "Recommende": "-", "Unit_Cost": "-", "Total_Cost": "-", "Contributi": "-", "Time_frame": "-", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.5792512, 7.0857457 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "MWS_ID": 132, "GN_Divisio": 1188, "GN_Divis_1": "Weligaga", "Non_point": "1. Potential to add human waste - Kanapadiwatta", "N": 7.0970638, "E": 80.5696725, "No__of_Toi": 3, "Point_sour": "-", "Add__N": "-", "Add__E": "-", "Recommende": "-", "Unit_Cost": "-", "Total_Cost": "-", "Contributi": "-", "Time_frame": "-", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.5696725, 7.0970638 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "MWS_ID": 132, "GN_Divisio": 1188, "GN_Divis_1": "Weligaga", "Non_point": "2. Potential to add human waste - Weligaga", "N": 7.0970638, "E": 80.5696725, "No__of_Toi": 4, "Point_sour": "-", "Add__N": "-", "Add__E": "-", "Recommende": "-", "Unit_Cost": "-", "Total_Cost": "-", "Contributi": "-", "Time_frame": "-", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.5696725, 7.0970638 ] } },
+{ "type": "Feature", "properties": { "No_": 5, "MWS_ID": 132, "GN_Divisio": 1188, "GN_Divis_1": "Weligaga", "Non_point": "3. Potential to add human waste - Kalugalpahana", "N": 7.0970638, "E": 80.5696725, "No__of_Toi": 3, "Point_sour": "-", "Add__N": "-", "Add__E": "-", "Recommende": "-", "Unit_Cost": "-", "Total_Cost": "-", "Contributi": "-", "Time_frame": "-", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.5696725, 7.0970638 ] } }
+]
+}

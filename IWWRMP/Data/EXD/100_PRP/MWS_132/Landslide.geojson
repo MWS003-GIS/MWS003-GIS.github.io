@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Landslide",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "MWS_ID": 132, "GN_Divisio": 1186, "GN_Divis_1": "Kekulanda", "Land_Slide": "Landsliding - Kekulanda Village", "N": 7.09939, "E": 80.58417, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "The NBRO has assessed the situation and based on its reccommendations, the people in this area have been given land elsewhere. But people are still living in this vulnerable area. People are recuctant to go tho the area where the land has been given beca", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_132/Disaster - Landslide risk area - Kekulanda (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.58417, 7.09939 ] } }
+]
+}

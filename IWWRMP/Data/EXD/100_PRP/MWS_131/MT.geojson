@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 131, "Name_of_Ta": "Peacock hill Wewa", "Custodians": "DAD", "N": 7.086151, "E": 80.621915, "Remarks": "Rehabilitate the tank", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_131/Minor Tanks - Peacock hill Wewa (9).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.621915, 7.086151 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 131, "Name_of_Ta": "Peak Wewa", "Custodians": "DAD", "N": 7.080243, "E": 80.615268, "Remarks": "Desilting and repairs to the sluice", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_131/Minor Tanks - Peak Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.615268, 7.080243 ] } }
+]
+}
