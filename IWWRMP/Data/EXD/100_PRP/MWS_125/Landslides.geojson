@@ -3,7 +3,7 @@
 "name": "Landslides",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "No.": 2, "GN Divisio": 1141, "GN Divis_1": "Masgolla", "Land Slide": "Earthen dam collapse to road, Morahena", "N or X": 7.156566, "E or Y": 80.665726, "NBRO Recom": "NBRO is aware", "Proposed M": "It needs to follow the recommendations of NBRO" }, "geometry": { "type": "Point", "coordinates": [ 80.665726, 7.156566 ] } },
-{ "type": "Feature", "properties": { "No.": 5, "GN Divisio": 1134, "GN Divis_1": "Ududeniya", "Land Slide": "Landslide, Ududeniya", "N or X": 7.15029, "E or Y": 80.674117, "NBRO Recom": "NBRO is aware", "Proposed M": "It needs to follow the recommendations of NBRO" }, "geometry": { "type": "Point", "coordinates": [ 80.674117, 7.15029 ] } }
+{ "type": "Feature", "properties": { "No.": 5, "GN Divisio": 1134, "GN Divis_1": "Ududeniya", "Land Slide": "Landslide, Ududeniya", "N": 7.15029, "E": 80.674117, "NBRO Recom": "NBRO is aware", "Proposed M": "It needs to follow the recommendations of NBRO", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_125/Disaster_Landslide_Ududeniya_Crack.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.674117, 7.15029 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "GN Divisio": 1141, "GN Divis_1": "Masgolla", "Land Slide": "Earthen dam collapse to road, Morahena", "N": 7.156566, "E": 80.665726, "NBRO Recom": "NBRO is aware", "Proposed M": "It needs to follow the recommendations of NBRO", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_125/Disaster_Bank_collapse (8).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.665726, 7.156566 ] } }
 ]
 }
