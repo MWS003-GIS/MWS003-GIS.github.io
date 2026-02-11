@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
-"name": "Table_6_3",
+"name": "MT",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "No": 1, "Tank name": "Alma Gremond Tank", "Custodians": "Hindu Temple", "N": 7.090739, "E": 80.832614, "Remarks": "Increase the height of the dam by 0.3 m" }, "geometry": { "type": "Point", "coordinates": [ 80.832614, 7.090739 ] } },
-{ "type": "Feature", "properties": { "No": 2, "Tank name": "Kurunduoya Kovil Tank", "Custodians": "Hindu Temple", "N": 7.074729, "E": 80.834501, "Remarks": "Repair damaged places of the dam" }, "geometry": { "type": "Point", "coordinates": [ 80.834501, 7.074729 ] } }
+{ "type": "Feature", "properties": { "No": 1, "Tank name": "Alma Gremond Tank", "Custodians": "Hindu Temple", "Location N": 7.090739, "Location E": 80.832614, "Remarks": "Increase the height of the dam by 0.3 m", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_026/Alma Dremond Lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.832614, 7.090739 ] } },
+{ "type": "Feature", "properties": { "No": 2, "Tank name": "Kurunduoya Kovil Tank", "Custodians": "Hindu Temple", "Location N": 7.074729, "Location E": 80.834501, "Remarks": "Repair damaged places of the dam", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_026/Lake - Kurundu Oya Kovil.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.834501, 7.074729 ] } }
 ]
 }
