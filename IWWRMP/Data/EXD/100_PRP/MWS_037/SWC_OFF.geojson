@@ -3,6 +3,6 @@
 "name": "SWC_OFF",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "No.": true, "GN Division No.": 518, "GN Division": "Udamadura", "Key Activities proposed for Soil and Water conservation": "1. Construction of a Retaining Wall - Batapala Road", "Priority based on Soil Erosion Hazard": 5, "N": 7.096697, "E": 80.919042, "Quantity": " 5.0 m long and 3.0 m high", "Proposed measure/s": "Retaining Wall", "Total Cost (Rs.)": "588,500.00", "Contribution": "By the Project", "Time frame for the implementation": "0.25 Years" }, "geometry": { "type": "Point", "coordinates": [ 80.919042, 7.096697 ] } }
+{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": 518, "GN Division": "Udamadura", "Key Activities proposed for Soil and Water conservation": "1. Construction of a Retaining Wall - Batapala Road", "Priority based on Soil Erosion Hazard": 5, "N": 7.096697, "E": 80.919042, "Quantity": " 5.0 m long and 3.0 m high", "Proposed measure/s": "Retaining Wall", "Total Cost (Rs.)": "588,500.00", "Contribution": "By the Project", "Time frame for the implementation": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.919042, 7.096697 ] } }
 ]
 }
