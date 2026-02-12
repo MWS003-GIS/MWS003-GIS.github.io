@@ -3,6 +3,6 @@
 "name": "DWS",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "103-1", "GND No.": 673, "Name of th": "Heepitiya village", "N": 7.32077, "E": 80.709617, "Observatio": "Tube well is in an inactive state", "Descriptio": "Repairing the existing tube well\n\nContingancies 10%", "Amount (Rs": "27,500.00" }, "geometry": { "type": "Point", "coordinates": [ 80.709617, 7.32077 ] } }
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "103-1", "GND No.": 673, "Name of th": "Heepitiya village", "N": 7.32077, "E": 80.709617, "Observatio": "Tube well is in an inactive state", "Descriptio": "Repairing the existing tube well\n\nContingancies 10%", "Amount (Rs": "27,500.00", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_103_1/Heepitiya Ex. Tube Well.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.709617, 7.32077 ] } }
 ]
 }

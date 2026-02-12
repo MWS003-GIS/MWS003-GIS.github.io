@@ -3,6 +3,6 @@
 "name": "MT",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "107-2", "Name of Ta": "Paliporu Anga pathaha", "Custodians": "DAD", "N": 7.31612, "E": 80.66711, "Remarks?": "Desilting and rehabilitation of the bund." }, "geometry": { "type": "Point", "coordinates": [ 80.66711, 7.31612 ] } }
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "107-2", "Name of Ta": "Paliporu Anga pathaha", "Custodians": "DAD", "N": 7.31612, "E": 80.66711, "Remarks?": "Desilting and rehabilitation of the bund.", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.66711, 7.31612 ] } }
 ]
 }
