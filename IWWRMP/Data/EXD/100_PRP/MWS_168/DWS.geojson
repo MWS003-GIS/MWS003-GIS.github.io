@@ -3,6 +3,7 @@
   "name": "DWS",
   "features": [
     {"type":"Feature","properties":{"No.":"100","GND No.":"100","Scheme":"test1","Problem to be addressed/Recommendation":"test1","N":6.990949,"E":80.819454,"Estimated Cost":"10000","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_168/Disaster-Road_subsidence.jpg"},"geometry":{"type":"Point","coordinates":[80.819454,6.990949]}},
-    {"type":"Feature","properties":{"No.":"120","GND No.":"100","Scheme":"Test2","Problem to be addressed/Recommendation":"Test2","N":6.9777707,"E":80.784254,"Estimated Cost":"1000","photopath":""},"geometry":{"type":"Point","coordinates":[80.784254,6.9777707]}}
+    {"type":"Feature","properties":{"No.":"120","GND No.":"100","Scheme":"Test2","Problem to be addressed/Recommendation":"Test2","N":6.9777707,"E":80.784254,"Estimated Cost":"1000","photopath":""},"geometry":{"type":"Point","coordinates":[80.784254,6.9777707]}},
+    {"type":"Feature","properties":{"No.":"70","GND No.":"120","Scheme":"test2","Problem to be addressed/Recommendation":"test2","N":6.956203,"E":80.796191,"Estimated Cost":"20000","photopath":""},"geometry":{"type":"Point","coordinates":[80.796191,6.956203]}}
   ]
 }
