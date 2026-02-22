@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "Name_of_Ta": "Rathwatta Kuda Wewa", "Custodians": "DAD", "N": 6.869461, "E": 80.944695, "Remarks": "Desilting and construction of sluice.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_054/Rathwatta Kuda Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.944695, 6.869461 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "Name_of_Ta": "Wawegoda Pathana Wewa", "Custodians": "DAD", "N": 6.851953, "E": 80.928684, "Remarks": "Desilting of the tank", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_054/Wawegoda Pathana Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.928684, 6.851953 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "Name_of_Ta": "Kosgahathenna Wewa", "Custodians": "DAD", "N": 6.872626, "E": 80.938678, "Remarks": "Desilting and raising the tank bund", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_054/Kosgahathenna Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.938678, 6.872626 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "Name_of_Ta": "Pailagoda wewa/pond", "Custodians": "DAD", "N": 6.865048, "E": 80.941695, "Remarks": "Desilting and demarcating boundaries", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_054/Pailagoda wewa (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.941695, 6.865048 ] } },
+{ "type": "Feature", "properties": { "No_": 5, "Name_of_Ta": "Gadadehiatte Wewa", "Custodians": "DAD", "N": 6.835998, "E": 80.927336, "Remarks": "Desilting of the tank", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_054/Gadadehiatte Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.927336, 6.835998 ] } }
+]
+}

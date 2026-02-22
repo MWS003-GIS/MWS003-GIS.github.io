@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "GN_Divisio": "50A", "GN_Divis_1": "Ambewela", "Land_Slide": "Landsliding - Ambewela Arawa (Kemahena - Kelapathana Road)", "N": 6.875967, "E": 80.84243, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Construction of a 35.0 m long and 3.0 m high side wall between the canal and the road on the right side of the road.", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.84243, 6.875967 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "GN_Divisio": "50A", "GN_Divis_1": "Ambewela", "Land_Slide": "Soil erosion and sloughing - Kanugahahenna Road", "N": 6.872205, "E": 80.841472, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Construction of a 15.0 m long and 3.0 m high side wall  on the right side of the road.", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.841472, 6.872205 ] } }
+]
+}

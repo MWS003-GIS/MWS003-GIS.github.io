@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GND_No_": "62D", "Name_of_th": "Olugama village", "N": 6.831021, "E": 80.869434, "Observatio": "Olugama community water project is operating using this spring and distributes water to 120 families. No water treatment plant has been built for water purification.", "Descriptio": "Construction of Concrete water filtering tank of 6 cum - size internal  2mx2mx1.75m\n\nConstruction of the 6 cum concrete tank\n\nProviding the filter media\n\nconnecting storage tank and filtering tank with necessary pipes and fittings\n\nMiscellaneous \n\nContin", "Amount__Rs": 374000, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.869434, 6.831021 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "GND_No_": "62H", "Name_of_th": "Dullanda", "N": 6.843644, "E": 80.887914, "Observatio": "It is a well functioning water project and there is a need for a 10,000 litters plastic water storage tank.", "Descriptio": "Construction of 20 cum water storage tank\n\nConstruction of Concrete water storage tank of 20 cum - size internal t 3mx3mx2.5\n\nConnecting the water tank to the existing system\n\nMiscellaneous \n\nContingencies 10%", "Amount__Rs": 756800, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_052/Dullanda Spring & WP.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.887914, 6.843644 ] } }
+]
+}

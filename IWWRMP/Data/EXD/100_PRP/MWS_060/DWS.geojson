@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GND_No_": "50F", "Name_of_th": "Getalagolla Kadura", "N": 6.883531, "E": 80.851338, "Observatio": "It is exists as a water source and jungle", "Descriptio": "Demarcate the boundaries - around the water source\n\nPlant 10 no of Kumbuk trees around the water source\n\nSupplying of Kumbuk seedlings [to be planted in 3.5m x 3.5m grid]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance [7 L/", "Amount__Rs": 56100, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_060/Getalagolla Kadura (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.851338, 6.883531 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "GND_No_": "50F", "Name_of_th": "Bibila Kadura", "N": 6.885227, "E": 80.851117, "Observatio": "It is exists as a water source and jungle", "Descriptio": "Vegetative cover improving around the reservation Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval", "Amount__Rs": 484000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_060/Bibila Kadura.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.851117, 6.885227 ] } }
+]
+}

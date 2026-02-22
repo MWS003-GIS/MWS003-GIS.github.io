@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 4, "GN_Divisio": "59C", "GN_Divis_1": "Medagedaragama", "Land_Slide": "Road erosion and sliding - Medagedaragama Road", "N": 6.877904, "E": 80.91968, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Directing water during rainy seasons to the relevant streams and other rivers is essential.", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.91968, 6.877904 ] } },
+{ "type": "Feature", "properties": { "No_": 7, "GN_Divisio": "61", "GN_Divis_1": "Guruthalawa", "Land_Slide": "Landsliding - Gonigolla", "N": 6.843547, "E": 80.897916, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Follow recommendations of NBRO having consulted (Already informed)", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_057/Disaster - Landsliding prone area - Gonigolla.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.897916, 6.843547 ] } }
+]
+}

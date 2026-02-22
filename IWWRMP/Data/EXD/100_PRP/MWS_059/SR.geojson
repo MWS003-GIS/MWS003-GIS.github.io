@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GND_No_": "49D", "Descriptio": "Ambewela Oya", "N": 6.905003, "E": 80.825934, "Observatio": "This stream is located in an area owned by the estate. Epala trees are grown on both sides of the stream banks. During the rainy season when too much water flows, Bank erosion occurs", "Descript_1": "Replanting bamboo species - Along the river baks\n\nPlanting  epala trees where necessary\n\nMiscellaneous\n\nContingencies 10%", "Amount": "192500", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_059/Ambewelw Oya.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.825934, 6.905003 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "GND_No_": "50A", "Descriptio": "Polon Ella Stream", "N": 6.886123, "E": 80.837118, "Observatio": "During the rainy season when too much water flows, Bank erosion occurs", "Descript_1": "Planting  epala trees where necessary", "Amount": "Community Contribution", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_059/Polonella Stream.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.837118, 6.886123 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "GND_No_": "50A", "Descriptio": "Kanugahawela Kandura", "N": 6.872148, "E": 80.841286, "Observatio": "During the rainy season when too much water flows, Bank erosion occurs", "Descript_1": "Planting  epala trees where necessary", "Amount": "Community Contribution", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_059/Kanugahahena Canal Location 1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.841286, 6.872148 ] } }
+]
+}

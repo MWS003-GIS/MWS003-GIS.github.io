@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "Name_of_Ta": "Wewathenna Wewa", "Custodians": "DAD", "N": 6.896421, "E": 80.936727, "Remarks": "Desilting required.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_058/Minor Tanks - Wewathenna Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.936727, 6.896421 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "Name_of_Ta": "Dikulpatha Wewa", "Custodians": "DAD", "N": 6.892933, "E": 80.939302, "Remarks": "Desilting and plant trees in the reservation.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_058/Minor Tanks - Dikulpatha Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.939302, 6.892933 ] } }
+]
+}

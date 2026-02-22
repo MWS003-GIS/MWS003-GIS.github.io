@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GND_No_": "49D", "Name_of_Sp": "Glanorky Watta", "N": 6.905583, "E": 80.823848, "Observatio": "This spring is located in an area owned by the tea estate. Therefore, required to allocating a reservation, This community water project is operating using this spring and distributes water to 310 families. No water treatment plant has been built for wat", "Descriptio": "Marking boundaries - Around the reservation\n\nConstruction of water treatment unite - size 3.0m x 2.0m x 1.5m \n\nContingencies 10%", "Amount": 467500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_059/Glanorky Estate spring.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.823848, 6.905583 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "GND_No_": "50A", "Name_of_Sp": "Welihela Deniya", "N": 6.880453, "E": 80.839931, "Observatio": "The Community Water Project distributes water to 50 families.", "Descriptio": "Plant 20 no of Kumbuk trees around the spring\n\nSupplying of Kumbuk seedlings [to be planted in 3.5m x 3.5m grid]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance [7 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application", "Amount": 33000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_059/Welihela Spring & Reserve.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.839931, 6.880453 ] } }
+]
+}

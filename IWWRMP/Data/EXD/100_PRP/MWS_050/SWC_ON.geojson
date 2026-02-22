@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GN_Divisio": "62A", "GN_Divis_1": "Ohiya", "Key_Activi": "1. Soil conservation practices - Ohiya village  (40°-45°)", "Priority_b": 2, "N": 6.813877, "E": 80.845931, "Quantity": "0.5 ha", "Proposed_m": "1. Live fencing/SALT  - 200 m", "Uniti_Cost": "250.00 m-1", "Total_Cost": 50000, "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_050/IMG_20250813_103104 Ohiya Forest land.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.845931, 6.813877 ] } }
+]
+}

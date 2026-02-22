@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GND_No_": "50G", "Descriptio": "Heen Ela", "N": 6.876818, "E": 80.852249, "Observatio": "The canal banks are eroding", "Descript_1": "Marking reservations -Around the canal\n\nContingencies 10%", "Amount": 38500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_060/Heen ela Anicut.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.852249, 6.876818 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "GND_No_": "50G", "Descriptio": "Maha oya water source", "N": 6.879378, "E": 80.852484, "Observatio": "During the rainy season when too much water flows, Bank erosion occurs", "Descript_1": "Marking reservations-around the water source\n\nVegetative cover improving around the reservation Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting a", "Amount": 686400, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_060/Maha oya water source.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.852484, 6.879378 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "GND_No_": "50F", "Descriptio": "Kuda Oya", "N": 6.885228, "E": 80.851301, "Observatio": "During the rainy season when too much water flows, Bank erosion occurs", "Descript_1": "Marking reservations-around the water source\n\nVegetative cover improving around the reservation Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting a", "Amount": 686400, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_060/Kuda Oya.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.851301, 6.885228 ] } }
+]
+}

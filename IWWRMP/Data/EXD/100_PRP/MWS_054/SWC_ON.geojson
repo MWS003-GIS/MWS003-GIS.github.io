@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GN_Divisio": "60", "GN_Divis_1": "Mirahawatta", "Key_Activi": "1. Soil conservation practices -  Balathotella (50°-65°)", "Priority_b": 1, "N": 6.87276, "E": 80.949342, "Quantity": "12 ha", "Proposed_m": "1. Live fencing/SALT  - 9000 m", "Uniti_Cost": "250.00 m-1", "Total_Cost": 2250000, "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_054/Tea land.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.949342, 6.87276 ] } },
+{ "type": "Feature", "properties": { "No_": 6, "GN_Divisio": "60E", "GN_Divis_1": "Hingurugamuwa", "Key_Activi": "1. Soil conservation practices - Hingurugamuwa Ellegama (45°-50°)", "Priority_b": 5, "N": 6.83808, "E": 80.930904, "Quantity": "20 ha", "Proposed_m": "1. Live fencing/SALT  - 15,000 m", "Uniti_Cost": "250.00 m-1", "Total_Cost": 3750000, "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_054/Tea land.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.930904, 6.83808 ] } }
+]
+}

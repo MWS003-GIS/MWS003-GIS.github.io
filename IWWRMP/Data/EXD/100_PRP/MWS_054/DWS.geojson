@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GND_No_": "60E", "Name_of_th": "Mahapeella, Koswatta", "N": 6.842255, "E": 80.926594, "Observatio": "There is a 2.5mx1.6mx2.5m(LxWxH)tank. Water is leaking from the walls.Water is taken for   drinking bathhing,", "Descriptio": "Repairts to the existing storage tanks/ aresting water leaks \n\nScarifying existing or concrete surface\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nWater proofing with cementitious water proofing agent approved by", "Amount__Rs": 156200, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_054/Mahapeella, Koswatta (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.926594, 6.842255 ] } }
+]
+}

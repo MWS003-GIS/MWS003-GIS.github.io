@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "Name_of_Ta": "Raththala Wewa", "Custodians": "DAD", "N": 6.856918, "E": 80.883838, "Remarks": "Desilting and planting trees around reservation. Repairs to sluice.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_055/Minor Tanks - Raththala Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.883838, 6.856918 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "Name_of_Ta": "Pihillagoda Wewa", "Custodians": "DAD", "N": 6.869033, "E": 80.903301, "Remarks": "Desilting and planting trees around reservation.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_055/Minor Tanks - Pihillagoda Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.903301, 6.869033 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "Name_of_Ta": "Dullanda Wewa", "Custodians": "DAD", "N": 6.862723, "E": 80.896491, "Remarks": "Desilting and planting trees around reservation.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_055/Minor Tanks - Dullanda Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.896491, 6.862723 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "Name_of_Ta": "Gurukandura Wewa", "Custodians": "DAD", "N": 6.857612, "E": 80.892957, "Remarks": "Desilting and planting trees around reservation.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_055/Minor Tanks - Gurukadura Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.892957, 6.857612 ] } },
+{ "type": "Feature", "properties": { "No_": 5, "Name_of_Ta": "Hapuroda Wewa", "Custodians": "DAD", "N": 6.857341, "E": 80.897433, "Remarks": "Marking reservation and planting trees around the reservation.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_055/Minor Tanks - Hapuroda Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.897433, 6.857341 ] } }
+]
+}

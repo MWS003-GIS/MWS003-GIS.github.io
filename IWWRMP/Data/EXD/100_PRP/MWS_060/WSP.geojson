@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GND_No_": "50D", "Name_of_Sp": "Maha Peella", "N": 6.886232, "E": 80.867621, "Observatio": "There is a  1.0mx1.0mx1.5m(LxWxH)tank. But it's no use. The reason is that the source in a different place. Water is taken for   bathing and drinking.", "Descriptio": "Construction of a water tank with a filtration system (Tank dimension 5.0m x 3m x 2.0m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ?05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars", "Amount": 698500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_060/Maha Peella.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.867621, 6.886232 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "GND_No_": "50G", "Name_of_Sp": "Muthugobahena Droniya", "N": 6.872878, "E": 80.853697, "Observatio": "This is a  water source", "Descriptio": "Marking reservations-around the water source\n\nVegetative cover improving around the reservation Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting a", "Amount": 565400, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.853697, 6.872878 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "GND_No_": "50G", "Name_of_Sp": "Mahagaldowa Droniya", "N": 6.868425, "E": 80.846045, "Observatio": "This is a water source", "Descriptio": "Marking reservations-around the water source\n\nVegetative cover improving around the reservation Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting a", "Amount": 624800, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_060/Mahagaldova Droniya.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.846045, 6.868425 ] } }
+]
+}

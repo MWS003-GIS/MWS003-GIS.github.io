@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "GN_Divisio": "50A", "GN_Divis_1": "Ambewela", "Key_Activi": "1. Establishing a retaining wall - Ambewela Arawa (Kemahena - Kelapathana Road)", "Priority_b": 1, "N": 6.875967, "E": 80.84243, "Quantity": "35 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": 4070000, "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.84243, 6.875967 ] } }
+]
+}

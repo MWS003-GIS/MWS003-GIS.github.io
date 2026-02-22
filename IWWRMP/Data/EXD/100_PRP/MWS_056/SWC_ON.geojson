@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GN_Divisio": "52", "GN_Divis_1": "Nedungamuwa", "Key_Activi": "1. Soil conservation practices -  Farm lands (50°-60°)", "Priority_b": 1, "N": 6.877984, "E": 80.903356, "Quantity": "4 ha", "Proposed_m": "1. Live fencing/SALT  - 2500 m", "Uniti_Cost": "250.00 m-1", "Total_Cost": 625000, "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_056/Finess trees area.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.903356, 6.877984 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "GN_Divisio": "59A", "GN_Divis_1": "Dambavinna", "Key_Activi": "1. Soil conservation practices -  Haddawula Village (50°-60°)", "Priority_b": 4, "N": 6.894568, "E": 80.913047, "Quantity": "2 ha", "Proposed_m": "1. Live fencing/SALT  - 1000 m", "Uniti_Cost": "250.00 m-1", "Total_Cost": 250000, "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_056/Soil conservation.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.913047, 6.894568 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "GN_Divisio": "61A", "GN_Divis_1": "Karagasthenna", "Key_Activi": "1. Soil conservation practices -  Gonagolla Pathana (50°-60°)", "Priority_b": 5, "N": 6.852113, "E": 80.898023, "Quantity": "4 ha", "Proposed_m": "1. Live fencing/SALT  - 2500 m", "Uniti_Cost": "250.00 m-1", "Total_Cost": 625000, "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_056/Soil conservation.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.898023, 6.852113 ] } }
+]
+}

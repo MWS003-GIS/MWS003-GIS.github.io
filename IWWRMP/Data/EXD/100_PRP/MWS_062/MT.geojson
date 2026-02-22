@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "Name_of_Ta": "Lahu Wewa Nugathalawa", "Custodians": "DAD", "N": 6.903062, "E": 80.892467, "Remarks": "Construction of sluice, desilting and repairs to spill.", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.892467, 6.903062 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "Name_of_Ta": "Gurukadura Wewa", "Custodians": "DAD", "N": 6.902957, "E": 80.879888, "Remarks": "Rehabilitating the bund, desilting and repairs to sluice.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_062/IMG_20250820_092146 Gurukanduru lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.879888, 6.902957 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "Name_of_Ta": "Kupanella Wewa", "Custodians": "DAD", "N": 6.908647, "E": 80.890167, "Remarks": "Rehabilitation of the tank", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_062/IMG_20250816_090141 Kupanella lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.890167, 6.908647 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "Name_of_Ta": "Wakkadahinna Ahas Wewa", "Custodians": "DAD", "N": 6.895959, "E": 80.856986, "Remarks": "Desilting", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_062/IMG_20250819_143639  Wakkadahinna  ahas wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.856986, 6.895959 ] } },
+{ "type": "Feature", "properties": { "No_": 5, "Name_of_Ta": "Kokatiyaroda Nil Ella Wewa", "Custodians": "DAD", "N": 6.909505, "E": 80.870715, "Remarks": "Desilting", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_062/IMG_20250819_102349 Kokatiyaroda nilella lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.870715, 6.909505 ] } }
+]
+}
