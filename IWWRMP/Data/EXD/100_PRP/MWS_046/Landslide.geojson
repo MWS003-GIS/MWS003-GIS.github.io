@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Landslide",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 3, "MWS_ID": 46, "GN_Divisio": "40A", "GN_Divis_1": "Panagoda", "Land_Slide": "Landsliding - Bambarapana, Mahakumbura main road, Gaalpattiya Division", "N": 6.975759, "E": 80.969537, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Inform PRDA and take appropriate actions based on the recommendations of NBRO", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_046/Landslide Mahakumbura Road Location 1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.969537, 6.975759 ] } },
+{ "type": "Feature", "properties": { "No_": 8, "MWS_ID": 46, "GN_Divisio": "53C", "GN_Divis_1": "Yahala Arawa", "Land_Slide": "Bank collapsing - Ransirigama", "N": 6.925529, "E": 80.937732, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Inform PRDA and take appropriate actions based on the recommendations of NBRO", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_046/Landslide Ransirigama 1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.937732, 6.925529 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Landslide",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "MWS_ID": "042-1", "GN_Divisio": "46B", "GN_Divis_1": "Galahagama", "Land_Slide": "Bank collapsing, Risk of landsliding - Aluthgama, Elagawa, Napalabokka, Aluthwatta, Kabilladowa", "N": 6.925226, "E": 80.842488, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Follow NBRO recommendations. It is appropriate to provide a land from another area.", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.842488, 6.925226 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "MWS_ID": "042-1", "GN_Divisio": "46D", "GN_Divis_1": "Medagodagama", "Land_Slide": "Landsliding, Bank collapsing - Dunkalahena", "N": 6.93104, "E": 80.855121, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Follow NBRO recommendations. It is appropriate to provide a land from another area.", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.855121, 6.93104 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "MWS_ID": "042-1", "GN_Divisio": "46E", "GN_Divis_1": "Thelhawadigama", "Land_Slide": "Landsliding - Renahinna", "N": 6.921514, "E": 80.856499, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Follow NBRO recommendations. It is appropriate to provide a land from another area.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_042_1/Landslide area.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.856499, 6.921514 ] } }
+]
+}

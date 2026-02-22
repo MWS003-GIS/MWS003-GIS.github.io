@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Landslide",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 4, "MWS_ID": 48, "GN_Divisio": "39A", "GN_Divis_1": "Malwattegama", "Land_Slide": "1. Landsliding - Thennahena", "N": 6.9888, "E": 80.957727, "NBRO_Recom": "-", "Proposed_M": "Acting in accordance with NBRO instructions. Resettlement of people is needed.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_048/Disaster - Landsliding - Thennahena.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.957727, 6.9888 ] } }
+]
+}

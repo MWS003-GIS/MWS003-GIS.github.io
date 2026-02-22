@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Landslide",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 5.0, "MWS_ID": 44.0, "GN_Divisio": "47C", "GN_Divis_1": "Rathamba", "Land_Slide": "Landsliding - In front of the Rathamba Engineering", "N": 6.922576, "E": 80.900339, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "It is advisable to mark reservaton and  remove unauthorized constructions. Constructing side walls, retaining walls (stone) is needed under the guidance of NBRO to prevent bank collapsing to the Welimada.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_044/In front of the Rathamba Engineering Landslid4.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.900339, 6.922576 ] } },
+{ "type": "Feature", "properties": { "No_": 6.0, "MWS_ID": 44.0, "GN_Divisio": "47D", "GN_Divis_1": "Daragala", "Land_Slide": "Landsliding - Palle Arawa", "N": 6.91985, "E": 80.901804, "NBRO_Recom": "NBRO is aware", "Proposed_M": "That area belongs to the Malwaththa Tea state company. Permission must be obtained from the company. Follow recommendations of NBRO.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_044/Palle arwa  landslide area.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.901804, 6.91985 ] } }
+]
+}

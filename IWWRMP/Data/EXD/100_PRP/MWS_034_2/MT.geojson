@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "034-2", "Name_of_Ta": "Kiri Oruwa�", "Custodians": "DAD�", "N": 7.045354, "E": 80.942912, "Remarks": "Desilting of the tank and providing a handrail on the Passarella��", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_034_2/Kirioruwa lake (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.942912, 7.045354 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": "034-2", "Name_of_Ta": "Kuda Wewa�", "Custodians": "DAD�", "N": 7.051216, "E": 80.95058, "Remarks": "Repairs to sluice, desilting and providing a handrail on the Passarella.��", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_034_2/Kuda Lake (3).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.95058, 7.051216 ] } },
+{ "type": "Feature", "properties": { "No": 3, "MWS_ID": "034-2", "Name_of_Ta": "Wewa Kanda tank�", "Custodians": "DAD�", "N": 7.051491, "E": 80.948056, "Remarks": "Repairs to sluice, desilting and providing a handrail on the Passarella.�", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_034_2/Yalgama co.Water project.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.948056, 7.051491 ] } }
+]
+}

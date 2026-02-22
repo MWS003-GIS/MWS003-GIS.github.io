@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1.0, "MWS_ID": 44.0, "Name_of_Ta": "Gibiliyagaha Madiththa Wewa�", "Custodians": "DAD�", "N": 6.938552, "E": 80.887604, "Remarks": "Desilting and providing a security fence.��", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_044/Gimbiliyagahamadiththa canal (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.887604, 6.938552 ] } },
+{ "type": "Feature", "properties": { "No": 2.0, "MWS_ID": 44.0, "Name_of_Ta": "Mahathenna Wewa�", "Custodians": "DAD�", "N": 6.92147, "E": 80.913138, "Remarks": "Desilting and repairs to sluice�", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.913138, 6.92147 ] } },
+{ "type": "Feature", "properties": { "No": 3.0, "MWS_ID": 44.0, "Name_of_Ta": "Katugalla Asvedduma Wewa�", "Custodians": "DAD�", "N": 6.924752, "E": 80.908521, "Remarks": "Desilting and repairs to sluice�", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.908521, 6.924752 ] } },
+{ "type": "Feature", "properties": { "No": 4.0, "MWS_ID": 44.0, "Name_of_Ta": "Dibibedda Uda Wewa�", "Custodians": "DAD�", "N": 6.92766, "E": 80.926803, "Remarks": "Desilting and rehabilitation of the bund.�", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_044/Dibbedda Udawewa (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.926803, 6.92766 ] } },
+{ "type": "Feature", "properties": { "No": 5.0, "MWS_ID": 44.0, "Name_of_Ta": "Dibibedda Pahala Wewa�", "Custodians": "DAD�", "N": 6.926002, "E": 80.926624, "Remarks": "Gravel road on the bund need to be repaired.�", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_044/Dibbadda pahalawewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.926624, 6.926002 ] } },
+{ "type": "Feature", "properties": { "No": 6.0, "MWS_ID": 44.0, "Name_of_Ta": "Thithamaluwa anicut and canal�", "Custodians": "DAD�", "N": 6.920188, "E": 80.933797, "Remarks": "Rehabilitation of the tank.�", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_044/Thiththa malawa kandura spring.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.933797, 6.920188 ] } }
+]
+}

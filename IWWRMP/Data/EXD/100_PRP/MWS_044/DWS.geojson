@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "MWS_ID": 44, "GND_No_": "47D", "Name_of_th": "Mahathenna reservation", "N": 6.920047, "E": 80.9119, "Observatio": "It is in  good working condition.There have a 2 No's of 10000lts storage tanks.It is constucted a two places", "Descriptio": "Constructio of a safety fence\n\nFence GI Barbed wire , 7 strands 14 BWG with 4 points at 75mm crs and R.C.C posts 1:1 1/2:3 (20mm) concrete 1.70m high and section 150mm x 150mm at bottom and 100mm x 100mm at top, at 2.4m c/c , r/f with 4 nos 6mm dia. MS r", "Amount": "420,200", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_044/Mahathenna reservation.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.9119, 6.920047 ] } },
+{ "type": "Feature", "properties": { "No": 2, "MWS_ID": 44, "GND_No_": "53A", "Name_of_th": "Diyakadura", "N": 6.921541, "E": 80.94702, "Observatio": "A 5000Lts plastic storage tank is placed and water is taken", "Descriptio": "Construction of a Filter tank\n\nConstruction of 1.0 m x 1.0 m x 1.5 m (LxWxH) filter tank with necessary parts\n\nProviding the filter media\n\nConnecting the filter tanks with the storage tanks with necessary pipes and fittings\n\nMiscellaneous\n\nContingencies", "Amount": "85,800", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_044/Diyakandura Water project (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.94702, 6.921541 ] } }
+]
+}

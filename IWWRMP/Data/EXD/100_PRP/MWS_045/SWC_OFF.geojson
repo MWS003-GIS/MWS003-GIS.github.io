@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 4, "MWS_ID": 45, "GN_Divisio": "43B", "GN_Divis_1": "Hangunnawa", "Key_Activi": "1. Establishing a retaining wall - Gemidiriya multipurpouse building", "Priority_b": "-", "N": 6.949303, "E": 80.871188, "Quantity": "15 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": "1,749,000.00", "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.871188, 6.949303 ] } }
+]
+}
