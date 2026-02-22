@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 8, "GND_No_": "320E", "Name_of_th": "Kuilwatta", "N": 6.919494, "E": 80.559002, "Observatio": "Currently, water is obtained from there spring informally. It is reported that there is enough water here all year round for a new water project.", "Descriptio": "Construction of Concrete anicut of 17.0 m length and height 0.9 m. (Total height 1.5 m)\n\nClearing the site\n\nCommon excavation for foundation or quarry materials and haul the surplus up to 30m by Manually.\n\nPlywood form work including making, fixing & rem", "Amount__Rs": 1175900, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_144_1/Water Catchment Area Conservation - Above the Kuilwatta school (5).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.559002, 6.919494 ] } }
+]
+}

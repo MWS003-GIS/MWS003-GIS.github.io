@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name_of_Ta": "Labugasthalawa Pond", "Custodians": "DAD", "N": 7.052485, "E": 80.987542, "Remarks": "Desilting of the pond.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_072/Labugasthalawa Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.987542, 7.052485 ] } },
+{ "type": "Feature", "properties": { "Name_of_Ta": "Thalakumbura Wewa", "Custodians": "DAD", "N": 7.025393, "E": 80.98511, "Remarks": "Desilting of the tank. Repairs to bund, spill and sluice.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_072/IMG_20250911_134232 Thalakumbura  lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.98511, 7.025393 ] } }
+]
+}

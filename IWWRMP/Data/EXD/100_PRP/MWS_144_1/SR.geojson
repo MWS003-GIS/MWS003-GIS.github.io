@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GND_No_": "320E", "Location": "Both sides of the Mahaweli River", "N": 6.926614, "E": 80.560081, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descriptio": "Paving available stone in the river banks and Planting trees\n\nDry rubble packing (with locally found rubble, size over 225mm )-Along the river banks\n\nVegetative cover improving around the river bank with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Me", "Amount": 896500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_144_1/Mahaweli River.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.560081, 6.926614 ] } }
+]
+}
