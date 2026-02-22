@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GND_No_": "67J", "Name_of_th": "Uda Arawa", "N": 6.859677, "E": 80.962057, "Observatio": "Although it is a well-functioning water scheme, there is no water filtering system here.", "Descriptio": "Construction of Filter tank and Connecting to the storage tank\n\nConstruction of 1.0 m x 1.0 m x 1.5 m (LxWxH) filter tank with necessary parts\n\nProviding the filter media\n\nConnecting storage tank and filtering tank with necessary pipes and fittings\n\nMisc", "Amount__Rs": "90,200", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_1/Regularization of Community Water Schemes - Samagi community water project.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.962057, 6.859677 ] } },
+{ "type": "Feature", "properties": { "GND_No_": "67J", "Name_of_th": "Galwaduwatta, Gurugalhinna", "N": 6.869805, "E": 80.966183, "Observatio": "This water source is difficult to reach. Although it is a well-functioning water scheme, there is no water filtering system here.", "Descriptio": "Construction of Filter tank and Connecting to the storage tank\n\nConstruction of 1.0 m x 1.0 m x 1.5 m (LxWxH) filter tank with necessary parts\n\nProviding the filter media\n\nConnecting storage tank and filtering tank with necessary pipes and fittings\n\nMisc", "Amount__Rs": "90,200", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_1/Regularization of Community Water Schemes - Galwaduwatta community water project (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.966183, 6.869805 ] } }
+]
+}

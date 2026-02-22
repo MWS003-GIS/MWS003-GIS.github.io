@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 3, "GN_Divisio": 1068, "GN_Divis_1": "Wallahagoda", "Land_Slide": "Bank collapsing - Wallahagoda school", "N": 7.149369, "E": 80.564045, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "It is advisable to build a retaining wall about 30 m length and about 3 m height.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_135/Disaster - School (3).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.564045, 7.149369 ] } },
+{ "type": "Feature", "properties": { "No_": 6, "GN_Divisio": 1073, "GN_Divis_1": "Ethgala North", "Land_Slide": "Risk of sinking the Awasaya due to Raja Ela flowing near the area - Awasaya/Living house for monks at Jayamalaramaya of Ethgala North", "N": 7.140931, "E": 80.564674, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "It is advisable to build a retaining wall about 25 m length and about 3 m height.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_135/Disaster - AwasayaLiving house for monks at Jayamalaramaya of Ethgala North (3).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.564674, 7.140931 ] } }
+]
+}

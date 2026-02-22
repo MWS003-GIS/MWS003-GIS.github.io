@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 28, "GND_No_": "76", "Descriptio": "Gallanda oya", "N": 6.997993, "E": 81.003469, "Observatio": "During the rainy season when too much water flows, Bank erosion occurs", "Descript_1": "Paving available stone in the river banks and Planting trees\n\nDry rubble packing (with locally found rubble, size over 225mm )-Along the river banks\n\nVegetative cover improving around the water source with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/", "Amount": 607420, "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 81.003469, 6.997993 ] } },
+{ "type": "Feature", "properties": { "No_": 29, "GND_No_": "76A", "Descriptio": "Bogoda Oya", "N": 7.002993, "E": 81.004753, "Observatio": "During the rainy season when too much water flows, Bank erosion occurs", "Descript_1": "Planting trees along the River Bank\n\nVegetative cover improving around the water source with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid int", "Amount": 768350, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_071_1/Bogoda Oya.jpg" }, "geometry": { "type": "Point", "coordinates": [ 81.004753, 7.002993 ] } }
+]
+}

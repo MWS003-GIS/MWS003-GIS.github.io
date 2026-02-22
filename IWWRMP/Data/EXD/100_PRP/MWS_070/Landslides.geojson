@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GN_Divisio": "75 B", "GN_Divis_1": "Pattipola", "Land_Slide": "1. Tree collapsing - Dikwella Watta", "N": 6.962719, "E": 81.005656, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Follow recommendations of NBRO", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_070/IMG_20251001_102018 Pattipola Eart slip area.jpg" }, "geometry": { "type": "Point", "coordinates": [ 81.005656, 6.962719 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "GN_Divisio": "75 B", "GN_Divis_1": "Pattipola", "Land_Slide": "2. Dam and tree collapsing into the road - Dam from Haliela to Galauda Road", "N": 6.972652, "E": 81.017551, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Follow recommendations of NBRO having consulted. Make stone terraces in the landslide prone areas", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_070/IMG_20251001_105328 Earth slip area(Hali ela to Galauda RD).jpg" }, "geometry": { "type": "Point", "coordinates": [ 81.017551, 6.972652 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "GN_Divisio": "75 B", "GN_Divis_1": "Pattipola", "Land_Slide": "4. Landsliding - Road to Pattipola Village", "N": 6.973393, "E": 81.016757, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Follow recommendations of NBRO having consulted.", "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 81.016757, 6.973393 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "GN_Divisio": "75 D", "GN_Divis_1": "Udagama", "Land_Slide": "Landsliding and sinking - Udagama Village area (Located in Panakanniya GND), Dikwella Middle Part", "N": 6.964567, "E": 81.0031256, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Follow recommendations of NBRO. New lands should be provided.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_070/IMG_20250926_163004 Earth slip land.jpg" }, "geometry": { "type": "Point", "coordinates": [ 81.0031256, 6.964567 ] } }
+]
+}

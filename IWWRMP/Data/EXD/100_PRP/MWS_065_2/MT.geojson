@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name_of_Ta": "Periyakurappan Wewa", "Custodians": "DAD", "N": 6.822572, "E": 80.966819, "Remarks": "Replacing sluice and desilting./ Reservation near the tank belons to the DAD.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Periyakurappan Wewa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.966819, 6.822572 ] } },
+{ "type": "Feature", "properties": { "Name_of_Ta": "Ereen Wewa", "Custodians": "DAD", "N": 6.818183, "E": 80.969191, "Remarks": "Replacing sluice and desilting./ Reservation near the tank belons to the DAD.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Ereen Lake (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.969191, 6.818183 ] } }
+]
+}

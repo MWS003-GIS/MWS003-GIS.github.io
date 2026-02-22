@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GND_No_": "315A", "Descriptio": "Mahaweli river", "N": 6.978368, "E": 80.507063, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Paving available stone in the river banks and Planting trees\n\nDry rubble packing (with locally found rubble, size over 225mm )-Along the river banks\n\nVegetative cover improving around the  river bank with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ M", "Amount": 913000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_144_2/Mahaweli river.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.507063, 6.978368 ] } },
+{ "type": "Feature", "properties": { "GND_No_": "320F", "Descriptio": "Mahaweli river", "N": 6.946751, "E": 80.538821, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Paving available stone in the river banks and Planting trees\n\nDry rubble packing (with locally found rubble, size over 225mm )-Along the river banks\n\nVegetative cover improving around the  river bank with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ M", "Amount": 876700, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_144_2/Mahaweli River (5).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.538821, 6.946751 ] } }
+]
+}

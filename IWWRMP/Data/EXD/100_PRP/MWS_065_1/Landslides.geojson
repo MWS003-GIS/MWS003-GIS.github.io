@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GN_Divisio": "67J", "GN_Divis_1": "Mathetilla", "Land_Slide": "1. Bank collapsing - Near the Bandarawela - Welimada road, below the Mathetilla School", "N": 6.863834, "E": 80.958839, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Constructing a retaining wall (35 m x 3 m)", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_1/Disaster - Near the Mathetilla school, above the Bandarawela - Welimada road.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.958839, 6.863834 ] } },
+{ "type": "Feature", "properties": { "GN_Divisio": "67J", "GN_Divis_1": "Mathetilla", "Land_Slide": "2. Bank  - Bandarawela - Welimada road, near the Udaarawa Aralugahapathana Road", "N": 6.859498, "E": 80.961643, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Constructing a retaining wall (35 m x 3 m)", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_1/Disaster - Bandarawela - Welimada road, near the Udaarawa Aralugahapathana road (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.961643, 6.859498 ] } }
+]
+}

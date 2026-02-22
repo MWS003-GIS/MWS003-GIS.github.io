@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GND_No_": 1065, "Name_of_th": "Pellapitiya school", "N": 7.125284, "E": 80.535754, "Observatio": null, "Descriptio": "Drilling of tube well (5m deep) with supplying and fixing of 0.5 HP x 4\" Dia tube well pump including all necessary connections and constructing a protective cell for the pump and mounting the same to good working order\n\nMiscellaneous\n\nContingencies 10%", "Amount__Rs": 148500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_134_2/Proposed tube well - School.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.535754, 7.125284 ] } },
+{ "type": "Feature", "properties": { "GND_No_": 1071, "Name_of_th": "Pinnagollamada", "N": 7.112244, "E": 80.561536, "Observatio": "Water spring is located in privet land. This is a well-developed and well-functioning water scheme.", "Descriptio": "Fence GI Barbed wire , 7 strands 14 BWG with 4 points at 75mm crs and R.C.C posts 1:1 1/2:3 (20mm) concrete 1.70m high and section 150mm x 150mm at bottom and 100mm x 100mm at top, at 2.4m c/c , r/f with 4 nos 6mm dia. MS rods with 14BWG wire stirrups at", "Amount__Rs": 192500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_134_2/Drinking Water Sources to be Conserved - Spring near Raja Ela Watta tea factory (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.561536, 7.112244 ] } }
+]
+}

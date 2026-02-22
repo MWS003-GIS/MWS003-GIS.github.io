@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 8, "GN_Divisio": "63B", "GN_Divis_1": "Diyathalawa", "Land_Slide": "Landsliding - The starting point of Gaswatta water source", "N": 6.806355, "E": 80.958383, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Since it is high-risk area, construction should be planned in consultation with NBRO", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_066/Landsliding Gaswththa water source (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.958383, 6.806355 ] } }
+]
+}

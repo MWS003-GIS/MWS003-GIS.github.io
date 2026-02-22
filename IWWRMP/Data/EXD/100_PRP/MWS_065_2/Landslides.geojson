@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 2, "GN_Divisio": "63G", "GN_Divis_1": "Dodamwatta", "Land_Slide": "Landsliding- Kosgahakumbura", "N": 6.813314, "E": 80.95976, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Alternative lands should be provided", "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 80.95976, 6.813314 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "GN_Divisio": "63H", "GN_Divis_1": "Umankandura", "Land_Slide": "Landsliding - Area near Galkanda Thorana", "N": 6.803382, "E": 80.96556, "NBRO_Recom": "NBRO is aware", "Proposed_M": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Landslide area near Galkanda Thorana (6).jpg", "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 80.96556, 6.803382 ] } },
+{ "type": "Feature", "properties": { "No_": 1, "GN_Divisio": "64", "GN_Divis_1": "Kahagolla", "Land_Slide": "Landsliding - Medawela canal", "N": 6.810902, "E": 80.971923, "NBRO_Recom": "NBRO is aware", "Proposed_M": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Medawala yaya landslide (3).jpg", "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 80.971923, 6.810902 ] } },
+{ "type": "Feature", "properties": { "No_": 5, "GN_Divisio": "64A", "GN_Divis_1": "Kahattewela", "Land_Slide": "Sinking the road - Sangaraja Piriven Road (area above the Oya)", "N": 6.835437, "E": 80.974183, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Sangaraja Piriven Road damage area.jpg", "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 80.974183, 6.835437 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GND_No_": "66G", "Name_of_th": "Thanthiriya Pathana", "N": 6.828287, "E": 81.001784, "Observatio": "About 25 families currently obtain water from this location, and a tank has not been constructed at the site of the spring. A new water storage tank with a capacity of ten thousand litters should be constructed.", "Descriptio": "Construction of Concrete water storage tank of 20 cum - size internal t 3mx3mx2.5\n\nContingencies 10%", "Amount__Rs": "1,485,000", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 81.001784, 6.828287 ] } }
+]
+}

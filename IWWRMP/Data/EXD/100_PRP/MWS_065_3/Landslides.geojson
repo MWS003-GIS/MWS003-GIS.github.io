@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GN_Divisio": "65A", "GN_Divis_1": "Kebillewela South", "Land_Slide": "Bank collapsing - Galwala", "N": 6.823606, "E": 80.996375, "NBRO_Recom": "Needs NBRO concern", "Proposed_M": "Replacement is needed with the recommendation of NBRO", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_3/Disaster - Landslide - Galwala.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.996375, 6.823606 ] } }
+]
+}

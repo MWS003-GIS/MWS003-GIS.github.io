@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name_of_Ta": "Thennawita ponds", "Custodians": "DAD", "N": 6.811768, "E": 80.937186, "Remarks": "Desilting and marking reservation./ Reservations are private lands.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_066/Aluthwela North Thennawita tanks.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.937186, 6.811768 ] } },
+{ "type": "Feature", "properties": { "Name_of_Ta": "Ibbanwewa", "Custodians": "DAD", "N": 6.823883, "E": 80.941324, "Remarks": "Desilting, sluice repairs and marking reservation. Reservations are private lands.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_066/Ibbanwewa (4).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.941324, 6.823883 ] } }
+]
+}

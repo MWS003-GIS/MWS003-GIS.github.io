@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 3, "GN_Divisio": "55 A", "GN_Divis_1": "Pallegama", "Land_Slide": "Landsliding - Road to Ariyathenna Village", "N": 6.913189, "E": 80.959832, "NBRO_Recom": "Needs the concern of NBRO", "Proposed_M": "4 m long and 3 m hight retaining wall should be built. Construction of 100 m long 300 mm x 300 mm (width x height) rectangular concrete with wall thickness 100 mm canal would be needed under the permission of Malwatwa Plantation", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_069/IMG_20250925_122250 Ariyathenna village road.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.959832, 6.913189 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "GN_Divisio": "55 A", "GN_Divis_1": "Pallegama", "Land_Slide": null, "N": 6.912695, "E": 80.960111, "NBRO_Recom": null, "Proposed_M": null, "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 80.960111, 6.912695 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "GN_Divisio": "55D", "GN_Divis_1": "Pahamunuthota", "Land_Slide": "Landsliding - Pahamunuthota", "N": 6.954141, "E": 80.970358, "NBRO_Recom": "NBRO is aware", "Proposed_M": "Follow the recommendations of NBRO", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_069/IMG_20250924_121707 Earth slip land.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.970358, 6.954141 ] } }
+]
+}
