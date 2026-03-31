@@ -3,6 +3,7 @@
   "name": "DWS",
   "features": [
     {"type":"Feature","properties":{"No":"2","GND No.":"sagabogama","Scheme":"","N":7.2674388240694565,"E":80.60261465852133,"Observation":"good","Description":"sohould be conservation","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.60261465852133,7.2674388240694565]}},
-    {"type":"Feature","properties":{"No":"2","GND No.":"sagabogama","Scheme":"","N":7.2674388240694565,"E":80.60261465852133,"Observation":"good","Description":"sohould be conservation","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.60261465852133,7.2674388240694565]}}
+    {"type":"Feature","properties":{"No":"2","GND No.":"sagabogama","Scheme":"","N":7.2674388240694565,"E":80.60261465852133,"Observation":"good","Description":"sohould be conservation","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.60261465852133,7.2674388240694565]}},
+    {"type":"Feature","properties":{"No":"2","GND No.":"sagabogama","Scheme":"","N":7.260294199570403,"E":80.58290362362554,"Observation":"good","Description":"sohould be conservation","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.58290362362554,7.260294199570403]}}
   ]
 }
