@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "SR",
+  "features": [
+    {"type":"Feature","properties":{"No":"","GND No.":"","Scheme":"","N":7.23878,"E":80.554606,"Observation":"damaged resovasion ","Description":"Constucsion","Amount (Rs.)":"500000.00","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/images.jpg"},"geometry":{"type":"Point","coordinates":[80.554606,7.23878]}}
+  ]
+}
