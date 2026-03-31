@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "name": "MI",
   "features": [
-    {"type":"Feature","properties":{"No":"1","GND No.":"beddegama","Scheme":"add","N":80.123,"E":7.112,"Observation":"boundary not demarcated","Description":"","Amount (Rs.)":"100000000","photopath":""},"geometry":{"type":"Point","coordinates":[7.112,80.123]}}
+    {"type":"Feature","properties":{"No":"1","GND No.":"beddegama","Scheme":"add","N":80.123,"E":7.112,"Observation":"boundary not demarcated","Description":"","Amount (Rs.)":"100000000","photopath":""},"geometry":{"type":"Point","coordinates":[7.112,80.123]}},
+    {"type":"Feature","properties":{"No":"2","GND No.":"kandeyaya","Scheme":"","N":236580,"E":7.3265,"Observation":"","Description":"","Amount (Rs.)":"20000","photopath":""},"geometry":{"type":"Point","coordinates":[7.3265,236580]}}
   ]
 }
