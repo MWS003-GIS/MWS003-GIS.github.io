@@ -9,6 +9,7 @@
     {"type":"Feature","properties":{"No":"1","GND No.":"22","Scheme":"","N":7.2906,"E":80.6331,"Observation":"Miner damage","Description":"The DMS damage  Lea-nth is 50 m width is 10 m","Amount (Rs.)":"75000","photopath":""},"geometry":{"type":"Point","coordinates":[80.6331,7.2906]}},
     {"type":"Feature","properties":{"No":"1","GND No.":"23","Scheme":"","N":7.9081,"E":807375,"Observation":"maiena dameag","Description":"250 meetas","Amount (Rs.)":"450000","photopath":""},"geometry":{"type":"Point","coordinates":[807375,7.9081]}},
     {"type":"Feature","properties":{"No":"01","GND No.":"sagabogama","Scheme":"dol","N":7.260074052921332,"E":80.59652067958054,"Observation":"good","Description":"sohould be conservation","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.59652067958054,7.260074052921332]}},
-    {"type":"Feature","properties":{"No":"1","GND No.":"22","Scheme":"sds","N":7.2029,"E":80.6962,"Observation":"","Description":"Dam minor damage","Amount (Rs.)":"20000","photopath":""},"geometry":{"type":"Point","coordinates":[80.6962,7.2029]}}
+    {"type":"Feature","properties":{"No":"1","GND No.":"22","Scheme":"sds","N":7.2029,"E":80.6962,"Observation":"","Description":"Dam minor damage","Amount (Rs.)":"20000","photopath":""},"geometry":{"type":"Point","coordinates":[80.6962,7.2029]}},
+    {"type":"Feature","properties":{"No":"01","GND No.":"Udawela","Scheme":"Udawela water sheme","N":7.25606,"E":80.611324,"Observation":"Getting piped water","Description":"50 Families without water","Amount (Rs.)":"700000.00","photopath":""},"geometry":{"type":"Point","coordinates":[80.611324,7.25606]}}
   ]
 }
