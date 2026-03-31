@@ -6,6 +6,7 @@
     {"type":"Feature","properties":{"No":"2","GND No.":"sagabogama","Scheme":"","N":7.2674388240694565,"E":80.60261465852133,"Observation":"good","Description":"sohould be conservation","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.60261465852133,7.2674388240694565]}},
     {"type":"Feature","properties":{"No":"2","GND No.":"sagabogama","Scheme":"","N":7.260294199570403,"E":80.58290362362554,"Observation":"good","Description":"sohould be conservation","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.58290362362554,7.260294199570403]}},
     {"type":"Feature","properties":{"No":"121","GND No.":"29","Scheme":"testing","N":7.223873776511044,"E":80.58826777008899,"Observation":"testing","Description":"testing","Amount (Rs.)":"5000","photopath":""},"geometry":{"type":"Point","coordinates":[80.58826777008899,7.223873776511044]}},
-    {"type":"Feature","properties":{"No":"1","GND No.":"22","Scheme":"","N":7.2906,"E":80.6331,"Observation":"Miner damage","Description":"The DMS damage  Lea-nth is 50 m width is 10 m","Amount (Rs.)":"75000","photopath":""},"geometry":{"type":"Point","coordinates":[80.6331,7.2906]}}
+    {"type":"Feature","properties":{"No":"1","GND No.":"22","Scheme":"","N":7.2906,"E":80.6331,"Observation":"Miner damage","Description":"The DMS damage  Lea-nth is 50 m width is 10 m","Amount (Rs.)":"75000","photopath":""},"geometry":{"type":"Point","coordinates":[80.6331,7.2906]}},
+    {"type":"Feature","properties":{"No":"1","GND No.":"23","Scheme":"","N":7.9081,"E":807375,"Observation":"maiena dameag","Description":"250 meetas","Amount (Rs.)":"450000","photopath":""},"geometry":{"type":"Point","coordinates":[807375,7.9081]}}
   ]
 }
