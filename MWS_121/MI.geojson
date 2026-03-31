@@ -3,6 +3,7 @@
   "name": "MI",
   "features": [
     {"type":"Feature","properties":{"No":"126","GND No.":"28","Scheme":"testing","N":7.2293695843104455,"E":80.59435102913409,"Observation":"test","Description":"test","Amount (Rs.)":"600000","photopath":""},"geometry":{"type":"Point","coordinates":[80.59435102913409,7.2293695843104455]}},
-    {"type":"Feature","properties":{"No":"121","GND No.":"28","Scheme":"testing","N":7.2293695843104455,"E":80.59435102913409,"Observation":"test","Description":"test","Amount (Rs.)":"600000","photopath":""},"geometry":{"type":"Point","coordinates":[80.59435102913409,7.2293695843104455]}}
+    {"type":"Feature","properties":{"No":"121","GND No.":"28","Scheme":"testing","N":7.2293695843104455,"E":80.59435102913409,"Observation":"test","Description":"test","Amount (Rs.)":"600000","photopath":""},"geometry":{"type":"Point","coordinates":[80.59435102913409,7.2293695843104455]}},
+    {"type":"Feature","properties":{"No":"01","GND No.":"1020","Scheme":"minor irrigation project","N":71326.3,"E":803407.7,"Observation":"The total length of the canal between GND is 1.5Km. Some sections of this canal have been developed (W=1.2m, H=0.6m). 75 Acres of paddy is cultivated from this canal. some sections are in severely dilapidated due to farmers encroaching on the canal res","Description":"Canal reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking Stream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m Vegetative cover improvement","Amount (Rs.)":"1000000","photopath":""},"geometry":{"type":"Point","coordinates":[803407.7,71326.3]}}
   ]
 }
