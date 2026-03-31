@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "Landslides",
+  "features": [
+    {"type":"Feature","properties":{"No.":"agriculturai land","GN Division No.":"121","GN Division":"no name","Land Slides":"farms& buittup land","N":80.6201173607635,"E":7.262597874122792,"NBRO Recommendation N/A":"N/A","Proposed Measures":"QQQQQQQQQQQQQ","photopath":""},"geometry":{"type":"Point","coordinates":[7.262597874122792,80.6201173607635]}}
+  ]
+}
