@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "SR",
+  "features": [
+    {"type":"Feature","properties":{"No":"1","GND No.":"gadaladeniya","Scheme":"","N":80.123,"E":7.456,"Observation":"bbmm","Description":"","Amount (Rs.)":"20000000","photopath":""},"geometry":{"type":"Point","coordinates":[7.456,80.123]}}
+  ]
+}
