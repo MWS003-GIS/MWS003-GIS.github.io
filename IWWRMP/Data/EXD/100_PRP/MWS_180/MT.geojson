@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name_of_Tank": "Katugolla No 2 Wewa", "Custodians": "DAD", "N": 7.033811, "E": 80.612972, "Remarks": "Desilting tank bed.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_180/Katugolla Wewa 2.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.612972, 7.033811 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_OFF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GND No.": "466A", "GND Name": "Maldeniya", "Key Activities proposed for Soil and Water conservation": "1. Constructing a drainage system around the playground of Maldeniya School", "Priority based on Soil Erosion Hazard": null, "N": 7.028758, "E": 80.646906, "Quantity": "140 m", "Proposed measure/s": "Concrete Drain", "Total_Cost": 8426000, "Contribution (Local Community, LA, and the project)": "By the project", "Time frame for the implementation": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_176/IMG_20251022_095329 Maldeniya school play grond.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.646906, 7.028758 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "GND No.": "467G", "GND Name": "Weerapura", "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Constructing the side wall of Weerapura community hall's land", "Priority based on Soil Erosion Hazard": null, "N": 6.989089, "E": 80.626342, "Quantity": "20 m x 3 m", "Proposed measure/s": "Retaining Wall (Concrete)", "Total_Cost": 2332000, "Contribution (Local Community, LA, and the project)": "By the project", "Time frame for the implementation": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_176/IMG_20251106_121334 Where to build the Retaining wall behind the community hall.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.626342, 6.989089 ] } }
+]
+}

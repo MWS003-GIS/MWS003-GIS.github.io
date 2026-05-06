@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name_of_Tank": "Kottunugoda Wewa", "Custodians": "DAD", "N": 7.045217, "E": 80.642689, "Remarks": "Desilting, repairs to sluices and spills. Demarcating the reservation. Part of reservation is free for tree planting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_176/IMG_20251103_094641 Koththunugoda Lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.642689, 7.045217 ] } },
+{ "type": "Feature", "properties": { "Name_of_Tank": "Gommane Wewa", "Custodians": "DAD", "N": 7.009506, "E": 80.623345, "Remarks": "Desilting, repairs to sluices and spills. Demarcating the reservation. Reservation is free for tree planting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_176/IMG_20251030_085838  Gommane Lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.623345, 7.009506 ] } },
+{ "type": "Feature", "properties": { "Name_of_Tank": "Beramana Wewa", "Custodians": null, "N": 6.981292, "E": 80.625345, "Remarks": "Desilting, construction of a sluice and spill. Reservation is free for tree planting. It is a pond.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_176/IMG_20251024_091507Beramana South lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.625345, 6.981292 ] } }
+]
+}

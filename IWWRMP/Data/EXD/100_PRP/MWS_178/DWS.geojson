@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": "460J", "Scheme": "Ruwanpura GND", "N": 7.05783, "E": 80.55986, "Observation": "There are a 20000 Lts distribution tank and stock tank has been built. From gamidiriya Project. But it is not connected to the pipes laying.", "Description": "Supplying & laying 50mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 25mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & la", "Amount (Rs.)": 2502500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_178/Water project from Donside to the Temple.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.55986, 7.05783 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": "460J", "Scheme": "Downside Estate", "N": 7.066513, "E": 80.552811, "Observation": "there is a 5000 Lts PVC distribution tank.", "Description": "Construction of Filtering System\n\nContingencies 10%", "Amount (Rs.)": 220000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_178/Donside Janapadaya Water project.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.552811, 7.066513 ] } },
+{ "type": "Feature", "properties": { "No": 3, "GND No.": "460L", "Scheme": "Well near Pahala Gorakaoya Wewa", "N": 7.0698, "E": 80.560032, "Observation": "there is a 10000 Lts PVC distribution tank.", "Description": "Construction of Filtering System\n\nContingencies 10%", "Amount (Rs.)": 220000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_178/IMG_20251028_102840_1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.560032, 7.0698 ] } }
+]
+}

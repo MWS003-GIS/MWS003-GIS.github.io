@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 56, "GN Division No.": "460M", "GN Division": "Queensberry", "Landslides": "Landsliding, Erosion - No. 4, Line Road of Lower Division", "N": 6.987737, "E": 80.596946, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "Establishing retaining wall may be needed having consulted with NBRO", "Unnamed: 8": null, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_136_1/Road erotion.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.596946, 6.987737 ] } }
+]
+}
