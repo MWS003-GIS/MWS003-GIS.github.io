@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 11, "GND No.": 456, "Scheme": null, "N": 7.083269, "E": 80.643459, "Observation": "A water project is being implemented utilizing this water source located in the Nawa Morape Gramaladhari Division and the benefits will be reaped by the people of Mawela East Division. Since waste accumulates in the constructed tank, it is advisable to a", "Description": "Improvements to \"Nil diya\" water spring\n\nClearing the site\n\nFence GI Barbed wire, 10 strands 14 BWG with 4 points at 75mm crs and R.C.C posts 1:1 1/2:3 (20mm) concrete 2.25m high and section 150mm x 150mm at bottom and 100mm x 100mm at top, at 2.4m c/c,", "Amount (Rs.)": 82500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_179_1/YRC Well.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.643459, 7.083269 ] } }
+]
+}

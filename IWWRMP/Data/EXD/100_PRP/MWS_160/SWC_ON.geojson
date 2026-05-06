@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 15, "GND No.": 477, "GND Name": "Pattipola ", "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices - Pattipola Village; Lands around Mr. S.V. Selvaraj land (40°-60°)", "Priority based on Soil Erosion Hazard": 1, "N": 6.858594, "E": 80.829391, "Quantity": "4 ha", "Proposed measure/s": "1. Live fencing/SALT  - 2000 m/2. Lock and spills - 1000 m/ 3. Stone terracing - 1000 m/ 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the platforms of terrace farming should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the tarrance (opposite to tarrace wall). Weedicide application to terrace wall is not recommended. Additionally, planing Vetiver like grasses is encourgaed in steep slopes. ", "Uniti_Cost": "1. 250.00 m-1/2. 400.00 m-1/ 3.2500.00 m-1", "Total_Cost": 3400000, "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community", "Time frame for the implementation": "0.25 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.829391, 6.858594 ] } }
+]
+}

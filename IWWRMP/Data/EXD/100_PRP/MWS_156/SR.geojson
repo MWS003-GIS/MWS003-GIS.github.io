@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 4, "GND No.": "475Y", "Scheme": "chrystlersfarm estate streams", "N": 6.9126853, "E": 80.6066481, "Observation": "soil erosion", "Description": "Planting trees\n\nVegetative cover improving around the river bank with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval\n\nReplanting bambo", "Amount (Rs.)": 822800, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_156/carystlrs farm tank water spring_6541.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.6066481, 6.9126853 ] } },
+{ "type": "Feature", "properties": { "No": 5, "GND No.": "475Y", "Scheme": "Ythan side estate streams", "N": 6.9169104, "E": 80.6214175, "Observation": "soil erosion", "Description": "Planting trees\n\nVegetative cover improving around the river bank with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval\n\nReplanting bambo", "Amount (Rs.)": 822800, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.6214175, 6.9169104 ] } }
+]
+}

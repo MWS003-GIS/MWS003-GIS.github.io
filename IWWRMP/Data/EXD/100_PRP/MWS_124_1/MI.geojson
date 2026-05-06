@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": "474A", "Scheme": "Udathepuwaka canal", "N": 7.076648, "E": 80.673946, "Observation": "About twenty acres of paddy fields are cultivated in this canal and the canal is lined with concrete in places. A section about twelve meters long has broken off.", "Description": "Construction of 18m long Trough (with 0.50m x 0.40m section), 3 no of 6 m long spans, 2 nos of piers (2.5 m high x 2 nos piers)\n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m", "Amount (Rs.)": 1155000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_124_1/Udathepuwaka canal (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.673946, 7.076648 ] } }
+]
+}

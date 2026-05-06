@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 61, "GND No.": "475A", "Name of the Tank": "Amaithipuram Spring", "N": 6.913672, "E": 80.600374, "Observation": "need to repair stock tank.", "Description": "Repair the stock to stop the water leakages\n\nContingencies (10%)", "Amount (Rs.)": 66000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_156/Amandipuram water supply(1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.600374, 6.913672 ] } },
+{ "type": "Feature", "properties": { "No": 62, "GND No.": "475A", "Name of the Tank": "Argyle Estate Spring", "N": 6.914816, "E": 80.59998, "Observation": "repair the tube tank", "Description": "Repair the tube tank\n\nContingencies (10%)", "Amount (Rs.)": 55000, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.59998, 6.914816 ] } },
+{ "type": "Feature", "properties": { "No": 63, "GND No.": "475Y", "Name of the Tank": "YullIfield division-22", "N": 6.909732, "E": 80.603354, "Observation": "need to repair tank", "Description": "Repair the stock to stop the water leakages\n\nContingencies (10%)", "Amount (Rs.)": 110000, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.603354, 6.909732 ] } },
+{ "type": "Feature", "properties": { "No": 64, "GND No.": "475Y", "Name of the Tank": "YullIfield division-24", "N": 6.910052, "E": 80.603121, "Observation": "need construct stock tank", "Description": "Construction of Concrete water storage tank of 20 cum ? size internal t 3mx3mx2.5", "Amount (Rs.)": 742500, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.603121, 6.910052 ] } },
+{ "type": "Feature", "properties": { "No": 65, "GND No.": "475Y", "Name of the Tank": "Yathenside lower division spring", "N": 6.908526, "E": 80.608303, "Observation": "need to construct anicut in water spring area and using pipe line supply water to stock tank", "Description": "Construct an anicut in the spring \n\nConstruct a distribution system to supply water for the stock tank\n\nContingencies (10%)", "Amount (Rs.)": 330000, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.608303, 6.908526 ] } }
+]
+}

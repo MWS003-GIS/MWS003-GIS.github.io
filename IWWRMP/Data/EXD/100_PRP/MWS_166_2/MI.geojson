@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 2, "GND No.": "474C", "Scheme": "Wedamulla Junction Lower Part Palagolla Gama Ela", "N": 7.041544, "E": 80.706343, "Observation": "The total length of the canal 1500m, out of which 750m concreted. Command area 15 acres.", "Description": "Canal reservation protection by concrete lining  For  100mm thick , 0.3m  wide  and 0.3m high canal -double banking\n\nStream / canal  reservation protection by earth filling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m\n\nVegetative cover impro", "Amount (Rs.)": 1606000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20251224_124639.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.706343, 7.041544 ] } }
+]
+}

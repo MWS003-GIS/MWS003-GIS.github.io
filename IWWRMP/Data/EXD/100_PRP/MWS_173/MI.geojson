@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 16, "GND No.": "490", "Scheme": "Neluwamankada ela", "N": 7.06801, "E": 80.676191, "Observation": "During the rainy season when too much water flows, Bank erosion occurs", "Description": "Improvements to Neluwamankada ela \n\nVegetative cover improving around structures (5m x 10m) with planting Arecanut seedling in 1.5m x 1.5m grid, and planting Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings in 3.5m x 3.", "Amount (Rs.)": 715000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_173/Neluwamankada ela.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.676191, 7.06801 ] } },
+{ "type": "Feature", "properties": { "No": 17, "GND No.": "473B", "Scheme": "Wewahinna ela path", "N": 7.072714, "E": 80.662886, "Observation": "The total length of the canal is about 500m, Existing Earthen canal,  some places are in a very dilapidated condition. Water from this canal is used to grow vegetable and tea on an area of about 40 acres.", "Description": "Improvements to Wewahinna ela path\n\nCanal reservation protection by concrete lining  For  100mm thick , 0.3m  wide  and 0.3m high canal -double banking\n\nStream / canal  reservation protection by earth filling of  strip   of 1.5m to 2m wide  and average D", "Amount (Rs.)": 770000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_173/stream.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.662886, 7.072714 ] } }
+]
+}

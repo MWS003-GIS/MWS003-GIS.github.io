@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 6, "GND No.": "475P", "Scheme": "Kelliwatha pond", "N": 6.9564296, "E": 80.6075395, "Observation": "water pollution from chemical used in the Tea Plantation", "Description": "Display notice board to prevent waste accumulation", "Amount (Rs.)": "Community Contribution", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_157/keliwatta eastate Pond.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.6075395, 6.9564296 ] } },
+{ "type": "Feature", "properties": { "No": 7, "GND No.": "475P", "Scheme": "Dimbulla estate stream", "N": 6.9560702, "E": 80.6061518, "Observation": "water pollution from chemical used in the Tea Plantation", "Description": "Display notice board to prevent waste accumulation", "Amount (Rs.)": "Community Contribution", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.6061518, 6.9560702 ] } },
+{ "type": "Feature", "properties": { "No": 8, "GND No.": "475P", "Scheme": "Dimbulla estate stream", "N": 6.9588137, "E": 80.6106624, "Observation": "water pollution from chemical used in the Tea Plantation", "Description": "Display notice board to prevent waste accumulation", "Amount (Rs.)": "Community Contribution", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.6106624, 6.9588137 ] } }
+]
+}

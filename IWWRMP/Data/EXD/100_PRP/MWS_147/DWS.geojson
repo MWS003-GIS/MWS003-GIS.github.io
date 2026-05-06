@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": "475K", "Scheme": "holmeood estate", "N": 6.849754, "E": 80.7054457, "Observation": "replace with a new big tank (least 10000 L)and 2 inches pipeline of 1.5km .", "Description": "Construction of Concrete water storage tank of 20 cum - size internal t 3mx3mx2.5\n\nExcavation in trenches less than 300mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of back filling, compacting and disposal of su", "Estimated Cost": 3828000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_147/Homwood estate.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.7054457, 6.849754 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": "475K", "Scheme": "holmeood school", "N": 6.8519992, "E": 80.715303, "Observation": "make optional power system for that", "Description": "Establishing a CEB connection including erection of necessary pight posts, accessories, etc.\n\nContingencies 10%", "Estimated Cost": 550000, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.715303, 6.8519992 ] } },
+{ "type": "Feature", "properties": { "No": 3, "GND No.": "475K", "Scheme": "holmewood 04", "N": 6.849758, "E": 80.705453, "Observation": "need to repair and extend the size of collecting tank to 500 L", "Description": "Repairing and raising the existing tank\n\nContingencies 10%", "Estimated Cost": 110000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_147/NO 4 tank.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.705453, 6.849758 ] } }
+]
+}

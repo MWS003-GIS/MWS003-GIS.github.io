@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 46, "GND No.": "475V", "Name of the Tank": "Anicut", "N": 6.925248, "E": 80.696139, "Observation": "Exist anicut has been broken.", "Description": "Repair the existing anicut and rebuild the damage parts\n\nContingencies (10%)", "Amount (Rs.)": 110000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_153_1/Waltrim Anicut near the road.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.696139, 6.925248 ] } },
+{ "type": "Feature", "properties": { "No": 47, "GND No.": "475V", "Name of the Tank": "Water Spring", "N": 6.905592, "E": 80.696999, "Observation": "There is no proper stock tank", "Description": "Construction of Concrete water storage tank of 20 cum ? size internal t 3mx3mx2.5", "Amount (Rs.)": 742500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_153_1/Water  Spring .jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.696999, 6.905592 ] } },
+{ "type": "Feature", "properties": { "No": 48, "GND No.": "475V", "Name of the Tank": "Water  spring II", "N": 6.916851, "E": 80.688528, "Observation": "There is no proper stock tank", "Description": "Construction of Concrete water storage tank of 20 cum ? size internal t 3mx3mx2.5", "Amount (Rs.)": 742500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_153_1/Water  Spring.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.688528, 6.916851 ] } },
+{ "type": "Feature", "properties": { "No": 49, "GND No.": "476M", "Name of the Tank": "Water  spring II", "N": 6.903329, "E": 80.750575, "Observation": "there is no proper anicut and stock tank. And also risk for contaminate chemical from near farm.", "Description": "Construct a new anicut in the upper part of the spring\n\nContingencies (10%)", "Amount (Rs.)": 165000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_153_1/Water  Spring(1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.750575, 6.903329 ] } }
+]
+}

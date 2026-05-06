@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 3, "GND No.": "468F", "Scheme": "Welikada Ela", "N": 6.990827, "E": 80.64501, "Observation": "Existing Earthen canal, some places Constructed of rectangular concrete lining(600mm x 450mm)   Water from this canal is used to grow  Vegetable and paddy on an area of about 30 acres.", "Description": "Improvements to Welikada Ela\n\nCanal reservation protection by concrete lining  For  100mm thick , 0.3m  wide  and 0.3m high canal -double banking\n\nStream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of", "Amount (Rs.)": 1083500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_170/Welikada Ela.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.64501, 6.990827 ] } },
+{ "type": "Feature", "properties": { "No": 4, "GND No.": "468K", "Scheme": "Welikada Ela, Weli Ela", "N": 6.974988, "E": 80.65534, "Observation": "During the rainy season when too much water flows, Bank erosion occurs", "Description": "Improvements to Welikada Ela, Weli Ela\n\nPlanting Bamboo species and Vetiver grass or Riparian species\n\nVegetative cover improving around structures (5m x 10m) with planting Arecanut seedling in 1.5m x 1.5m grid, and planting Kumbuk/ Mee/ Godapara/ Kaduru", "Amount (Rs.)": 429000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_170/Welikada Ela, Weli Ela.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.65534, 6.974988 ] } }
+]
+}
