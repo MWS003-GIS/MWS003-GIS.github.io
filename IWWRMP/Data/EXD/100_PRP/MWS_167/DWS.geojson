@@ -17,6 +17,7 @@
     {"type":"Feature","properties":{"No":"1","GND No.":"4571","Scheme":"abc","N":6.9611659,"E":6.9611659,"Observation":"nnn","Description":"ssss","Amount (Rs.)":"1000000","photopath":""},"geometry":{"type":"Point","coordinates":[6.9611659,6.9611659]}},
     {"type":"Feature","properties":{"No":"1","GND No.":"521","Scheme":"","N":7,"E":80.66,"Observation":"test","Description":"training","Amount (Rs.)":"10000","photopath":""},"geometry":{"type":"Point","coordinates":[80.66,7]}},
     {"type":"Feature","properties":{"No":"1","GND No.":"457","Scheme":"abc","N":80.7658,"E":6.96001,"Observation":"nnn","Description":"ssss","Amount (Rs.)":"1000000","photopath":""},"geometry":{"type":"Point","coordinates":[6.96001,80.7658]}},
+    {"type":"Feature","properties":{"No":"101","GND No.":"535","Scheme":"abc","N":6.94812,"E":80.777,"Observation":"domestic","Description":"chemical poiution","Amount (Rs.)":"100000.00","photopath":""},"geometry":{"type":"Point","coordinates":[80.777,6.94812]}},
     {"type":"Feature","properties":{"No":"101","GND No.":"535","Scheme":"abc","N":6.94812,"E":80.777,"Observation":"domestic","Description":"chemical poiution","Amount (Rs.)":"100000.00","photopath":""},"geometry":{"type":"Point","coordinates":[80.777,6.94812]}}
   ]
 }
