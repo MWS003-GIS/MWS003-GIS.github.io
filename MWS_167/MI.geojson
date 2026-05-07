@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "name": "MI",
   "features": [
-    {"type":"Feature","properties":{"No":"1","GND No.":"535K","Scheme":"","N":6.99,"E":80.76,"Observation":"test for demosterion ","Description":"nuwareliya trinig ","Amount (Rs.)":"100000","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_167/Soil Conservation - Church Road Janapadaya (2).jpg"},"geometry":{"type":"Point","coordinates":[80.76,6.99]}}
+    {"type":"Feature","properties":{"No":"1","GND No.":"535K","Scheme":"","N":6.99,"E":80.76,"Observation":"test for demosterion ","Description":"nuwareliya trinig ","Amount (Rs.)":"100000","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_167/Soil Conservation - Church Road Janapadaya (2).jpg"},"geometry":{"type":"Point","coordinates":[80.76,6.99]}},
+    {"type":"Feature","properties":{"No":"1","GND No.":"535K","Scheme":"","N":6.69,"E":80.76,"Observation":"Test","Description":"Training","Amount (Rs.)":"100000.00","photopath":""},"geometry":{"type":"Point","coordinates":[80.76,6.69]}}
   ]
 }
