@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "name": "DWS",
   "features": [
+    {"type":"Feature","properties":{"No":"1","GND No.":"521","Scheme":"","N":7,"E":80.76,"Observation":"","Description":"","Amount (Rs.)":"","photopath":""},"geometry":{"type":"Point","coordinates":[80.76,7]}},
     {"type":"Feature","properties":{"No":"1","GND No.":"521","Scheme":"","N":7,"E":80.76,"Observation":"","Description":"","Amount (Rs.)":"","photopath":""},"geometry":{"type":"Point","coordinates":[80.76,7]}}
   ]
 }
