@@ -18,6 +18,7 @@
     {"type":"Feature","properties":{"No":"","GND No.":"535K","Scheme":"","N":7,"E":80.76,"Observation":"","Description":"","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.76,7]}},
     {"type":"Feature","properties":{"No":"1","GND No.":"","Scheme":"","N":7.0017,"E":80.4608,"Observation":"","Description":"","Amount (Rs.)":"","photopath":""},"geometry":{"type":"Point","coordinates":[80.4608,7.0017]}},
     {"type":"Feature","properties":{"No":"1","GND No.":"535K","Scheme":"","N":7.0017,"E":80.4608,"Observation":"","Description":"","Amount (Rs.)":"","photopath":""},"geometry":{"type":"Point","coordinates":[80.4608,7.0017]}},
-    {"type":"Feature","properties":{"No":"1","GND No.":"167","Scheme":"","N":6.962808922597411,"E":80.77599397258578,"Observation":"water problam","Description":"Minor irrigation","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.77599397258578,6.962808922597411]}}
+    {"type":"Feature","properties":{"No":"1","GND No.":"167","Scheme":"","N":6.962808922597411,"E":80.77599397258578,"Observation":"water problam","Description":"Minor irrigation","Amount (Rs.)":"100000","photopath":""},"geometry":{"type":"Point","coordinates":[80.77599397258578,6.962808922597411]}},
+    {"type":"Feature","properties":{"No":"01","GND No.":"hatton","Scheme":"a","N":0,"E":2,"Observation":"warer poblom","Description":"make new water souce","Amount (Rs.)":"5000000","photopath":""},"geometry":{"type":"Point","coordinates":[2,0]}}
   ]
 }
