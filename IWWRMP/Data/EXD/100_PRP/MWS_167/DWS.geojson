@@ -8,6 +8,7 @@
     {"type":"Feature","properties":{"No":"2","GND No.":"521","Scheme":"","N":7,"E":80.76,"Observation":"test","Description":"Training","Amount (Rs.)":"10000","photopath":""},"geometry":{"type":"Point","coordinates":[80.76,7]}},
     {"type":"Feature","properties":{"No":"2","GND No.":"521","Scheme":"","N":7,"E":80.76,"Observation":"test","Description":"Training","Amount (Rs.)":"10000","photopath":""},"geometry":{"type":"Point","coordinates":[80.76,7]}},
     {"type":"Feature","properties":{"No":"2","GND No.":"521","Scheme":"","N":7,"E":80.76,"Observation":"test","Description":"Training","Amount (Rs.)":"10000","photopath":""},"geometry":{"type":"Point","coordinates":[80.76,7]}},
-    {"type":"Feature","properties":{"No":"4","GND No.":"554k","Scheme":"","N":6.79,"E":80.99,"Observation":"test","Description":"ddd","Amount (Rs.)":"2000000","photopath":""},"geometry":{"type":"Point","coordinates":[80.99,6.79]}}
+    {"type":"Feature","properties":{"No":"4","GND No.":"554k","Scheme":"","N":6.79,"E":80.99,"Observation":"test","Description":"ddd","Amount (Rs.)":"2000000","photopath":""},"geometry":{"type":"Point","coordinates":[80.99,6.79]}},
+    {"type":"Feature","properties":{"No":"2","GND No.":"521","Scheme":"","N":7,"E":8076,"Observation":"testyimg","Description":"nuwaraeliya","Amount (Rs.)":"1002222","photopath":""},"geometry":{"type":"Point","coordinates":[8076,7]}}
   ]
 }
