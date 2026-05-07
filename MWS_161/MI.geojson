@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "MI",
+  "features": [
+    {"type":"Feature","properties":{"No":"01","GND No.":"Talawakelle","Scheme":"Talawakele","N":2,"E":1,"Observation":"Water source","Description":"","Amount (Rs.)":"1000.00","photopath":"1200.00"},"geometry":{"type":"Point","coordinates":[1,2]}}
+  ]
+}
