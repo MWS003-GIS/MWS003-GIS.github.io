@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "name": "Landslides",
   "features": [
+    {"type":"Feature","properties":{"No.":"01","GN Division No.":"475","GN Division":"Talawakelle","Land Slides":"","N":1,"E":1,"NBRO Recommendation N/A":"High rick","Proposed Measures":"","photopath":"1200.00"},"geometry":{"type":"Point","coordinates":[1,1]}},
     {"type":"Feature","properties":{"No.":"01","GN Division No.":"475","GN Division":"Talawakelle","Land Slides":"","N":1,"E":1,"NBRO Recommendation N/A":"High rick","Proposed Measures":"","photopath":"1200.00"},"geometry":{"type":"Point","coordinates":[1,1]}}
   ]
 }
