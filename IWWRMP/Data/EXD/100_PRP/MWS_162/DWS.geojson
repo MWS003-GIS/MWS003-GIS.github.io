@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "DWS",
+  "features": [
+    {"type":"Feature","properties":{"No":"02","GND No.":"475","Scheme":"Talawakele","N":80.774498,"E":6.935243,"Observation":"testing","Description":"Nuwaraeliya","Amount (Rs.)":"10000.00","photopath":"mm"},"geometry":{"type":"Point","coordinates":[6.935243,80.774498]}}
+  ]
+}
