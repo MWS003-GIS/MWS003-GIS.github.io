@@ -15,6 +15,7 @@
     {"type":"Feature","properties":{"No":"2","GND No.":"521","Scheme":"","N":7,"E":8076,"Observation":"testyimg","Description":"nuwaraeliya","Amount (Rs.)":"1002222","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_167/3937(5).png"},"geometry":{"type":"Point","coordinates":[8076,7]}},
     {"type":"Feature","properties":{"No":"2","GND No.":"521","Scheme":"","N":7,"E":80.76,"Observation":"testing ","Description":"nuwareliya","Amount (Rs.)":"10000","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_167/Soil Conservation - Church Road Janapadaya (2).jpg"},"geometry":{"type":"Point","coordinates":[80.76,7]}},
     {"type":"Feature","properties":{"No":"1","GND No.":"4571","Scheme":"abc","N":6.9611659,"E":6.9611659,"Observation":"nnn","Description":"ssss","Amount (Rs.)":"1000000","photopath":""},"geometry":{"type":"Point","coordinates":[6.9611659,6.9611659]}},
-    {"type":"Feature","properties":{"No":"1","GND No.":"521","Scheme":"","N":7,"E":80.66,"Observation":"test","Description":"training","Amount (Rs.)":"10000","photopath":""},"geometry":{"type":"Point","coordinates":[80.66,7]}}
+    {"type":"Feature","properties":{"No":"1","GND No.":"521","Scheme":"","N":7,"E":80.66,"Observation":"test","Description":"training","Amount (Rs.)":"10000","photopath":""},"geometry":{"type":"Point","coordinates":[80.66,7]}},
+    {"type":"Feature","properties":{"No":"1","GND No.":"457","Scheme":"abc","N":80.7658,"E":6.96001,"Observation":"nnn","Description":"ssss","Amount (Rs.)":"1000000","photopath":""},"geometry":{"type":"Point","coordinates":[6.96001,80.7658]}}
   ]
 }
