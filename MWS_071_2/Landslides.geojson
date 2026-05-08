@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "Landslides",
+  "features": [
+    {"type":"Feature","properties":{"No.":"1","GN Division No.":"diyathalawa","GN Division":"","Land Slides":"","N":702713,"E":81.03184,"NBRO Recommendation N/A":"","Proposed Measures":"","photopath":""},"geometry":{"type":"Point","coordinates":[81.03184,702713]}}
+  ]
+}
