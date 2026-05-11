@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": 1098, "Scheme": "Samagi Water Project", "N": 7.00998, "E": 80.539392, "Observation": "A tank is constructed at the location of the water source and water is obtained. About 50 families obtain water.  There are problems with the purity and quality of water.", "Description": "Construction of Concrete water storage tank of 20 cum - size internal t 3mx3mx2.5\n\nInstallation of purification unit\n\nFabricating & fixing security weld mesh in open-type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle fra", "Amount (Rs.)": 1870000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_138/Samagi water project Spring tank.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.539392, 7.00998 ] } }
+]
+}

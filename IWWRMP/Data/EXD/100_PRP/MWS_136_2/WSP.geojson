@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": 1081, "Name of the Tank": "Spring above the Baranda co-shop", "N": 7.01333, "E": 80.573122, "Observation": "There is a 20m x 10m x 1.8m(LxWx h) water tank. It was built 60 years ago. It is in a dilapidated condition.Water is taken for dirking .There is no water filtration system. About 60 families get water from this.", "Description": "Construction of a tank with a filter system (3 m x 3 m x 2.5 m) - For 60 Families\n\n50mm dia PvC pipe in Solvent Socket Type in PNT11 - To connect the water tank and filter system\n\nTidying up\n\nContingencies (10%)", "Amount (Rs.)": 985600, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_136_2/Spring above the Baranda co-shop (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.573122, 7.01333 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": 1081, "Name of the Tank": "Nana pilla near to the Barandi layima", "N": 7.016562, "E": 80.571548, "Observation": "There is a 1.8m x 1.8m x 1.1m(LxWx h) water tank. It was built 60 years ago. It is in a dilapidated condition.Water is taken for dirking and bathing. There is no water filtration system. About 30 families get water from this.", "Description": "Construction of a tank with a filter system (3 m x 2 m x 1.2 m) - For 60 Families\n\n50mm dia PvC pipe in Solvent Socket Type in PNT11 - To connect the water tank and filter system\n\nTidying up\n\nContingencies (10%)", "Amount (Rs.)": 693000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_136_2/Nana pilla near to the Barandi layima (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.571548, 7.016562 ] } }
+]
+}

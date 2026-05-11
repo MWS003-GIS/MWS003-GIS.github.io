@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": 1098, "Name of the Tank": "Penros above part", "N": 6.995883, "E": 80.542423, "Observation": "A large water storage tank, 50,000 Liters is being constructed to distribute water to 150 families. The constructed tank is in a dilapidated condition. Filter tank is also same capacity and also dilapidated condition. Anicut also dilapidated condition.", "Description": "Construction of Concrete anicut of  4.0 m length and height 1.5 m.\n\nClearing the site\n\nCommon excavation for foundation or quarry materials and haul the surplus up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for structure -", "Amount (Rs.)": 2383700, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_138/Penros WP Stock Tank.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.542423, 6.995883 ] } }
+]
+}

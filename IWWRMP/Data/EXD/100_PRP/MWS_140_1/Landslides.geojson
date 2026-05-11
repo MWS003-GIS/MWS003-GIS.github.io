@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": 1091, "GN Division": "Balanthota North", "Landslides": "1. Landslide", "N": 7.040303, "E": 80.493431, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "Follow recommendations of NBRO. Alternative lands should be provided.", "Unnamed: 8": null, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_140_1/Landslide Galamuduna border 1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.493431, 7.040303 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "GN Division No.": 1091, "GN Division": "Balanthota North", "Landslides": "2. Landslide", "N": 7.051231, "E": 80.470854, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "Follow recommendations of NBRO having consulted", "Unnamed: 8": null, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_140_1/Landslide Road DS side.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.470854, 7.051231 ] } },
+{ "type": "Feature", "properties": { "No.": 3, "GN Division No.": 1091, "GN Division": "Balanthota North", "Landslides": "3. Landslide", "N": 7.051056, "E": 80.470756, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "Follow recommendations of NBRO having consulted", "Unnamed: 8": null, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_140_1/Landslie Galamuduna oya.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.470756, 7.051056 ] } }
+]
+}

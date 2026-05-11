@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GND No.": 1102, "GND Name": "Weligodawatta", "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices -  Gardenes  (50°-60°)", "Priority based on Soil Erosion Hazard": 5, "N": 7.077825, "E": 80.533824, "Quantity": "5 ha", "Proposed measure/s": "1. Live fencing/SALT  - 3000 m/ 2. Lock and spills - 1000 m/ 3. Stone terracing - 1000 m/ 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbrea", "Uniti_Cost": "250.00 m-1/ 400.00 m-1/ 2500.00 m-1", "Total_Cost": 3650000, "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community", "Time frame for the implementation": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_134_1/Tea land.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.533824, 7.077825 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": 1082, "Scheme": "Upper part of Bohil", "N": 7.022867, "E": 80.561295, "Observation": "There is a 7.0m x5.0m x 2.0m(LxWx h) water tank. It was built 60 years ago. It is in a dilapidated condition.Water is taken for drinking .There is no water filtration system. About 30 families get water from this.", "Description": "Construction of Concrete water storage tank of 20 cum - size internal t 3mx3mx2.5\n\nInstalling a filtering system\n\nConstruction of Anicut\n\nConstruction of 0.9 m high Weir across stream excluding abutments and stop planks\n\nConstruction of 1.0m high 1:3:6 (", "Amount (Rs.)": 2700500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_136_2/Water tank of Upper part.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.561295, 7.022867 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": 1082, "Scheme": "Middle part of Bohil (Bohil janapadaya)", "N": 7.026416, "E": 80.568288, "Observation": "There is a 2.5m x 2.5m x 2.0m(LxWx h) water tank. It was built 60 years ago. It is in a dilapidated condition.Water is taken for drinking .There is no water filtration system. About 25 families get water from this.", "Description": "Construction of Concrete water storage tank of 20 cum - size internal t 3mx3mx2.5\n\nInstalling a filtering system\n\nExcavation in trenches less than 300mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of back filling", "Amount (Rs.)": 1529000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_136_2/Water tanl of Middle part o.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.568288, 7.026416 ] } }
+]
+}
