@@ -4,6 +4,7 @@
   "features": [
     {"type":"Feature","properties":{"No":"3","GND No.":"1026","Name of the Tank":"Nawaneliya new water project","N":7.165923,"E":80.72747,"Observation":"-","Description":"Construction of a new catchpit\n","Amount (Rs.)":"4152500","photopath":""},"geometry":{"type":"Point","coordinates":[80.72747,7.165923]}},
     {"type":"Feature","properties":{"No":"3","GND No.":"1026","Name of the Tank":"Nawaneliya new water project","N":7.165923,"E":80.72747,"Observation":"-","Description":"Construction of a new catchpit\n","Amount (Rs.)":"4152500","photopath":""},"geometry":{"type":"Point","coordinates":[80.72747,7.165923]}},
+    {"type":"Feature","properties":{"No":"3","GND No.":"1026","Name of the Tank":"Nawaneliya new water project","N":7.165923,"E":80.72747,"Observation":"-","Description":"Construction of a new catchpit","Amount (Rs.)":"4152500","photopath":"-"},"geometry":{"type":"Point","coordinates":[80.72747,7.165923]}},
     {"type":"Feature","properties":{"No":"3","GND No.":"1026","Name of the Tank":"Nawaneliya new water project","N":7.165923,"E":80.72747,"Observation":"-","Description":"Construction of a new catchpit","Amount (Rs.)":"4152500","photopath":"-"},"geometry":{"type":"Point","coordinates":[80.72747,7.165923]}}
   ]
 }
