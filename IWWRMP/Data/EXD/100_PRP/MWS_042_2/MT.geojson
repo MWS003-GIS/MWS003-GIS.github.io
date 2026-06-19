@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "MT",
+  "features": [
+    {"type":"Feature","properties":{"Name_of_Custodian":"DAD","N":6.941824,"E":80.79893,"Remarks":"Desilting. Marking reservations. Repairs to sluice and spill. Immediate reservation is available for tree planting.\n","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_042_2/IMG_20260114_105334 Katumanna lake.jpg"},"geometry":{"type":"Point","coordinates":[80.79893,6.941824]}}
+  ]
+}
