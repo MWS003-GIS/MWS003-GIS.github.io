@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "name": "MT",
   "features": [
-    {"type":"Feature","properties":{"Name_of_Custodian":"DAD","N":6.937616,"E":80.68521,"Remarks":"Desilting of the pond. Mark boundaries. Plant trees to protect it. Reservations are available for tree planting for about 40m\n","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_153_2/Ponds - 20 Pura Ihala Pond.jpg"},"geometry":{"type":"Point","coordinates":[80.68521,6.937616]}}
+    {"type":"Feature","properties":{"Name_of_Custodian":"DAD","N":6.937616,"E":80.68521,"Remarks":"Desilting of the pond. Mark boundaries. Plant trees to protect it. Reservations are available for tree planting for about 40m\n","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_153_2/Ponds - 20 Pura Ihala Pond.jpg"},"geometry":{"type":"Point","coordinates":[80.68521,6.937616]}},
+    {"type":"Feature","properties":{"Name_of_Custodian":"DAD","N":6.935273,"E":80.682539,"Remarks":"Marking boundaries. Planting trees. The reservation is encroached.\n","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_153_2/Ponds - 20 Pura Pahala Pond (4).jpg"},"geometry":{"type":"Point","coordinates":[80.682539,6.935273]}}
   ]
 }
