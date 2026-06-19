@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "SR",
+  "features": [
+    {"type":"Feature","properties":{"No":"11","GND No.":"476","Scheme":"Nanuoya Oya","N":6.944022,"E":80.745052,"Observation":"During the rainy season when too much water flows, Bank erosion occurs","Description":"Paving available stone in the river banks and Planting trees\nDry rubble packing (with locally found rubble, size over 225mm )-Along the river banks\nVegetative cover improving around the river bank with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval\nReplanting bamboo species around the river bank \nMiscellaneous\nContingencies (10%)","Amount (Rs.)":"815100","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_163/IMG_20260127_134952 Nanu oya.jpg"},"geometry":{"type":"Point","coordinates":[80.745052,6.944022]}}
+  ]
+}
