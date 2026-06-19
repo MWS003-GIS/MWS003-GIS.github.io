@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "name": "MT",
   "features": [
-    {"type":"Feature","properties":{"Name_of_Tank":"Shanthipura Wewa","Name_of_Custodian":"DAD","N":6.9793,"E":80.741352,"Remarks":"Desilting of the tank. Repairs to the bund, sluice and spill.\n","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_1/Shantipura Lake.jpg"},"geometry":{"type":"Point","coordinates":[80.741352,6.9793]}}
+    {"type":"Feature","properties":{"Name_of_Tank":"Shanthipura Wewa","Name_of_Custodian":"DAD","N":6.9793,"E":80.741352,"Remarks":"Desilting of the tank. Repairs to the bund, sluice and spill.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_1/Shantipura Lake.jpg"},"geometry":{"type":"Point","coordinates":[80.741352,6.9793]}},
+    {"type":"Feature","properties":{"Name_of_Custodian":"DAD","N":6.947611,"E":80.79084,"Remarks":"Marking Reservation, desilting of lakebed and repairs to Sluice & spill","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_1/IMG_20260123_093844 Magasthota Wijithapura Lake.jpg"},"geometry":{"type":"Point","coordinates":[80.79084,6.947611]}}
   ]
 }
