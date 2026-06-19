@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "WSP",
+  "features": [
+    {"type":"Feature","properties":{"No":"23","GND No.":"476","Name of the Tank":"Edinburgh","N":6.943038,"E":80.747444,"Observation":"The Spring is made of a cylinder with a diameter of 1.5 meters and a height of 1.2 meters.Located on public land. Used for drinking and bathing\n","Description":"\"Construction of a Water Stock Tank (2.0m x2.0m x 1.5m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ?05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer  (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand  finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mmx 50mm SWG 10, welded on 40mm x 40mmx 5mm angle frame complete with application of two coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07\n\nTidying up\n\nContingencies (10%)\"\n","Amount (Rs.)":"346500","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_163/IMG_20260127_140850 Edinburgh Spring.jpg"},"geometry":{"type":"Point","coordinates":[80.747444,6.943038]}}
+  ]
+}
