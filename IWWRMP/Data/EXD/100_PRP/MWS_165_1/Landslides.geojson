@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "name": "Landslides",
   "features": [
-    {"type":"Feature","properties":{"No.":"6","GN Division No.":"535M","GN Division":"Shanthipura","Land Slides":"1. Landsliding - Shanthipura Mountain","N":6.975532,"E":80.741947,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow recommendations of NBRO. Alternative land/house should be provided.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_1/IMG_20260122_145327.jpg"},"geometry":{"type":"Point","coordinates":[80.741947,6.975532]}}
+    {"type":"Feature","properties":{"No.":"6","GN Division No.":"535M","GN Division":"Shanthipura","Land Slides":"1. Landsliding - Shanthipura Mountain","N":6.975532,"E":80.741947,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow recommendations of NBRO. Alternative land/house should be provided.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_1/IMG_20260122_145327.jpg"},"geometry":{"type":"Point","coordinates":[80.741947,6.975532]}},
+    {"type":"Feature","properties":{"No.":"7","GN Division No.":"535M","GN Division":"Shanthipura","Land Slides":"2. Landsliding - Land of Mr. D.M. Gamini Disaranaka","N":6.980638,"E":80.744083,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow recommendations of NBRO. Alternative land/house should be provided.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_1/IMG_20260122_145343 Land that has been damaged by landslides belonging to Mr. D.M. Gamini Disaranaka.jpg"},"geometry":{"type":"Point","coordinates":[80.744083,6.980638]}}
   ]
 }
