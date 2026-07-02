@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 23, "GN Division No.": 472, "GN Division": "Hedeniya", "Landslides": "1. Landsliding - Heedeniya Kurunagala Main Road", "N": 7.340126, "E": 80.554563, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "New lands should be provided. Follow recommendations of NBRO.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_114_2/kurunagala main road land slide (1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.554563, 7.340126 ] } }
+]
+}

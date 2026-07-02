@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 26, "GND No.": 483, "Scheme": "Front of the Godapola waththa C.I.B", "N": 7.364444, "E": 80.562222, "Observation": "working ,but not properly", "Description": "Repairs to the existing tube well including replacing the washer\nContingencies 10%\n", "Estimated Cost": 22000, "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 80.562222, 7.364444 ] } },
+{ "type": "Feature", "properties": { "No": 27, "GND No.": 483, "Scheme": "Start of the Angoda road", "N": 7.356849, "E": 80.563142, "Observation": "not properly working ,but water is coming", "Description": "Repairs to the existing tube well\nContingencies 10%", "Estimated Cost": 16500, "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 80.563142, 7.356849 ] } },
+{ "type": "Feature", "properties": { "No": 28, "GND No.": 485, "Scheme": "Near the Angoda Pansala", "N": 7.356245, "E": 80.561029, "Observation": "30 years not properly working. The jack was damaged.", "Description": "Repairs to the existing tube well including replacing the jack\nContingencies 10%\n", "Estimated Cost": 27500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_115_2/pitawaladeniya well (1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.561029, 7.356245 ] } },
+{ "type": "Feature", "properties": { "No": 29, "GND No.": 488, "Scheme": "Amuwathdeniya", "N": 7.367805, "E": 80.56381, "Observation": "25 families, the jack was damaged.", "Description": "Repairs to the existing tube well including replacing the jack\nConcreting wall around the tube well\nContingencies 10%", "Estimated Cost": 55000, "photopath": null }, "geometry": { "type": "Point", "coordinates": [ 80.56381, 7.367805 ] } }
+]
+}
