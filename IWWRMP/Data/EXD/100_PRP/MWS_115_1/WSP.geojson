@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": 400, "Name of the Tank": "Walathenna water supply scheme", "N": 7.369068, "E": 80.545781, "Observation": "large dent on slab, mosses has been spread on slab which is not good for concrete.", "Description": "Clean around the slab\n\nChip loose concrete, remove the loose particle and finally remove the dust\n\nApply a bonding agent on dent\n\nRendering 19mm thick in cement sand Motar 1:3 mix (Smooth finish)\n\nWaterproofing with cementitious waterproofing agent appro", "Amount (Rs.)": 191400, "photopath": "Not_Available" }, "geometry": { "type": "Point", "coordinates": [ 80.545781, 7.369068 ] } }
+]
+}
