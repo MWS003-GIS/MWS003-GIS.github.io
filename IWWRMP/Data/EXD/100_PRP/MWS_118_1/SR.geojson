@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 19, "GND No.": 283, "Scheme": "Nanu Oya near the railway", "N": 7.255071, "E": 80.589594, "Observation": "canal banks are eroded.", "Description": "Packing available rubble on the banks \nBamboo  tree plantation  along both banks of Oya for 2000m (as directed by MASL)\nTyding up site\nContingencies (10%)", "Amount (Rs.)": 1446500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_118_1/nanu canal (1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.589594, 7.255071 ] } }
+]
+}

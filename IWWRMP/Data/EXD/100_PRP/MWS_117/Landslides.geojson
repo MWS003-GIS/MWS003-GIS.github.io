@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 8, "GN Division No.": 220, "GN Division": "Boowelikada", "Landslides": "Landsliding - Bodhiraja Mawatha", "N": 7.292517, "E": 80.649513, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "Constructing a concrete drain (25 m). Providing alternative lands.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_117/Bodhiraja Mawatha.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.649513, 7.292517 ] } },
+{ "type": "Feature", "properties": { "No.": 9, "GN Division No.": 239, "GN Division": "Mahaiyawa", "Landslides": "1. Bank collapsing - Sri Dammadassi Mawatha and 4th narrow road", "N": 7.305744, "E": 80.638391, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_117/4th lane disaster.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.638391, 7.305744 ] } },
+{ "type": "Feature", "properties": { "No.": 10, "GN Division No.": 239, "GN Division": "Mahaiyawa", "Landslides": "3. Landsliding - Karumariamman Kovil", "N": 7.301642, "E": 80.632771, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.632771, 7.301642 ] } },
+{ "type": "Feature", "properties": { "No.": 11, "GN Division No.": 239, "GN Division": "Mahaiyawa", "Landslides": "4. Landsliding - Christian Church", "N": 7.301523, "E": 80.632791, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.632791, 7.301523 ] } }
+]
+}

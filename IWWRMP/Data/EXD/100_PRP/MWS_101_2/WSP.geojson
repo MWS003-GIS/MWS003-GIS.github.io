@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 25, "GND No.": 731, "Name of the Tank": " Near the 21 Km Drain above the spring", "N": 7.385044, "E": 80.729891, "Observations": "no any issues ", "Description": "Planting kumbuk trees and marking as reservation\nContingencies (10%)\n\n", "Amount": 27500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_101_2/WS I ,at near to 21 Kanuwa _5678.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.729891, 7.385044 ] } },
+{ "type": "Feature", "properties": { "No": 26, "GND No.": 731, "Name of the Tank": "Near the Karuwala bokkuwa spring ", "N": 7.382921, "E": 80.727662, "Observations": "Currenty around 30 families used but there is no stock tank", "Description": "Construction of a small stock tank\nContingencies (10%)", "Amount": 55000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_101_2/Madulkalewaththe  spring_5598.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.727662, 7.382921 ] } },
+{ "type": "Feature", "properties": { "No": 27, "GND No.": 731, "Name of the Tank": " Near the 21 Km Drain above the 2 nd spring", "N": 7.385044, "E": 80.729891, "Observations": "no any issues ", "Description": "Planting kumbuk trees and marking as reservation\nContingencies (10%)", "Amount": 27500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_101_2/Spring at the near D.M. Bangalawa_5622.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.729891, 7.385044 ] } },
+{ "type": "Feature", "properties": { "No": 28, "GND No.": 729, "Name of the Tank": "Rakshawa", "N": 7.371298, "E": 80.722257, "Observations": "The existing weir is damaged. Need to repair it. Existing pipe line is iron pipes therefore rusting issues are observed", "Description": "Repair the weir and provide PE pipe lines\nContingencies (10%)", "Amount": 275000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_101_2/Rakshawa spring.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.722257, 7.371298 ] } }
+]
+}

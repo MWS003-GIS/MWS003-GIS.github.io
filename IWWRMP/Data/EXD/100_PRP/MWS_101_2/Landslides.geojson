@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No. ": 3, "GN Division No.": 726, "GN Division": "Udugoda", "Land Slides": "Landslide - Kurudugolla", "N": 7.36599, "E": 80.692391, "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "Soil conservation practices should be adopted. Recommendations of NBRO should be followed having consulted.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_101_2/Kurudugolla soil.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.692391, 7.36599 ] } }
+]
+}

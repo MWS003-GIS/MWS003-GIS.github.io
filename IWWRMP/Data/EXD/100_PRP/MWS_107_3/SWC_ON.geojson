@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_ON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 2, "GND No.": 639, "GND Name": "Pihilladeniya", "Key Activities proposed for Soil and Water conservation": "Soil conservation practices -  Uuradeniya paddy field (30°-40°)", "Priority based on Soil Erosion Hazard": 1, "N": 7.310109, "E": 80.677494, "Quantity": "1 ha", "Proposed measure/s": "1. Establishing SALT  - 300 m\n2. Live fencing - 400 m\n3. Lock and spills - 200 m\n4. Stone terracing - 100 m\n5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour", "Uniti_Cost": "250.00 m-1\n120.00 m-1\n400.00 m-1\n2500.00 m-1", "Total_Cost": 453000, "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community", "Time frame for the implementation": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_107_3/Uuradeniya paddy field.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.677494, 7.310109 ] } }
+]
+}

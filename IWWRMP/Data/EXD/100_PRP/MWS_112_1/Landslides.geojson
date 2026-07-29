@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Landslides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": 251, "GN Division": "Senkadagala", "Landslides": "Eroded road - Near Katugasthota color light", "N": 7.3235906, "E": 80.623869, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "Constructing a reataining wall (100 m x 3 m) with the mediation of RDA and consultation of NBRO", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_112_1/Landlide near town.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.623869, 7.3235906 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 3, "GND No.": 276, "Scheme": "Mahaweli River", "N": 7.270095, "E": 80.690425, "Observation": "Unregulated and unauthorized buildings.", "Description": "Site preparation and setting out\nProviding and fixing of a fence around the forest conservation land.\nTyding up site after construction\nContingencies (10%)", "Amount (Rs.)": 861000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_007_2/mahaweli river (1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.690425, 7.270095 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 3, "GND No.": 739, "Name of the Tank": "Daluk oya spring", "N": 7.406045, "E": 80.745597, "Observations": "Supply water for agriculture and drinking purposes. due to lack filter system, litter is sedimented.", "Description": "Construct a water storage Tank (1.5m x 1.5m x 1.0m) and Filtration System \n\nSiteÂ preparationÂ &Â settingÂ out\n\nPlywood formwork including making, fixing & removing for structure â€05 uses\n\nCutting, Bending & Placing Tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer  (volume batching)\n\nPlasterÂ 12mmÂ thickÂ inÂ 1:3Â cementÂ andÂ sandÂ  finishedÂ smoothÂ withÂ grayÂ cementÂ floating\n\nFabricatingÂ &Â fixingÂ securityÂ welded meshÂ inÂ open-typeÂ buildingsÂ inÂ GIÂ weldÂ meshÂ 50mmÂ xÂ 50mmSWGÂ 10,Â weldedÂ onÂ 40mmÂ xÂ 40mmÂ xÂ 5mmÂ  angleÂ frameÂ completeÂ withÂ applicationÂ ofÂ two coatsÂ enamelÂ paintÂ overÂ twoÂ coatsÂ ofÂ  anticorrosiveÂ paintÂ andÂ complete. AllÂ asÂ perÂ detailÂ drawingÂ  No.CPC/CS/11/04/2017/TYPEâ€ST/07\n\nInstall a filtration unit\n\nTidying up\n\nContingencies (10%)\n\n", "Amount": 570900, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_096/daluk oya canal (4).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.745597, 7.406045 ] } }
+]
+}

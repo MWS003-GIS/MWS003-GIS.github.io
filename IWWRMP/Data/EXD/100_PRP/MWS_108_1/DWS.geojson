@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": 623, "Scheme": "Tube Well Near the Digaha Wathura Dewakarunaramaya Entrance", "N": 7.371182, "E": 80.645698, "Observation": "the jack was damaged and the pipeline was damaged.", "Description": "Repairs to the Tube well including replacing of the Jack.", "Estimated Cost": 45000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_1/digahawathura mahindra tube well_.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.645698, 7.371182 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": 623, "Scheme": "Near the Welfare Society Hall Deegahawathura", "N": 7.363381, "E": 80.639802, "Observation": "The jack was damaged and the pipeline was damaged.  There are 20 families used this tube well.", "Description": "Repairs to the Tube well including replacing of the Jack.", "Estimated Cost": 45000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_1/digahawathura tube well.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.639802, 7.363381 ] } }
+]
+}
