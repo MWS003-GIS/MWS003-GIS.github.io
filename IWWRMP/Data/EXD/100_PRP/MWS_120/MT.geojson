@@ -1,10 +1,5 @@
-{
-"type": "FeatureCollection",
-"name": "MT",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name_of_Tank": "Sikurapotha Wewa", "Custodians": "DAD", "N": 7.292768, "E": 80.540597, "Remarks": "Desilting of the tank. Repairs to sluice and bund. Marking boundaries. Tree planting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Sikurapotha Tank_8220.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.540597, 7.292768 ] } },
-{ "type": "Feature", "properties": { "Name_of_Tank": "Parakatawella Wewa", "Custodians": "DAD", "N": 7.284571, "E": 80.544277, "Remarks": "Rehabilitating the tank bund and the sluice", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/parakata alla lake (7).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.544277, 7.284571 ] } },
-{ "type": "Feature", "properties": { "Name_of_Tank": "Walgampaya Wewa", "Custodians": "DAD", "N": 7.286463, "E": 80.526679, "Remarks": "Desilting and repairs to sluice.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/09-04-2026_12-26-47_7786.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.526679, 7.286463 ] } }
-]
-}
+{"type":"FeatureCollection","name":"MT","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"Name_of_Tank":"Sikurapotha Wewa","Custodians":"DAD","N":7.292768,"E":80.540597,"Remarks":"Desilting of the tank. Repairs to sluice and bund. Marking boundaries. Tree planting.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Sikurapotha Tank_8220.jpg"},"geometry":{"type":"Point","coordinates":[80.540597,7.292768]}},
+{"type":"Feature","properties":{"Name_of_Tank":"Parakatawella Wewa","Custodians":"DAD","N":7.284571,"E":80.544277,"Remarks":"Rehabilitating the tank bund and the sluice","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/parakata alla lake (7).jpg"},"geometry":{"type":"Point","coordinates":[80.544277,7.284571]}},
+{"type":"Feature","properties":{"Name_of_Tank":"Walgampaya Wewa","Custodians":"DAD","N":7.286463,"E":80.526679,"Remarks":"Desilting and repairs to sluice.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/09-04-2026_12-26-47_7786.jpg"},"geometry":{"type":"Point","coordinates":[80.526679,7.286463]}}
+]}
