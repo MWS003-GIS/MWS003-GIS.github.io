@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "WP",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No.": 2, "MWS_ID": "107-1", "GN Divisio": 671, "GN Divis_1": "Wavinna", "Non-point": "Informal disposal of houshold wastes/garbage", "N": 7.129874, "E": 80.780365, "No. of Toi": "-", "Point sour": "-", "N or X_1": "-", "E or Y_1": "-", "Recommende": "Preparing a separate place in homegardens for disposing houshold waste/Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/Facilitating garbage collection", "Unit Cost": "-", "Total Cost": "50,000.00", "Contributi": "Local/Central governments", "Time frame": "0.5 Years", "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.780365, 7.129874 ] } }
-]
-}
+{"type":"FeatureCollection","name":"WP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No.":2,"GND No.":671,"GN Division":"Wavinna","Non-point sources of pollution":"Informal disposal of houshold wastes/garbage","N":7.129874,"E":80.780365,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste/Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/Facilitating garbage collection","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.780365,7.129874]}}
+]}
