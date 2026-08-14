@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "WSP",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": 7, "GND No.": 251, "Name of the Tank": "Well near Mrs. Anoma's house at Rahula School road", "N": 7.323559, "E": 80.623071, "Observation": "no well could be ssen ,not using ,water accumiltaed low land", "Description": "Site preparation and setting out\nConstruction of a new well\nTyding up site after construction\nContingencies (10%)", "Amount (Rs.)": 131000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_112_1/well location rahula school road .jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.623071, 7.323559 ] } }
-]
-}
+{"type":"FeatureCollection","name":"WSP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No":7,"GND No.":251,"Name of the Tank":"Well near Mrs. Anoma's house at Rahula School road","N":7.323559,"E":80.623071,"Observation":"no well could be ssen ,not using ,water accumiltaed low land","Description":"Site preparation and setting out\nConstruction of a new well\nTyding up site after construction\nContingencies (10%)","Amount (Rs.)":131000,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_112_1/well location rahula school road .jpg"},"geometry":{"type":"Point","coordinates":[80.623071,7.323559]}}
+]}
