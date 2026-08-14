@@ -1,0 +1,1156 @@
+{
+  "type": "FeatureCollection",
+  "name": "SWC_OFF",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 7,
+        "GN Division No.": "508 D",
+        "GN Division": "Ampitigoda",
+        "Key Activities proposed for Soil and Water conservation": "7. Soil conservation practices - Paddy Lands (70�)",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.073968,
+        "E": 80.794958,
+        "Quantity": "10 ha",
+        "Proposed measure/s": "Live fencing/ SALT or Stone terracing/lock and spills, as applied",
+        "Unit Cost (Rs.)": "250 m-1",
+        "Total Cost (LKR)": "2,500,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/AM4.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.794958,
+          7.073968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 8,
+        "GN Division No.": "508 E",
+        "GN Division": "Bomellagoda",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Torrent near Mahawewa",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.070028,
+        "E": 80.79516,
+        "Quantity": "1.5 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "150,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/BM3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.79516,
+          7.070028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 9,
+        "GN Division No.": "508 E",
+        "GN Division": "Bomellagoda",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Torrent flows from the lake",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.06723,
+        "E": 80.796924,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/BM2 (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.796924,
+          7.06723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 10,
+        "GN Division No.": "508 E",
+        "GN Division": "Bomellagoda",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - The main feeder stream of the tank",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.066747,
+        "E": 80.797789,
+        "Quantity": "4 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "400,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.797789,
+          7.066747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 11,
+        "GN Division No.": "508 E",
+        "GN Division": "Bomellagoda",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Sub canal of the main feeder stream of the tank",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.066747,
+        "E": 80.797789,
+        "Quantity": "150 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "15,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.797789,
+          7.066747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 17,
+        "GN Division No.": "508 B",
+        "GN Division": "Gonakele",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Gonakele torrent",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.060614,
+        "E": 80.822391,
+        "Quantity": "100 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "10,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.822391,
+          7.060614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 18,
+        "GN Division No.": "508 B",
+        "GN Division": "Gonakele",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Oluwawatta torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.057369,
+        "E": 80.821656,
+        "Quantity": "200 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "20,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.821656,
+          7.057369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 24,
+        "GN Division No.": "512 C",
+        "GN Division": "Goodwood",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Meda Kadura",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.050363,
+        "E": 80.789926,
+        "Quantity": "3 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "300,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW14 (6).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.789926,
+          7.050363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 25,
+        "GN Division No.": "512 C",
+        "GN Division": "Goodwood",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Small Kandura coming from Goodwood Bungalow",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.052011,
+        "E": 80.787596,
+        "Quantity": "3.5 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "350,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW14 (5).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.787596,
+          7.052011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 26,
+        "GN Division No.": "512 C",
+        "GN Division": "Goodwood",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Kandura coming from Goodwood Bungalow",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.053582,
+        "E": 80.789273,
+        "Quantity": "100 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "10,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW7.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.789273,
+          7.053582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 27,
+        "GN Division No.": "512 C",
+        "GN Division": "Goodwood",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - The torrent on the way to the lake",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.051534,
+        "E": 80.785158,
+        "Quantity": "500 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "50,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.785158,
+          7.051534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 34,
+        "GN Division No.": "508",
+        "GN Division": "Ketayapathana",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Torrent 1",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.073011,
+        "E": 80.806221,
+        "Quantity": "3 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "300,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K7.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.806221,
+          7.073011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 35,
+        "GN Division No.": "508",
+        "GN Division": "Ketayapathana",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Torrent 2",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.072368,
+        "E": 80.806499,
+        "Quantity": "3 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "300,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K11.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.806499,
+          7.072368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 36,
+        "GN Division No.": "508",
+        "GN Division": "Ketayapathana",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Mawussa Torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.070696,
+        "E": 80.807242,
+        "Quantity": "3 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "300,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K5.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.807242,
+          7.070696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 41,
+        "GN Division No.": "508",
+        "GN Division": "Ketayapathana",
+        "Key Activities proposed for Soil and Water conservation": "8. Establishing a side/retaining wall - near Ketayapathana Udagama Road",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.074577,
+        "E": 80.804551,
+        "Quantity": "10.5 m x 3 m x 0.5 m",
+        "Proposed measure/s": "Retaining wall",
+        "Unit Cost (Rs.)": "2,000 m-3",
+        "Total Cost (LKR)": "31,500",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.804551,
+          7.074577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 42,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Torrent at the Borahinna Pahala road",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.05623,
+        "E": 80.781108,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.781108,
+          7.05623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 43,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Diyanilla Ulpatha torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.056374,
+        "E": 80.779216,
+        "Quantity": "50 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "5,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.779216,
+          7.056374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 44,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Aloka Bedda torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.05382,
+        "E": 80.77881,
+        "Quantity": "300 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "30,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.77881,
+          7.05382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 45,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Torrent",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.060161,
+        "E": 80.77043,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.77043,
+          7.060161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 46,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "5. Renovation of natural drains - Rathmetiya torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.063351,
+        "E": 80.780467,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.780467,
+          7.063351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 47,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "6. Renovation of natural drains - Moraketihena torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.059493,
+        "E": 80.78085,
+        "Quantity": "700 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "70,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.78085,
+          7.059493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 48,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "7. Renovation of natural drains - Borahinna torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.057991,
+        "E": 80.781822,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.781822,
+          7.057991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 54,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "13. Establishing a side wall",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.058675,
+        "E": 80.781456,
+        "Quantity": "30 m x 3.6 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Unit Cost (Rs.)": "2,000 m-3",
+        "Total Cost (LKR)": "108,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.781456,
+          7.058675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 55,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "14. Establishing a side/retaining wall",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.059493,
+        "E": 80.78088,
+        "Quantity": "8 m x 1.8 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Unit Cost (Rs.)": "2,000 m-3",
+        "Total Cost (LKR)": "14,400",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.78088,
+          7.059493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 56,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "15. Establishing a side wall at the middle of the school's land",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.055506,
+        "E": 80.778424,
+        "Quantity": "30 m x 7.5 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Unit Cost (Rs.)": "2,000 m-3",
+        "Total Cost (LKR)": "225,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.778424,
+          7.055506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 57,
+        "GN Division No.": "512 E",
+        "GN Division": "Labuhenwala",
+        "Key Activities proposed for Soil and Water conservation": "16. Establishing a side wall",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.055506,
+        "E": 80.778424,
+        "Quantity": "30 m x 1.2 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Unit Cost (Rs.)": "2,000 m-3",
+        "Total Cost (LKR)": "36,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.778424,
+          7.055506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 58,
+        "GN Division No.": "509",
+        "GN Division": "Mathurata",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Digaredi Kadura",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.077146,
+        "E": 80.801525,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.801525,
+          7.077146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 59,
+        "GN Division No.": "509",
+        "GN Division": "Mathurata",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Ampitiya Oya",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.0722402,
+        "E": 80.802659,
+        "Quantity": "100 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "10,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.802659,
+          7.0722402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 63,
+        "GN Division No.": "509",
+        "GN Division": "Mathurata",
+        "Key Activities proposed for Soil and Water conservation": "6. Establishing a side wall - Danda Arawa canal",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.072754,
+        "E": 80.802374,
+        "Quantity": "20 m x 0.5 m x 3 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Unit Cost (Rs.)": "2,000 m-3",
+        "Total Cost (LKR)": "60,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.802374,
+          7.072754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 64,
+        "GN Division No.": "509 A",
+        "GN Division": "Merrygoll",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - No. 5 torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.065878,
+        "E": 80.821672,
+        "Quantity": "500 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "50,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/MG6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.821672,
+          7.065878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 65,
+        "GN Division No.": "509 A",
+        "GN Division": "Merrygoll",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Torrent that flows through canal No. 5",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.06593,
+        "E": 80.821259,
+        "Quantity": "500 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "50,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/MG1 (3).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.821259,
+          7.06593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 66,
+        "GN Division No.": "509 A",
+        "GN Division": "Merrygoll",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Torrent of Huruduwe canal",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.065574,
+        "E": 80.818967,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/MG5 (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.818967,
+          7.065574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 67,
+        "GN Division No.": "509 A",
+        "GN Division": "Merrygoll",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Pathahe Kandura at 4th Mile's Post",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.064684,
+        "E": 80.812672,
+        "Quantity": "600 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "60,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/MG4 (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.812672,
+          7.064684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 69,
+        "GN Division No.": "512 A",
+        "GN Division": "Metibembiya",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Bathkana Kadura 2",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.068776,
+        "E": 80.783558,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Planting some trees along the banks and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/M (02)1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.783558,
+          7.068776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 76,
+        "GN Division No.": "508 C",
+        "GN Division": "Ketayapathana Udagama",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Torrent near Upali Stores (Uda Aswedduma)",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.070337,
+        "E": 80.805148,
+        "Quantity": "3 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "300,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU12.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.805148,
+          7.070337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 77,
+        "GN Division No.": "508 C",
+        "GN Division": "Ketayapathana Udagama",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Torrent at Aswedduma road",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.068268,
+        "E": 80.806029,
+        "Quantity": "2.5 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "250,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU9.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.806029,
+          7.068268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 78,
+        "GN Division No.": "508 C",
+        "GN Division": "Ketayapathana Udagama",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Torrent of Amunupura canal",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.066842,
+        "E": 80.804683,
+        "Quantity": "2.5 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "250,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU5 (3).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.804683,
+          7.066842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 79,
+        "GN Division No.": "508 C",
+        "GN Division": "Ketayapathana Udagama",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Hindel torrent",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.066204,
+        "E": 80.804431,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU22.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.804431,
+          7.066204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 80,
+        "GN Division No.": "508 C",
+        "GN Division": "Ketayapathana Udagama",
+        "Key Activities proposed for Soil and Water conservation": "5. Renovation of natural drains - Amunupura Oya",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.065382,
+        "E": 80.803317,
+        "Quantity": "3 km",
+        "Proposed measure/s": "Planting some trees along the banks and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "300,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU3 (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.803317,
+          7.065382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 86,
+        "GN Division No.": "512",
+        "GN Division": "Wellagiriya",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Belihul Oya",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.08509,
+        "E": 80.78712,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Planting some trees along the banks and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU13.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.78712,
+          7.08509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 87,
+        "GN Division No.": "512",
+        "GN Division": "Wellagiriya",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Hawariella Oya",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.067708,
+        "E": 80.786231,
+        "Quantity": "500 m",
+        "Proposed measure/s": "Planting some trees along the banks and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "50,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU5 (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.786231,
+          7.067708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 91,
+        "GN Division No.": "512 F",
+        "GN Division": "Wewathenna",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Torrent from No.1 spring",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.057704,
+        "E": 80.789684,
+        "Quantity": "300 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "30,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/WW8.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.789684,
+          7.057704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 92,
+        "GN Division No.": "512 F",
+        "GN Division": "Wewathenna",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Torrent near Wewathenna lake",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.063187,
+        "E": 80.790742,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.790742,
+          7.063187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 93,
+        "GN Division No.": "512 F",
+        "GN Division": "Wewathenna",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Gonapitiya waterfall (Katuerella waterfall)",
+        "Priority based on Soil Erosion Hazard": 2,
+        "N": 7.058555,
+        "E": 80.796654,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Unit Cost (Rs.)": null,
+        "Total Cost (LKR)": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labor and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.796654,
+          7.058555
+        ]
+      }
+    }
+  ]
+}

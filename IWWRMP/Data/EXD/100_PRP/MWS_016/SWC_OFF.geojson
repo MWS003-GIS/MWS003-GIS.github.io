@@ -1,0 +1,612 @@
+{
+  "type": "FeatureCollection",
+  "name": "SWC_OFF",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 1,
+        "GND No.": "512 I",
+        "GND Name": "Hunukotuwa",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Torrent flow across the Samurdhi road",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.038076,
+        "E": 80.783912,
+        "Quantity": "150 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "15,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.783912,
+          7.038076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 2,
+        "GND No.": "512 I",
+        "GND Name": "Hunukotuwa",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Hunukotuwa main torrent",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.03968,
+        "E": 80.785044,
+        "Quantity": "200 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "20,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.785044,
+          7.03968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 6,
+        "GND No.": "512 H",
+        "GND Name": "Malsara Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Rankevita Bokka torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.035936,
+        "E": 80.794726,
+        "Quantity": "300 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "30,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.794726,
+          7.035936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 7,
+        "GND No.": "512 H",
+        "GND Name": "Malsara Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Belihul Oya",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.033271,
+        "E": 80.786646,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "100,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.786646,
+          7.033271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 8,
+        "GND No.": "512 H",
+        "GND Name": "Malsara Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Malsara Nuwara torrent",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.03329,
+        "E": 80.78671,
+        "Quantity": "1.2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "120,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.78671,
+          7.03329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 13,
+        "GND No.": "512 B",
+        "GND Name": "Mandaram Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - No. 9 Torrent/Kandura",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.033593,
+        "E": 80.782668,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.782668,
+          7.033593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 14,
+        "GND No.": "512 B",
+        "GND Name": "Mandaram Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - No. 5 torrent 2",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.031954,
+        "E": 80.786587,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "100,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.786587,
+          7.031954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 15,
+        "GND No.": "512 B",
+        "GND Name": "Mandaram Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - No. 8 torrent 3",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.03105,
+        "E": 80.788171,
+        "Quantity": "800 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "80,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.788171,
+          7.03105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 16,
+        "GND No.": "512 B",
+        "GND Name": "Mandaram Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - No. 5 torrent 4",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.029019,
+        "E": 80.788357,
+        "Quantity": "800 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "80,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.788357,
+          7.029019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 17,
+        "GND No.": "512 B",
+        "GND Name": "Mandaram Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "5. Renovation of natural drains - Belihul Oya",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.030894,
+        "E": 80.788332,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "100,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.788332,
+          7.030894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 18,
+        "GND No.": "512 B",
+        "GND Name": "Mandaram Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "6. Renovation of natural drains - Belihul Oya",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.02942,
+        "E": 80.780031,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "100,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.780031,
+          7.02942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 21,
+        "GND No.": "512 B",
+        "GND Name": "Mandaram Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "9. Establishing a side/retaining wall - No. 5",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.033415,
+        "E": 80.783843,
+        "Quantity": "50 m x 3.6 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Total_Cost": "180,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.783843,
+          7.033415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 23,
+        "GND No.": "512 B",
+        "GND Name": "Mandaram Nuwara",
+        "Key Activities proposed for Soil and Water conservation": "11. Establishing a side/retaining wall - The road to the waterfall",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.031858,
+        "E": 80.781345,
+        "Quantity": "20 m x 3 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Total_Cost": "60,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.781345,
+          7.031858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 24,
+        "GND No.": "512 G",
+        "GND Name": "Medawela",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Torrent/Kandura",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.043398,
+        "E": 80.781033,
+        "Quantity": "200 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "20,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.781033,
+          7.043398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 25,
+        "GND No.": "512 G",
+        "GND Name": "Medawela",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Hunukotuwa Medawela Torrent/Kandura",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.043375,
+        "E": 80.781377,
+        "Quantity": "400 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "40,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.781377,
+          7.043375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 26,
+        "GND No.": "512 G",
+        "GND Name": "Medawela",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Medawela Torrent/Kandura",
+        "Priority based on Soil Erosion Hazard": 2,
+        "N": 7.046048,
+        "E": 80.781796,
+        "Quantity": "300 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "30,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.781796,
+          7.046048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 27,
+        "GND No.": "512 G",
+        "GND Name": "Medawela",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Belihul Oya",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.050661,
+        "E": 80.777194,
+        "Quantity": "500 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "50,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.777194,
+          7.050661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 28,
+        "GND No.": "512 G",
+        "GND Name": "Medawela",
+        "Key Activities proposed for Soil and Water conservation": "5. Renovation of natural drains - Torrent at Attana Bedda Road",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.046457,
+        "E": 80.779932,
+        "Quantity": "50 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "5,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.779932,
+          7.046457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 35,
+        "GND No.": "512 G",
+        "GND Name": "Medawela",
+        "Key Activities proposed for Soil and Water conservation": "12. Establishing a side/retaining wall - Walasbedda",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.049678,
+        "E": 80.77819,
+        "Quantity": "1.5 m x 4.5 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Total_Cost": "6,750.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.77819,
+          7.049678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 36,
+        "GND No.": "512 G",
+        "GND Name": "Medawela",
+        "Key Activities proposed for Soil and Water conservation": "13. Establishing a side/retaining wall - Road up to Daranda canal",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.042943,
+        "E": 80.78058,
+        "Quantity": "200 m x 1.5 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Total_Cost": "300,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.78058,
+          7.042943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 37,
+        "GND No.": "512 G",
+        "GND Name": "Medawela",
+        "Key Activities proposed for Soil and Water conservation": "14. Establishing a side/retaining wall - Middle of the Medawela village",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.045142,
+        "E": 80.782673,
+        "Quantity": "50 m x 1.2 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Total_Cost": "60,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.782673,
+          7.045142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 38,
+        "GND No.": "512 G",
+        "GND Name": "Medawela",
+        "Key Activities proposed for Soil and Water conservation": "15. Establishing a side/retaining wall - Bank collapsing of the Nuwara Eliya road into the torrent.",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.044228,
+        "E": 80.783775,
+        "Quantity": "25 m x 1.2 m x 0.5 m",
+        "Proposed measure/s": "Side/Retaining wall",
+        "Total_Cost": "30,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.783775,
+          7.044228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 41,
+        "GND No.": "512 D",
+        "GND Name": "Uda Wela",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Beliul Oya",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.041343,
+        "E": 80.778317,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "100,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.778317,
+          7.041343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 42,
+        "GND No.": "512 D",
+        "GND Name": "Uda Wela",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Beliul Oya sub canal",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.042619,
+        "E": 80.779496,
+        "Quantity": "600 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "60,000.00",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.779496,
+          7.042619
+        ]
+      }
+    }
+  ]
+}
