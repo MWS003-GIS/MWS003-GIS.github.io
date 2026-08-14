@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "Landslides",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No. ": 1, "GN Division No.": 739, "GN Division": "Kosgama", "Land Slides": "Landslide - Alakola Janapadaya", "N": 7.403048, "E": 80.74117, "NBRO Recommendation": "NBRO is aware", "Proposed Measures": "No critical issues are reported. However, land acquisition/providing houses will be needed.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_096/kosgama school soil conservation (1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.74117, 7.403048 ] } }
-]
-}
+{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No. ":1,"GN Division No.":739,"GN Division":"Kosgama","Land Slides":"Landslide - Alakola Janapadaya","N":7.403048,"E":80.74117,"NBRO Recommendation":"NBRO is aware","Proposed Measures":"No critical issues are reported. However, land acquisition/providing houses will be needed.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_096/kosgama school soil conservation (1).jpg"},"geometry":{"type":"Point","coordinates":[80.74117,7.403048]}}
+]}

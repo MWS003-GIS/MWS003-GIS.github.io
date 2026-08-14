@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "MI",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": 1, "GND No. ": 735, "Scheme": "Relugas ela", "N": 7.454766, "E": 80.711962, "Observation": "the waste deposit blocked the canal. ", "Description": "Wet Silt removing from Canal or Tank beds and haul the surplus materials up to 1.6 km distance by machinery.(This rate is excluding of transporting of machinery)\nWidening the existing canal\nTransporting machinery\nMiscellaneous\nContingancies 10%", "Amount (Rs.)": 181500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_095/relugas canal (1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.711962, 7.454766 ] } }
-]
-}
+{"type":"FeatureCollection","name":"MI","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No":1,"GND No. ":735,"Scheme":"Relugas ela","N":7.454766,"E":80.711962,"Observation":"the waste deposit blocked the canal. ","Description":"Wet Silt removing from Canal or Tank beds and haul the surplus materials up to 1.6 km distance by machinery.(This rate is excluding of transporting of machinery)\nWidening the existing canal\nTransporting machinery\nMiscellaneous\nContingancies 10%","Amount (Rs.)":181500,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_095/relugas canal (1).jpg"},"geometry":{"type":"Point","coordinates":[80.711962,7.454766]}}
+]}

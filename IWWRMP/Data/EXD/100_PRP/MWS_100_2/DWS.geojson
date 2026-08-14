@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "DWS",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": 4, "GND No. ": 728, "Scheme": "Rawan oya", "N": 7.373071, "E": 80.704205, "Observation": "using 220 families ,no proper filter tank .water polllted from animal stool", "Description": "Construction of Concrete water storage tank of 20 cum - size internal size 3mx3mx2.5\nFabricating & fixing security weld mesh in open-type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete.\nAll as per detail drawing No.CPC/CS/11/04/2017/TYPE-ST/07\nTidying up\nContingencies 10%", "Estimated Cost": 693000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_100_2/Ravan oya.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.704205, 7.373071 ] } }
-]
-}
+{"type":"FeatureCollection","name":"DWS","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No":4,"GND No. ":728,"Scheme":"Rawan oya","N":7.373071,"E":80.704205,"Observation":"using 220 families ,no proper filter tank .water polllted from animal stool","Description":"Construction of Concrete water storage tank of 20 cum - size internal size 3mx3mx2.5\nFabricating & fixing security weld mesh in open-type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete.\nAll as per detail drawing No.CPC/CS/11/04/2017/TYPE-ST/07\nTidying up\nContingencies 10%","Estimated Cost":693000,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_100_2/Ravan oya.jpg"},"geometry":{"type":"Point","coordinates":[80.704205,7.373071]}}
+]}

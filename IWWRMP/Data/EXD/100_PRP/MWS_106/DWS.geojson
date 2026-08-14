@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "DWS",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": 1, "GND No.": 628, "Scheme": "Rambukpothanga Millanga road", "N": 7.3477852, "E": 80.6369309, "Observation": "currently in use, but  the jack was damaged.", "Description": "Repairs to the Tube well including replacing of the Jack.", "Estimated Cost": 45000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/rabukpathanga tube well (1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.6369309, 7.3477852 ] } }
-]
-}
+{"type":"FeatureCollection","name":"DWS","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No":1,"GND No.":628,"Scheme":"Rambukpothanga Millanga road","N":7.3477852,"E":80.6369309,"Observation":"currently in use, but  the jack was damaged.","Description":"Repairs to the Tube well including replacing of the Jack.","Estimated Cost":45000,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/rabukpathanga tube well (1).jpg"},"geometry":{"type":"Point","coordinates":[80.6369309,7.3477852]}}
+]}

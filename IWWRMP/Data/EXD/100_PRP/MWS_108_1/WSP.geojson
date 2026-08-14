@@ -1,9 +1,4 @@
-{
-"type": "FeatureCollection",
-"name": "WSP",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": 1, "GND No.": 623, "Name of the Tank": "Gorakagaha Ela", "N": 7.371182, "E": 80.645698, "Observation": "the canal bunds were damaged.", "Description": "Plantation of trees\nContingencies (10%)", "Amount (Rs.)": 33000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_1/05-03-2026_09-41-52_5982.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.645698, 7.371182 ] } },
-{ "type": "Feature", "properties": { "No": 2, "GND No.": 624, "Name of the Tank": "Well in the Paranagama Madya Maha Vidyalaya", "N": 7.36103, "E": 80.639108, "Observation": "there are some leakage conditions in the well.  the water was muddy.  As well as water was used by the hospital and school.", "Description": "Repair of Existing Well and Cover net\nConstruction of a Proper Drainage System\nContingencies (10%)", "Amount (Rs.)": 66000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_1/mahakubura tube well (1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.639108, 7.36103 ] } }
-]
-}
+{"type":"FeatureCollection","name":"WSP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No":1,"GND No.":623,"Name of the Tank":"Gorakagaha Ela","N":7.371182,"E":80.645698,"Observation":"the canal bunds were damaged.","Description":"Plantation of trees\nContingencies (10%)","Amount (Rs.)":33000,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_1/05-03-2026_09-41-52_5982.jpg"},"geometry":{"type":"Point","coordinates":[80.645698,7.371182]}},
+{"type":"Feature","properties":{"No":2,"GND No.":624,"Name of the Tank":"Well in the Paranagama Madya Maha Vidyalaya","N":7.36103,"E":80.639108,"Observation":"there are some leakage conditions in the well.  the water was muddy.  As well as water was used by the hospital and school.","Description":"Repair of Existing Well and Cover net\nConstruction of a Proper Drainage System\nContingencies (10%)","Amount (Rs.)":66000,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_1/mahakubura tube well (1).jpg"},"geometry":{"type":"Point","coordinates":[80.639108,7.36103]}}
+]}

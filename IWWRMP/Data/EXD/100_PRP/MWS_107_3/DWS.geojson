@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "DWS",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": 1, "GND No.": 604, "Scheme": "Near no. 16, Mr. Tikiribanda's house at Delgahakumbura", "N": 7.334103, "E": 80.665098, "Observation": "There are 80 families used.", "Description": "working but need to repair ,used by 12 families", "Estimated Cost": 20000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_107_3/TIkiribanda near well.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.665098, 7.334103 ] } }
-]
-}
+{"type":"FeatureCollection","name":"DWS","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No":1,"GND No.":604,"Scheme":"Near no. 16, Mr. Tikiribanda's house at Delgahakumbura","N":7.334103,"E":80.665098,"Observation":"There are 80 families used.","Description":"working but need to repair ,used by 12 families","Estimated Cost":20000,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_107_3/TIkiribanda near well.jpg"},"geometry":{"type":"Point","coordinates":[80.665098,7.334103]}}
+]}

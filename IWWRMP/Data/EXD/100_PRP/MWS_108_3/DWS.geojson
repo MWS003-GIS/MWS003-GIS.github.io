@@ -1,9 +1,4 @@
-{
-"type": "FeatureCollection",
-"name": "DWS",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": 1, "GND No.": 629, "Scheme": "Bollegoda", "N": 7.354892, "E": 80.616908, "Observation": "The jack was damaged, 50 families used this tube well.", "Description": "Repairs to the Tube well including replacing of the Jack.", "Estimated Cost": 45000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_3/bollegoda yaya canal (3).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.616908, 7.354892 ] } },
-{ "type": "Feature", "properties": { "No": 2, "GND No.": 630, "Scheme": "Moragaskotuwa tube Well 1", "N": 7.354855, "E": 80.631131, "Observation": "Currently not used. It was damaged.", "Description": "Repairs to the Tube well including replacing of the Jack.", "Estimated Cost": 45000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_3/moragaskotuwa tube well (1).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.631131, 7.354855 ] } }
-]
-}
+{"type":"FeatureCollection","name":"DWS","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No":1,"GND No.":629,"Scheme":"Bollegoda","N":7.354892,"E":80.616908,"Observation":"The jack was damaged, 50 families used this tube well.","Description":"Repairs to the Tube well including replacing of the Jack.","Estimated Cost":45000,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_3/bollegoda yaya canal (3).jpg"},"geometry":{"type":"Point","coordinates":[80.616908,7.354892]}},
+{"type":"Feature","properties":{"No":2,"GND No.":630,"Scheme":"Moragaskotuwa tube Well 1","N":7.354855,"E":80.631131,"Observation":"Currently not used. It was damaged.","Description":"Repairs to the Tube well including replacing of the Jack.","Estimated Cost":45000,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_3/moragaskotuwa tube well (1).jpg"},"geometry":{"type":"Point","coordinates":[80.631131,7.354855]}}
+]}

@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "Landslides",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No. ": 2, "GN Division No.": 731, "GN Division": "Madulkele", "Land Slides": "Landslide - Near the Mr.Govindra Raja  Nandasena's house", "N": 7.400209, "E": 80.732922, "NBRO Recommendation": "Needs NBRO concern", "Proposed Measures": "Landuse plan needs to be improved. Recommendations of NBRO should be followed having consulted; Also, the attention and mediation of RDA are needed.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_099/Near the Mr.Govindra Raja   Nandasena home _ disaster_5618.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.732922, 7.400209 ] } }
-]
-}
+{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No. ":2,"GN Division No.":731,"GN Division":"Madulkele","Land Slides":"Landslide - Near the Mr.Govindra Raja  Nandasena's house","N":7.400209,"E":80.732922,"NBRO Recommendation":"Needs NBRO concern","Proposed Measures":"Landuse plan needs to be improved. Recommendations of NBRO should be followed having consulted; Also, the attention and mediation of RDA are needed.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_099/Near the Mr.Govindra Raja   Nandasena home _ disaster_5618.jpg"},"geometry":{"type":"Point","coordinates":[80.732922,7.400209]}}
+]}

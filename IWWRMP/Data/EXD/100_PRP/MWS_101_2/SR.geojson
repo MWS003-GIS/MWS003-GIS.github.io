@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "SR",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": 19, "GND No.": 731, "Scheme": "Near the Karuwala culvert ela", "N": 7.371957, "E": 80.712001, "Observations": "landslides of the canal embard due to high slope.block the canal", "Description": "Plantation of trees\nContingencies (10%)", "Amount (Rs.)": 27500, "photopath": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.712001, 7.371957 ] } }
-]
-}
+{"type":"FeatureCollection","name":"SR","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No":19,"GND No.":731,"Scheme":"Near the Karuwala culvert ela","N":7.371957,"E":80.712001,"Observations":"landslides of the canal embard due to high slope.block the canal","Description":"Plantation of trees\nContingencies (10%)","Amount (Rs.)":27500,"photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.712001,7.371957]}}
+]}
