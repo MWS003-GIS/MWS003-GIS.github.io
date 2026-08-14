@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "name": "DWS",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 3,
+        "GND No.": 70,
+        "Scheme": "Tube well near the Embekka Devalaya",
+        "N": 7.217587,
+        "E": 80.567895,
+        "Observation": "highly used by the people are comming to embekke ,not working now",
+        "Description": "Preliminaries \n\nFurnish a suitable heavy duty tube well pump and install to replace existing pump \n\nTyding up\n\nContingancies 10%",
+        "Estimated Cost": 46200,
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.567895,
+          7.217587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 4,
+        "GND No.": 75,
+        "Scheme": "Tube well near school",
+        "N": 7.228075,
+        "E": 80.563936,
+        "Observation": "not working , used by students also needed much",
+        "Description": "Preliminaries \n\nFurnish a suitable heavy duty tube well pump and install to replace existing pump \n\nTyding up\n\nContingancies 10%",
+        "Estimated Cost": 46200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Tube well near school.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.563936,
+          7.228075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 5,
+        "GND No.": 75,
+        "Scheme": "ilukwatte tube well",
+        "N": 7.22512,
+        "E": 80.562091,
+        "Observation": "working but not properly",
+        "Description": "Preliminaries \n\nFurnish a suitable heavy duty tube well pump and install to replace existing pump \n\nTyding up\n\nContingancies 10%",
+        "Estimated Cost": 46200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Iluhete watte tube well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.562091,
+          7.22512
+        ]
+      }
+    }
+  ]
+}

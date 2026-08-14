@@ -1,0 +1,558 @@
+{
+  "type": "FeatureCollection",
+  "name": "MI",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 65,
+        "GND No.": 1,
+        "Scheme": "Canal starting from Kappale Yaya and flowing across Milla Kumbura and Konnagoda Yaya",
+        "N": 7.264017,
+        "E": 80.560339,
+        "Observation": "Canal banks were damaged.",
+        "Description": "Canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 100m at necessary locations\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nConstruction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall at necessary locations for a total length of 20m\n\nSite preparation and settingout\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 604999.9966,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/kappal yaya road (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.560339,
+          7.264017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 66,
+        "GND No.": 1,
+        "Scheme": "Canal from Ran Kumbura to Konnagoda Yaya",
+        "N": 7.264002,
+        "E": 80.560338,
+        "Observation": "The damaged canal and road caused flooding of the paddy land.",
+        "Description": "Construction of 3.0m high 1:3:6 (40mm) cement concrete Retaining Wall  for 10m\n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 1171499.999,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/ran kubura  canal and road damaged (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.560338,
+          7.264002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 67,
+        "GND No.": 2,
+        "Scheme": "Gorakawela Kuda Yaya",
+        "N": 7.254143,
+        "E": 80.567874,
+        "Observation": "Canal banks are damaged in the rainy season.  15 acres of paddy lands.",
+        "Description": "Stream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for a total length of 200m at necessary locations\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nImproving tree cover along the canal for 300m - Planting Arecanut plants at 1.5 m spacing\n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTidying up\n\nContingancies 10%",
+        "Amount (Rs.)": 232100.0029,
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.567874,
+          7.254143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 68,
+        "GND No.": 7,
+        "Scheme": "Canal from mampitiya to Wadudeniya",
+        "N": 7.250007,
+        "E": 80.574001,
+        "Observation": "This canal is completely blocked from several places.No protection in reservation area obsereved at several places.",
+        "Description": "Canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for a total length of 400m at necessary locations\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nConstruction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall at necessary locations for a total length of 20m\n\nSite preparation and settingout\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 783099.9965,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/canal from mampitiya tank to wadudeniya.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.574001,
+          7.250007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 69,
+        "GND No.": 8,
+        "Scheme": "Right canal of Mampitiya Wewa",
+        "N": 7.247515,
+        "E": 80.577145,
+        "Observation": "water flow is not going the right direction ,canal was used to cultivate 10 ac of land but water is going trough privete lands and make mud the lands wasting water.no paddy cultivation is done.",
+        "Description": "Canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for a total length of 400m at necessary locations\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nConstruction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall for 20m at necessary locations. \n\nSite preparation and settingout\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 783099.9965,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/rajagiriya tank right canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.577145,
+          7.247515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 70,
+        "GND No.": 16,
+        "Scheme": "Pitawala canal",
+        "N": 7.243787,
+        "E": 80.577683,
+        "Observation": "7ac of land is cultivated from this but no cultivation is done now,depth of the canal is noe enough now",
+        "Description": "Canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for a total length of 400m at necessary locations\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 318999.9965,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/pitawala yaya canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.577683,
+          7.243787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 71,
+        "GND No.": 16,
+        "Scheme": "Muththettuwa canal near Hatton road",
+        "N": 7.242714,
+        "E": 80.5758,
+        "Observation": "total 13 ac was cultivated from this but now only 5 acres are cultivated due to the damage to the canal",
+        "Description": "Canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for a total length of 200m at necessary locations\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nConstruction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall for 20m at necessary locations \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 682000.0032,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/muththettuwa yaya canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5758,
+          7.242714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 72,
+        "GND No.": 21,
+        "Scheme": "Area between A5 Badulla Wenkaladi road and the railway",
+        "N": 7.256974,
+        "E": 80.590684,
+        "Observation": "not much issues can be seen, but soil acuumilation can be seen",
+        "Description": "Canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for a total length of 200m at necessary locations\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nImproving tree cover along the canal for 300m - Planting Arecanut plants at 1.5 m spacing \n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 232100.0029,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.590684,
+          7.256974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 73,
+        "GND No.": 74,
+        "Scheme": "Moonamale canal vevaanga part",
+        "N": 7.231955,
+        "E": 80.565846,
+        "Observation": "dagamed canal bund and water flow to paddy filed ,7 ac is cultivated from this canal",
+        "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall for 10m total length at necessary locations. \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%\n\n",
+        "Amount (Rs.)": 393799.9975,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Munamale canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.565846,
+          7.231955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 74,
+        "GND No.": 74,
+        "Scheme": "Nagahamula Moonamale canal",
+        "N": 7.233125,
+        "E": 80.567013,
+        "Observation": "6 ac is cultivated from this,eroroded canal bank in sevreal locations",
+        "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall for 20m total length at necessary locations. \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%\n",
+        "Amount (Rs.)": 790900.0,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Munamale canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.567013,
+          7.233125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 75,
+        "GND No.": 74,
+        "Scheme": "Ganitha Gedara Angurumulle canal",
+        "N": 7.232377,
+        "E": 80.567118,
+        "Observation": "damaged and waste accmilated",
+        "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall for 20m total length at necessary locations. \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%\n",
+        "Amount (Rs.)": 790900.0,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Agurumale canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.567118,
+          7.232377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 76,
+        "GND No.": 74,
+        "Scheme": "polgahakumbura canal",
+        "N": 7.233064,
+        "E": 80.568505,
+        "Observation": "damaged the canal and water flow to paddy,5ac is cultivated from this",
+        "Description": "Canal reservation protection by concrete lining  For  100mm thick , 0.3m  wide  and 0.3m high canal -double banking for a length of 50m\n\nSite preparation and settingout\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\n1:2:4 (20mm) concrete with concrete mixer  (volume batching) \n\nSupplying and fixing of 250mm rubber water bar at construction joints in 10m intervals\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTidying up\n\nContingancies 10%",
+        "Amount (Rs.)": 699600.0,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Polgahakumbura canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.568505,
+          7.233064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 77,
+        "GND No.": 74,
+        "Scheme": "ganithagedara bogahakumbura  canal",
+        "N": 7.232644,
+        "E": 80.570334,
+        "Observation": "due to a high water flow comming from the upper area that water is flowing trough road and floof nearby pativet land",
+        "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall for 20m total length at necessary locations. \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%\n",
+        "Amount (Rs.)": 790900.0,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Ganithagedara bogahakumbura canal bund.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.570334,
+          7.232644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 78,
+        "GND No.": 76,
+        "Scheme": "Abanga canal",
+        "N": 7.233373,
+        "E": 80.57518,
+        "Observation": "soil accumilation can be seen",
+        "Description": "Stream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 300m at necessary locations.\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nImproving tree cover along the canal for 300m - Planting Arecanut plants at 1.5 m spacing \n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 303099.9995,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Abanga canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.57518,
+          7.233373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 79,
+        "GND No.": 76,
+        "Scheme": "Kotakumbure canal",
+        "N": 7.23245,
+        "E": 80.572706,
+        "Observation": "overgrown and soi accumilated in the canal",
+        "Description": "Stream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 300m at necessary locations.\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nImproving tree cover along the canal for 300m - Planting Arecanut plants at 1.5 m spacing \n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTyding up\n\nContingancies 10%\n\n",
+        "Amount (Rs.)": 303099.9995,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Kotakubura Canal_8952.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.572706,
+          7.23245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 80,
+        "GND No.": 79,
+        "Scheme": "Medde Wela Kanaduwa",
+        "N": 7.238512,
+        "E": 80.567018,
+        "Observation": "bank errosion happen in some places and soil accumialated",
+        "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall for 10m at necessary locations\n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nStream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 300m at necessary locations.\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nImproving tree cover along the canal for 300m - Planting Arecanut plants at 1.5 m spacing \n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 710599.9995,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Medde Wela Kanaduwa_8990.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.567018,
+          7.238512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 81,
+        "GND No.": 80,
+        "Scheme": "From Oli Anga Kumbura to Pahala Aludeniya Ilu Wella",
+        "N": 7.236218,
+        "E": 80.564576,
+        "Observation": "bank errosion happen in some places and soil accumialated",
+        "Description": "Stream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 300m at necessary locations.\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nImproving tree cover along the canal for 300m - Planting Arecanut plants at 1.5 m spacing \n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 310199.9995,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/From Oli Anga Kumbura to Pahala Aludeniya Ilu Wella.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.564576,
+          7.236218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 82,
+        "GND No.": 80,
+        "Scheme": "Area from temple road to Dodanga canal bank/ bund",
+        "N": 7.237201,
+        "E": 80.567018,
+        "Observation": "soil accumilted in the canal",
+        "Description": "Stream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 100m at necessary locations.\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nImproving tree cover along the canal for 100m - Planting Arecanut plants at 1.5 m spacing \n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 122099.9988,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Area from temple road to Dodanga canal bank_ bund_8996.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.567018,
+          7.237201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 83,
+        "GND No.": 81,
+        "Scheme": "Piligama main canal",
+        "N": 7.250958,
+        "E": 80.556479,
+        "Observation": "not  much issues can be seen",
+        "Description": "Stream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 100m at necessary locations.\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nImproving tree cover along the canal for 100m - Planting Arecanut plants at 1.5 m spacing \n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 122099.9988,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/pinideniya canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.556479,
+          7.250958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 84,
+        "GND No.": 81,
+        "Scheme": "Canal from Pindeniya to Piligama canal",
+        "N": 7.253339,
+        "E": 80.557425,
+        "Observation": "not much issues can be seen",
+        "Description": "Improving tree cover along the canal for 100m - Planting Arecanut plants at 1.5 m spacing \n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 37400.00221,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/pinideniya canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.557425,
+          7.253339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 85,
+        "GND No.": 81,
+        "Scheme": "Canal from Palkada to Ambanga",
+        "N": 7.252621,
+        "E": 80.556624,
+        "Observation": "overgrown the canal",
+        "Description": "Stream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 100m at necessary locations.\n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 85799.99662000002,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/main canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.556624,
+          7.252621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 86,
+        "GND No.": 81,
+        "Scheme": "Canal from Ambanga to Piligama",
+        "N": 7.254138,
+        "E": 80.556773,
+        "Observation": "soil accumilation in the canal",
+        "Description": "Canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 100 m  \n\nCutting bench of 1.5m wide and 100m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nTydying up\n\nContingencies 10%",
+        "Amount (Rs.)": 85799.99662000002,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/abanga to piligama canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.556773,
+          7.254138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 87,
+        "GND No.": 86,
+        "Scheme": "Main irrigation canal",
+        "N": 7.244561,
+        "E": 80.548095,
+        "Observation": "overgrown and soil accumilation in the cana",
+        "Description": "Canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 300m at necessary locations.\n\nCutting bench of 1.5m wide and 300m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nTydying up\n\nContingencies 10%",
+        "Amount (Rs.)": 240899.9999,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/main irigation canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.548095,
+          7.244561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 88,
+        "GND No.": 86,
+        "Scheme": "Kapuranga canal",
+        "N": 7.245654,
+        "E": 80.551189,
+        "Observation": "not much issues can be seen",
+        "Description": "Canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 300m at necessary locations.\n\nCutting bench of 1.5m wide and 300m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nImproving tree cover along the canal for 200m - Planting Arecanut plants at 1.5 m spacing \n\nSupplying of Arecanut seedlings (with five leaves)\n[to be planted at 1.5m intervals]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance\n[7.0 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application\n[2.0 L/days per 100.0m x 2.0m]\n\nTydying up\n\nContingencies 10%",
+        "Amount (Rs.)": 314600.0013,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/kapuruwanga canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.551189,
+          7.245654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 89,
+        "GND No.": 86,
+        "Scheme": "Gurulu Deniya canal",
+        "N": 7.246554,
+        "E": 80.550315,
+        "Observation": "not much issues can be seen",
+        "Description": "Stream / canal  reservation protection by earthfilling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for 300m at necessary locations.\n\nCutting bench of 1.5m wide and 300m long\n[01 L/day for 100.0 Lm]\n\nEarth excavation for fill material, haul fill materials up to 1.6km by machinery\n\nForming canal bund machinery (This rate is excluding of transporting of machinery)\n\nCutting, transporting, planting & watering turf (excluding cost of turf)\n\nSupplying of NPK fertilizer\n\nMaintenance for 02 months\n[02 L/days per 100.0 Lm]\n\nMachine transport\n\nTidying up\n\nContingancies 10%\n",
+        "Amount (Rs.)": 241999.9999,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/gurudeniya canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.550315,
+          7.246554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 90,
+        "GND No.": 92,
+        "Scheme": "Minor irrigation - canal dunukeanga canal",
+        "N": 7.2343,
+        "E": 80.55382,
+        "Observation": "8 ac is cultivated from this , eroded canal bunds .",
+        "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall for 10m total length at necessary locations. \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTidying up\n\nContingancies 10%",
+        "Amount (Rs.)": 401500.0,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Dunukenga canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55382,
+          7.2343
+        ]
+      }
+    }
+  ]
+}

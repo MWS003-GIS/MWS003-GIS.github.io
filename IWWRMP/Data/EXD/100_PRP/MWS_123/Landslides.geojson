@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "name": "Landslides",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 2,
+        "GN Division No.": 3,
+        "GN Division": "Gangoda North",
+        "Landslides": "2. Landsliding - Bulu Anga area",
+        "N": 7.261157,
+        "E": 80.56338,
+        "NBRO Recommendation N/A": "NBRO is aware",
+        "Proposed Measures": "Soil conservation should be adapted.",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/kappal hena (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.56338,
+          7.261157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 3,
+        "GN Division No.": 20,
+        "GN Division": "Meewathura",
+        "Landslides": "Landsliding - Welketiyawatta Road, Meewathura",
+        "N": 7.247743,
+        "E": 80.592217,
+        "NBRO Recommendation N/A": "Needs NBRO concern",
+        "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Weliketiyawatta Rd_8901.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.592217,
+          7.247743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 4,
+        "GN Division No.": 21,
+        "GN Division": "Penideniya",
+        "Landslides": "2. Landsliding - Hostel building of the National College of Education and the surrounding area",
+        "N": 7.253951,
+        "E": 80.587863,
+        "NBRO Recommendation N/A": "Needs NBRO concern",
+        "Proposed Measures": "Constructing a retaining wall (100 m x 3 m)",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.587863,
+          7.253951
+        ]
+      }
+    }
+  ]
+}

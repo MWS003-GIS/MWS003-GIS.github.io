@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "name": "MT",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name_of_Tank": "Mampitiya Malhewa Wewa (Rajagiriya Tank)",
+        "Custodians": "DAD",
+        "N": 7.247412,
+        "E": 80.577508,
+        "Remarks": "Repair the bund. Rehabilitate the canals. Desilting of the tank.",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Rajagitiya Tank.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.577508,
+          7.247412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name_of_Tank": "Minor tank located at Hendeniya Rajamaha Viharaya",
+        "Custodians": "DAD",
+        "N": 7.250823,
+        "E": 80.579931,
+        "Remarks": "Replacing the sluice gate. Rehabilitation of canals.",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Tank near hendeniya temple.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.579931,
+          7.250823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name_of_Tank": "Warakagoda Wewa",
+        "Custodians": "DAD",
+        "N": 7.245205,
+        "E": 80.547805,
+        "Remarks": "Desilting of the tank. Surveying and demarcating the tank reservation.",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/tank .jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.547805,
+          7.245205
+        ]
+      }
+    }
+  ]
+}

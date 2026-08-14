@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "name": "MT",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name_of_Tank": "Wegiriya Wewa",
+        "Custodians": "DAD",
+        "N": 7.193946,
+        "E": 80.574983,
+        "Remarks": null,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Wegiriya lake.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.574983,
+          7.193946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name_of_Tank": "Welikumbura Wewa",
+        "Custodians": "DAD",
+        "N": 7.223133,
+        "E": 80.572497,
+        "Remarks": null,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Davulagala Welikumbura Wewa.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.572497,
+          7.223133
+        ]
+      }
+    }
+  ]
+}

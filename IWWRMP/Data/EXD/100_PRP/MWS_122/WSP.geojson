@@ -1,0 +1,264 @@
+{
+  "type": "FeatureCollection",
+  "name": "WSP",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 11,
+        "GND No.": 57,
+        "Name of the Tank": "Hettige Anga well",
+        "N": 7.208411,
+        "E": 80.569907,
+        "Observation": "outer area is not clear covered but not properly",
+        "Description": "Fabricating & fixing security weld mesh in OpenType buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two  coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07 - To cover the tank top\n\nClean around the well\n\nMiscellaneous\n\nContingencies (10%)\n",
+        "Amount (Rs.)": 27500,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Batupitiya hettige well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.569907,
+          7.208411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 12,
+        "GND No.": 57,
+        "Name of the Tank": "Hettige Anga Mohadinren's well",
+        "N": 7.208638,
+        "E": 80.569895,
+        "Observation": "small well not properly made",
+        "Description": "Clean around the well and repair the well\n\nContingencies (10%)",
+        "Amount (Rs.)": 33000,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Mohandiram well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.569895,
+          7.208638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 13,
+        "GND No.": 59,
+        "Name of the Tank": "Ambarapola pthaha well",
+        "N": 7.219367,
+        "E": 80.574591,
+        "Observation": "using good well",
+        "Description": "Construct a wall to cover the bathing area\n\nContingencies (10%)",
+        "Amount (Rs.)": 55000,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Ambrapola.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.574591,
+          7.219367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 14,
+        "GND No.": 60,
+        "Name of the Tank": "Samurdhi well (public) of Dodamdeniya",
+        "N": 7.215866,
+        "E": 80.570451,
+        "Observation": "used for drinking ,outer area is not clean",
+        "Description": "Fabricating & fixing security weld mesh in OpenType buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two  coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07 - To cover the tank top\n\nMiscellaneous\n\nContingencies (10%)",
+        "Amount (Rs.)": 24200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Samurdhi public well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.570451,
+          7.215866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 15,
+        "GND No.": 60,
+        "Name of the Tank": "Dodamdeniya Gal Linda (public)",
+        "N": 7.217618,
+        "E": 80.570048,
+        "Observation": "belongs to the Archeological Depths been covered due to a landslide, was using a lot",
+        "Description": "Remove the mud in the well and repair the well\n\nContingencies (10%)",
+        "Amount (Rs.)": 27500,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Gal lida.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.570048,
+          7.217618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 16,
+        "GND No.": 64,
+        "Name of the Tank": "Koholana",
+        "N": 7.209414,
+        "E": 80.563644,
+        "Observation": null,
+        "Description": "Vegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval - along the canal banks\n\nContingencies (10%)",
+        "Amount (Rs.)": 484000,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/koholana to galahitiyawa canal (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.563644,
+          7.209414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 17,
+        "GND No.": 64,
+        "Name of the Tank": "Koholana Pihilla",
+        "N": 7.209414,
+        "E": 80.563644,
+        "Observation": null,
+        "Description": "Vegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval - along the canal banks\n\nContingencies (10%)",
+        "Amount (Rs.)": 48400,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/koholana to galahitiyawa canal (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.563644,
+          7.209414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 19,
+        "GND No.": 68,
+        "Name of the Tank": "Kossinna",
+        "N": 7.2082152,
+        "E": 80.5566838,
+        "Observation": "The water became turbid.",
+        "Description": "Replace the Culvert\n\nContingencies (10%)",
+        "Amount (Rs.)": 77000,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/koshinna (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5566838,
+          7.2082152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 20,
+        "GND No.": 72,
+        "Name of the Tank": "Rangama piihilla/ spout",
+        "N": 7.218102,
+        "E": 80.560126,
+        "Observation": "highly used by people ,just",
+        "Description": "Clean around the Pihilla area and repair it\n\nContingencies (10%)",
+        "Amount (Rs.)": 33000,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Rangama pihilla siyabalagoda.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.560126,
+          7.218102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 21,
+        "GND No.": 73,
+        "Name of the Tank": "Rangama well",
+        "N": 7.218123,
+        "E": 80.560168,
+        "Observation": "no cover ,damaged outer bathing area",
+        "Description": "Fabricating & fixing security weld mesh in OpenType buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two  coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07 - To cover the tank top\n\nRepair the damage in the concrete walls\n\nMiscellaneous\n\nContingencies (10%)",
+        "Amount (Rs.)": 46200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Rangama embekke canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.560168,
+          7.218123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 22,
+        "GND No.": 73,
+        "Name of the Tank": "Gurandeniya well",
+        "N": 7.226369,
+        "E": 80.55985,
+        "Observation": "available water all the time ,soil from above area erode to the well .no concrete cover ,good spring",
+        "Description": "Fabricating & fixing security weld mesh in OpenType buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two  coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07 - To cover the tank top\n\nConstruct a concrete wall to stop eroded soil coming in to the spring\n\nMiscellaneous\n\nContingencies (10%)",
+        "Amount (Rs.)": 79200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Urandeniya well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55985,
+          7.226369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 23,
+        "GND No.": 75,
+        "Name of the Tank": "Darande pihilla",
+        "N": 7.227347,
+        "E": 80.564088,
+        "Observation": "leakage in the tank ,no cover to the tank ,waste accumulation",
+        "Description": "Fabricating & fixing security weld mesh in OpenType buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two  coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07 - To cover the tank top\n\nRepair the leakages in the tank\n\nMiscellaneous\n\nContingencies (10%)",
+        "Amount (Rs.)": 46200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_122/Darade pihilla.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.564088,
+          7.227347
+        ]
+      }
+    }
+  ]
+}

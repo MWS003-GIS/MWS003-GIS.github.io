@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "name": "MI",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 91,
+        "GND No.": 100,
+        "Scheme": "Canal near to the dewala wawa",
+        "N": 7.204152,
+        "E": 80.549785,
+        "Observation": "Damaged canal bunds and dirty toilet lines contaminate the canal, no paddy fields.",
+        "Description": "Construction of 1.5m high 1:3:6 (40mm) cement concrete Retaining Walls at necessary places  - Length 100 m\n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nMiscellaneous \n\nContingancies 10%",
+        "Amount (Rs.)": 2413400,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_1/welambada canal (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.549785,
+          7.204152
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "name": "SWC_ON",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 1,
+        "GND No.": 119,
+        "GND Name": "Mathgamuwa",
+        "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices -  Maangamuwa (30°-40°)",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.247366,
+        "E": 80.533539,
+        "Quantity": "25 ha",
+        "Proposed measure/s": "1. Establishing SALT  - 10000 m\n2. Live fencing - 10000 m\n3. Lock and spills - 2500 m\n4. Stone terracing - 2500 m\n5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, c",
+        "Uniti_Cost": "250.00 m-1\n120.00 m-1\n400.00 m-1\n2500.00 m-1",
+        "Total_Cost": 10950000,
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/soil conservation.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.533539,
+          7.247366
+        ]
+      }
+    }
+  ]
+}
