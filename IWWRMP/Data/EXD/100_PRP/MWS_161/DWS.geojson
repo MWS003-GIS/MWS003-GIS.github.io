@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 5, "GND No.": "477A", "Scheme": "Kande Ela", "N": 6.911916, "E": 80.786057, "Observation": "The well was built to be 4.2  m in diameter and 6 m Hight. The water is used for drinking & bathing. Located on public land", "Description": "Construction of filter tank\n\nExcavation in trenches less than 300mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of back filling, compacting and disposal of surplus earth (Excavation  by Machine)\n\nSupplying & layi", "Estimated Cost": 803000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_161/IMG_20260113_150851 Diriya community society water project intake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.786057, 6.911916 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 15, "GND No.": "475W", "Name of the Tank": "Wangi oya lower division", "N": 6.940512, "E": 80.712118, "Observation": "Located in Radella Estate. A water scheme is being implemented by developing the water spring.", "Description": "Vegetative cover improving around the reservation with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval", "Amount (Rs.)": 484000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_159_1/Drinking Water Sources to be Conserved - Wangi oya Lower division (3).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.712118, 6.940512 ] } }
+]
+}
