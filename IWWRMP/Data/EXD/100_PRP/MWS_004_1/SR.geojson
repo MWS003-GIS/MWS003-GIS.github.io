@@ -1,4 +1,9 @@
-{"type":"FeatureCollection","name":"SR","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No":1,"GND No.":277,"Scheme":"Thalathuoya","N":7.26334,"E":80.689268,"Observation":"The canal banks are eroded.","Description":"Dry rubble packing with available rubble , greater than 225 mm by manually\nBamboo  tree plantation  along both banks for 500m \nContingencies (10%)","Amount (Rs.)":3127000,"photopath":"null"},"geometry":{"type":"Point","coordinates":[80.689268,7.26334]}},
-{"type":"Feature","properties":{"No":2,"GND No.":281,"Scheme":"Ankendagolla canal","N":7.260099,"E":80.672525,"Observation":"Of the 8 acres of paddy land, only 3 are cultivated. The canal bunds are damaged.","Description":"Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall  - 20 m\nSite preparation & setting out\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\nPlywood form work including making,","Amount (Rs.)":927300,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_004_1/ankandagolla canal.jpg"},"geometry":{"type":"Point","coordinates":[80.672525,7.260099]}}
-]}
+{
+"type": "FeatureCollection",
+"name": "SR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": 277, "Scheme": "Thalathuoya", "N": 7.26334, "E": 80.689268, "Observation": "The canal banks are eroded.", "Description": "Dry rubble packing with available rubble , greater than 225 mm by manually\nBamboo  tree plantation  along both banks for 500m \nContingencies (10%)", "Amount (Rs.)": 3127000, "photopath": "Not_Available" }, "geometry": { "type": "Point", "coordinates": [ 80.689268, 7.26334 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": 281, "Scheme": "Ankendagolla canal", "N": 7.260099, "E": 80.672525, "Observation": "Of the 8 acres of paddy land, only 3 are cultivated. The canal bunds are damaged.", "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall  - 20 m\nSite preparation & setting out\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\nPlywood form work including making,", "Amount (Rs.)": 927300, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_004_1/ankandagolla canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.672525, 7.260099 ] } }
+]
+}

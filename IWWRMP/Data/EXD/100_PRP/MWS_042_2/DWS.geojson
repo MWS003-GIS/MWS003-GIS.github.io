@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DWS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "GND No.": "476H", "Scheme": "Meepilimana 'Katti 100' (lot 100) village", "N": 6.92868, "E": 80.784245, "Observation": "A Pump house (5m x 5 m Lx W) and a Well are constructed  (4.6m Dia. & 5m Hight). A Well Located on public land.used for drinking and bathing", "Description": "Removing & clearing debris away Corrugated sheets, iron, asbestos or aluminum alloy from roofs, excluding frameworks in single-storied buildings.\nSupplying and fixing new asbestos roofing sheets confirming to SLS 9 on the existing framework with new nut", "Estimated Cost": 148500, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_042_2/IMG_20260130_100031_1 Meepilimana 'Katti 100' (lot 100) village.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.784245, 6.92868 ] } },
+{ "type": "Feature", "properties": { "No": 2, "GND No.": "478A", "Scheme": "Katumana", "N": 6.946489, "E": 80.803376, "Observation": "It is a form of a natural spring. A Well Located on Forest land.used for drinking and bathing", "Description": "Construction of 1.5m high 1:3:6 (40mm) cement concrete Retaining Wall\nCanal reservation protection by concrete lining  For  100mm thick , 0.3m  wide  and 0.3m high canal -double banking\nMiscellaneous \nContingencies 10%", "Estimated Cost": 1660000, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_042_2/IMG_20260114_122008 Katumanna ela kandura.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.803376, 6.946489 ] } }
+]
+}
