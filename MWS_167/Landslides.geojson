@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "Landslides",
+  "features": [
+    {"type":"Feature","properties":{"No.":"168","GN Division No.":"12","GN Division":"piduruthalagala","Land Slides":"168","N":1233333,"E":5,"NBRO Recommendation N/A":"recomend","Proposed Measures":"\nastimated","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_167/3936(6).png"},"geometry":{"type":"Point","coordinates":[5,1233333]}}
+  ]
+}
