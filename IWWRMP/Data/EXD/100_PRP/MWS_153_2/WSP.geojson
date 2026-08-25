@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WSP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 14, "GND No.": "475G", "Name of the Tank": "20 Pura area", "N": 6.938358, "E": 80.686949, "Observation": "The spring water here is used separately by several families. However, villagers reported  that the spring dries up during the dry season. Reserve land is being illegally acquired because the boundaries are not marked and there are no large trees.", "Description": "Vegetative cover improving around the reservation with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval", "Amount (Rs.)": 58080, "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_153_2/Water Catchment Area Conservation - 20 Pura area (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.686949, 6.938358 ] } }
+]
+}

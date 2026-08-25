@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "name": "WSP",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 1,
+        "GND No.": 110,
+        "Name of the Tank": "Maha Ela",
+        "N": 7.237727,
+        "E": 80.54193,
+        "Observation": "35-acre sof paddy land. canal banks are damaged.",
+        "Description": "Construction of 1.8m high 1:3:6 (40mm) cement concrete Retaining Wall for the damaged parts of the canal bank\n\nStream / canal  reservation protection by earth filling of  strip   of 1.5m to 2m wide  and average Depth of 0.5m for the damaged parts of the canal bank\n\nContingencies (10%)\n",
+        "Amount (Rs.)": 4633200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/maha canal (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.54193,
+          7.237727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 2,
+        "GND No.": 121,
+        "Name of the Tank": "Spout/ Pihilla",
+        "N": 7.243612,
+        "E": 80.543176,
+        "Observation": "50 families used this.",
+        "Description": "Develop the water line \n\nContingencies (10%)",
+        "Amount (Rs.)": 165000,
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.543176,
+          7.243612
+        ]
+      }
+    }
+  ]
+}

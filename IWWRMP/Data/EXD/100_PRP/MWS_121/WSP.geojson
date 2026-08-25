@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "name": "WSP",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 3,
+        "GND No.": 14,
+        "Name of the Tank": "Palkade Well",
+        "N": 7.231451,
+        "E": 80.583262,
+        "Observation": "good condition",
+        "Description": "Fabricating & fixing security weld mesh in OpenType buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two  coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07 - To cover the tank top\n\nMiscellaneous\n\nContingencies (10%)\n",
+        "Amount (Rs.)": 24200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/Palkade well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.583262,
+          7.231451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 4,
+        "GND No.": 24,
+        "Name of the Tank": "Uurakote well at Kudapeeligama school lane",
+        "N": 7.224234,
+        "E": 80.597175,
+        "Observation": "no any issues, request covering net and wall",
+        "Description": "Fabricating & fixing security weld mesh in OpenType buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two  coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07 - To cover the tank top\n\nConstruct a wall to cover the well\n\nMiscellaneous\n\nContingencies (10%)\n\n",
+        "Amount (Rs.)": 79200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/Urakote well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.597175,
+          7.224234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 5,
+        "GND No.": 27,
+        "Name of the Tank": "Well of national houses",
+        "N": 7.227778,
+        "E": 80.596557,
+        "Observation": "no issues of the well, they request covering wall",
+        "Description": "Construct a wall to cover the well\n\nContingencies (10%)",
+        "Amount (Rs.)": 71500,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/Well of national houses_8915.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.596557,
+          7.227778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 6,
+        "GND No.": 27,
+        "Name of the Tank": "Well at Kiwyerudeniya",
+        "N": 7.229988,
+        "E": 80.596137,
+        "Observation": null,
+        "Description": "Clean the well\n\nContingencies (10%)",
+        "Amount (Rs.)": 6600,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/Well at Kiwyerudeniya_8922.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.596137,
+          7.229988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 7,
+        "GND No.": 27,
+        "Name of the Tank": "Mahaweli river",
+        "N": 7.231542,
+        "E": 80.599147,
+        "Observation": "sever bank erosion happen in several places",
+        "Description": "Construct a gabion wall the places where eroded\n\nVegetative cover improving for narrow strips (1.5m?2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover crop around the canal\n\nContingencies (10%)",
+        "Amount (Rs.)": 800800,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/mahaweli river.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.599147,
+          7.231542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 8,
+        "GND No.": 40,
+        "Name of the Tank": "Well near Ms. Indika's house",
+        "N": 7.205818,
+        "E": 80.601886,
+        "Observation": "Need protection net on top.",
+        "Description": "Fabricating & fixing security weld mesh in OpenType buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two  coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07 - To cover the tank top\n\nMiscellaneous\n\nContingencies (10%)",
+        "Amount (Rs.)": 37400,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/Well near Ms. Indika_s house.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.601886,
+          7.205818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 9,
+        "GND No.": 40,
+        "Name of the Tank": "Well near the border of Pitawalawatta GND at Biwater road",
+        "N": 7.205528,
+        "E": 80.601797,
+        "Observation": "Need protection net on top.",
+        "Description": "Fabricating & fixing security weld mesh in OpenType buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two  coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing  No.CPC/CS/11/04/2017/TYPE?ST/07 - To cover the tank top\n\nMiscellaneous\n\nContingencies (10%)",
+        "Amount (Rs.)": 19800,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/Well near the border of Pitawalawatta GND at Biwater road.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.601797,
+          7.205528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 10,
+        "GND No.": 42,
+        "Name of the Tank": "Paragedi Anga Wewa",
+        "N": 7.193787,
+        "E": 80.592771,
+        "Observation": "sluice gate of the canal is not working. irrigation canal starting from this is blocked.",
+        "Description": "Supply and install 600 mm * 600 mm, 50 m long U drains - To construct the damaged parts of the canal\n\nVegetative cover improving for narrow strips (1.5m?2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover crop around the canal\n\nContingencies (10%)",
+        "Amount (Rs.)": 391160,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/Paragedi Anga Wewa.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.592771,
+          7.193787
+        ]
+      }
+    }
+  ]
+}
