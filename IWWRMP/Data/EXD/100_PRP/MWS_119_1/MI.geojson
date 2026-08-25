@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "name": "MI",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 1,
+        "GND No.": 110,
+        "Scheme": "Ulwala - 1",
+        "N": 7.237792,
+        "E": 80.541885,
+        "Observation": "The anicut is developed, but lacks gates.",
+        "Description": "Preliminaries \n\nKumbuk Stop Planks: Supplying and preparing 75mm thick Kumbuk Timber stop planks. Rate to include for planing, applying 2 coats of hot tar preservative and fixing 2 Nos. 10 mm diameter Mild Steel lifting hooks per plank.\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 187000,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/ulwala anicut (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.541885,
+          7.237792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 2,
+        "GND No.": 119,
+        "Scheme": "Asanga Yaya canal",
+        "N": 7.244464,
+        "E": 80.53701,
+        "Observation": "has been fully damaged.12 ac is cultivated from this,only 6 ac is cultivated in this season,",
+        "Description": "Preliminaries \n\nConstruction of 1.5m high 1:3:6 (40mm) cement concrete Retaining Wall at necessary locations - Length100m \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 3859900,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/Ayanga yaya canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.53701,
+          7.244464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 3,
+        "GND No.": 119,
+        "Scheme": "Deliwala Yaya canal",
+        "N": 7.247354,
+        "E": 80.533576,
+        "Observation": "21 ac is cultivated from this,erroded in several locations",
+        "Description": "Preliminaries \n\nConstruction of 1.5m high 1:3:6 (40mm) cement concrete Retaining Wall at necessary locations - Length 20 m \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 789800,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/Deliwala yaya canal.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.533576,
+          7.247354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 4,
+        "GND No.": 121,
+        "Scheme": "Dorakumbura  Yaya canal",
+        "N": 7.242387,
+        "E": 80.541926,
+        "Observation": "56 acres of paddy land.  canal banks were damaged.",
+        "Description": "Canals reservation protection by concrete lining  For  125mm thick , 0.5m  wide  and 0.4m high canal -double banking at necessary locations - Total length 100m\n\nSite preparation and settingout\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete with concrete mixer  (volume batching) \n\nSupplying and fixing of 250mm rubber water bar at construction joints in 10m intervals\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTidying up\n\nContingancies 10%",
+        "Amount (Rs.)": 2037200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/dorakubura canal (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.541926,
+          7.242387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 5,
+        "GND No.": 121,
+        "Scheme": "Urulewathu Yaya canal",
+        "N": 7.245419,
+        "E": 80.54245,
+        "Observation": "3 acres of paddy land.  the drainge was blocked.",
+        "Description": "Canals reservation protection by concrete lining  For  100 mm thick , 0.3m  wide  and 0.3m high canal -double banking at necessary locations - Total length 100m\n\nSite preparation and settingout\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete with concrete mixer  (volume batching) \n\nSupplying and fixing of 250mm rubber water bar at construction joints in 10m intervals\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTidying up\n\nContingancies 10%",
+        "Amount (Rs.)": 1394800,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/dodammotawa canal (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.54245,
+          7.245419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 6,
+        "GND No.": 121,
+        "Scheme": "Wahanna Ela",
+        "N": 7.241338,
+        "E": 80.541945,
+        "Observation": "1 acres of paddy land,",
+        "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall for 20 m at necessary locations \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTidying up\n\nContingancies 10%",
+        "Amount (Rs.)": 511060,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/wanga canal (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.541945,
+          7.241338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 7,
+        "GND No.": 122,
+        "Scheme": "Galpoththe Amuna",
+        "N": 7.253779,
+        "E": 80.538565,
+        "Observation": "not any issues can be seen in anicut, there is no planks",
+        "Description": "Preliminaries \n\nKumbuk Stop Planks: Supplying and preparing 75mm thick Kumbuk Timber stop planks. Rate to include for planing, applying 2 coats of hot tar preservative and fixing 2 Nos. 10 mm diameter Mild Steel lifting hooks per plank.\n\nTyding up\n\nContingancies 10%",
+        "Amount (Rs.)": 90200,
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.538565,
+          7.253779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 8,
+        "GND No.": 123,
+        "Scheme": "Dodambotawa canal flowing from the catchment area to the lake and to the catchment area",
+        "N": 7.23197,
+        "E": 80.544748,
+        "Observation": "10 acres of paddy land, canal banks are damaged.",
+        "Description": "Construction of 1.5m high 1:3:6 (40mm) cement concrete Retaining Wall  for 20m at necessary locations \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTidying up\n\nContingancies 10%",
+        "Amount (Rs.)": 790900,
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.544748,
+          7.23197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 9,
+        "GND No.": 124,
+        "Scheme": "A part of the Dodambotawa irrigation canal",
+        "N": 7.228852,
+        "E": 80.546598,
+        "Observation": "damaged the wall and water flow to paddy field .20a cis cultivated ,but cant do cultivations becouse of this ,waste lots of water",
+        "Description": "Construction of 1.0 m high 1:3:6 (40mm) cement concrete Retaining Wall  for 20m at necessary locations \n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for concrete canals at ground level -05 uses\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer  (volume batching)\n\nForming Weep Holes Using P.V.C. Pipes of Int. Dia. Not less than 100mm Complete with Dripledge and Surround Finish Smooth.\n\nSpreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nMachine transport\n\nTidying up\n\nContingancies 10%",
+        "Amount (Rs.)": 433290,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/Dodammotawa canal part.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.546598,
+          7.228852
+        ]
+      }
+    }
+  ]
+}
