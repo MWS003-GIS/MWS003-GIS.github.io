@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_Off",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 3, "GN_Divisio": 1068, "GN_Divis_1": "Wallahagoda", "Key_Activi": "1. Establishing a retaining wall - Bank collapsing - Wallahagoda school", "Priority_b": 1, "N": 7.149369, "E": 80.564045, "Quantity": "30 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": 3492500, "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_135/Disaster - School (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.564045, 7.149369 ] } },
+{ "type": "Feature", "properties": { "No_": 6, "GN_Divisio": 1073, "GN_Divis_1": "Ethgala North", "Key_Activi": "1. Establishing a retaining wall - Risk of sinking the Awasaya due to Raja Ela flowing near the area - Awasaya/Living house for monks at Jayamalaramaya of Ethgala North", "Priority_b": 1, "N": 7.140931, "E": 80.564674, "Quantity": "25 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": 2909500, "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_135/Disaster - AwasayaLiving house for monks at Jayamalaramaya of Ethgala North (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.564674, 7.140931 ] } }
+]
+}

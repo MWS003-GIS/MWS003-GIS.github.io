@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "name": "DWS",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 1,
+        "GND No.": 111,
+        "Scheme": "Tube well at the Harankahadeniya village",
+        "N": 7.231593,
+        "E": 80.535252,
+        "Observation": "The tube well, used by 50 families, has a damaged jack and concrete wall.",
+        "Description": "Preliminaries \n\nRemoval of old jack\n\nSupplying and Inatalling a new jack as instructed by the TA.\n\nClianing around the tube well \n\nContingancies 10%",
+        "Estimated Cost": 44550,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/harankahadeniya tube well (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.535252,
+          7.231593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 2,
+        "GND No.": 121,
+        "Scheme": "Urulewatta",
+        "N": 7.240401,
+        "E": 80.542297,
+        "Observation": "15 families used this tube well. the jack was damaged.",
+        "Description": "Preliminaries \n\nRemoval of old jack\n\nSupplying and Inatalling a new jack as instructed by the TA.\n\nClianing around the tube well \n\nContingancies 10%",
+        "Estimated Cost": 44550,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_1/pitiya waththa tube well (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.542297,
+          7.240401
+        ]
+      }
+    }
+  ]
+}

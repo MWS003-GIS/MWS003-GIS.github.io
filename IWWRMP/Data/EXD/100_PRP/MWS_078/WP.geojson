@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","name":"WP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No.":1,"GND No.":834,"GN Division":"Pitigoda","Non-point sources of pollution":"Potential to add human waste - Athurudena","N":7.220154,"E":80.8615167,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.8615167,7.220154]}}
+]}

@@ -1,0 +1,222 @@
+{
+  "type": "FeatureCollection",
+  "name": "DWS",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 6,
+        "GND No.": 6,
+        "Scheme": "Near Gunathilaka stores of Boyagama",
+        "N": 7.258934,
+        "E": 80.570755,
+        "Observation": "20 families used this.",
+        "Description": "Preliminaries \n\nFurnish a suitable heavy duty tube well pump and install to replace existing pump \n\nTyding up\n\nContingancies 10%",
+        "Estimated Cost": 46200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/gunathilaka,s supermarket (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.570755,
+          7.258934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 7,
+        "GND No.": 6,
+        "Scheme": "Near Co-op of Boyagama",
+        "N": 7.253753,
+        "E": 80.570103,
+        "Observation": "100 families used this tube well. the jack was damaged.",
+        "Description": "Preliminaries \n\nFurnish a suitable heavy duty tube well pump and install to replace existing pump\n\nConcreting around the tube well  \n\nTyding up\n\nContingancies 10%",
+        "Estimated Cost": 62700,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/gunathilaka,s supermarket (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.570103,
+          7.253753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 8,
+        "GND No.": 7,
+        "Scheme": "Tube wells of Rajagiriya Watta",
+        "N": 7.250946,
+        "E": 80.574455,
+        "Observation": "not working .10 familie are using",
+        "Description": "Preliminaries \n\nFurnish a suitable  tube well pump and install to replace existing pump \n\nTyding up\n\nContingancies 10%",
+        "Estimated Cost": 40700,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Tube well mampitiya.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.574455,
+          7.250946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 9,
+        "GND No.": 8,
+        "Scheme": "Tube well nerar Mrs. Wijitha's house",
+        "N": 7.247421,
+        "E": 80.578283,
+        "Observation": "water is comming but damaged outer area",
+        "Description": "Preliminaries \n\nFurnish a suitable  tube well pump and install to replace existing pump \n\nTyding up\n\nContingancies 10%",
+        "Estimated Cost": 40700,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/near vijitha_s house tube well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.578283,
+          7.247421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 10,
+        "GND No.": 13,
+        "Scheme": "Tube well at Mirisdeniya road",
+        "N": 7.25026,
+        "E": 80.588723,
+        "Observation": "rusted internal parts",
+        "Description": "Preliminaries \n\nReplacing rusted part of the tube well and repairing it to working order. \n\nTyding up\n\nContingancies 10%",
+        "Estimated Cost": 35200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Sangabopura mirisdeniya well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.588723,
+          7.25026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 11,
+        "GND No.": 13,
+        "Scheme": "tube well near Sangabogama playground",
+        "N": 7.247888,
+        "E": 80.589425,
+        "Observation": "ruseted water",
+        "Description": "\n\nPreliminaries\n\n Testing the quality of water and acertain that water in the well is acceptable to drink. (NWSDB may be able to do the test)\n\nReplacing rusted part of the tube well and repairing it to working order. \n\nTyding up\n\nContingancies 10%\n",
+        "Estimated Cost": 46200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/sagabodama ground well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.589425,
+          7.247888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 12,
+        "GND No.": 16,
+        "Scheme": "near Mr. V.G. Dharmasena's house",
+        "N": 7.243663,
+        "E": 80.577804,
+        "Observation": "not using abundand",
+        "Description": "Preliminaries \n\nTesting the quality of water and acertain that water in the well is acceptable to drink. (NWSDB may be able to do the test)\n\nReplacing rusted part of the tube well and repairing it to working order. (Only if the water quality found to be",
+        "Estimated Cost": 46200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/tube well near darmasena house.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.577804,
+          7.243663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 13,
+        "GND No.": 16,
+        "Scheme": "Near Mr. wikramasinghe tube well",
+        "N": 7.241623,
+        "E": 80.577056,
+        "Observation": "not working well",
+        "Description": "Preliminaries \n\nRepair the tube well and bring it to working order. \n\nTyding up\n\nContingancies 10%",
+        "Estimated Cost": 35200,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/well near wikramasinge house.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.577056,
+          7.241623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 14,
+        "GND No.": 91,
+        "Scheme": "Tube well of Narankumbura",
+        "N": 7.235781,
+        "E": 80.555305,
+        "Observation": "not using not working",
+        "Description": "Preliminaries \n\nFurnish a suitable  tube well pump and install to replace existing pump \n\nCleaning around the well\n\nContingancies 10%",
+        "Estimated Cost": 42900,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Narankubura tube well.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.555305,
+          7.235781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 15,
+        "GND No.": 91,
+        "Scheme": "Tube well near school  Hidduwala primary school",
+        "N": 7.233103,
+        "E": 80.55909,
+        "Observation": "used by many as its near the school,fully damaged",
+        "Description": "Preliminaries \n\nFurnish a suitable  tube well pump and install to replace existing pump \n\nCleaning around the well\n\nContingancies 10%",
+        "Estimated Cost": 41800,
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_123/Tube welll near primaty scholl.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55909,
+          7.233103
+        ]
+      }
+    }
+  ]
+}

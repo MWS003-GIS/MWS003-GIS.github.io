@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No.":10,"GND No.":"53E","GND Name":"Kotawera Udagama","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - Dolosbage Road near the Cadete Office of Jinaraja School","Priority based on Soil Erosion Hazard":"-","N":6.924094,"E":80.922663,"Quantity":"200 m x 2 m","Proposed measure/s":"Retaining Wall (Masonary)","Total_Cost":"8,800,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.922663,6.924094]}}
+]}

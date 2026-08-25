@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","name":"DWS","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No":1,"GND No.":822,"Scheme":"Welapahala","N":7.222739,"E":80.822695,"Observation":"IN some places, the pipes have been destroyed","Description":"Barbed wire fencing\n\nShrub jungle clearing with vegetation, thorny bushes, undergrowth and less than 100 trees up to 300mm girth, and few isolated trees of less than 600mm girth including cutting uprooting and heaping on approved places Manually.\n\nFence","Estimated Cost":"2,835,000.00","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.822695,7.222739]}}
+]}

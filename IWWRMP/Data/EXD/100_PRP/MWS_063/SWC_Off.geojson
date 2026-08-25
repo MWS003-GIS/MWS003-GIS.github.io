@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_Off",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 8, "GN_Divisio": "63E", "GN_Divis_1": "Horadorowwa", "Key_Activi": "1. Establishing a retaining wall - Horadorowwa Weaving workshop building", "Priority_b": 4, "N": 6.795455, "E": 80.919081, "Quantity": "13 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": 1518000, "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_063/Soil Conservation - Horadorowwa Weaving workshop building (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.919081, 6.795455 ] } }
+]
+}

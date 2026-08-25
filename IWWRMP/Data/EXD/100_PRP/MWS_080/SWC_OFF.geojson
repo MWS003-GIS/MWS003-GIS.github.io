@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"No.":2,"GND No.":854,"GND Name":"Godakumbura","Key Activities proposed for Soil and Water conservation":"Establishing a retaining wall - Godakumbura community hall area","Priority based on Soil Erosion Hazard":1,"N":7.299721,"E":80.896894,"Quantity":"4.5 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"533,500.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.896894,7.299721]}}
+]}

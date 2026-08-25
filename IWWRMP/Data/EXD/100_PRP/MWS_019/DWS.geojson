@@ -1,44 +1,747 @@
 {
-"type": "FeatureCollection",
-"name": "DWS",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": "1", "GND No.": "479A", "Name and location of the spring": "Paragehelle Well", "Location N": 7.134353, "Location E": 80.793, "Observed problems": "A reservation is not allocated, the tank is dilapidated and cannot be used.", "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenanceConstruction of curtain wall (0.075mm thick) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\nProviding PVC pipes, pipe joints, etc. to convey water ", "Amount (LKR)": "112,900" }, "geometry": { "type": "Point", "coordinates": [ 80.793, 7.134353 ] } },
-{ "type": "Feature", "properties": { "No": "2", "GND No.": "479A", "Name and location of the spring": "Eldora Public Well", "Location N": 7.133686, "Location E": 80.78887, "Observed problems": "Leakages in the tank.", "Description": "1/2\" thick 1:3 cement mortar plastering to prevent leakages in lining\nConstruction of curtain wall (0.075mm thick) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "87,900" }, "geometry": { "type": "Point", "coordinates": [ 80.78887, 7.133686 ] } },
-{ "type": "Feature", "properties": { "No": "3", "GND No.": "479B", "Name and location of the spring": "Koopiwaththe Ulpatha", "Location N": 7.125115, "Location E": 80.801615, "Observed problems": "� The spring shall be covered (L- 3m, W-3m) using a net\n�A concrete wall required to be constructed (H-1.8m, W-3m, L-3m, t-0.3m)\n� A reservation area (W-4.8m) need to be allocated As a stripe� The tank required to be uplifted (H-1.2 m) and Tank shall be covered (L-3m, W-1.8m) using a covering net", "Description": "Providing a net to cover the spring to prevent dirt falling into the spring \nConstruction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\n1:3:6 (1 1/2\") Cement concrete, hand mixing and placing", "Amount (LKR)": "141,000" }, "geometry": { "type": "Point", "coordinates": [ 80.801615, 7.125115 ] } },
-{ "type": "Feature", "properties": { "No": "4", "GND No.": "479B", "Name and location of the spring": "?????? ??? ????? Algena Water Spring", "Location N": 7.123261, "Location E": 80.793159, "Observed problems": "No Cover The embankments near the spring is dilapidated", "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nConstruction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) ", "Amount (LKR)": "110,700" }, "geometry": { "type": "Point", "coordinates": [ 80.793159, 7.123261 ] } },
-{ "type": "Feature", "properties": { "No": "5", "GND No.": "479B", "Name and location of the spring": "???????? ?? ??? ????? Spring near Urakatipe Canal", "Location N": 7.127423, "Location E": 80.799115, "Observed problems": "The sword water mixed with the spring water and spring storage is not enough", "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "49,500" }, "geometry": { "type": "Point", "coordinates": [ 80.799115, 7.127423 ] } },
-{ "type": "Feature", "properties": { "No": "6", "GND No.": "479", "Name and location of the spring": "?????? ????? Panwatta Spring", "Location N": 7.12848, "Location E": 80.794036, "Observed problems": "Side walls are dilapidated of the spring ", "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \nConstruction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \n1/2\" thick 1:3 cement mortar plastering to prevent leakages in lining\nConstruction of curtain wall (0.075mm thick) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nProviding PVC pipes, pipe joints, etc. to convey water ", "Amount (LKR)": "251,000" }, "geometry": { "type": "Point", "coordinates": [ 80.794036, 7.12848 ] } },
-{ "type": "Feature", "properties": { "No": "7", "GND No.": "479", "Name and location of the spring": "?????? ????? Bomaluwa Spring", "Location N": 7.12829, "Location E": 80.794964, "Observed problems": "Leakages in the tank.", "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \nConstruction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "169,200" }, "geometry": { "type": "Point", "coordinates": [ 80.794964, 7.12829 ] } },
-{ "type": "Feature", "properties": { "No": "8", "GND No.": "481 A", "Name and location of the spring": "??????? Nayawatta ", "Location N": 7.113453, "Location E": 80.794083, "Observed problems": "�Not mentioned the boundaries for reservation\n�No tanks\n�Leakages of the spring tank", "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nConstruction of curtain wall (0.075mm thick) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\nConstruction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5", "Amount (LKR)": "648,700" }, "geometry": { "type": "Point", "coordinates": [ 80.794083, 7.113453 ] } },
-{ "type": "Feature", "properties": { "No": "9", "GND No.": "481 A", "Name and location of the spring": "?????? ??? Gallinda Chena", "Location N": 7.111682, "Location E": 80.795719, "Observed problems": "Not to mention the boundaries for reservation\n�Leakages of the spring tank", "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nConstruction of 1.2m high RR masonry wall (with section 0.60x0.60, 0.45x0.60) over 0.75m width x 0.15m thick concrete screed, plastering with 1:3 cement mortar and back filling\nConstruction of curtain wall (0.075mm thick) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\nProviding barb wire fence with 07 nos of 14G barb wire rows fixed firmly between 7ft high concrete posts erected at 2.0m intervals along the fence", "Amount (LKR)": "317,900" }, "geometry": { "type": "Point", "coordinates": [ 80.795719, 7.111682 ] } },
-{ "type": "Feature", "properties": { "No": "10", "GND No.": "481 B", "Name and location of the spring": "Thennewatta Spring", "Location N": 7.113556, "Location E": 80.787585, "Observed problems": "No Tank for stock water", "Description": "Construction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5\nImplementation of Water Treatment Plant\nProviding PVC pipes, pipe joints, etc. to convey water ", "Amount (LKR)": "565,000" }, "geometry": { "type": "Point", "coordinates": [ 80.787585, 7.113556 ] } },
-{ "type": "Feature", "properties": { "No": "11", "GND No.": "481 B", "Name and location of the spring": "?????? ???? ????? Ballan Ella Spring", "Location N": 7.113426, "Location E": 80.790107, "Observed problems": "No Reservation and the tank", "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nConstruction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5", "Amount (LKR)": "557,000" }, "geometry": { "type": "Point", "coordinates": [ 80.790107, 7.113426 ] } },
-{ "type": "Feature", "properties": { "No": "12", "GND No.": null, "Name and location of the spring": null, "Location N": null, "Location E": null, "Observed problems": null, "Description": null, "Amount (LKR)": null }, "geometry": null },
-{ "type": "Feature", "properties": { "No": "13", "GND No.": "481 C", "Name and location of the spring": "The Spring surrounded by houses (No 29, 28, 44, 46) ", "Location N": 7.119464, "Location E": 80.783322, "Observed problems": "No allocation of a reserve and the no tank for the stock water", "Description": "Providing barb wire fence with 07 nos of 14G barb wire rows fixed firmly between 7ft high concrete posts erected at 2.0m intervals along the fence\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nBoulder /Rubble dams (SABO) across streams to trap sediment-Size 3m (L) x2m (W) x1m (H) \nsupplying & fixing 9\" dia. Cast iron gates & Hoist complete ", "Amount (LKR)": "1,023,000" }, "geometry": { "type": "Point", "coordinates": [ 80.783322, 7.119464 ] } },
-{ "type": "Feature", "properties": { "No": "14", "GND No.": "481 C", "Name and location of the spring": "?????? ????? Welapahala Spring", "Location N": 7.118538, "Location E": 80.786487, "Observed problems": "Non allocation of a reserve", "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "23,500" }, "geometry": { "type": "Point", "coordinates": [ 80.786487, 7.118538 ] } },
-{ "type": "Feature", "properties": { "No": "15", "GND No.": "481", "Name and location of the spring": "??????? ?????? Wetakolu Madiththa", "Location N": 7.120667, "Location E": 80.788384, "Observed problems": "water leakages from side walls and cannot stock the water", "Description": "1:3:6 (1 1/2\") Cement concrete, hand mixing and placing\nConstruction of 1.2m high RR masonry wall (with section 0.60x0.60, 0.45x0.60) over 0.75m width x 0.15m thick concrete screed, plastering with 1:3 cement mortar and back filling\nProviding barb wire fence with 07 nos of 14G barb wire rows fixed firmly between 7ft high concrete posts erected at 2.0m intervals along the fence\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "507,300" }, "geometry": { "type": "Point", "coordinates": [ 80.788384, 7.120667 ] } },
-{ "type": "Feature", "properties": { "No": "16", "GND No.": "481", "Name and location of the spring": "?????? ????? ????? Katuwal Pitiya Spring", "Location N": 7.121899, "Location E": 80.793958, "Observed problems": "Non allocation of a reserve", "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance", "Amount (LKR)": "26,700" }, "geometry": { "type": "Point", "coordinates": [ 80.793958, 7.121899 ] } },
-{ "type": "Feature", "properties": { "No": "17", "GND No.": "481 D", "Name and location of the spring": "?????? ???? ?? ????? Hunnan Arawa Water Spring", "Location N": 7.118852, "Location E": 80.795831, "Observed problems": "water of swords mixes to the spring", "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \nWater Quality Tests need to be conducted\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "189,700" }, "geometry": { "type": "Point", "coordinates": [ 80.795831, 7.118852 ] } },
-{ "type": "Feature", "properties": { "No": "18", "GND No.": "481 D", "Name and location of the spring": "???? ???? ????? Wadawala Gedera Spring", "Location N": 7.1159, "Location E": 80.800895, "Observed problems": "water of swords mixes to the spring", "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \nWater Quality Tests need to be conducted\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "189,700" }, "geometry": { "type": "Point", "coordinates": [ 80.800895, 7.1159 ] } },
-{ "type": "Feature", "properties": { "No": "19", "GND No.": "481 D", "Name and location of the spring": "The Spring near Kumaradasa's House", "Location N": 7.115268, "Location E": 80.799054, "Observed problems": "No Tanks ", "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "216,300" }, "geometry": { "type": "Point", "coordinates": [ 80.799054, 7.115268 ] } },
-{ "type": "Feature", "properties": { "No": "20", "GND No.": "481 D", "Name and location of the spring": "The spring store tank near Kumaradasa's house", "Location N": 7.11533, "Location E": 80.799024, "Observed problems": "Tank is dilapidated", "Description": "Tank needs to be cleaned \nRehabilitation of surrounding \nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "28,500" }, "geometry": { "type": "Point", "coordinates": [ 80.799024, 7.11533 ] } },
-{ "type": "Feature", "properties": { "No": "21", "GND No.": "481 D", "Name and location of the spring": "?????????? ????? Hapugahamulla Spring", "Location N": 7.113992, "Location E": 80.799666, "Observed problems": "Tank is dilapidated and mixed with land water", "Description": "Construction of curtain wall (0.075mm thick) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nProviding a net to cover the spring to prevent dirt falling into the spring ", "Amount (LKR)": "43,700" }, "geometry": { "type": "Point", "coordinates": [ 80.799666, 7.113992 ] } },
-{ "type": "Feature", "properties": { "No": "24", "GND No.": "482", "Name and location of the spring": "??????? ???? ?????? ????? Mahapitiya Tank Springs collection", "Location N": 7.141116, "Location E": 80.787393, "Observed problems": "not allocation reserve for the springs and water defilement by sludge", "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nWater Quality Tests need to be conducted\nConstruction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5", "Amount (LKR)": "765,800" }, "geometry": { "type": "Point", "coordinates": [ 80.787393, 7.141116 ] } },
-{ "type": "Feature", "properties": { "No": "25", "GND No.": "482 A", "Name and location of the spring": "??????? ?? ????? Ilangamuwa Water Spring", "Location N": 7.129874, "Location E": 80.780365, "Observed problems": "No boundaries for the reservation and landslide on the bank of the kandura", "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nProviding barb wire fence with 07 nos of 14G barb wire rows fixed firmly between 7ft high concrete posts erected at 2.0m intervals along the fence\nConstruction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.2m, top width 0.15m, 0.60m high steps x 02, each of 0.15m step width & bottom width 0.45m) \nConservation of ancient places ", "Amount (LKR)": "1,470,500" }, "geometry": { "type": "Point", "coordinates": [ 80.780365, 7.129874 ] } },
-{ "type": "Feature", "properties": { "No": "26", "GND No.": "482 B", "Name and location of the spring": "?????? ????? Denike Spring", "Location N": 7.136327, "Location E": 80.783238, "Observed problems": "No boundaries for the reservation and accumulation of land water to the tank", "Description": "Providing barb wire fence with 07 nos of 14G barb wire rows fixed firmly between 7ft high concrete posts erected at 2.0m intervals along the fence\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nConstruction of 1.2m high RR masonry wall (with section 0.60x0.60, 0.45x0.60) over 0.75m width x 0.15m thick screed concrete, plastering with 1:3 cement mortar and back filling", "Amount (LKR)": "451,800" }, "geometry": { "type": "Point", "coordinates": [ 80.783238, 7.136327 ] } },
-{ "type": "Feature", "properties": { "No": "27", "GND No.": "482 B", "Name and location of the spring": "????????? ??? ????? Udubittara Pela Spring", "Location N": 7.134595, "Location E": 80.784661, "Observed problems": "non conservation", "Description": "Construction of curtain wall (0.075mm thick) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "67,600" }, "geometry": { "type": "Point", "coordinates": [ 80.784661, 7.134595 ] } },
-{ "type": "Feature", "properties": { "No": "28", "GND No.": "482 B", "Name and location of the spring": "????????? ??? Uraketuwe Well", "Location N": 7.131839, "Location E": 80.786514, "Observed problems": "Non allocation of a reserve and leakage of the tank", "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nConstruction of curtain wall (0.075mm thick) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh", "Amount (LKR)": "76,100" }, "geometry": { "type": "Point", "coordinates": [ 80.786514, 7.131839 ] } },
-{ "type": "Feature", "properties": { "No": "29", "GND No.": "482 B", "Name and location of the spring": "??????????? ??? Urundeniye Well", "Location N": 7.133895, "Location E": 80.782042, "Observed problems": "Sword water mix with well water", "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.8m, top width 0.15m, 0.60m high steps x 03, each of 0.15m step width & bottom width 0.60m) \nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "137,700" }, "geometry": { "type": "Point", "coordinates": [ 80.782042, 7.133895 ] } },
-{ "type": "Feature", "properties": { "No": "30", "GND No.": "482/C", "Name and location of the spring": "????? ??? ???? ????? Udawela Pathana Kele Spring", "Location N": 7.141574, "Location E": 80.781804, "Observed problems": "sludge is mixed with the well water a", "Description": "Construction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5", "Amount (LKR)": "550,000" }, "geometry": { "type": "Point", "coordinates": [ 80.781804, 7.141574 ] } },
-{ "type": "Feature", "properties": { "No": "31", "GND No.": "482/C", "Name and location of the spring": "????? ??? ???????? ??? the well in Udawela Pathana Reservation", "Location N": 7.141519, "Location E": 80.781947, "Observed problems": "Leakage of water due to dilapidated constructions and there is no embankment on the U S side soil washes into the well", "Description": "Construction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5\n4 faucets \nConstruction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.2m, top width 0.15m, 0.60m high steps x 02, each of 0.15m step width & bottom width 0.45m) ", "Amount (LKR)": "636,000" }, "geometry": { "type": "Point", "coordinates": [ 80.781947, 7.141519 ] } },
-{ "type": "Feature", "properties": { "No": "32", "GND No.": "484 C", "Name and location of the spring": "????? ??????? ????? Palle Pihilla Spring", "Location N": 7.137278, "Location E": 80.796612, "Observed problems": "Non allocation of a reserve", "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nProviding barb wire fence with 07 nos of 14G barb wire rows fixed firmly between 7ft high concrete posts erected at 2.0m intervals along the fence", "Amount (LKR)": "68,800" }, "geometry": { "type": "Point", "coordinates": [ 80.796612, 7.137278 ] } },
-{ "type": "Feature", "properties": { "No": "33", "GND No.": "484 A", "Name and location of the spring": "???????? ???? ????? Elandawa Minor stream Spring", "Location N": 7.13803, "Location E": 80.804117, "Observed problems": "water quality not checked, and shower faucet broken", "Description": "Water Quality Tests \nFaucet needs to be installed ", "Amount (LKR)": "15,000" }, "geometry": { "type": "Point", "coordinates": [ 80.804117, 7.13803 ] } },
-{ "type": "Feature", "properties": { "No": "34", "GND No.": "484 A", "Name and location of the spring": "???????? ?? ????? Nikathenna Watershed", "Location N": 7.134434, "Location E": 80.805781, "Observed problems": "Non allocation of a reserve", "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance", "Amount (LKR)": "53,400" }, "geometry": { "type": "Point", "coordinates": [ 80.805781, 7.134434 ] } },
-{ "type": "Feature", "properties": { "No": "35", "GND No.": "484", "Name and location of the spring": "??????? ??????? Ambagahamulla Pihilla", "Location N": 7.13125, "Location E": 80.803298, "Observed problems": "�water impure by tree leaves\n�No cover\n�wastewater ", "Description": "Providing a net to cover the spring to prevent dirt falling into the spring \nProviding barb wire fence with 07 nos of 14G barb wire rows fixed firmly between 7ft high concrete posts erected at 2.0m intervals along the fence\nConstruction of 1.2m high RR masonry wall (with section 0.60x0.60, 0.45x0.60) over 0.75m width x 0.15m thick screed concrete, plastering with 1:3 cement mortar and back filling\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "104,200" }, "geometry": { "type": "Point", "coordinates": [ 80.803298, 7.13125 ] } },
-{ "type": "Feature", "properties": { "No": "36", "GND No.": "484", "Name and location of the spring": "????????? Hunukotuwa", "Location N": 7.128317, "Location E": 80.807543, "Observed problems": "water leakage", "Description": "Construction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5m", "Amount (LKR)": "550,000" }, "geometry": { "type": "Point", "coordinates": [ 80.807543, 7.128317 ] } },
-{ "type": "Feature", "properties": { "No": "37", "GND No.": "484", "Name and location of the spring": "??????? ??????? Ambagahamulla Pihilla", "Location N": 7.13125, "Location E": 80.803298, "Observed problems": "�water pollution by tree leaves\n�No cover\n�wastewater ", "Description": "Providing a net to cover the spring to prevent dirt falling into the spring \nProviding barb wire fence with 07 nos of 14G barb wire rows fixed firmly between 7ft high concrete posts erected at 2.0m intervals along the fence\nConstruction of 1.2m high RR masonry wall (with section 0.60x0.60, 0.45x0.60) over 0.75m width x 0.15m thick concrete screed, plastering with 1:3 cement mortar and back filling\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance", "Amount (LKR)": "104,200" }, "geometry": { "type": "Point", "coordinates": [ 80.803298, 7.13125 ] } },
-{ "type": "Feature", "properties": { "No": "38", "GND No.": "484", "Name and location of the spring": "????????? Hunukotuwa", "Location N": 7.128317, "Location E": 80.807543, "Observed problems": "water leakage", "Description": "Construction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5m", "Amount (LKR)": "550,000" }, "geometry": { "type": "Point", "coordinates": [ 80.807543, 7.128317 ] } },
-{ "type": "Feature", "properties": { "No": "Total ", "GND No.": "10,959,700", "Name and location of the spring": null, "Location N": null, "Location E": null, "Observed problems": null, "Description": null, "Amount (LKR)": null }, "geometry": null }
-]
+  "type": "FeatureCollection",
+  "name": "DWS",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 1,
+        "GND No.": "479A",
+        "Scheme": "ParagehellWell",
+        "N": 7.134353,
+        "E": 80.793,
+        "Observation": "reservatioinoallocatedthtanidilapidateancannobused.",
+        "Description": "VegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenanceConstructioocurtaiwal(0.075mthickwit1:2:(3/4\"concrete1/2dowela600m600mintervalanembeddewitchickemesh\nProvidinPVpipespipjointsetctconvewate",
+        "Estimated Cost": "112,900",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/ag3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.793,
+          7.134353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 2,
+        "GND No.": "479A",
+        "Scheme": "EldorPubliWell",
+        "N": 7.133686,
+        "E": 80.78887,
+        "Observation": "Leakageithtank.",
+        "Description": "1/2thic1:cemenmortaplasterintprevenleakageilining\nConstructioocurtaiwal(0.075mthickwit1:2:(3/4\"concrete1/2dowela600m600mintervalanembeddewitchickemesh\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "87,900",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/ag12.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.78887,
+          7.133686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 3,
+        "GND No.": "479B",
+        "Scheme": "KoopiwaththUlpatha",
+        "N": 7.125115,
+        "E": 80.801615,
+        "Observation": "ï¿Thsprinshalbcovere(L3mW-3musinnet\nconcretwalrequiretbconstructe(H-1.8mW-3mL-3mt-0.3m)\nï¿reservatioare(W-4.8mneetballocateAstripeï¿Thtanrequiretbuplifte(H-1.manTanshalbcovere(L-3mW-1.8musincoverinnet",
+        "Description": "Providinnetcovethsprintprevendirfallinintthsprin\nConstructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\nVegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance\n1:3:(1/2\"Cemenconcretehanmixinanplacing",
+        "Estimated Cost": "141,000",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/KA (01)1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.801615,
+          7.125115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 4,
+        "GND No.": "479B",
+        "Scheme": "AlgenWateSpring",
+        "N": 7.123261,
+        "E": 80.793159,
+        "Observation": "NCoveThembankmentneathsprinidilapidated",
+        "Description": "VegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance\nConstructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m",
+        "Estimated Cost": "110,700",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.793159,
+          7.123261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 5,
+        "GND No.": "479B",
+        "Scheme": "SprinneaUrakatipCanal",
+        "N": 7.127423,
+        "E": 80.799115,
+        "Observation": "Thsworwatemixewitthsprinwateansprinstoraginoenough",
+        "Description": "Constructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "49,500",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.799115,
+          7.127423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 6,
+        "GND No.": "479",
+        "Scheme": "PanwattSpring",
+        "N": 7.12848,
+        "E": 80.794036,
+        "Observation": "Sidwallardilapidateothsprin",
+        "Description": "Constructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\nConstructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\n1/2thic1:cemenmortaplasterintprevenleakageilining\nConstructioocurtaiwal(0.075mthickwit1:2:(3/4\"concrete1/2dowela600m600mintervalanembeddewitchickemesh\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nProvidinPVpipespipjointsetctconvewate",
+        "Estimated Cost": "251,000",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/W (01)1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.794036,
+          7.12848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 7,
+        "GND No.": "479",
+        "Scheme": "BomaluwSpring",
+        "N": 7.12829,
+        "E": 80.794964,
+        "Observation": "Leakageithtank.",
+        "Description": "Constructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\nConstructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "169,200",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.794964,
+          7.12829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 8,
+        "GND No.": "481A",
+        "Scheme": "Nayawatt",
+        "N": 7.113453,
+        "E": 80.794083,
+        "Observation": "Nomentionethboundarieforeservation\nNtanks\nLeakageothsprintank",
+        "Description": "Vegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nVegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance\nConstructioocurtaiwal(0.075mthickwit1:2:(3/4\"concrete1/2dowela600m600mintervalanembeddewitchickemesh\nConstructiooConcretwatestoragtano2cusizinterna3mx3mx2.5",
+        "Estimated Cost": "648,700",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/Bk11.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.794083,
+          7.113453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 9,
+        "GND No.": "481A",
+        "Scheme": "GallindChena",
+        "N": 7.111682,
+        "E": 80.795719,
+        "Observation": "Notmentiothboundarieforeservation\nLeakageothsprintank",
+        "Description": "VegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nConstructioo1.2higRmasonrwal(witsectio0.60x0.600.45x0.60ove0.75widt0.15thicconcretscreedplasterinwit1:cemenmortaanbacfilling\nConstructioocurtaiwal(0.075mthickwit1:2:(3/4\"concrete1/2dowela600m600mintervalanembeddewitchickemesh\nProvidinbarwirfencwit0noo14barwirrowfixefirmlbetwee7fhigconcretposterectea2.0intervalalonthfence",
+        "Estimated Cost": "317,900",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.795719,
+          7.111682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 10,
+        "GND No.": "481B",
+        "Scheme": "ThennewattSpring",
+        "N": 7.113556,
+        "E": 80.787585,
+        "Observation": "NTanfostocwater",
+        "Description": "ConstructiooConcretwatestoragtano2cusizinterna3mx3mx2.5\nImplementatiooWateTreatmenPlant\nProvidinPVpipespipjointsetctconvewate",
+        "Estimated Cost": "565,000",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/Dg13.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.787585,
+          7.113556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 11,
+        "GND No.": "481B",
+        "Scheme": "BallaEllSpring",
+        "N": 7.113426,
+        "E": 80.790107,
+        "Observation": "NReservatioanthtank",
+        "Description": "Vegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nConstructiooConcretwatestoragtano2cusizinterna3mx3mx2.5",
+        "Estimated Cost": "557,000",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/Dg16.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.790107,
+          7.113426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 13,
+        "GND No.": "481C",
+        "Scheme": "ThSprinsurroundebhouse(N29284446",
+        "N": 7.119464,
+        "E": 80.783322,
+        "Observation": "Nallocatiooreservanthntanfothstocwater",
+        "Description": "Providinbarwirfencwit0noo14barwirrowfixefirmlbetwee7fhigconcretposterectea2.0intervalalonthfence\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nBoulde/Rubbldam(SABOacrosstreamttrasediment-Siz3(Lx2(Wx1(H\nsupplyinfixin9diaCasirogateHoiscomplet",
+        "Estimated Cost": "1,023,000",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/RJ1 (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.783322,
+          7.119464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 14,
+        "GND No.": "481C",
+        "Scheme": "WelapahalSpring",
+        "N": 7.118538,
+        "E": 80.786487,
+        "Observation": "Noallocatiooreserve",
+        "Description": "Vegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "23,500",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.786487,
+          7.118538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 15,
+        "GND No.": "481",
+        "Scheme": "WetakolMadiththa",
+        "N": 7.120667,
+        "E": 80.788384,
+        "Observation": "wateleakagefrosidwallancannostocthwater",
+        "Description": "1:3:(1/2\"Cemenconcretehanmixinanplacing\nConstructioo1.2higRmasonrwal(witsectio0.60x0.600.45x0.60ove0.75widt0.15thicconcretscreedplasterinwit1:cemenmortaanbacfilling\nProvidinbarwirfencwit0noo14barwirrowfixefirmlbetwee7fhigconcretposterectea2.0intervalalonthfence\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "507,300",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/Dp5.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.788384,
+          7.120667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 16,
+        "GND No.": "481",
+        "Scheme": "KatuwaPitiySpring",
+        "N": 7.121899,
+        "E": 80.793958,
+        "Observation": "Noallocatiooreserve",
+        "Description": "VegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance",
+        "Estimated Cost": "26,700",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.793958,
+          7.121899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 17,
+        "GND No.": "481D",
+        "Scheme": "HunnaArawWateSpring",
+        "N": 7.118852,
+        "E": 80.795831,
+        "Observation": "wateoswordmixetthspring",
+        "Description": "Constructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\nWateQualitTestneetbconducted\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "189,700",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/W (02)5.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.795831,
+          7.118852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 18,
+        "GND No.": "481D",
+        "Scheme": "WadawalGederSpring",
+        "N": 7.1159,
+        "E": 80.800895,
+        "Observation": "wateoswordmixetthspring",
+        "Description": "Constructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\nWateQualitTestneetbconducted\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "189,700",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/W (02)4.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.800895,
+          7.1159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 19,
+        "GND No.": "481D",
+        "Scheme": "ThSprinneaKumaradasa'House",
+        "N": 7.115268,
+        "E": 80.799054,
+        "Observation": "NTank",
+        "Description": "Constructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\nVegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "216,300",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/W (01)4.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.799054,
+          7.115268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 20,
+        "GND No.": "481D",
+        "Scheme": "ThsprinstortanneaKumaradasa'house",
+        "N": 7.11533,
+        "E": 80.799024,
+        "Observation": "Tanidilapidated",
+        "Description": "Tanneedtbcleane\nRehabilitatioosurroundin\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "28,500",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/W (01)1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.799024,
+          7.11533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 21,
+        "GND No.": "481D",
+        "Scheme": "HapugahamullSpring",
+        "N": 7.113992,
+        "E": 80.799666,
+        "Observation": "Tanidilapidateanmixewitlanwater",
+        "Description": "Constructioocurtaiwal(0.075mthickwit1:2:(3/4\"concrete1/2dowela600m600mintervalanembeddewitchickemesh\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nProvidinnetcovethsprintprevendirfallinintthsprin",
+        "Estimated Cost": "43,700",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.799666,
+          7.113992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 24,
+        "GND No.": "482",
+        "Scheme": "MahapitiyTanSpringcollection",
+        "N": 7.141116,
+        "E": 80.787393,
+        "Observation": "noallocatioreservfothspringanwatedefilemenbsludge",
+        "Description": "Vegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nVegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance\nWateQualitTestneetbconducted\nConstructiooConcretwatestoragtano2cusizinterna3mx3mx2.5",
+        "Estimated Cost": "765,800",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/dk5.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.787393,
+          7.141116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 25,
+        "GND No.": "482A",
+        "Scheme": "IlangamuwWateSpring",
+        "N": 7.129874,
+        "E": 80.780365,
+        "Observation": "Nboundariefothreservatioanlandslidothbanothkandura",
+        "Description": "Vegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nProvidinbarwirfencwit0noo14barwirrowfixefirmlbetwee7fhigconcretposterectea2.0intervalalonthfence\nConstructioo1:3:(1/2\"cconcretretaininwal(heigh1.2mtowidt0.15m0.60higstep02eaco0.15stewidtbottowidt0.45m\nConservatiooancienplace",
+        "Estimated Cost": "1,470,500",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/Um5.4.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.780365,
+          7.129874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 26,
+        "GND No.": "482B",
+        "Scheme": "DenikSpring",
+        "N": 7.136327,
+        "E": 80.783238,
+        "Observation": "Nboundariefothreservatioanaccumulatioolanwatetthtank",
+        "Description": "Providinbarwirfencwit0noo14barwirrowfixefirmlbetwee7fhigconcretposterectea2.0intervalalonthfence\nVegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nConstructioo1.2higRmasonrwal(witsectio0.60x0.600.45x0.60ove0.75widt0.15thicscreeconcreteplasterinwit1:cemenmortaanbacfilling",
+        "Estimated Cost": "451,800",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/Wg6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.783238,
+          7.136327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 27,
+        "GND No.": "482B",
+        "Scheme": "UdubittarPelSpring",
+        "N": 7.134595,
+        "E": 80.784661,
+        "Observation": "noconservation",
+        "Description": "Constructioocurtaiwal(0.075mthickwit1:2:(3/4\"concrete1/2dowela600m600mintervalanembeddewitchickemesh\nVegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "67,600",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.784661,
+          7.134595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 28,
+        "GND No.": "482B",
+        "Scheme": "UraketuwWell",
+        "N": 7.131839,
+        "E": 80.786514,
+        "Observation": "Noallocatiooreservanleakagothtank",
+        "Description": "Vegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nConstructioocurtaiwal(0.075mthickwit1:2:(3/4\"concrete1/2dowela600m600mintervalanembeddewitchickemesh",
+        "Estimated Cost": "76,100",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/Wg14.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.786514,
+          7.131839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 29,
+        "GND No.": "482B",
+        "Scheme": "UrundeniyWell",
+        "N": 7.133895,
+        "E": 80.782042,
+        "Observation": "Sworwatemiwitwelwater",
+        "Description": "Constructioo1:3:(1/2\"cconcretretaininwal(heigh1.8mtowidt0.15m0.60higstep03eaco0.15stewidtbottowidt0.60m\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "137,700",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.782042,
+          7.133895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 30,
+        "GND No.": "482/C",
+        "Scheme": "UdawelPathanKelSpring",
+        "N": 7.141574,
+        "E": 80.781804,
+        "Observation": "sludgimixewitthwelwatea",
+        "Description": "ConstructiooConcretwatestoragtano2cusizinterna3mx3mx2.5",
+        "Estimated Cost": "550,000",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/UP (04)2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.781804,
+          7.141574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 31,
+        "GND No.": "482/C",
+        "Scheme": "thweliUdawelPathanReservation",
+        "N": 7.141519,
+        "E": 80.781947,
+        "Observation": "Leakagowatedutdilapidateconstructionantherinembankmenothsidsoiwasheintthwell",
+        "Description": "ConstructiooConcretwatestoragtano2cusizinterna3mx3mx2.5\nfaucet\nConstructioo1:3:(1/2\"cconcretretaininwal(heigh1.2mtowidt0.15m0.60higstep02eaco0.15stewidtbottowidt0.45m",
+        "Estimated Cost": "636,000",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.781947,
+          7.141519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 32,
+        "GND No.": "484C",
+        "Scheme": "PallPihillSpring",
+        "N": 7.137278,
+        "E": 80.796612,
+        "Observation": "Noallocatiooreserve",
+        "Description": "Vegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance\nProvidinbarwirfencwit0noo14barwirrowfixefirmlbetwee7fhigconcretposterectea2.0intervalalonthfence",
+        "Estimated Cost": "68,800",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/ym6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.796612,
+          7.137278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 33,
+        "GND No.": "484A",
+        "Scheme": "ElandawMinostreaSpring",
+        "N": 7.13803,
+        "E": 80.804117,
+        "Observation": "watequalitnocheckedanshowefaucebroken",
+        "Description": "WateQualitTest\nFauceneedtbinstalle",
+        "Estimated Cost": "15,000",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/Bm4.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.804117,
+          7.13803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 34,
+        "GND No.": "484A",
+        "Scheme": "NikathennWatershed",
+        "N": 7.134434,
+        "E": 80.805781,
+        "Observation": "Noallocatiooreserve",
+        "Description": "VegetativcoveimprovinwitArecnuseedlin1.5spacinisinglrowKumbukMeeGodaparaKaduruAththikkaWaDelKekunarandomlmixeseedlingandensplantina500mgriintervalapplyinocomposmanureNPfertilizermulchinwitstrawbanantreskianmaintenance",
+        "Estimated Cost": "53,400",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/Bm8.1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.805781,
+          7.134434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 35,
+        "GND No.": "484",
+        "Scheme": "AmbagahamullPihilla",
+        "N": 7.13125,
+        "E": 80.803298,
+        "Observation": "wateimpurbtreleaves\nNcover\nwastewate",
+        "Description": "Providinnetcovethsprintprevendirfallinintthsprin\nProvidinbarwirfencwit0noo14barwirrowfixefirmlbetwee7fhigconcretposterectea2.0intervalalonthfence\nConstructioo1.2higRmasonrwal(witsectio0.60x0.600.45x0.60ove0.75widt0.15thicscreeconcreteplasterinwit1:cemenmortaanbacfilling\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowGreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "104,200",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/pw13.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.803298,
+          7.13125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 36,
+        "GND No.": "484",
+        "Scheme": "Hunukotuwa",
+        "N": 7.128317,
+        "E": 80.807543,
+        "Observation": "wateleakage",
+        "Description": "ConstructiooConcretwatestoragtano2cusizinterna3mx3mx2.5m",
+        "Estimated Cost": "550,000",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/pw14.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.807543,
+          7.128317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 37,
+        "GND No.": "484",
+        "Scheme": "AmbagahamullPihilla",
+        "N": 7.13125,
+        "E": 80.803298,
+        "Observation": "watepollutiobtreleaves\nNcover\nwastewate",
+        "Description": "Providinnetcovethsprintprevendirfallinintthsprin\nProvidinbarwirfencwit0noo14barwirrowfixefirmlbetwee7fhigconcretposterectea2.0intervalalonthfence\nConstructioo1.2higRmasonrwal(witsectio0.60x0.600.45x0.60ove0.75widt0.15thicconcretscreedplasterinwit1:cemenmortaanbacfilling\nVegetativcoveimprovin(1.5m-2.0widewitArecnuseedling1.5spacinitwrowsBeetlcreepeV3spacinisinglrowgreegraacovecroincludinapplyinocomposmanureNPfertilizeanmaintenance",
+        "Estimated Cost": "104,200",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/pw13.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.803298,
+          7.13125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": 38,
+        "GND No.": "484",
+        "Scheme": "Hunukotuwa",
+        "N": 7.128317,
+        "E": 80.807543,
+        "Observation": "wateleakage",
+        "Description": "ConstructiooConcretwatestoragtano2cusizinterna3mx3mx2.5m",
+        "Estimated Cost": "550,000",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_019/pw28.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.807543,
+          7.128317
+        ]
+      }
+    }
+  ]
 }

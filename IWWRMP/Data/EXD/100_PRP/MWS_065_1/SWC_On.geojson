@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWC_On",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "GN_Divisio": "67C", "GN_Divis_1": "Ambegoda", "Key_Activi": "1. Soil conservation practices -  Developing the Nayawatta land (35°-60°)", "Priority_b": 1, "N": 6.841579, "E": 80.973207, "Quantity": "4 ha", "Proposed_m": "1. Live fencing/SALT  - 2500 m, 2. Lock and spills - 1000 m, 3. Stone terracing - 500 m, 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreak", "Uniti_Cost": "250.00 m-1, 400.00 m-1, 2500.00 m-1", "Total_Cost": 2275000, "Contributi": "Labour and other basic services by the Local community", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_1/Cultivated lands (8).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.973207, 6.841579 ] } }
+]
+}

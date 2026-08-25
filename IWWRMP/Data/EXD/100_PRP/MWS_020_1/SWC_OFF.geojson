@@ -1,0 +1,737 @@
+{
+  "type": "FeatureCollection",
+  "name": "SWC_OFF",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 1,
+        "GND No.": "484 E",
+        "GND Name": "Bodhiwela",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Meti walagawa torrent",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.132048,
+        "E": 80.806066,
+        "Quantity": "2 Km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/bw10.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.806066,
+          7.132048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 2,
+        "GND No.": "484 E",
+        "GND Name": "Bodhiwela",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Ulpatha Asala",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.140879,
+        "E": 80.82092,
+        "Quantity": "100 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "10,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/bw10.2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.82092,
+          7.140879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 3,
+        "GND No.": "484 E",
+        "GND Name": "Bodhiwela",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Kumbukwela torrent",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.128334,
+        "E": 80.815108,
+        "Quantity": "2.3 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "230,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/bw12.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.815108,
+          7.128334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 4,
+        "GND No.": "484 E",
+        "GND Name": "Bodhiwela",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Lolugaha torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.130988,
+        "E": 80.818202,
+        "Quantity": "1.3 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "130,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/bw14.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.818202,
+          7.130988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 5,
+        "GND No.": "484 E",
+        "GND Name": "Bodhiwela",
+        "Key Activities proposed for Soil and Water conservation": "5. Renovation of natural drains - Alakolamadiththa torrent",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.130104,
+        "E": 80.816644,
+        "Quantity": "1.2 Km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "120,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/bw16.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.816644,
+          7.130104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 15,
+        "GND No.": "491 D",
+        "GND Name": "Happawara",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Dead torrent/Mala Kandura right side of the Happawara wewa",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.16431,
+        "E": 80.83316,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/IG (02)6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.83316,
+          7.16431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 16,
+        "GND No.": "491 D",
+        "GND Name": "Happawara",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Beliul oya",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.1715549,
+        "E": 80.84244,
+        "Quantity": "1 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks and other conservation practices",
+        "Total_Cost": "100,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/IG (01)2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.84244,
+          7.1715549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 17,
+        "GND No.": "491 D",
+        "GND Name": "Happawara",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Galaseeya torrent 1",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.1717079,
+        "E": 80.834428,
+        "Quantity": "1.5 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "150,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/IG (02)6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.834428,
+          7.1717079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 18,
+        "GND No.": "491 D",
+        "GND Name": "Happawara",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Galaseeya by torrent",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.171648,
+        "E": 80.835481,
+        "Quantity": "1.3 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "130,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/IG (04)4.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.835481,
+          7.171648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 19,
+        "GND No.": "491 D",
+        "GND Name": "Happawara",
+        "Key Activities proposed for Soil and Water conservation": "5. Renovation of natural drains - Galaseeya torrent 2",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.173262,
+        "E": 80.837025,
+        "Quantity": "1.5km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "150,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.837025,
+          7.173262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 20,
+        "GND No.": "491 D",
+        "GND Name": "Happawara",
+        "Key Activities proposed for Soil and Water conservation": "6. Renovation of natural drains - Galaseeya torrent 3",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.1717,
+        "E": 80.835387,
+        "Quantity": "100m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "10,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.25 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.835387,
+          7.1717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 25,
+        "GND No.": "491",
+        "GND Name": "Illagolla",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Bambaragalla torrent",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.154755,
+        "E": 80.82071,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/HW (04)3.1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.82071,
+          7.154755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 26,
+        "GND No.": "491",
+        "GND Name": "Illagolla",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Takan torrent",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.157827,
+        "E": 80.831429,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/HW (04)3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.831429,
+          7.157827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 27,
+        "GND No.": "491",
+        "GND Name": "Illagolla",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Madawala kumbura torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.154043,
+        "E": 80.836739,
+        "Quantity": "3 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "300,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/HW (02)6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.836739,
+          7.154043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 28,
+        "GND No.": "491",
+        "GND Name": "Illagolla",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Illagolla torrent 1",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.150919,
+        "E": 80.826706,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/HW (02)1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.826706,
+          7.150919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 29,
+        "GND No.": "491",
+        "GND Name": "Illagolla",
+        "Key Activities proposed for Soil and Water conservation": "5. Renovation of natural drains - Illagolla torrent 2",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.150142,
+        "E": 80.829649,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/HW (02)6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.829649,
+          7.150142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 30,
+        "GND No.": "491",
+        "GND Name": "Illagolla",
+        "Key Activities proposed for Soil and Water conservation": "6. Renovation of natural drains - Illagolla torrent 1",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.149607,
+        "E": 80.829103,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/HW (02)4.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.829103,
+          7.149607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 36,
+        "GND No.": "491 A",
+        "GND Name": "Moragolla",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Papaana torrent",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.148271,
+        "E": 80.815546,
+        "Quantity": "1.5 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "150,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/MG (05)1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.815546,
+          7.148271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 37,
+        "GND No.": "491 A",
+        "GND Name": "Moragolla",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Una padura yaye torrent",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.148829,
+        "E": 80.817593,
+        "Quantity": "500 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "50,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/MG (05)5.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.817593,
+          7.148829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 38,
+        "GND No.": "491 A",
+        "GND Name": "Moragolla",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Napale kumbura torrent",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.144727,
+        "E": 80.818058,
+        "Quantity": "800 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "80,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/MG (04)6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.818058,
+          7.144727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 39,
+        "GND No.": "491 A",
+        "GND Name": "Moragolla",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Moragolla torrent 1",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.144969,
+        "E": 80.813183,
+        "Quantity": "400 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "40,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/MG (05)5.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.813183,
+          7.144969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 40,
+        "GND No.": "491 A",
+        "GND Name": "Moragolla",
+        "Key Activities proposed for Soil and Water conservation": "5. Renovation of natural drains - Moragolla torrent 2",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.14393,
+        "E": 80.81325,
+        "Quantity": "400 m",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "40,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81325,
+          7.14393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 49,
+        "GND No.": "491 C",
+        "GND Name": "Rammalakandura",
+        "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Muukalana torrent",
+        "Priority based on Soil Erosion Hazard": 3,
+        "N": 7.14571,
+        "E": 80.8241,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/RK (02)1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8241,
+          7.14571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 50,
+        "GND No.": "491 C",
+        "GND Name": "Rammalakandura",
+        "Key Activities proposed for Soil and Water conservation": "2. Renovation of natural drains - Torrent near punchiudulla temple",
+        "Priority based on Soil Erosion Hazard": 1,
+        "N": 7.14514,
+        "E": 80.82366,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/RK (14)2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.82366,
+          7.14514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 51,
+        "GND No.": "491 C",
+        "GND Name": "Rammalakandura",
+        "Key Activities proposed for Soil and Water conservation": "3. Renovation of natural drains - Ranmala torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.142595,
+        "E": 80.82583,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/RK (04)5.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.82583,
+          7.142595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 52,
+        "GND No.": "491 C",
+        "GND Name": "Rammalakandura",
+        "Key Activities proposed for Soil and Water conservation": "4. Renovation of natural drains - Pussala gawa torrent",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.14244,
+        "E": 80.82212,
+        "Quantity": "2.5 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "250,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/RK (04)2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.82212,
+          7.14244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 53,
+        "GND No.": "491 C",
+        "GND Name": "Rammalakandura",
+        "Key Activities proposed for Soil and Water conservation": "5. Renovation of natural drains - Thambayawatta torrent",
+        "Priority based on Soil Erosion Hazard": 5,
+        "N": 7.146884,
+        "E": 80.82745,
+        "Quantity": "6 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "600,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/RK (04)3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.82745,
+          7.146884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 54,
+        "GND No.": "491 C",
+        "GND Name": "Rammalakandura",
+        "Key Activities proposed for Soil and Water conservation": "6. Renovation of natural drains - Lamasuuriya canal",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.139107,
+        "E": 80.831948,
+        "Quantity": "2 km",
+        "Proposed measure/s": "Clearing and planting some trees along the banks (Areca nut) and other conservation practices",
+        "Total_Cost": "200,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_020_1/RK (14)2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.831948,
+          7.139107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 59,
+        "GND No.": "491 C",
+        "GND Name": "Rammalakandura",
+        "Key Activities proposed for Soil and Water conservation": "Establishing a side/retaining wall - Bogaha ella",
+        "Priority based on Soil Erosion Hazard": 4,
+        "N": 7.142862,
+        "E": 80.826672,
+        "Quantity": "35 m x 8 m x 0.5 m",
+        "Proposed measure/s": "Retaining wall",
+        "Total_Cost": "280,000",
+        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+        "Time frame for the implementation": "0.5 Years",
+        "photopath": "Not_Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.826672,
+          7.142862
+        ]
+      }
+    }
+  ]
+}
