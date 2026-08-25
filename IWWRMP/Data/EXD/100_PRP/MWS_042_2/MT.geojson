@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name_of_Tank": "Katumana Wewa", "Custodians": "DAD", "N": 6.941824, "E": 80.79893, "Remarks": "Desilting. Marking reservations. Repairs to sluice and spill. Immediate reservation is available for tree planting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_042_2/IMG_20260114_105334 Katumanna lake.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.79893, 6.941824 ] } },
+{ "type": "Feature", "properties": { "Name_of_Tank": "Meepilimana Wewa", "Custodians": "DAD", "N": 6.926566, "E": 80.786818, "Remarks": "Marking reservations. Desilting. Repairs to sluice and spill. Immediate reservation is available for tree planting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_042_2/IMG_20260130_101448 Lake near the Mr. Jayantha's house at Meepilimana.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.786818, 6.926566 ] } }
+]
+}

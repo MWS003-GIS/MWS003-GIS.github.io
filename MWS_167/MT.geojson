@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "MT",
+  "features": [
+    {"type":"Feature","properties":{"Name_of_Custodian":"h","N":6.99,"E":80.66,"Remarks":"test","photopath":""},"geometry":{"type":"Point","coordinates":[80.66,6.99]}}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "name": "MT",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name_of_Tank": "Kuradeniya wewa",
+        "Custodians": "DAD",
+        "N": 7.204908,
+        "E": 80.54809,
+        "Remarks": "Replacing the sluice gate and desilting the tank.",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_1/dewala lake (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.54809,
+          7.204908
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "name": "MT",
+  "features": [
+    {"type":"Feature","properties":{"Name_of_Custodian":"cfggvvbnn","N":145236636,"E":44112566333,"Remarks":"khjkhlgm,,nl.;nb,.,n","photopath":"no"},"geometry":{"type":"Point","coordinates":[44112566333,145236636]}}
+  ]
+}

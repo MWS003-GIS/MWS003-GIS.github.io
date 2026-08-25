@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "name": "MT",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name_of_Tank": "Walawwatta Pathaha",
+        "Custodians": "DAD",
+        "N": 7.224135,
+        "E": 80.589678,
+        "Remarks": "Developing Pathaha by tree planting and desilting",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/Walawwatta Pathaha.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.589678,
+          7.224135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name_of_Tank": "Paragedi Anga Wewa",
+        "Custodians": "DAD",
+        "N": 7.193787,
+        "E": 80.592771,
+        "Remarks": "Replacing the sluice gate and developing the canals.",
+        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_121/Paragedi Anga Wewa.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.592771,
+          7.193787
+        ]
+      }
+    }
+  ]
+}
