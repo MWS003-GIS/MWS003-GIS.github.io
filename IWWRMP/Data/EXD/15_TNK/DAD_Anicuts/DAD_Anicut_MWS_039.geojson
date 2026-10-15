@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_039",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "KANKETARAWA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.129058, "Lng": 80.902147, "DSD": "HANGURANKETHA", "District": "NUWARA ELIYA", "NoOfBenef": 41, "CmdArea": 16, "MainDSD": "Nildandahinna", "MWS_ID": "039" }, "geometry": { "type": "Point", "coordinates": [ 80.902147, 7.129058 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "medavala Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.132178, "Lng": 80.902789, "DSD": "HANGURANKETHA", "District": "NUWARA ELIYA", "NoOfBenef": 20, "CmdArea": 12, "MainDSD": "Nildandahinna", "MWS_ID": "039" }, "geometry": { "type": "Point", "coordinates": [ 80.902789, 7.132178 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "ilukkumbura Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.158363, "Lng": 80.900338, "DSD": "HANGURANKETHA", "District": "NUWARA ELIYA", "NoOfBenef": 10, "CmdArea": 15, "MainDSD": "Nildandahinna", "MWS_ID": "039" }, "geometry": { "type": "Point", "coordinates": [ 80.900338, 7.158363 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kalugala Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.157438, "Lng": 80.895257, "DSD": "HANGURANKETHA", "District": "NUWARA ELIYA", "NoOfBenef": 151, "CmdArea": 0, "MainDSD": "Nildandahinna", "MWS_ID": "039" }, "geometry": { "type": "Point", "coordinates": [ 80.895257, 7.157438 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "pahalatumpe Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.112623, "Lng": 80.907595, "DSD": "HANGURANKETHA", "District": "NUWARA ELIYA", "NoOfBenef": 58, "CmdArea": 0, "MainDSD": "Nildandahinna", "MWS_ID": "039" }, "geometry": { "type": "Point", "coordinates": [ 80.907595, 7.112623 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "GALAHITIYAWA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.121667, "Lng": 80.9025, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 0, "CmdArea": 0, "MainDSD": "Nildandahinna", "MWS_ID": "039" }, "geometry": { "type": "Point", "coordinates": [ 80.9025, 7.121667 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "KOSGAHAMULLA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.115833, "Lng": 80.904722, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 24, "CmdArea": 5, "MainDSD": "Nildandahinna", "MWS_ID": "039" }, "geometry": { "type": "Point", "coordinates": [ 80.904722, 7.115833 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_088",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 39, "JOIN_FID": 15, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Itthe Gommana Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 505474.6, "Y_Coord": 532088.3, "Lat": 7.050222, "Lng": 81.064196, "DSD": "Udadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 8, "CmdArea": 0.0, "MainDSD": "Medadumbara", "MWS_ID": "088" }, "geometry": { "type": "Point", "coordinates": [ 80.823315882134551, 7.290978980961865 ] } }
+]
+}

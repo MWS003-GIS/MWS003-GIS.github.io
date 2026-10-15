@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_071_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "valaminiyakumbura", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.028863, "Lng": 81.005696, "DSD": "Soranathota", "District": "Badulla", "NoOfBenef": 18, "CmdArea": 12, "MainDSD": "Soranathota", "MWS_ID": "071-2" }, "geometry": { "type": "Point", "coordinates": [ 81.005696, 7.028863 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "vattevayati Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.027405, "Lng": 81.010066, "DSD": "Soranathota", "District": "Badulla", "NoOfBenef": 37, "CmdArea": 15, "MainDSD": "Soranathota", "MWS_ID": "071-2" }, "geometry": { "type": "Point", "coordinates": [ 81.010066, 7.027405 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Idam ela", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.015757, "Lng": 81.014431, "DSD": "Soranathota", "District": "Badulla", "NoOfBenef": 96, "CmdArea": 1, "MainDSD": "Soranathota", "MWS_ID": "071-2" }, "geometry": { "type": "Point", "coordinates": [ 81.014431, 7.015757 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Dimbulgahakumbura ela Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.021579, "Lng": 81.015891, "DSD": "Soranathota", "District": "Badulla", "NoOfBenef": 72, "CmdArea": 14, "MainDSD": "Soranathota", "MWS_ID": "071-2" }, "geometry": { "type": "Point", "coordinates": [ 81.015891, 7.021579 ] } }
+]
+}

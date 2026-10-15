@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_048",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 3, "JOIN_FID": 89, "Map_id": 4839, "Tank_name": "Alakola Wewa", "District": "Badulla", "ASC_": "Babarapana", "GND": "Bambarapana", "GND_NO": "39", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.94401107, "Y_coordina": 6.97697714, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Uvaparanagama", "MWS_ID": "048" }, "geometry": { "type": "Point", "coordinates": [ 80.944011070000045, 6.976977140000031 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 4, "JOIN_FID": 89, "Map_id": 4840, "Tank_name": "Maha Wewa", "District": "Badulla", "ASC_": "Babarapana", "GND": "Bambarapana", "GND_NO": "39", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.94353333, "Y_coordina": 6.97894494, "Remark": null, "Remark2": null, "MainDSD": "Uvaparanagama", "MWS_ID": "048" }, "geometry": { "type": "Point", "coordinates": [ 80.943533330000037, 6.978944940000076 ] } }
+]
+}

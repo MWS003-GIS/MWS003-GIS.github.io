@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_076",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 112, "JOIN_FID": 8, "Map_id": 7201, "Tank_name": "Thunayakotuwa Wewa", "District": "Kandy", "ASC_": "Kaluntenna", "GND": "Godakumbura", "GND_NO": "854", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.90216236000001, "Y_coordina": 7.30432652, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Ududumbara", "MWS_ID": "076" }, "geometry": { "type": "Point", "coordinates": [ 80.902162360000034, 7.304326520000075 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 114, "JOIN_FID": 8, "Map_id": 7203, "Tank_name": "Dunukeulpatha Wewa", "District": "Kandy", "ASC_": "Kaluntenna", "GND": "Hapukanda West", "GND_NO": "864", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned", "X_coordina": 80.90318335000001, "Y_coordina": 7.28446366, "Remark": "Cannot see on Google", "Remark2": "Not in database", "MainDSD": "Ududumbara", "MWS_ID": "076" }, "geometry": { "type": "Point", "coordinates": [ 80.903183350000063, 7.284463660000029 ] } }
+]
+}

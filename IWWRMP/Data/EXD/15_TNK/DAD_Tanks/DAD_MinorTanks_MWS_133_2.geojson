@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "name": "DAD_MinorTanks_MWS_133_2",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 112,
+        "JOIN_FID": 180,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Hardfield Wewa",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 475904.6,
+        "Y_Coord": 519285.4,
+        "Lat": 6.782874,
+        "Lng": 80.94821,
+        "DSD": "Udapalatha",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 1,
+        "CmdArea": 0.0,
+        "MainDSD": "Udapalatha",
+        "MWS_ID": "133-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55556559055547,
+          7.17515065525003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 121,
+        "JOIN_FID": 180,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Edavava Wewa",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 477008.1,
+        "Y_Coord": 517349.8,
+        "Lat": 6.792858,
+        "Lng": 80.930702,
+        "DSD": "Doluwa",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 16,
+        "CmdArea": 0.0,
+        "MainDSD": "Udapalatha",
+        "MWS_ID": "133-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5655651076604,
+          7.157651628609047
+        ]
+      }
+    }
+  ]
+}

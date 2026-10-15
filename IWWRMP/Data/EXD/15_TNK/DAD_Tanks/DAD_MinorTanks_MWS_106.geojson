@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_106",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 144, "JOIN_FID": 39, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Uduwela Gedara Kumbure Pathaha", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 485879.2, "Y_Coord": 536697.5, "Lat": 6.872993, "Lng": 81.105794, "DSD": "PATHADUMBARA", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 210, "CmdArea": 756.0, "MainDSD": "Pathadumbara", "MWS_ID": "106" }, "geometry": { "type": "Point", "coordinates": [ 80.645833914655483, 7.332643695582835 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 145, "JOIN_FID": 39, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Paragahamula Pathaha", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 486094.1, "Y_Coord": 537588.2, "Lat": 6.874931, "Lng": 81.113855, "DSD": "PATHADUMBARA", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 85, "CmdArea": 1.0, "MainDSD": "Pathadumbara", "MWS_ID": "106" }, "geometry": { "type": "Point", "coordinates": [ 80.647778066825055, 7.340698872091592 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 146, "JOIN_FID": 39, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Inige Kumburu Yaye Pathaha", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 484408.2, "Y_Coord": 539615.9, "Lat": 6.859672, "Lng": 81.132192, "DSD": "PATHADUMBARA", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 85, "CmdArea": 2.0, "MainDSD": "Pathadumbara", "MWS_ID": "106" }, "geometry": { "type": "Point", "coordinates": [ 80.632501801847411, 7.359030745971457 ] } }
+]
+}

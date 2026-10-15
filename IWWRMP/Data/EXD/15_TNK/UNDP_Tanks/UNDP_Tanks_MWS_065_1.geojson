@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_065_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 8, "JOIN_FID": 128, "Map_id": 4848, "Tank_name": "Dambagahahira Wewa", "District": "Badulla", "ASC_": "Bandarawela", "GND": "Ambegoda", "GND_NO": "67C", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "Forest/ Wildlife", "Tank_funct": "Abandoned", "X_coordina": 80.95865381, "Y_coordina": 6.83843614, "Remark": "Forest tank", "Remark2": "Not in database", "MainDSD": "Bandarawela", "MWS_ID": "065-1" }, "geometry": { "type": "Point", "coordinates": [ 80.958653810000044, 6.838436140000056 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 9, "JOIN_FID": 128, "Map_id": 4849, "Tank_name": "Malaputukapolla Wewa", "District": "Badulla", "ASC_": "Bandarawela", "GND": "Ambegoda", "GND_NO": "67C", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "Forest/ Wildlife", "Tank_funct": "Abandoned", "X_coordina": 80.95992344, "Y_coordina": 6.84775556, "Remark": "Forest tank", "Remark2": null, "MainDSD": "Bandarawela", "MWS_ID": "065-1" }, "geometry": { "type": "Point", "coordinates": [ 80.959923440000068, 6.847755560000053 ] } }
+]
+}

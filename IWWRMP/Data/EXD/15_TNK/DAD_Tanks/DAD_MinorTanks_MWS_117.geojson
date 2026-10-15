@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_117",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 21, "JOIN_FID": 40, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Wagolla Pathaha", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 485755.7, "Y_Coord": 533595.2, "Lat": 6.871894, "Lng": 81.077723, "DSD": "Gangawata Korale", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 85, "CmdArea": 0.0, "MainDSD": "Gangawata Korale", "MWS_ID": "117" }, "geometry": { "type": "Point", "coordinates": [ 80.644723533030131, 7.304589197003653 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 22, "JOIN_FID": 40, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Niththawela Pathaha", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 484498.9, "Y_Coord": 535469.2, "Lat": 6.860518, "Lng": 81.094672, "DSD": "Gangawata Korale", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 6, "CmdArea": 0.0, "MainDSD": "Gangawata Korale", "MWS_ID": "117" }, "geometry": { "type": "Point", "coordinates": [ 80.633335346278642, 7.32153235611736 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 24, "JOIN_FID": 40, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Gallidawaththa Pathaha", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 485694.4, "Y_Coord": 533748.8, "Lat": 6.871339, "Lng": 81.079112, "DSD": "Gangawata Korale", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 110, "CmdArea": 0.0, "MainDSD": "Gangawata Korale", "MWS_ID": "117" }, "geometry": { "type": "Point", "coordinates": [ 80.644167932808614, 7.30597804396134 ] } }
+]
+}

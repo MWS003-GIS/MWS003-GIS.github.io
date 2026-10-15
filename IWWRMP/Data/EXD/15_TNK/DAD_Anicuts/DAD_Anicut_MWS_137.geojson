@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_137",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Dobagahayata Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.040833, "Lng": 80.538889, "DSD": "Pasbage Korale", "District": "Kandy", "NoOfBenef": 12, "CmdArea": 0, "MainDSD": "Pasbagekorale", "MWS_ID": "137" }, "geometry": { "type": "Point", "coordinates": [ 80.538889, 7.040833 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Karandeniya Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.045833, "Lng": 80.534444, "DSD": "Pasbage Korale", "District": "Kandy", "NoOfBenef": 16, "CmdArea": 0, "MainDSD": "Pasbagekorale", "MWS_ID": "137" }, "geometry": { "type": "Point", "coordinates": [ 80.534444, 7.045833 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Bawwagama Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.044722, "Lng": 80.5325, "DSD": "Pasbage Korale", "District": "Kandy", "NoOfBenef": 10, "CmdArea": 0, "MainDSD": "Pasbagekorale", "MWS_ID": "137" }, "geometry": { "type": "Point", "coordinates": [ 80.5325, 7.044722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Godaduna Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.060833, "Lng": 80.54, "DSD": "Pasbage Korale", "District": "Kandy", "NoOfBenef": 0, "CmdArea": 0, "MainDSD": "Pasbagekorale", "MWS_ID": "137" }, "geometry": { "type": "Point", "coordinates": [ 80.54, 7.060833 ] } }
+]
+}

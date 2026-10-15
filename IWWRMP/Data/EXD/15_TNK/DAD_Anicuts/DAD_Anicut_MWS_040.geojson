@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_040",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "iddekumbura Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.154814, "Lng": 80.932372, "DSD": "HANGURANKETHA", "District": "NUWARA ELIYA", "NoOfBenef": 150, "CmdArea": 0, "MainDSD": "Nildandahinna", "MWS_ID": "040" }, "geometry": { "type": "Point", "coordinates": [ 80.932372, 7.154814 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "moragahamaditta Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.168472, "Lng": 80.941605, "DSD": "HANGURANKETHA", "District": "NUWARA ELIYA", "NoOfBenef": 138, "CmdArea": 0, "MainDSD": "Nildandahinna", "MWS_ID": "040" }, "geometry": { "type": "Point", "coordinates": [ 80.941605, 7.168472 ] } }
+]
+}

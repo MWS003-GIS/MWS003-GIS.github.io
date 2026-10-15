@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_003",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 130, "JOIN_FID": 48, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Viharawatta Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 486337.0, "Y_Coord": 528649.8, "Lat": 6.877177, "Lng": 81.032977, "DSD": "Patahewaheta", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 8, "CmdArea": 40.0, "MainDSD": "Pathahewaheta", "MWS_ID": "003" }, "geometry": { "type": "Point", "coordinates": [ 80.650000871339486, 7.259869251288031 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 151, "JOIN_FID": 48, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Bodiliyangamawewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 484583.5, "Y_Coord": 527768.3, "Lat": 6.861325, "Lng": 81.024993, "DSD": "Thirappane", "District": "Anuradhapura", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 13, "CmdArea": 10.0, "MainDSD": "Pathahewaheta", "MWS_ID": "003" }, "geometry": { "type": "Point", "coordinates": [ 80.63412355821832, 7.251893109285454 ] } }
+]
+}

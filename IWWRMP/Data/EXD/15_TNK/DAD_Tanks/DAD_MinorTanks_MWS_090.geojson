@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_090",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 51, "JOIN_FID": 22, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Nikane Wewa", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 500506.4, "Y_Coord": 541732.8, "Lat": 7.005233, "Lng": 81.15146, "DSD": "medadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 59, "CmdArea": 8.0, "MainDSD": "Medadumbara", "MWS_ID": "090" }, "geometry": { "type": "Point", "coordinates": [ 80.778320693573093, 7.378197011636523 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_066",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 154, "JOIN_FID": 117, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Halangoda Wewa", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 519583.1, "Y_Coord": 479506.8, "Lat": 7.177857, "Lng": 80.58818, "DSD": "Haputhale", "District": "Badulla", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 150, "CmdArea": 0.0, "MainDSD": "Haputale", "MWS_ID": "066" }, "geometry": { "type": "Point", "coordinates": [ 80.950914285861842, 6.815447559101919 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 155, "JOIN_FID": 117, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Ibban Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 518698.7, "Y_Coord": 480391.1, "Lat": 7.169862, "Lng": 80.59619, "DSD": "Haputhale", "District": "Badulla", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 150, "CmdArea": 2.0, "MainDSD": "Haputale", "MWS_ID": "066" }, "geometry": { "type": "Point", "coordinates": [ 80.942915486530396, 6.8234472813174 ] } }
+]
+}

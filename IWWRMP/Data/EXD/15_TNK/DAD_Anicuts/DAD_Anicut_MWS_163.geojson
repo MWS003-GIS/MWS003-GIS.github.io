@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_163",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "KIKILIYAMANA 3 KANUWA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.944155, "Lng": 80.767657, "DSD": "KOTHMALE", "District": "NUWARA ELIYA", "NoOfBenef": 26, "CmdArea": 33, "MainDSD": "Nuwara Eliya", "MWS_ID": "163" }, "geometry": { "type": "Point", "coordinates": [ 80.767657, 6.944155 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_065_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 36, "JOIN_FID": 129, "Map_id": 4937, "Tank_name": "Periyakarupan Wewa", "District": "Badulla", "ASC_": "Diyatalawa", "GND": "Ranjallawa", "GND_NO": "64C", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.96928552, "Y_coordina": 6.82431869, "Remark": null, "Remark2": null, "MainDSD": "Haputale", "MWS_ID": "065-2" }, "geometry": { "type": "Point", "coordinates": [ 80.969285520000085, 6.824318690000041 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 37, "JOIN_FID": 129, "Map_id": 4938, "Tank_name": "Uda Wewa", "District": "Badulla", "ASC_": "Diyatalawa", "GND": "Ranjallawa", "GND_NO": "64C", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.96961702, "Y_coordina": 6.82504842, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Haputale", "MWS_ID": "065-2" }, "geometry": { "type": "Point", "coordinates": [ 80.969617020000044, 6.82504842000003 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 38, "JOIN_FID": 129, "Map_id": 4940, "Tank_name": "Eriwattha Wewa", "District": "Badulla", "ASC_": "Diyatalawa", "GND": "Bingethenna", "GND_NO": "64G", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.96987489, "Y_coordina": 6.81861691, "Remark": null, "Remark2": null, "MainDSD": "Haputale", "MWS_ID": "065-2" }, "geometry": { "type": "Point", "coordinates": [ 80.969874890000085, 6.81861691000006 ] } }
+]
+}

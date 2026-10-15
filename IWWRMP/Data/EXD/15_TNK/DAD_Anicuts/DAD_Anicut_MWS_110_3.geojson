@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_110_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Banagamwela Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.385278, "Lng": 80.595, "DSD": "Pujapitiya", "District": "Kandy", "NoOfBenef": 22, "CmdArea": 0, "MainDSD": "Poojapitiya", "MWS_ID": "110-3" }, "geometry": { "type": "Point", "coordinates": [ 80.595, 7.385278 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Gedaraweleyaye amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.388889, "Lng": 80.594722, "DSD": "Pujapitiya", "District": "Kandy", "NoOfBenef": 20, "CmdArea": 0, "MainDSD": "Poojapitiya", "MWS_ID": "110-3" }, "geometry": { "type": "Point", "coordinates": [ 80.594722, 7.388889 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Alakoladeniya Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.360556, "Lng": 80.598333, "DSD": "Pujapitiya", "District": "Kandy", "NoOfBenef": 21, "CmdArea": 0, "MainDSD": "Poojapitiya", "MWS_ID": "110-3" }, "geometry": { "type": "Point", "coordinates": [ 80.598333, 7.360556 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Galpotha yaya Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.385278, "Lng": 80.591111, "DSD": "Pujapitiya", "District": "Kandy", "NoOfBenef": 0, "CmdArea": 0, "MainDSD": "Poojapitiya", "MWS_ID": "110-3" }, "geometry": { "type": "Point", "coordinates": [ 80.591111, 7.385278 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Naththarampotha Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.386667, "Lng": 80.586944, "DSD": "Tumpane", "District": "Kandy", "NoOfBenef": 0, "CmdArea": 1, "MainDSD": "Poojapitiya", "MWS_ID": "110-3" }, "geometry": { "type": "Point", "coordinates": [ 80.586944, 7.386667 ] } }
+]
+}

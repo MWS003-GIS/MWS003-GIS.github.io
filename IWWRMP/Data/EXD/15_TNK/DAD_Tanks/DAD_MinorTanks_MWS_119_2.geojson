@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "name": "DAD_MinorTanks_MWS_119_2",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 12,
+        "JOIN_FID": 141,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Walga.paya Wewa",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 472567.5,
+        "Y_Coord": 531112.8,
+        "Lat": 6.752646,
+        "Lng": 81.055192,
+        "DSD": "Yatinuwara",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 8,
+        "CmdArea": 0.0,
+        "MainDSD": "Yatinuwara",
+        "MWS_ID": "119-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.52529131946223,
+          7.282090280145463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 13,
+        "JOIN_FID": 141,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Panabokka Wewa",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 471125.6,
+        "Y_Coord": 530253.6,
+        "Lat": 6.73961,
+        "Lng": 81.047412,
+        "DSD": "Yatinuwara",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 4,
+        "CmdArea": 10.0,
+        "MainDSD": "Yatinuwara",
+        "MWS_ID": "119-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.51223737151392,
+          7.274313130482007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 14,
+        "JOIN_FID": 141,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Kitsaradeniya Wewa",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 472414.4,
+        "Y_Coord": 531604.3,
+        "Lat": 6.751259,
+        "Lng": 81.059638,
+        "DSD": "Yatinuwara",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 9,
+        "CmdArea": 0.0,
+        "MainDSD": "Yatinuwara",
+        "MWS_ID": "119-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.523902289691,
+          7.286534130890938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 15,
+        "JOIN_FID": 141,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Ipiladana Wewa",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 471371.2,
+        "Y_Coord": 530806.3,
+        "Lat": 6.741829,
+        "Lng": 81.052413,
+        "DSD": "Yatinuwara",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 85,
+        "CmdArea": 45.0,
+        "MainDSD": "Yatinuwara",
+        "MWS_ID": "119-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.51445869772225,
+          7.279312471379234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 17,
+        "JOIN_FID": 141,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Navaliyanga Wewa",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 475725.2,
+        "Y_Coord": 528715.3,
+        "Lat": 6.781213,
+        "Lng": 81.033519,
+        "DSD": "Yatinuwara",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 85,
+        "CmdArea": 22.0,
+        "MainDSD": "Yatinuwara",
+        "MWS_ID": "119-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55389958162353,
+          7.260424648091968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 19,
+        "JOIN_FID": 141,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Devalapitiya Wewa",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 475786.4,
+        "Y_Coord": 528377.4,
+        "Lat": 6.781768,
+        "Lng": 81.030462,
+        "DSD": "Yatinuwara",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 16,
+        "CmdArea": 0.0,
+        "MainDSD": "Yatinuwara",
+        "MWS_ID": "119-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55445530874916,
+          7.25736928820134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 20,
+        "JOIN_FID": 141,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Hadugaldeniya Wewa",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 475387.6,
+        "Y_Coord": 528377.6,
+        "Lat": 6.778162,
+        "Lng": 81.030462,
+        "DSD": "Yatinuwara",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 96,
+        "CmdArea": 14.0,
+        "MainDSD": "Yatinuwara",
+        "MWS_ID": "119-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55084378488894,
+          7.257369317793422
+        ]
+      }
+    }
+  ]
+}

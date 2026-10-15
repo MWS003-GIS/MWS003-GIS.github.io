@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_122",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 8, "JOIN_FID": 196, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Wegiriya Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 477807.5, "Y_Coord": 521465.4, "Lat": 6.800074, "Lng": 80.967938, "DSD": "Udunuwara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 0, "CmdArea": 30.0, "MainDSD": "Udunuwara", "MWS_ID": "122" }, "geometry": { "type": "Point", "coordinates": [ 80.572786334752379, 7.194872453677218 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 11, "JOIN_FID": 196, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Kurahandeniya Wewa", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 475232.5, "Y_Coord": 524783.9, "Lat": 6.776775, "Lng": 80.997951, "DSD": null, "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 100, "CmdArea": 0.0, "MainDSD": "Udunuwara", "MWS_ID": "122" }, "geometry": { "type": "Point", "coordinates": [ 80.549455451019668, 7.224870759278713 ] } }
+]
+}

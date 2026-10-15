@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_100_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Kohila Deniya Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.364722, "Lng": 80.709167, "DSD": "Tumpane", "District": "Kandy", "NoOfBenef": 10, "CmdArea": 6, "MainDSD": "Panvila", "MWS_ID": "100-2" }, "geometry": { "type": "Point", "coordinates": [ 80.709167, 7.364722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Bulath Attha", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.3775, "Lng": 80.700278, "DSD": "medadumbara", "District": "kandy", "NoOfBenef": 12, "CmdArea": 0, "MainDSD": "Panvila", "MWS_ID": "100-2" }, "geometry": { "type": "Point", "coordinates": [ 80.700278, 7.3775 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "APPALLABEDDA AMUNA", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.358056, "Lng": 80.701944, "DSD": "Kundasale", "District": "kandy", "NoOfBenef": 36, "CmdArea": 17, "MainDSD": "Panvila", "MWS_ID": "100-2" }, "geometry": { "type": "Point", "coordinates": [ 80.701944, 7.358056 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "LOKU PATHAHA AMUNA", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.364722, "Lng": 80.692222, "DSD": "PATHADUMBARA", "District": "KANDY", "NoOfBenef": 12, "CmdArea": 10, "MainDSD": "Panvila", "MWS_ID": "100-2" }, "geometry": { "type": "Point", "coordinates": [ 80.692222, 7.364722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "UDAGEDARA PATHAHA", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.361111, "Lng": 80.694722, "DSD": "PATHADUMBARA", "District": "KANDY", "NoOfBenef": 120, "CmdArea": 0, "MainDSD": "Panvila", "MWS_ID": "100-2" }, "geometry": { "type": "Point", "coordinates": [ 80.694722, 7.361111 ] } }
+]
+}

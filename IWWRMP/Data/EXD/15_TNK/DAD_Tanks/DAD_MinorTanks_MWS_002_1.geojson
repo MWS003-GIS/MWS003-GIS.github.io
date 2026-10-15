@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_002_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 141, "JOIN_FID": 51, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Kandethenna Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 493635.0, "Y_Coord": 517744.3, "Lat": 6.943217, "Lng": 80.93432, "DSD": "Delthota", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 0, "CmdArea": 0.0, "MainDSD": "Deltota", "MWS_ID": "002-1" }, "geometry": { "type": "Point", "coordinates": [ 80.716105199626014, 7.161263474617554 ] } }
+]
+}

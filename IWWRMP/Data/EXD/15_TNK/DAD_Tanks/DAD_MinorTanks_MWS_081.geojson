@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_081",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 35, "JOIN_FID": 13, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Wata Ketiye Wewa", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 508082.1, "Y_Coord": 526928.4, "Lat": 7.073829, "Lng": 81.017502, "DSD": null, "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 7, "CmdArea": 0.0, "MainDSD": "Ududumbara", "MWS_ID": "081" }, "geometry": { "type": "Point", "coordinates": [ 80.846923977919317, 7.244314631941029 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 36, "JOIN_FID": 13, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Wewal Madittha Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 507898.1, "Y_Coord": 527112.7, "Lat": 7.072164, "Lng": 81.019169, "DSD": "Udadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 30, "CmdArea": 0.0, "MainDSD": "Ududumbara", "MWS_ID": "081" }, "geometry": { "type": "Point", "coordinates": [ 80.845257968385681, 7.245981524651921 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 44, "JOIN_FID": 13, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Kuburukotuwa Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 510044.6, "Y_Coord": 529631.7, "Lat": 7.091562, "Lng": 81.041983, "DSD": "Udadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 3, "CmdArea": 1.0, "MainDSD": "Ududumbara", "MWS_ID": "081" }, "geometry": { "type": "Point", "coordinates": [ 80.864700696161549, 7.268757633278479 ] } }
+]
+}

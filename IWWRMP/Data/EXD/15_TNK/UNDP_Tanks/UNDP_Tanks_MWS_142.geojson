@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_142",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 135, "JOIN_FID": 153, "Map_id": 7241, "Tank_name": "Untitled Placemark", "District": "Kandy", "ASC_": "Rabukpitiya", "GND": "Dekinda", "GND_NO": "1094", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned", "X_coordina": 80.51842987000001, "Y_coordina": 7.00865353, "Remark": "Cannot see on Google", "Remark2": "Not in database", "MainDSD": "Pasbagekorale", "MWS_ID": "142" }, "geometry": { "type": "Point", "coordinates": [ 80.518429870000034, 7.008653530000061 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 136, "JOIN_FID": 153, "Map_id": 7242, "Tank_name": "Wewegama Wewa", "District": "Kandy", "ASC_": "Rabukpitiya", "GND": "Wewegama", "GND_NO": "1095", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.52427822, "Y_coordina": 7.00781757, "Remark": null, "Remark2": null, "MainDSD": "Pasbagekorale", "MWS_ID": "142" }, "geometry": { "type": "Point", "coordinates": [ 80.524278220000042, 7.007817570000043 ] } }
+]
+}

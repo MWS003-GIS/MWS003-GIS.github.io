@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_038",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "lidalagakade Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.130556, "Lng": 80.879722, "DSD": "Rideemaliyadda", "District": "Badulla", "NoOfBenef": 374, "CmdArea": 1, "MainDSD": "Nildandahinna", "MWS_ID": "038" }, "geometry": { "type": "Point", "coordinates": [ 80.879722, 7.130556 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "helavatta Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.137778, "Lng": 80.879722, "DSD": "Rideemaliyadda", "District": "Badulla", "NoOfBenef": 374, "CmdArea": 4, "MainDSD": "Nildandahinna", "MWS_ID": "038" }, "geometry": { "type": "Point", "coordinates": [ 80.879722, 7.137778 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "galahitiyava Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.134722, "Lng": 80.876944, "DSD": "Rideemaliyadda", "District": "Badulla", "NoOfBenef": 374, "CmdArea": 9, "MainDSD": "Nildandahinna", "MWS_ID": "038" }, "geometry": { "type": "Point", "coordinates": [ 80.876944, 7.134722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Ulumanldiya Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.136389, "Lng": 80.876944, "DSD": "Rideemaliyadda", "District": "Badulla", "NoOfBenef": 374, "CmdArea": 4, "MainDSD": "Nildandahinna", "MWS_ID": "038" }, "geometry": { "type": "Point", "coordinates": [ 80.876944, 7.136389 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "mahakade Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.136389, "Lng": 80.879722, "DSD": "Rideemaliyadda", "District": "Badulla", "NoOfBenef": 374, "CmdArea": 0, "MainDSD": "Nildandahinna", "MWS_ID": "038" }, "geometry": { "type": "Point", "coordinates": [ 80.879722, 7.136389 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "ambagolla Amunaambagollakandiya", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.139167, "Lng": 80.881389, "DSD": "Rideemaliyadda", "District": "Badulla", "NoOfBenef": 374, "CmdArea": 0, "MainDSD": "Nildandahinna", "MWS_ID": "038" }, "geometry": { "type": "Point", "coordinates": [ 80.881389, 7.139167 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "hevanpila Amuna1", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.135556, "Lng": 80.876944, "DSD": "Rideemaliyadda", "District": "Badulla", "NoOfBenef": 374, "CmdArea": 2, "MainDSD": "Nildandahinna", "MWS_ID": "038" }, "geometry": { "type": "Point", "coordinates": [ 80.876944, 7.135556 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_144_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "VILKADA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.000792, "Lng": 80.490555, "DSD": "AMBAGAMUWA KORALAYA", "District": "NUWARA ELIYA", "NoOfBenef": 34, "CmdArea": 13, "MainDSD": "Ambagamuwa Korale", "MWS_ID": "144-2" }, "geometry": { "type": "Point", "coordinates": [ 80.490555, 7.000792 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "DORAKUMBURA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.015603, "Lng": 80.487315, "DSD": "AMBAGAMUWA KORALAYA", "District": "NUWARA ELIYA", "NoOfBenef": 14, "CmdArea": 12, "MainDSD": "Ambagamuwa Korale", "MWS_ID": "144-2" }, "geometry": { "type": "Point", "coordinates": [ 80.487315, 7.015603 ] } }
+]
+}

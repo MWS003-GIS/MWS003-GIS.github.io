@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_165_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Perakumpura Viyapuruthi 15000  Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.984383, "Lng": 80.689038, "DSD": "NUWARA ELIYA", "District": "NUWARA ELIYA", "NoOfBenef": 62, "CmdArea": 0, "MainDSD": "Kothmale East", "MWS_ID": "165-2" }, "geometry": { "type": "Point", "coordinates": [ 80.689038, 6.984383 ] } }
+]
+}

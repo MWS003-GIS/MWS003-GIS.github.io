@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_055",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 15, "JOIN_FID": 102, "Map_id": 4859, "Tank_name": "Gurukandura Wewa", "District": "Badulla", "ASC_": "Boralanda", "GND": "Alugolla", "GND_NO": "61B", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "Forest/ Wildlife", "Tank_funct": "Functioning", "X_coordina": 80.88476401, "Y_coordina": 6.84952988, "Remark": "Forest tank, Cannot see on Google", "Remark2": null, "MainDSD": "Welimada", "MWS_ID": "055" }, "geometry": { "type": "Point", "coordinates": [ 80.884764010000083, 6.849529880000034 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 16, "JOIN_FID": 102, "Map_id": 4860, "Tank_name": "Keradimulla Wewa", "District": "Badulla", "ASC_": "Boralanda", "GND": "Alugolla", "GND_NO": "61B", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.89275269, "Y_coordina": 6.85136492, "Remark": null, "Remark2": null, "MainDSD": "Welimada", "MWS_ID": "055" }, "geometry": { "type": "Point", "coordinates": [ 80.892752690000066, 6.851364920000037 ] } }
+]
+}

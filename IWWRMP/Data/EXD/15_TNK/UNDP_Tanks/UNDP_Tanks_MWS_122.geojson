@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_122",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 96, "JOIN_FID": 196, "Map_id": 7181, "Tank_name": "Seethawaka Wewa", "District": "Kandy", "ASC_": "Abanwala", "GND": "Ganhatha", "GND_NO": "93", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned", "X_coordina": 80.56703023, "Y_coordina": 7.20069496, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Udunuwara", "MWS_ID": "122" }, "geometry": { "type": "Point", "coordinates": [ 80.567030230000057, 7.200694960000021 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 146, "JOIN_FID": 196, "Map_id": 7252, "Tank_name": "Wegiriya Wewa", "District": "Kandy", "ASC_": "Talawatura", "GND": "Wegiriya West", "GND_NO": "47", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.57465463, "Y_coordina": 7.19399911, "Remark": null, "Remark2": null, "MainDSD": "Udunuwara", "MWS_ID": "122" }, "geometry": { "type": "Point", "coordinates": [ 80.574654630000055, 7.19399911000005 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 148, "JOIN_FID": 196, "Map_id": 7254, "Tank_name": "Welikumbura Wewa", "District": "Kandy", "ASC_": "Talawatura", "GND": "Davulagala", "GND_NO": "55", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.57286322, "Y_coordina": 7.22380983, "Remark": null, "Remark2": null, "MainDSD": "Udunuwara", "MWS_ID": "122" }, "geometry": { "type": "Point", "coordinates": [ 80.572863220000045, 7.22380983000005 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 149, "JOIN_FID": 196, "Map_id": 7255, "Tank_name": "Batapotha Ella Wewa", "District": "Kandy", "ASC_": "Talawatura", "GND": "Wathupola", "GND_NO": "65", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.54982989, "Y_coordina": 7.21737598, "Remark": null, "Remark2": null, "MainDSD": "Udunuwara", "MWS_ID": "122" }, "geometry": { "type": "Point", "coordinates": [ 80.549829890000069, 7.217375980000043 ] } }
+]
+}

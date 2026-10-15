@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_114_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Gal mulla Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.313889, "Lng": 80.554722, "DSD": "Udunuwara", "District": "Kandy", "NoOfBenef": 30, "CmdArea": 0, "MainDSD": "Yatinuwara", "MWS_ID": "114-1" }, "geometry": { "type": "Point", "coordinates": [ 80.554722, 7.313889 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "RADAPELA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.313889, "Lng": 80.558333, "DSD": "Harispattuwa", "District": "Kandy", "NoOfBenef": 30, "CmdArea": 0, "MainDSD": "Yatinuwara", "MWS_ID": "114-1" }, "geometry": { "type": "Point", "coordinates": [ 80.558333, 7.313889 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Nagahamula amune", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.316111, "Lng": 80.5475, "DSD": "Hatharaliyadda", "District": "kandy", "NoOfBenef": 150, "CmdArea": 0, "MainDSD": "Yatinuwara", "MWS_ID": "114-1" }, "geometry": { "type": "Point", "coordinates": [ 80.5475, 7.316111 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Bulugode amune", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.315833, "Lng": 80.547222, "DSD": "Hatharaliyadda", "District": "kandy", "NoOfBenef": 9, "CmdArea": 28, "MainDSD": "Yatinuwara", "MWS_ID": "114-1" }, "geometry": { "type": "Point", "coordinates": [ 80.547222, 7.315833 ] } }
+]
+}

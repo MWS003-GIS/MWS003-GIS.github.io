@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_019",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "eravula Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.108341, "Lng": 80.790768, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 60, "CmdArea": 0, "MainDSD": "Mathurata", "MWS_ID": "019" }, "geometry": { "type": "Point", "coordinates": [ 80.790768, 7.108341 ] } }
+]
+}

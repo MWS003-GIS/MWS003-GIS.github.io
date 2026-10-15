@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_004_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 141, "JOIN_FID": 47, "Map_id": 7247, "Tank_name": "Ambalammana Wewa", "District": "Kandy", "ASC_": "Talatuoya", "GND": "Moragolla", "GND_NO": "973", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.67350329, "Y_coordina": 7.22802046, "Remark": null, "Remark2": null, "MainDSD": "Pathahewaheta", "MWS_ID": "004-2" }, "geometry": { "type": "Point", "coordinates": [ 80.673503290000042, 7.228020460000039 ] } }
+]
+}

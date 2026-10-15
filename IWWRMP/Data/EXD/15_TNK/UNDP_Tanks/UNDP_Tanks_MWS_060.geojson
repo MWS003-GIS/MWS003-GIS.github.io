@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_060",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 51, "JOIN_FID": 100, "Map_id": 4962, "Tank_name": "Bellawalathanna Wewa", "District": "Badulla", "ASC_": "Keppetipola", "GND": "Himbiliyagolla", "GND_NO": "50G", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned", "X_coordina": 80.84867205, "Y_coordina": 6.8700265, "Remark": "Cannot see on Google", "Remark2": "Not in database", "MainDSD": "Welimada", "MWS_ID": "060" }, "geometry": { "type": "Point", "coordinates": [ 80.848672050000062, 6.870026500000051 ] } }
+]
+}

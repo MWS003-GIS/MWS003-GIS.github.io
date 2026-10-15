@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_092",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 58, "JOIN_FID": 24, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Gurupasketiye Ulpatha", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 499801.1, "Y_Coord": 533132.4, "Lat": 6.99891, "Lng": 81.073614, "DSD": "medadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 46, "CmdArea": 0.0, "MainDSD": "Medadumbara", "MWS_ID": "092" }, "geometry": { "type": "Point", "coordinates": [ 80.771932516223316, 7.300423249581677 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 64, "JOIN_FID": 24, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Pathana Hena Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 500935.7, "Y_Coord": 536265.4, "Lat": 7.009152, "Lng": 81.101978, "DSD": "Medadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 2, "CmdArea": 0.0, "MainDSD": "Medadumbara", "MWS_ID": "092" }, "geometry": { "type": "Point", "coordinates": [ 80.782208850120853, 7.328755102834652 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 65, "JOIN_FID": 24, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Lunugala Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 500598.4, "Y_Coord": 537248.3, "Lat": 7.006096, "Lng": 81.110872, "DSD": "Medadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 24, "CmdArea": 0.0, "MainDSD": "Medadumbara", "MWS_ID": "092" }, "geometry": { "type": "Point", "coordinates": [ 80.779153818585669, 7.337643536695439 ] } }
+]
+}

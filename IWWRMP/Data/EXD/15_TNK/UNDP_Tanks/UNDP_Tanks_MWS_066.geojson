@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_066",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 34, "JOIN_FID": 117, "Map_id": 4935, "Tank_name": "Halangoda Wewa", "District": "Badulla", "ASC_": "Diyatalawa", "GND": "Diyathalawa", "GND_NO": "63B", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned", "X_coordina": 80.94872294, "Y_coordina": 6.81586203, "Remark": null, "Remark2": null, "MainDSD": "Haputale", "MWS_ID": "066" }, "geometry": { "type": "Point", "coordinates": [ 80.948722940000039, 6.815862030000062 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 35, "JOIN_FID": 117, "Map_id": 4936, "Tank_name": "Elamalwewa (AB)", "District": "Badulla", "ASC_": "Diyatalawa", "GND": "Ellagama", "GND_NO": "63K", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.94851958, "Y_coordina": 6.825328, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Haputale", "MWS_ID": "066" }, "geometry": { "type": "Point", "coordinates": [ 80.948519580000038, 6.825328 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 39, "JOIN_FID": 117, "Map_id": 4941, "Tank_name": "Ibbanwewa", "District": "Badulla", "ASC_": "Diyatalawa", "GND": "Jayaminipura", "GND_NO": "64H", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.94145591, "Y_coordina": 6.82344522, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Haputale", "MWS_ID": "066" }, "geometry": { "type": "Point", "coordinates": [ 80.941455910000059, 6.823445220000053 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_005",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 142, "JOIN_FID": 49, "Map_id": 7248, "Tank_name": "Katukithula Wewa", "District": "Kandy", "ASC_": "Talatuoya", "GND": "Sriyagama", "GND_NO": "974", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.68074049000001, "Y_coordina": 7.22106664, "Remark": null, "Remark2": null, "MainDSD": "Pathahewaheta", "MWS_ID": "005" }, "geometry": { "type": "Point", "coordinates": [ 80.680740490000062, 7.22106664000006 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 143, "JOIN_FID": 49, "Map_id": 7249, "Tank_name": "Muthukeliyawa Wewa", "District": "Kandy", "ASC_": "Talatuoya", "GND": "Sriyagama", "GND_NO": "974", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.69542197, "Y_coordina": 7.21209669, "Remark": null, "Remark2": null, "MainDSD": "Pathahewaheta", "MWS_ID": "005" }, "geometry": { "type": "Point", "coordinates": [ 80.695421970000041, 7.212096690000067 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 144, "JOIN_FID": 49, "Map_id": 7250, "Tank_name": "Moragolla Wewa", "District": "Kandy", "ASC_": "Talatuoya", "GND": "Letiyagolla", "GND_NO": "975", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.67951916, "Y_coordina": 7.22320462, "Remark": null, "Remark2": null, "MainDSD": "Pathahewaheta", "MWS_ID": "005" }, "geometry": { "type": "Point", "coordinates": [ 80.679519160000041, 7.223204620000047 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 145, "JOIN_FID": 49, "Map_id": 7251, "Tank_name": "Bogamuwa Wewa", "District": "Kandy", "ASC_": "Talatuoya", "GND": "Medagama Udagama", "GND_NO": "996", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned?", "X_coordina": 80.69776417, "Y_coordina": 7.20294719, "Remark": "Need to verify", "Remark2": "Not in database", "MainDSD": "Pathahewaheta", "MWS_ID": "005" }, "geometry": { "type": "Point", "coordinates": [ 80.697764170000085, 7.202947190000032 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_114_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Meegahawalakada Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.318056, "Lng": 80.558889, "DSD": "Udunuwara", "District": "Kandy", "NoOfBenef": 18, "CmdArea": 0, "MainDSD": "Harispattuwa", "MWS_ID": "114-2" }, "geometry": { "type": "Point", "coordinates": [ 80.558889, 7.318056 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "MAKULANGA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.32, "Lng": 80.554167, "DSD": "Harispattuwa", "District": "Kandy", "NoOfBenef": 12, "CmdArea": 0, "MainDSD": "Harispattuwa", "MWS_ID": "114-2" }, "geometry": { "type": "Point", "coordinates": [ 80.554167, 7.32 ] } }
+]
+}

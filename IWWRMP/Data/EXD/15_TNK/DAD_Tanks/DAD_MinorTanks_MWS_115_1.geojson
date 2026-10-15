@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "name": "DAD_MinorTanks_MWS_115_1",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 50,
+        "JOIN_FID": 205,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Atha Mulla Wewa/pinuwwala Wewa",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 474749.5,
+        "Y_Coord": 539988.5,
+        "Lat": 6.772325,
+        "Lng": 81.135498,
+        "DSD": "Tumpane",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 16,
+        "CmdArea": 0.0,
+        "MainDSD": "Tumpane",
+        "MWS_ID": "115-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.54501114909179,
+          7.362363525594411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 91,
+        "JOIN_FID": 205,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Galgodahinna Wewa",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 475392.6,
+        "Y_Coord": 538360.3,
+        "Lat": 6.778152,
+        "Lng": 81.120772,
+        "DSD": "Kundasale",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 60,
+        "CmdArea": 122.0,
+        "MainDSD": "Tumpane",
+        "MWS_ID": "115-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55084383564505,
+          7.347642743182512
+        ]
+      }
+    }
+  ]
+}

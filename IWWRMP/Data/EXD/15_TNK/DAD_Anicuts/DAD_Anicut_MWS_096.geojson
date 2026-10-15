@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_096",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Kosga.a pahala ela A.", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.395278, "Lng": 80.735556, "DSD": "Panvila", "District": "Kandy", "NoOfBenef": 6, "CmdArea": 0, "MainDSD": "Panvila", "MWS_ID": "096" }, "geometry": { "type": "Point", "coordinates": [ 80.735556, 7.395278 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Kosga.a ihala ela Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.402778, "Lng": 80.742778, "DSD": "Panvila", "District": "Kandy", "NoOfBenef": 8, "CmdArea": 0, "MainDSD": "Panvila", "MWS_ID": "096" }, "geometry": { "type": "Point", "coordinates": [ 80.742778, 7.402778 ] } }
+]
+}

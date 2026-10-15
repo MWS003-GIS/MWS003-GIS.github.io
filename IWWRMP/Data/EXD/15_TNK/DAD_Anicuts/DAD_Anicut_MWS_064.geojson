@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_064",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Palugedara Welihondawa amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.809977, "Lng": 80.936641, "DSD": "Welimada", "District": "Badulla", "NoOfBenef": 19, "CmdArea": 8, "MainDSD": "Haputale", "MWS_ID": "064" }, "geometry": { "type": "Point", "coordinates": [ 80.936641, 6.809977 ] } }
+]
+}

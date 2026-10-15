@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_119_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Galpotta Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.246944, "Lng": 80.537222, "DSD": "Udunuwara", "District": "Kandy", "NoOfBenef": 17, "CmdArea": 8, "MainDSD": "Udunuwara", "MWS_ID": "119-1" }, "geometry": { "type": "Point", "coordinates": [ 80.537222, 7.246944 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Atalahayaye Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.248889, "Lng": 80.530833, "DSD": "Udunuwara", "District": "Kandy", "NoOfBenef": 12, "CmdArea": 0, "MainDSD": "Udunuwara", "MWS_ID": "119-1" }, "geometry": { "type": "Point", "coordinates": [ 80.530833, 7.248889 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "veleliyadda Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.253611, "Lng": 80.526111, "DSD": "Yatinuwara", "District": "kandy", "NoOfBenef": 10, "CmdArea": 0, "MainDSD": "Udunuwara", "MWS_ID": "119-1" }, "geometry": { "type": "Point", "coordinates": [ 80.526111, 7.253611 ] } }
+]
+}

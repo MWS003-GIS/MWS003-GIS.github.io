@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_074",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Welankada amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.229722, "Lng": 80.938889, "DSD": "MINIPE", "District": "KANDY", "NoOfBenef": 4, "CmdArea": 7, "MainDSD": "Minipe", "MWS_ID": "074" }, "geometry": { "type": "Point", "coordinates": [ 80.938889, 7.229722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Nikathanna pahala amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.230833, "Lng": 80.936111, "DSD": "MINIPE", "District": "KANDY", "NoOfBenef": 3, "CmdArea": 2, "MainDSD": "Minipe", "MWS_ID": "074" }, "geometry": { "type": "Point", "coordinates": [ 80.936111, 7.230833 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Alukubukayaya amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.236389, "Lng": 80.930278, "DSD": "MINIPE", "District": "KANDY", "NoOfBenef": 3, "CmdArea": 1, "MainDSD": "Minipe", "MWS_ID": "074" }, "geometry": { "type": "Point", "coordinates": [ 80.930278, 7.236389 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Nikathanna amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.233056, "Lng": 80.927778, "DSD": "MINIPE", "District": "KANDY", "NoOfBenef": 5, "CmdArea": 8, "MainDSD": "Minipe", "MWS_ID": "074" }, "geometry": { "type": "Point", "coordinates": [ 80.927778, 7.233056 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "NAGAMALE ELA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.224107, "Lng": 80.935253, "DSD": "HANGURANKETHA", "District": "NUWARA ELIYA", "NoOfBenef": 1, "CmdArea": 9, "MainDSD": "Minipe", "MWS_ID": "074" }, "geometry": { "type": "Point", "coordinates": [ 80.935253, 7.224107 ] } }
+]
+}

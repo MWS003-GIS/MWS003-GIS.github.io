@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "name": "DAD_MinorTanks_MWS_166_2",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 0,
+        "JOIN_FID": 159,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Galahitiya Yaya Polkatu Wewa",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 491756.0,
+        "Y_Coord": 504958.9,
+        "Lat": 6.926249,
+        "Lng": 80.818612,
+        "DSD": "MAHARA",
+        "District": "Gampaha",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 1,
+        "CmdArea": 0.0,
+        "MainDSD": "Kothmale East",
+        "MWS_ID": "166-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69911182147209,
+          7.045640971392832
+        ]
+      }
+    }
+  ]
+}

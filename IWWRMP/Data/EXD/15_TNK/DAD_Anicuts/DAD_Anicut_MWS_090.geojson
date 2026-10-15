@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_090",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Mapadeniya", "Ownership": "DAD", "Functional": null, "Lat": 7.363333, "Lng": 80.760278, "DSD": "medadumbara", "District": "kandy", "NoOfBenef": 199, "CmdArea": 14, "MainDSD": "Medadumbara", "MWS_ID": "090" }, "geometry": { "type": "Point", "coordinates": [ 80.760278, 7.363333 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Narankotuwe Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.360556, "Lng": 80.7925, "DSD": "medadumbara", "District": "kandy", "NoOfBenef": 20, "CmdArea": 0, "MainDSD": "Medadumbara", "MWS_ID": "090" }, "geometry": { "type": "Point", "coordinates": [ 80.7925, 7.360556 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Wahugepitiya ala ha sambanda algepitiya", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.379167, "Lng": 80.805, "DSD": "Panvila", "District": "Kandy", "NoOfBenef": 11, "CmdArea": 8, "MainDSD": "Medadumbara", "MWS_ID": "090" }, "geometry": { "type": "Point", "coordinates": [ 80.805, 7.379167 ] } }
+]
+}

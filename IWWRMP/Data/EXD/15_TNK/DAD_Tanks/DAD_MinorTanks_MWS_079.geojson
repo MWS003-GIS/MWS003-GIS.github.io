@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_079",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 37, "JOIN_FID": 14, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Gonu Ella Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 509185.3, "Y_Coord": 532426.7, "Lat": 7.083777, "Lng": 81.06728, "DSD": "Udadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 30, "CmdArea": 0.0, "MainDSD": "Ududumbara", "MWS_ID": "079" }, "geometry": { "type": "Point", "coordinates": [ 80.856923161635365, 7.294034410734703 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 42, "JOIN_FID": 14, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Maha Kiri Appa Wewa", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 508664.2, "Y_Coord": 531013.7, "Lat": 7.079072, "Lng": 81.054486, "DSD": "Udadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 13, "CmdArea": 0.0, "MainDSD": "Ududumbara", "MWS_ID": "079" }, "geometry": { "type": "Point", "coordinates": [ 80.852201531580079, 7.281257397384223 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 43, "JOIN_FID": 14, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Abagaspallama Wewa", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 509124.3, "Y_Coord": 530645.2, "Lat": 7.083235, "Lng": 81.051153, "DSD": "Udadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 9, "CmdArea": 0.0, "MainDSD": "Ududumbara", "MWS_ID": "079" }, "geometry": { "type": "Point", "coordinates": [ 80.856367842339168, 7.277924315654893 ] } }
+]
+}

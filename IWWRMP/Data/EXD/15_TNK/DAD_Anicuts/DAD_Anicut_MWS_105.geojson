@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_105",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Wahalawaththa amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.271667, "Lng": 80.731111, "DSD": "Pathahewaheta", "District": "Kandy", "NoOfBenef": 143, "CmdArea": 2, "MainDSD": "Kundasale", "MWS_ID": "105" }, "geometry": { "type": "Point", "coordinates": [ 80.731111, 7.271667 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "alut Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.268943, "Lng": 80.737697, "DSD": "Badulla", "District": "Badulla", "NoOfBenef": 4, "CmdArea": 0, "MainDSD": "Kundasale", "MWS_ID": "105" }, "geometry": { "type": "Point", "coordinates": [ 80.737697, 7.268943 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Galketiya Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.293269, "Lng": 80.741227, "DSD": "Hali Ela", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 10, "MainDSD": "Kundasale", "MWS_ID": "105" }, "geometry": { "type": "Point", "coordinates": [ 80.741227, 7.293269 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Katakandura Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.293992, "Lng": 80.741046, "DSD": "Hali Ela", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 10, "MainDSD": "Kundasale", "MWS_ID": "105" }, "geometry": { "type": "Point", "coordinates": [ 80.741046, 7.293992 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Galahitiyaewa Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.292907, "Lng": 80.741227, "DSD": "Hali Ela", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 6, "MainDSD": "Kundasale", "MWS_ID": "105" }, "geometry": { "type": "Point", "coordinates": [ 80.741227, 7.292907 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Hapukotalla Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.292635, "Lng": 80.730721, "DSD": "Hali Ela", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 6, "MainDSD": "Kundasale", "MWS_ID": "105" }, "geometry": { "type": "Point", "coordinates": [ 80.730721, 7.292635 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Pattiya Kumbura Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.29155, "Lng": 80.738691, "DSD": "Hali Ela", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 0, "MainDSD": "Kundasale", "MWS_ID": "105" }, "geometry": { "type": "Point", "coordinates": [ 80.738691, 7.29155 ] } }
+]
+}

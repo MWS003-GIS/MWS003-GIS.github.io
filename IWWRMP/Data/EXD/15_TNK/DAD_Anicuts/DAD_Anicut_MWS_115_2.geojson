@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_115_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "PITDENIYA AMUNA", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.364722, "Lng": 80.569444, "DSD": "Harispattuwa", "District": "Kandy", "NoOfBenef": 18, "CmdArea": 0, "MainDSD": "Harispattuwa", "MWS_ID": "115-2" }, "geometry": { "type": "Point", "coordinates": [ 80.569444, 7.364722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "PARAGAHA WELA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.364722, "Lng": 80.561944, "DSD": "Harispattuwa", "District": "Kandy", "NoOfBenef": 10, "CmdArea": 8, "MainDSD": "Harispattuwa", "MWS_ID": "115-2" }, "geometry": { "type": "Point", "coordinates": [ 80.561944, 7.364722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "KAAMARANGA ELA AMUNA", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.365556, "Lng": 80.554722, "DSD": "Harispattuwa", "District": "Kandy", "NoOfBenef": 18, "CmdArea": 0, "MainDSD": "Harispattuwa", "MWS_ID": "115-2" }, "geometry": { "type": "Point", "coordinates": [ 80.554722, 7.365556 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "LAGGODA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.364167, "Lng": 80.559167, "DSD": "Harispattuwa", "District": "Kandy", "NoOfBenef": 6, "CmdArea": 0, "MainDSD": "Harispattuwa", "MWS_ID": "115-2" }, "geometry": { "type": "Point", "coordinates": [ 80.559167, 7.364167 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "PUSIN KUMBURA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.368056, "Lng": 80.560556, "DSD": "Harispattuwa", "District": "Kandy", "NoOfBenef": 8, "CmdArea": 0, "MainDSD": "Harispattuwa", "MWS_ID": "115-2" }, "geometry": { "type": "Point", "coordinates": [ 80.560556, 7.368056 ] } }
+]
+}

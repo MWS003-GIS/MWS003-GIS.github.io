@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_131",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 100, "JOIN_FID": 147, "Map_id": 7187, "Tank_name": "Untitled Placemark", "District": "Kandy", "ASC_": "Dalpitiya", "GND": "Doragala", "GND_NO": "1180", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "Forest/ Wildlife", "Tank_funct": "Abandoned", "X_coordina": 80.62208455, "Y_coordina": 7.08566187, "Remark": "Forest tank", "Remark2": "Not in database", "MainDSD": "Udapalatha", "MWS_ID": "131" }, "geometry": { "type": "Point", "coordinates": [ 80.622084550000068, 7.085661870000024 ] } }
+]
+}

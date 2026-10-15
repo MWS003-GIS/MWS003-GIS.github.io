@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_103_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "ODUKUMBURA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.32, "Lng": 80.671389, "DSD": "PATHADUMBARA", "District": "KANDY", "NoOfBenef": 0, "CmdArea": 0, "MainDSD": "Pathadumbara", "MWS_ID": "103-2" }, "geometry": { "type": "Point", "coordinates": [ 80.671389, 7.32 ] } }
+]
+}

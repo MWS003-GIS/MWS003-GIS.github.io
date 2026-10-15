@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_132",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Koswathupela Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.076667, "Lng": 80.5725, "DSD": "Udunuwara", "District": "Kandy", "NoOfBenef": 4, "CmdArea": 0, "MainDSD": "Udapalatha", "MWS_ID": "132" }, "geometry": { "type": "Point", "coordinates": [ 80.5725, 7.076667 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Warakawa Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.0825, "Lng": 80.571389, "DSD": "Udunuwara", "District": "Kandy", "NoOfBenef": 4, "CmdArea": 0, "MainDSD": "Udapalatha", "MWS_ID": "132" }, "geometry": { "type": "Point", "coordinates": [ 80.571389, 7.0825 ] } }
+]
+}

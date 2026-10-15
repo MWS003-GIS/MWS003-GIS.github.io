@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_089",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 116, "JOIN_FID": 16, "Map_id": 7214, "Tank_name": "Tawarane Wewa", "District": "Kandy", "ASC_": "Medamahanuwara", "GND": "Rajagala", "GND_NO": "808", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "Forest/ Wildlife", "Tank_funct": "Abandoned", "X_coordina": 80.82931993, "Y_coordina": 7.27521632, "Remark": "Forest tank", "Remark2": "Not in database", "MainDSD": "Medadumbara", "MWS_ID": "089" }, "geometry": { "type": "Point", "coordinates": [ 80.829319930000054, 7.275216320000027 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 118, "JOIN_FID": 16, "Map_id": 7216, "Tank_name": "Delkandura Wewa", "District": "Kandy", "ASC_": "Medamahanuwara", "GND": "Meeriyagolla", "GND_NO": "816", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned?", "X_coordina": 80.83101766, "Y_coordina": 7.26278579, "Remark": "Need to verify", "Remark2": "Not in database", "MainDSD": "Medadumbara", "MWS_ID": "089" }, "geometry": { "type": "Point", "coordinates": [ 80.831017660000043, 7.262785790000066 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 119, "JOIN_FID": 16, "Map_id": 7217, "Tank_name": "Woodside Wewa/ Wewathanna Wewa", "District": "Kandy", "ASC_": "Medamahanuwara", "GND": "Meeriyagolla", "GND_NO": "816", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned?", "X_coordina": 80.83978563, "Y_coordina": 7.26433868, "Remark": "Need to verify", "Remark2": "Not in database", "MainDSD": "Medadumbara", "MWS_ID": "089" }, "geometry": { "type": "Point", "coordinates": [ 80.839785630000051, 7.264338680000037 ] } }
+]
+}

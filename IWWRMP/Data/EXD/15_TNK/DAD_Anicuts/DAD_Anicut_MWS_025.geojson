@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_025",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "BOWATHTHAPITIYA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.081154, "Lng": 80.810613, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 8, "CmdArea": 9, "MainDSD": "Walapane", "MWS_ID": "025" }, "geometry": { "type": "Point", "coordinates": [ 80.810613, 7.081154 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "UDAGONAPELELLA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.081163, "Lng": 80.810622, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 32, "CmdArea": 0, "MainDSD": "Walapane", "MWS_ID": "025" }, "geometry": { "type": "Point", "coordinates": [ 80.810622, 7.081163 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "tittavelkadura", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.09161511, "Lng": 80.7980019, "DSD": "Kandaketiya", "District": "Badulla", "NoOfBenef": 3, "CmdArea": 3, "MainDSD": "Walapane", "MWS_ID": "025" }, "geometry": { "type": "Point", "coordinates": [ 80.798001900000031, 7.091615110000021 ] } }
+]
+}

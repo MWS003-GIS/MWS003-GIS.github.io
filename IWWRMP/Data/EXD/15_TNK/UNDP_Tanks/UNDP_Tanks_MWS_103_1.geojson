@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_103_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 130, "JOIN_FID": 35, "Map_id": 7229, "Tank_name": "Hurikotuwa Maha Wewa", "District": "Kandy", "ASC_": "Menikhinna", "GND": "Hurikaduwa East", "GND_NO": "680", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.70024549, "Y_coordina": 7.30077735, "Remark": null, "Remark2": null, "MainDSD": "Kundasale", "MWS_ID": "103-1" }, "geometry": { "type": "Point", "coordinates": [ 80.700245490000043, 7.300777350000033 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 131, "JOIN_FID": 35, "Map_id": 7230, "Tank_name": "Mahara Bandara Wewa", "District": "Kandy", "ASC_": "Menikhinna", "GND": "Manikhinna", "GND_NO": "705", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.69731007, "Y_coordina": 7.31894877, "Remark": null, "Remark2": null, "MainDSD": "Kundasale", "MWS_ID": "103-1" }, "geometry": { "type": "Point", "coordinates": [ 80.697310070000071, 7.318948770000077 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 132, "JOIN_FID": 35, "Map_id": 7231, "Tank_name": "Dambarawa Wewa", "District": "Kandy", "ASC_": "Menikhinna", "GND": "Dambarawa", "GND_NO": "706", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.69243732, "Y_coordina": 7.30130616, "Remark": null, "Remark2": null, "MainDSD": "Kundasale", "MWS_ID": "103-1" }, "geometry": { "type": "Point", "coordinates": [ 80.692437320000067, 7.301306160000024 ] } }
+]
+}

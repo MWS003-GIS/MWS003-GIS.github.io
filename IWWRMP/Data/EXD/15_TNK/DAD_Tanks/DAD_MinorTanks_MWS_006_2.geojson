@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_006_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 136, "JOIN_FID": 71, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Attamale Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 492715.3, "Y_Coord": 522106.0, "Lat": 6.934886, "Lng": 80.973789, "DSD": "Delthota", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 2, "CmdArea": 0.0, "MainDSD": "Deltota", "MWS_ID": "006-2" }, "geometry": { "type": "Point", "coordinates": [ 80.707772201523753, 7.200705576302721 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 138, "JOIN_FID": 71, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Baulana Pahala Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 493420.8, "Y_Coord": 521675.9, "Lat": 6.941267, "Lng": 80.969899, "DSD": "Delthota", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 2, "CmdArea": 0.0, "MainDSD": "Deltota", "MWS_ID": "006-2" }, "geometry": { "type": "Point", "coordinates": [ 80.7141609700559, 7.196817057135381 ] } }
+]
+}

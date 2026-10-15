@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_129",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 114, "JOIN_FID": 5, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Kalugala Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 483511.1, "Y_Coord": 515842.2, "Lat": 6.85167, "Lng": 80.917079, "DSD": "Udapalatha", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 0, "CmdArea": 0.0, "MainDSD": "Udapalatha", "MWS_ID": "129" }, "geometry": { "type": "Point", "coordinates": [ 80.62444789974154, 7.144041480591238 ] } }
+]
+}

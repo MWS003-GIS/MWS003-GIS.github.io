@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_127_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "galoya amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.233333, "Lng": 80.600278, "DSD": "gangavata koralaya", "District": "kandy", "NoOfBenef": 35, "CmdArea": 35, "MainDSD": "Gangawata Korale", "MWS_ID": "127-2" }, "geometry": { "type": "Point", "coordinates": [ 80.600278, 7.233333 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kohila deniya ela amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.230556, "Lng": 80.601111, "DSD": "gangavata koralaya", "District": "kandy", "NoOfBenef": 8, "CmdArea": 4, "MainDSD": "Gangawata Korale", "MWS_ID": "127-2" }, "geometry": { "type": "Point", "coordinates": [ 80.601111, 7.230556 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Liyan gaha mula ela amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.23, "Lng": 80.599722, "DSD": "gangavata koralaya", "District": "kandy", "NoOfBenef": 12, "CmdArea": 12, "MainDSD": "Gangawata Korale", "MWS_ID": "127-2" }, "geometry": { "type": "Point", "coordinates": [ 80.599722, 7.23 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "murdheliyaela amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.224722, "Lng": 80.603056, "DSD": "gangavata koralaya", "District": "kandy", "NoOfBenef": 5, "CmdArea": 5, "MainDSD": "Gangawata Korale", "MWS_ID": "127-2" }, "geometry": { "type": "Point", "coordinates": [ 80.603056, 7.224722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kurahankotuva Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.241111, "Lng": 80.608611, "DSD": "Harispattuwa", "District": "kandy", "NoOfBenef": 96, "CmdArea": 0, "MainDSD": "Gangawata Korale", "MWS_ID": "127-2" }, "geometry": { "type": "Point", "coordinates": [ 80.608611, 7.241111 ] } }
+]
+}

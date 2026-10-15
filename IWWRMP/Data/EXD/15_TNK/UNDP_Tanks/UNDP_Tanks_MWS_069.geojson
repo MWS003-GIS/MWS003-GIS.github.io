@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_069",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 0, "JOIN_FID": 115, "Map_id": 4826, "Tank_name": "Udabadda Wewa", "District": "Badulla", "ASC_": "Atampitiya", "GND": "Dehivinna", "GND_NO": "56", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.97801604, "Y_coordina": 6.92425338, "Remark": null, "Remark2": null, "MainDSD": "Hali-Ela", "MWS_ID": "069" }, "geometry": { "type": "Point", "coordinates": [ 80.978016040000057, 6.924253380000039 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 1, "JOIN_FID": 115, "Map_id": 4827, "Tank_name": "Wewitakanda Wewa", "District": "Badulla", "ASC_": "Atampitiya", "GND": "Dehivinna", "GND_NO": "56", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "Forest/ Wildlife", "Tank_funct": "Functioning", "X_coordina": 80.96820549, "Y_coordina": 6.92170201, "Remark": "Forest tank, Cannot see on Google", "Remark2": null, "MainDSD": "Hali-Ela", "MWS_ID": "069" }, "geometry": { "type": "Point", "coordinates": [ 80.968205490000059, 6.921702010000047 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_080",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 113, "JOIN_FID": 11, "Map_id": 7202, "Tank_name": "Madugalla Wewa", "District": "Kandy", "ASC_": "Kaluntenna", "GND": "Madugalla North", "GND_NO": "859", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.88647661, "Y_coordina": 7.26028851, "Remark": null, "Remark2": null, "MainDSD": "Ududumbara", "MWS_ID": "080" }, "geometry": { "type": "Point", "coordinates": [ 80.886476610000045, 7.260288510000066 ] } }
+]
+}

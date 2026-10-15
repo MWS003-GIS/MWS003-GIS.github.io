@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "name": "DAD_MinorTanks_MWS_113_1",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 46,
+        "JOIN_FID": 138,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Palkumbura Wewa",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 479532.1,
+        "Y_Coord": 537989.8,
+        "Lat": 6.815588,
+        "Lng": 81.117447,
+        "DSD": "Harispattuwa",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 10,
+        "CmdArea": 0.0,
+        "MainDSD": "Harispattuwa",
+        "MWS_ID": "113-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.58834001423864,
+          7.344309590990763
+        ]
+      }
+    }
+  ]
+}

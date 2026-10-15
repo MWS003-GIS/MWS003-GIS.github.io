@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_140_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Puhudel Ghamula Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.036111, "Lng": 80.505278, "DSD": "Pasbage Korale", "District": "Kandy", "NoOfBenef": 22, "CmdArea": 0, "MainDSD": "Pasbagekorale", "MWS_ID": "140-1" }, "geometry": { "type": "Point", "coordinates": [ 80.505278, 7.036111 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Balanthota Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.028889, "Lng": 80.500278, "DSD": "Pasbage Korale", "District": "Kandy", "NoOfBenef": 5, "CmdArea": 0, "MainDSD": "Pasbagekorale", "MWS_ID": "140-1" }, "geometry": { "type": "Point", "coordinates": [ 80.500278, 7.028889 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Lewdeniya ela Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.034167, "Lng": 80.503056, "DSD": "Pasbage Korale", "District": "Kandy", "NoOfBenef": 15, "CmdArea": 0, "MainDSD": "Pasbagekorale", "MWS_ID": "140-1" }, "geometry": { "type": "Point", "coordinates": [ 80.503056, 7.034167 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Purawa ela Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.034722, "Lng": 80.501389, "DSD": "Pasbage Korale", "District": "Kandy", "NoOfBenef": 8, "CmdArea": 0, "MainDSD": "Pasbagekorale", "MWS_ID": "140-1" }, "geometry": { "type": "Point", "coordinates": [ 80.501389, 7.034722 ] } }
+]
+}

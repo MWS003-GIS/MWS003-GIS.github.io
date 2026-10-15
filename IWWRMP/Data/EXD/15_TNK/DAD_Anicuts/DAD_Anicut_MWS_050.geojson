@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_050",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "YATIKIBBALA", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 6.827452, "Lng": 80.846288, "DSD": "KOTHMALE", "District": "NUWARA ELIYA", "NoOfBenef": 0, "CmdArea": 0, "MainDSD": "Welimada", "MWS_ID": "050" }, "geometry": { "type": "Point", "coordinates": [ 80.846288, 6.827452 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "DORAGALWATHTHA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.825789, "Lng": 80.844605, "DSD": "KOTHMALE", "District": "NUWARA ELIYA", "NoOfBenef": 7, "CmdArea": 7, "MainDSD": "Welimada", "MWS_ID": "050" }, "geometry": { "type": "Point", "coordinates": [ 80.844605, 6.825789 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "PALLEDENIYA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.823519, "Lng": 80.842207, "DSD": "KOTHMALE", "District": "NUWARA ELIYA", "NoOfBenef": 0, "CmdArea": 1, "MainDSD": "Welimada", "MWS_ID": "050" }, "geometry": { "type": "Point", "coordinates": [ 80.842207, 6.823519 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "KAKKATADENIYA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.823519, "Lng": 80.842189, "DSD": "KOTHMALE", "District": "NUWARA ELIYA", "NoOfBenef": 15, "CmdArea": 2, "MainDSD": "Welimada", "MWS_ID": "050" }, "geometry": { "type": "Point", "coordinates": [ 80.842189, 6.823519 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kotakitula Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.817778, "Lng": 80.837778, "DSD": "Uva Paranagama", "District": "Badulla", "NoOfBenef": 510, "CmdArea": 33, "MainDSD": "Welimada", "MWS_ID": "050" }, "geometry": { "type": "Point", "coordinates": [ 80.837778, 6.817778 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "dambev ela Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.818889, "Lng": 80.840556, "DSD": "Uva Paranagama", "District": "Badulla", "NoOfBenef": 510, "CmdArea": 34, "MainDSD": "Welimada", "MWS_ID": "050" }, "geometry": { "type": "Point", "coordinates": [ 80.840556, 6.818889 ] } }
+]
+}

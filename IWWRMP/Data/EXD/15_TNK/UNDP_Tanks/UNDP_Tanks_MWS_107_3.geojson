@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_107_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 152, "JOIN_FID": 37, "Map_id": 7266, "Tank_name": "Alakoladeniya Wewa", "District": "Kandy", "ASC_": "Wattegama", "GND": "Meegamawatta", "GND_NO": "604", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.66169048, "Y_coordina": 7.33369932, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Pathadumbara", "MWS_ID": "107-3" }, "geometry": { "type": "Point", "coordinates": [ 80.661690480000061, 7.333699320000051 ] } }
+]
+}

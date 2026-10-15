@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_026",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "YATIKURUNDU ELA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.109442, "Lng": 80.866156, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 8, "CmdArea": 8, "MainDSD": "Walapane", "MWS_ID": "026" }, "geometry": { "type": "Point", "coordinates": [ 80.866156, 7.109442 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "GADUGUDAWA ELA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.120159, "Lng": 80.866004, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 5, "CmdArea": 0, "MainDSD": "Walapane", "MWS_ID": "026" }, "geometry": { "type": "Point", "coordinates": [ 80.866004, 7.120159 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "AMUNUMULLA AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.120159, "Lng": 80.866049, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 10, "CmdArea": 10, "MainDSD": "Walapane", "MWS_ID": "026" }, "geometry": { "type": "Point", "coordinates": [ 80.866049, 7.120159 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "SIYAMBALAKUMBURA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.096966, "Lng": 80.847957, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 168, "CmdArea": 6, "MainDSD": "Walapane", "MWS_ID": "026" }, "geometry": { "type": "Point", "coordinates": [ 80.847957, 7.096966 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "MADAWALAGAWA ELA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.096993, "Lng": 80.847867, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 168, "CmdArea": 0, "MainDSD": "Walapane", "MWS_ID": "026" }, "geometry": { "type": "Point", "coordinates": [ 80.847867, 7.096993 ] } }
+]
+}

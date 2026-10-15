@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_072",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 11, "JOIN_FID": 110, "Map_id": 4852, "Tank_name": "Purnewa", "District": "Badulla", "ASC_": "Batmedilla", "GND": "Galauda", "GND_NO": "35", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned", "X_coordina": 80.98466775, "Y_coordina": 7.03780517, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Kandeketiya", "MWS_ID": "072" }, "geometry": { "type": "Point", "coordinates": [ 80.984667750000085, 7.03780517000007 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 12, "JOIN_FID": 110, "Map_id": 4853, "Tank_name": "Udarawawewa", "District": "Badulla", "ASC_": "Batmedilla", "GND": "Galauda", "GND_NO": "35", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.98962188, "Y_coordina": 7.0319835, "Remark": null, "Remark2": null, "MainDSD": "Kandeketiya", "MWS_ID": "072" }, "geometry": { "type": "Point", "coordinates": [ 80.989621880000072, 7.031983500000024 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 13, "JOIN_FID": 110, "Map_id": 4857, "Tank_name": "Galkotuwewewa", "District": "Badulla", "ASC_": "Batmedilla", "GND": "Thalakumbura", "GND_NO": "35E", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.98873246, "Y_coordina": 7.02860011, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Kandeketiya", "MWS_ID": "072" }, "geometry": { "type": "Point", "coordinates": [ 80.988732460000051, 7.02860011000007 ] } }
+]
+}

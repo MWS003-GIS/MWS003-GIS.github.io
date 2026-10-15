@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_179_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 153, "JOIN_FID": 200, "Map_id": 17762, "Tank_name": "Untitled Placemark", "District": "Kandy", "ASC_": "Dalpitiya", "GND": "Doragala", "GND_NO": "1180", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned?", "X_coordina": 80.61537829, "Y_coordina": 7.0797245, "Remark": "Need to verify", "Remark2": "Not in database", "MainDSD": "Kothmale West", "MWS_ID": "179-2" }, "geometry": { "type": "Point", "coordinates": [ 80.615378290000081, 7.079724500000054 ] } }
+]
+}

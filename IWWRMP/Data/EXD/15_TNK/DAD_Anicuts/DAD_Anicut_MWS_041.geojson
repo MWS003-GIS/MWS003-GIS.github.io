@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_041",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "imbuldanda ela", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.193391, "Lng": 80.92561, "DSD": "Soranathota", "District": "Badulla", "NoOfBenef": 150, "CmdArea": 5, "MainDSD": "Nildandahinna", "MWS_ID": "041" }, "geometry": { "type": "Point", "coordinates": [ 80.92561, 7.193391 ] } }
+]
+}

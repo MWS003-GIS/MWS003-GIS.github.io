@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_071_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 41, "JOIN_FID": 112, "Map_id": 4951, "Tank_name": "Wegama Wewa", "District": "Badulla", "ASC_": "Haliela", "GND": "Wegama", "GND_NO": "77", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 81.00174247, "Y_coordina": 7.0138924, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Hali-Ela", "MWS_ID": "071-1" }, "geometry": { "type": "Point", "coordinates": [ 81.001742470000067, 7.013892400000032 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 42, "JOIN_FID": 112, "Map_id": 4952, "Tank_name": "Udenigama Wewa", "District": "Badulla", "ASC_": "Haliela", "GND": "Kokatiyamaluwa", "GND_NO": "77A", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.98499805, "Y_coordina": 7.01411277, "Remark": null, "Remark2": null, "MainDSD": "Hali-Ela", "MWS_ID": "071-1" }, "geometry": { "type": "Point", "coordinates": [ 80.984998050000058, 7.014112770000054 ] } }
+]
+}

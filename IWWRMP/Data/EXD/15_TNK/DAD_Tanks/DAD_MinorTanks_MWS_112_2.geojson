@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "name": "DAD_MinorTanks_MWS_112_2",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 23,
+        "JOIN_FID": 139,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Padiliwaththa Pathaha",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 483517.7,
+        "Y_Coord": 535715.3,
+        "Lat": 6.851644,
+        "Lng": 81.096893,
+        "DSD": "Gangawata Korale",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 13,
+        "CmdArea": 0.0,
+        "MainDSD": "Harispattuwa",
+        "MWS_ID": "112-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.62444756777265,
+          7.323754931677078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 45,
+        "JOIN_FID": 139,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Malagamimana Wewa",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 479715.1,
+        "Y_Coord": 535563.1,
+        "Lat": 6.817257,
+        "Lng": 81.095493,
+        "DSD": "Harispattuwa",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 15,
+        "CmdArea": 0.0,
+        "MainDSD": "Harispattuwa",
+        "MWS_ID": "112-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.59000670623973,
+          7.322365647942687
+        ]
+      }
+    }
+  ]
+}

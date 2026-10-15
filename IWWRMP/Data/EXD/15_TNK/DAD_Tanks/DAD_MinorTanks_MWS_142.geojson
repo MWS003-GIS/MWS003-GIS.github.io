@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_142",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 109, "JOIN_FID": 153, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Waveegama Vava", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 472274.6, "Y_Coord": 500335.7, "Lat": 6.750076, "Lng": 80.776774, "DSD": "Pasbage koralee", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 9, "CmdArea": 0.0, "MainDSD": "Pasbagekorale", "MWS_ID": "142" }, "geometry": { "type": "Point", "coordinates": [ 80.522792122349401, 7.003770583045784 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 110, "JOIN_FID": 153, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Habara Gollawa Vava", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 471630.5, "Y_Coord": 500919.7, "Lat": 6.744251, "Lng": 80.782057, "DSD": "Pasbage koralee", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 23, "CmdArea": 10.0, "MainDSD": "Pasbagekorale", "MWS_ID": "142" }, "geometry": { "type": "Point", "coordinates": [ 80.516959469027228, 7.009048559589202 ] } }
+]
+}

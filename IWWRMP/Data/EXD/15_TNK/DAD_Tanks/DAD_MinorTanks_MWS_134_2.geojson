@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "name": "DAD_MinorTanks_MWS_134_2",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 111,
+        "JOIN_FID": 144,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Haldola Wewa",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 473998.5,
+        "Y_Coord": 511085.3,
+        "Lat": 6.765657,
+        "Lng": 80.874021,
+        "DSD": "GAGA IHALA KORALE",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 2,
+        "CmdArea": 0.0,
+        "MainDSD": "Ganga Ihala Korale",
+        "MWS_ID": "134-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.53834545816328,
+          7.100988184109013
+        ]
+      }
+    }
+  ]
+}

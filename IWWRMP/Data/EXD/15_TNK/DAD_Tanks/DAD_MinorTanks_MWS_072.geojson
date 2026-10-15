@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_072",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 153, "JOIN_FID": 110, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Galkotuvegedara", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 523848.6, "Y_Coord": 504257.6, "Lat": 7.216468, "Lng": 80.812288, "DSD": "Kandakatiya", "District": "Badulla", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 390, "CmdArea": 65.0, "MainDSD": "Kandeketiya", "MWS_ID": "072" }, "geometry": { "type": "Point", "coordinates": [ 80.989606505164602, 7.03925689789756 ] } }
+]
+}

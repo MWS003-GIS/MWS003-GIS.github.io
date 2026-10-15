@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_118_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 101, "JOIN_FID": 143, "Map_id": 7188, "Tank_name": "Ranabima Wewa", "District": "Kandy", "ASC_": "Edanduwawa", "GND": "Gannoruwa East", "GND_NO": "133", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.5951479, "Y_coordina": 7.28211614, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Yatinuwara", "MWS_ID": "118-2" }, "geometry": { "type": "Point", "coordinates": [ 80.595147900000029, 7.282116140000028 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 102, "JOIN_FID": 143, "Map_id": 7189, "Tank_name": "Totapaladeniya Wewa", "District": "Kandy", "ASC_": "Edanduwawa", "GND": "Gannoruwa East", "GND_NO": "133", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.60032057, "Y_coordina": 7.27745807, "Remark": null, "Remark2": null, "MainDSD": "Yatinuwara", "MWS_ID": "118-2" }, "geometry": { "type": "Point", "coordinates": [ 80.600320570000065, 7.277458070000023 ] } }
+]
+}

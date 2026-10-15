@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_053",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "vangiyagoda", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 6.816357, "Lng": 80.923307, "DSD": "Tennekumbura", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 0, "MainDSD": "Welimada", "MWS_ID": "053" }, "geometry": { "type": "Point", "coordinates": [ 80.923307, 6.816357 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "neluva", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 6.826552, "Lng": 80.912381, "DSD": "Tennekumbura", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 0, "MainDSD": "Welimada", "MWS_ID": "053" }, "geometry": { "type": "Point", "coordinates": [ 80.912381, 6.826552 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Rathella amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.835, "Lng": 80.919167, "DSD": "Welimada", "District": "Badulla", "NoOfBenef": 9, "CmdArea": 9, "MainDSD": "Welimada", "MWS_ID": "053" }, "geometry": { "type": "Point", "coordinates": [ 80.919167, 6.835 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "valaravanikaattegoda Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.821111, "Lng": 80.873889, "DSD": "Welimada", "District": "Badulla", "NoOfBenef": 175, "CmdArea": 0, "MainDSD": "Welimada", "MWS_ID": "053" }, "geometry": { "type": "Point", "coordinates": [ 80.873889, 6.821111 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kudugale Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.820002, "Lng": 80.921119, "DSD": "Wangiyakumbura", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 6, "MainDSD": "Welimada", "MWS_ID": "053" }, "geometry": { "type": "Point", "coordinates": [ 80.921119, 6.820002 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "valeriyava Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.821111, "Lng": 80.873889, "DSD": "Welimada", "District": "Badulla", "NoOfBenef": 165, "CmdArea": 70, "MainDSD": "Welimada", "MWS_ID": "053" }, "geometry": { "type": "Point", "coordinates": [ 80.873889, 6.821111 ] } }
+]
+}

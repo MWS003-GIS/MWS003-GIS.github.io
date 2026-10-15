@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_126_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Atalaha Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.143611, "Lng": 80.585556, "DSD": "Udunuwara", "District": "Kandy", "NoOfBenef": 169, "CmdArea": 0, "MainDSD": "Udapalatha", "MWS_ID": "126-1" }, "geometry": { "type": "Point", "coordinates": [ 80.585556, 7.143611 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "pangasmulla Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.154167, "Lng": 80.582222, "DSD": "Doluwa", "District": "kandy", "NoOfBenef": 15, "CmdArea": 0, "MainDSD": "Udapalatha", "MWS_ID": "126-1" }, "geometry": { "type": "Point", "coordinates": [ 80.582222, 7.154167 ] } }
+]
+}

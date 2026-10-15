@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_001",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 140, "JOIN_FID": 50, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Haith Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 491395.9, "Y_Coord": 519434.0, "Lat": 6.922963, "Lng": 80.949604, "DSD": "Delthota", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 0, "CmdArea": 0.0, "MainDSD": "Deltota", "MWS_ID": "001" }, "geometry": { "type": "Point", "coordinates": [ 80.695829416075739, 7.176540492060031 ] } }
+]
+}

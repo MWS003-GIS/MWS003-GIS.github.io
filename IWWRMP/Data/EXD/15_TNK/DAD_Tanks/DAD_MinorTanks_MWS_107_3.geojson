@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "name": "DAD_MinorTanks_MWS_107_3",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 105,
+        "JOIN_FID": 37,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Paragaha Anga Pathaha",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 488363.2,
+        "Y_Coord": 537004.0,
+        "Lat": 6.895454,
+        "Lng": 81.108583,
+        "DSD": "Kundasale",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 0,
+        "CmdArea": 0.0,
+        "MainDSD": "Pathadumbara",
+        "MWS_ID": "107-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.66833216872179,
+          7.335421350681664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 147,
+        "JOIN_FID": 37,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Hembadeniya Pathaha",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 490877.5,
+        "Y_Coord": 536327.7,
+        "Lat": 6.918196,
+        "Lng": 81.102479,
+        "DSD": "PATHADUMBARA",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 85,
+        "CmdArea": 0.0,
+        "MainDSD": "Pathadumbara",
+        "MWS_ID": "107-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69110685506402,
+          7.329310444438207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 148,
+        "JOIN_FID": 37,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Wewe Kumbura Pathaha",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 490141.6,
+        "Y_Coord": 536358.5,
+        "Lat": 6.91154,
+        "Lng": 81.102754,
+        "DSD": "PATHADUMBARA",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 85,
+        "CmdArea": 0.0,
+        "MainDSD": "Pathadumbara",
+        "MWS_ID": "107-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.68444139969465,
+          7.329587657281383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 149,
+        "JOIN_FID": 37,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Walala Wel Yaye Pathaha",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 490325.6,
+        "Y_Coord": 536573.5,
+        "Lat": 6.913203,
+        "Lng": 81.1047,
+        "DSD": "PATHADUMBARA",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 85,
+        "CmdArea": 0.0,
+        "MainDSD": "Pathadumbara",
+        "MWS_ID": "107-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.68610758525764,
+          7.331532246443122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 150,
+        "JOIN_FID": 37,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Pihili Aramba Pathaha",
+        "Ownership": "DAD",
+        "Functional": "Abandoned",
+        "X_Coord": 490356.2,
+        "Y_Coord": 536235.6,
+        "Lat": 6.913482,
+        "Lng": 81.101643,
+        "DSD": "PATHADUMBARA",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 85,
+        "CmdArea": 0.0,
+        "MainDSD": "Pathadumbara",
+        "MWS_ID": "107-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.68638535860545,
+          7.328476661625529
+        ]
+      }
+    }
+  ]
+}

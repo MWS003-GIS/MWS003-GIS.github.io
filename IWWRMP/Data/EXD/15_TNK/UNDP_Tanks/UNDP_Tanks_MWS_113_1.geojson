@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_113_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 124, "JOIN_FID": 138, "Map_id": 7222, "Tank_name": "Palkumbura Wewa", "District": "Kandy", "ASC_": "Medawala", "GND": "Gonigoda-Palkumbura", "GND_NO": "468", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned", "X_coordina": 80.57517283, "Y_coordina": 7.34928764, "Remark": null, "Remark2": null, "MainDSD": "Harispattuwa", "MWS_ID": "113-1" }, "geometry": { "type": "Point", "coordinates": [ 80.575172830000042, 7.349287640000057 ] } }
+]
+}

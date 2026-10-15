@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_127_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "bittarap ela Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.214167, "Lng": 80.611667, "DSD": "Yatinuwara", "District": "kandy", "NoOfBenef": 62, "CmdArea": 0, "MainDSD": "Doluwa", "MWS_ID": "127-1" }, "geometry": { "type": "Point", "coordinates": [ 80.611667, 7.214167 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "payingamuva amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.227778, "Lng": 80.618611, "DSD": "gangavata koralaya", "District": "kandy", "NoOfBenef": 60, "CmdArea": 39, "MainDSD": "Doluwa", "MWS_ID": "127-1" }, "geometry": { "type": "Point", "coordinates": [ 80.618611, 7.227778 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "Amune ela Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.216389, "Lng": 80.627778, "DSD": "Kundasale", "District": "kandy", "NoOfBenef": 42, "CmdArea": 0, "MainDSD": "Doluwa", "MWS_ID": "127-1" }, "geometry": { "type": "Point", "coordinates": [ 80.627778, 7.216389 ] } }
+]
+}

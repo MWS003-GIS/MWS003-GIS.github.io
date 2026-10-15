@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_134_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 115, "JOIN_FID": 144, "Map_id": 7212, "Tank_name": "Untitled Placemark", "District": "Kandy", "ASC_": "Kuruduwatta", "GND": "Pitakanda", "GND_NO": "1054", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Abandoned?", "X_coordina": 80.53255133, "Y_coordina": 7.09389551, "Remark": "Need to verify", "Remark2": "Not in database", "MainDSD": "Ganga Ihala Korale", "MWS_ID": "134-2" }, "geometry": { "type": "Point", "coordinates": [ 80.532551330000047, 7.093895510000038 ] } }
+]
+}

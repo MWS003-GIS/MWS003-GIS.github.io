@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_121",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 133, "JOIN_FID": 179, "Map_id": 7239, "Tank_name": "Paragedianga Wewa", "District": "Kandy", "ASC_": "Petiyagoda", "GND": "Uda Aludeniya", "GND_NO": "42", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.59261326, "Y_coordina": 7.19376866, "Remark": null, "Remark2": null, "MainDSD": "Udunuwara", "MWS_ID": "121" }, "geometry": { "type": "Point", "coordinates": [ 80.592613260000064, 7.193768660000046 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 147, "JOIN_FID": 179, "Map_id": 7253, "Tank_name": "Wewealdeniya Wewa", "District": "Kandy", "ASC_": "Talawatura", "GND": "Hondiyadeniya", "GND_NO": "51", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.58150927, "Y_coordina": 7.19456246, "Remark": null, "Remark2": null, "MainDSD": "Udunuwara", "MWS_ID": "121" }, "geometry": { "type": "Point", "coordinates": [ 80.581509270000083, 7.194562460000043 ] } }
+]
+}

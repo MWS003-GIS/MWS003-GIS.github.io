@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_061",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 45, "JOIN_FID": 99, "Map_id": 4956, "Tank_name": "Lahu Wewa", "District": "Badulla", "ASC_": "Keppetipola", "GND": "Welimada watta", "GND_NO": "48C", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.89335769, "Y_coordina": 6.90311149, "Remark": null, "Remark2": null, "MainDSD": "Welimada", "MWS_ID": "061" }, "geometry": { "type": "Point", "coordinates": [ 80.893357690000073, 6.903111490000072 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 49, "JOIN_FID": 99, "Map_id": 4960, "Tank_name": "Kaludiyawala Wewa", "District": "Badulla", "ASC_": "Keppetipola", "GND": "Erabadda", "GND_NO": "50E", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.87661631, "Y_coordina": 6.88736078, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Welimada", "MWS_ID": "061" }, "geometry": { "type": "Point", "coordinates": [ 80.876616310000031, 6.887360780000051 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 52, "JOIN_FID": 99, "Map_id": 4963, "Tank_name": "Bindunu Wewa", "District": "Badulla", "ASC_": "Keppetipola", "GND": "Puranwela", "GND_NO": "50I", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.88001271, "Y_coordina": 6.89139697, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Welimada", "MWS_ID": "061" }, "geometry": { "type": "Point", "coordinates": [ 80.880012710000074, 6.891396970000073 ] } }
+]
+}

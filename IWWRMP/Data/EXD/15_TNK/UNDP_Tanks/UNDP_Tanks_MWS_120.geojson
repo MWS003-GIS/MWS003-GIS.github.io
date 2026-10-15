@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_120",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 104, "JOIN_FID": 142, "Map_id": 7193, "Tank_name": "Sikurapotha Wewa", "District": "Kandy", "ASC_": "Giragama", "GND": "Wathurakumbura", "GND_NO": "157", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.54030438, "Y_coordina": 7.29266481, "Remark": null, "Remark2": null, "MainDSD": "Yatinuwara", "MWS_ID": "120" }, "geometry": { "type": "Point", "coordinates": [ 80.540304380000066, 7.292664810000076 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 108, "JOIN_FID": 142, "Map_id": 7197, "Tank_name": "Parakatawella Wewa", "District": "Kandy", "ASC_": "Giragama", "GND": "Parakatawella", "GND_NO": "181", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.54430295, "Y_coordina": 7.28466228, "Remark": null, "Remark2": null, "MainDSD": "Yatinuwara", "MWS_ID": "120" }, "geometry": { "type": "Point", "coordinates": [ 80.544302950000031, 7.28466228000002 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 126, "JOIN_FID": 142, "Map_id": 7225, "Tank_name": "Walgampaya Wewa", "District": "Kandy", "ASC_": "Menikdivela", "GND": "Walgampaya", "GND_NO": "211", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.52680102, "Y_coordina": 7.28652397, "Remark": null, "Remark2": null, "MainDSD": "Yatinuwara", "MWS_ID": "120" }, "geometry": { "type": "Point", "coordinates": [ 80.52680102000005, 7.286523970000076 ] } }
+]
+}

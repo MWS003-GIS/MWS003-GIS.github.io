@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_017",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "ALHENA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.074179, "Lng": 80.794183, "DSD": "HANGURANKETHA", "District": "NUWARA ELIYA", "NoOfBenef": 4, "CmdArea": 3, "MainDSD": "Mathurata", "MWS_ID": "017" }, "geometry": { "type": "Point", "coordinates": [ 80.794183, 7.074179 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "NAYABUNGE PARE AMUNA", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.041048, "Lng": 80.800218, "DSD": "WALAPANE", "District": "NUWARA ELIYA", "NoOfBenef": 11, "CmdArea": 4, "MainDSD": "Mathurata", "MWS_ID": "017" }, "geometry": { "type": "Point", "coordinates": [ 80.800218, 7.041048 ] } }
+]
+}

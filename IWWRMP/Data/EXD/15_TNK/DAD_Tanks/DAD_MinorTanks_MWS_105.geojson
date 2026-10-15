@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_105",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 81, "JOIN_FID": 33, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Gonawala Pathaha", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 495906.3, "Y_Coord": 532917.5, "Lat": 6.963691, "Lng": 81.071648, "DSD": "Kundasale", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 30, "CmdArea": 10.0, "MainDSD": "Kundasale", "MWS_ID": "105" }, "geometry": { "type": "Point", "coordinates": [ 80.736657852449184, 7.298478173072043 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 85, "JOIN_FID": 33, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Ahaspokuna Pathaha", "Ownership": "DAD", "Functional": "Abandoned", "X_Coord": 495998.3, "Y_Coord": 532764.0, "Lat": 6.964524, "Lng": 81.070258, "DSD": "Kundasale", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 50, "CmdArea": 1.0, "MainDSD": "Kundasale", "MWS_ID": "105" }, "geometry": { "type": "Point", "coordinates": [ 80.737491203884844, 7.297090136919769 ] } }
+]
+}

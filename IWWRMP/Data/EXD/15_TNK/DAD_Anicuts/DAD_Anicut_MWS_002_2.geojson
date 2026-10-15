@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_002_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "patana ela amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.159722, "Lng": 80.731111, "DSD": "Delthota", "District": "Kandy", "NoOfBenef": 150, "CmdArea": 13, "MainDSD": "Hanguranketa", "MWS_ID": "002-2" }, "geometry": { "type": "Point", "coordinates": [ 80.731111, 7.159722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "otalava Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.106569, "Lng": 80.704541, "DSD": "Uva Paranagama", "District": "Badulla", "NoOfBenef": 10, "CmdArea": 11, "MainDSD": "Hanguranketa", "MWS_ID": "002-2" }, "geometry": { "type": "Point", "coordinates": [ 80.704541, 7.106569 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "gannila Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.108773, "Lng": 80.70265, "DSD": "Uva Paranagama", "District": "Badulla", "NoOfBenef": 44, "CmdArea": 12, "MainDSD": "Hanguranketa", "MWS_ID": "002-2" }, "geometry": { "type": "Point", "coordinates": [ 80.70265, 7.108773 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "tambiarava Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.103633, "Lng": 80.703963, "DSD": "Uva Paranagama", "District": "Badulla", "NoOfBenef": 64, "CmdArea": 33, "MainDSD": "Hanguranketa", "MWS_ID": "002-2" }, "geometry": { "type": "Point", "coordinates": [ 80.703963, 7.103633 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kahatagaha Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.106275, "Lng": 80.703358, "DSD": "Uva Paranagama", "District": "Badulla", "NoOfBenef": 88, "CmdArea": 28, "MainDSD": "Hanguranketa", "MWS_ID": "002-2" }, "geometry": { "type": "Point", "coordinates": [ 80.703358, 7.106275 ] } }
+]
+}

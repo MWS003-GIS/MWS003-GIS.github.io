@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_051",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "vjekon Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 6.811418, "Lng": 80.894906, "DSD": "Heat", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 40, "MainDSD": "Welimada", "MWS_ID": "051" }, "geometry": { "type": "Point", "coordinates": [ 80.894906, 6.811418 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kalupeliya Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 6.79599, "Lng": 80.896359, "DSD": "Palace", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 12, "MainDSD": "Welimada", "MWS_ID": "051" }, "geometry": { "type": "Point", "coordinates": [ 80.896359, 6.79599 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "yalpatv ela Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 6.802541, "Lng": 80.881795, "DSD": "Heat", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 9, "MainDSD": "Welimada", "MWS_ID": "051" }, "geometry": { "type": "Point", "coordinates": [ 80.881795, 6.802541 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "nuvarapissav ela Amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 6.798893, "Lng": 80.895627, "DSD": "The outlet", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 7, "MainDSD": "Welimada", "MWS_ID": "051" }, "geometry": { "type": "Point", "coordinates": [ 80.895627, 6.798893 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "poluhinna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 6.789, "Lng": 80.893444, "DSD": "The outlet", "District": "Badulla", "NoOfBenef": 0, "CmdArea": 6, "MainDSD": "Welimada", "MWS_ID": "051" }, "geometry": { "type": "Point", "coordinates": [ 80.893444, 6.789 ] } }
+]
+}

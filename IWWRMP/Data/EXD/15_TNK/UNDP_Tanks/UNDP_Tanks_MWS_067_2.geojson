@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UNDP_Tanks_MWS_067_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 6, "JOIN_FID": 119, "Map_id": 4846, "Tank_name": "Ahaspokuna Wewa", "District": "Badulla", "ASC_": "Bandarawela", "GND": "Ettalapitiya", "GND_NO": "67", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Damaged", "X_coordina": 80.99866363, "Y_coordina": 6.86469424, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Bandarawela", "MWS_ID": "067-2" }, "geometry": { "type": "Point", "coordinates": [ 80.998663630000067, 6.864694240000063 ] } },
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 10, "JOIN_FID": 119, "Map_id": 4850, "Tank_name": "Kolatanna Wewa", "District": "Badulla", "ASC_": "Bandarawela", "GND": "Kirioruwa", "GND_NO": "67E", "Basin_No": 60, "River_Basi": "Mahaweli Ganga", "Tank_owner": "DAD", "Tank_funct": "Functioning", "X_coordina": 80.99492612, "Y_coordina": 6.86951991, "Remark": "Cannot see on Google", "Remark2": null, "MainDSD": "Bandarawela", "MWS_ID": "067-2" }, "geometry": { "type": "Point", "coordinates": [ 80.994926120000059, 6.869519910000065 ] } }
+]
+}

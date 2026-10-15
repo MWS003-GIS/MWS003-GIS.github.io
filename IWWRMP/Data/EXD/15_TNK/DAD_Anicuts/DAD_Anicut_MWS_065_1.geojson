@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_065_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kuda Amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.858557, "Lng": 80.964101, "DSD": "Haliela", "District": "Badulla", "NoOfBenef": 210, "CmdArea": 4, "MainDSD": "Bandarawela", "MWS_ID": "065-1" }, "geometry": { "type": "Point", "coordinates": [ 80.964101, 6.858557 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "galuhanauda", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.849152, "Lng": 80.963482, "DSD": "Bandarawela", "District": "Badulla", "NoOfBenef": 15, "CmdArea": 12, "MainDSD": "Bandarawela", "MWS_ID": "065-1" }, "geometry": { "type": "Point", "coordinates": [ 80.963482, 6.849152 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kebb elandaihala", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.843137, "Lng": 80.967895, "DSD": "Bandarawela", "District": "Badulla", "NoOfBenef": 15, "CmdArea": 15, "MainDSD": "Bandarawela", "MWS_ID": "065-1" }, "geometry": { "type": "Point", "coordinates": [ 80.967895, 6.843137 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kebbalandapahala", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.843995, "Lng": 80.968203, "DSD": "Bandarawela", "District": "Badulla", "NoOfBenef": 15, "CmdArea": 10, "MainDSD": "Bandarawela", "MWS_ID": "065-1" }, "geometry": { "type": "Point", "coordinates": [ 80.968203, 6.843995 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "purankumbura", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.852398, "Lng": 80.964831, "DSD": "Bandarawela", "District": "Badulla", "NoOfBenef": 14, "CmdArea": 0, "MainDSD": "Bandarawela", "MWS_ID": "065-1" }, "geometry": { "type": "Point", "coordinates": [ 80.964831, 6.852398 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "alakolaarava", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.860015, "Lng": 80.957985, "DSD": "Bandarawela", "District": "Badulla", "NoOfBenef": 120, "CmdArea": 3, "MainDSD": "Bandarawela", "MWS_ID": "065-1" }, "geometry": { "type": "Point", "coordinates": [ 80.957985, 6.860015 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "dalukella", "Ownership": "DAD", "Functional": "Functioning", "Lat": 6.864529, "Lng": 80.954639, "DSD": "Bandarawela", "District": "Badulla", "NoOfBenef": 120, "CmdArea": 0, "MainDSD": "Bandarawela", "MWS_ID": "065-1" }, "geometry": { "type": "Point", "coordinates": [ 80.954639, 6.864529 ] } }
+]
+}

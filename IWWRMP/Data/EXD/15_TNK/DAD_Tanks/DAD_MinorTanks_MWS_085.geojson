@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_MinorTanks_MWS_085",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Join_Count": 1, "TARGET_FID": 63, "JOIN_FID": 23, "Id": null, "CatId": "DAD-Small Tanks", "Category": "Small Tank", "Name": "Ela Golla Wewa", "Ownership": "DAD", "Functional": "Functioning", "X_Coord": 502254.3, "Y_Coord": 535466.8, "Lat": 7.021082, "Lng": 81.094758, "DSD": "Medadumbara", "District": "Kandy", "RiverBasin": "Mahaweli Ganga", "RB_Code": 60, "NoOfBenef": 5, "CmdArea": 0.0, "MainDSD": "Medadumbara", "MWS_ID": "085" }, "geometry": { "type": "Point", "coordinates": [ 80.794151752623122, 7.321533014755847 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DAD_Anicut_MWS_135",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kudamake amuna", "Ownership": "DAD", "Functional": "Functioning", "Lat": 7.139722, "Lng": 80.562222, "DSD": "gaga ihala korale", "District": "kandy", "NoOfBenef": 95, "CmdArea": 5, "MainDSD": "Ganga Ihala Korale", "MWS_ID": "135" }, "geometry": { "type": "Point", "coordinates": [ 80.562222, 7.139722 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "hathugoda amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.151944, "Lng": 80.555278, "DSD": "gaga ihala korale", "District": "kandy", "NoOfBenef": 95, "CmdArea": 10, "MainDSD": "Ganga Ihala Korale", "MWS_ID": "135" }, "geometry": { "type": "Point", "coordinates": [ 80.555278, 7.151944 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "kanamadiliya oea amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.124167, "Lng": 80.561667, "DSD": "gaga ihala korale", "District": "kandy", "NoOfBenef": 65, "CmdArea": 15, "MainDSD": "Ganga Ihala Korale", "MWS_ID": "135" }, "geometry": { "type": "Point", "coordinates": [ 80.561667, 7.124167 ] } },
+{ "type": "Feature", "properties": { "CatId": "DAD-Anicuts", "Category": "Anucut", "Name": "gatane amuna", "Ownership": "DAD", "Functional": "Abandoned", "Lat": 7.124444, "Lng": 80.559722, "DSD": "gaga ihala korale", "District": "kandy", "NoOfBenef": 70, "CmdArea": 0, "MainDSD": "Ganga Ihala Korale", "MWS_ID": "135" }, "geometry": { "type": "Point", "coordinates": [ 80.559722, 7.124444 ] } }
+]
+}

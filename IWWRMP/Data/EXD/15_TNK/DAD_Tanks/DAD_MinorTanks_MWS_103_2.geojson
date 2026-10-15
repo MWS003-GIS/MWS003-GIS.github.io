@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "name": "DAD_MinorTanks_MWS_103_2",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 69,
+        "JOIN_FID": 130,
+        "Id": null,
+        "CatId": "DAD-Small Tanks",
+        "Category": "Small Tank",
+        "Name": "Unagas Kotuwa Pathaha",
+        "Ownership": "DAD",
+        "Functional": "Functioning",
+        "X_Coord": 490356.1,
+        "Y_Coord": 535867.0,
+        "Lat": 6.913483,
+        "Lng": 81.098307,
+        "DSD": "Kundasale",
+        "District": "Kandy",
+        "RiverBasin": "Mahaweli Ganga",
+        "RB_Code": 60,
+        "NoOfBenef": 180,
+        "CmdArea": 0.0,
+        "MainDSD": "Pathadumbara",
+        "MWS_ID": "103-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6863851214356,
+          7.325143399551432
+        ]
+      }
+    }
+  ]
+}
