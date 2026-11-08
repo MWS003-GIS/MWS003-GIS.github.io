@@ -1,8 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "SWC_Off",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No_": 3, "GN_Divisio": "55 A", "GN_Divis_1": "Pallegama", "Key_Activi": "1. Establishing a retaining wall - Road to Ariyathenna Village", "Priority_b": 1, "N": 6.913189, "E": 80.959832, "Quantity": "4 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": 473000, "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_069/IMG_20250925_122250 Ariyathenna village road.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.959832, 6.913189 ] } }
-]
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "55",
+    "GND Name": "Ettampitiya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.934728487",
+    "E": "80.98360997",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98360997,
+     6.934728487
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "56",
+    "GND Name": "Dehiwinna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.922725753",
+    "E": "80.97472028",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97472028,
+     6.922725753
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "55 A",
+    "GND Name": "Pallegama",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Road to Ariyathenna Village",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "6.913189",
+    "E": "80.959832",
+    "Quantity": "4 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "473000",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_069/IMG_20250925_122250 Ariyathenna village road.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.959832,
+     6.913189
+    ]
+   }
+  }
+ ]
 }

@@ -1,0 +1,122 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "77",
+    "GN Division": "Wegama",
+    "Landslides": "Landsliding - Saraniya Watta No. 2 Part B",
+    "Location_Detail": "Approximation",
+    "N": "7.01528224",
+    "E": "81.00656172",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.00656172,
+     7.01528224
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "75C",
+    "GN Division": "Ketawala",
+    "Landslides": "Landsliding (prone) - Sooriyapura/ Serendib",
+    "Location_Detail": "Approximation",
+    "N": "6.988253321",
+    "E": "81.01321706",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "The Divisional Secretariat has provided alternative lands to the affected families.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.01321706,
+     6.988253321
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "76A",
+    "GN Division": "Landewela",
+    "Landslides": "No special issues are reported. Actions have been taken already for the reported cases.",
+    "Location_Detail": "Approximation",
+    "N": "7.002523813",
+    "E": "81.00397236",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.00397236,
+     7.002523813
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "77B",
+    "GN Division": "Jagulla",
+    "Landslides": "Landsliding - Appalla Bedda",
+    "Location_Detail": "Approximation",
+    "N": "7.002147079",
+    "E": "81.0137438",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "New lands to be provided. Follow recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.0137438,
+     7.002147079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "77A",
+    "GN Division": "Kotiyamaluwa",
+    "Landslides": "No special issues are reported. Actions have been taken already for the reported cases.",
+    "Location_Detail": "Approximation",
+    "N": "7.021861818",
+    "E": "80.97819688",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97819688,
+     7.021861818
+    ]
+   }
+  }
+ ]
+}
