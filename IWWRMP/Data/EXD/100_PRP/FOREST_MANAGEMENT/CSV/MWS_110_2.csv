@@ -1,0 +1,4 @@
+Activity,Location,Number and Units,Unit Cost (LKR),Cost (LKR),Duration
+Conduct an awareness program,Kasawatta Rd.,1,43000,=C2*D2,2027
+Distribute forest and spice plants for enrich home garden's watershed function,Kasawatta Rd.,10*15,6600,66000,2027-2028
+Total,,,,=SUM(E2:E3),

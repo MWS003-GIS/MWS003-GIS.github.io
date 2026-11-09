@@ -1,0 +1,62 @@
+{
+ "type": "FeatureCollection",
+ "name": "MWS_144_1",
+ "bbox": [
+  80.54213801814734,
+  6.930222386232132,
+  80.54217875394068,
+  6.930286208568121
+ ],
+ "crs_note": "WGS84 (EPSG:4326), as plotted by folium/Leaflet",
+ "unmatched_activities": [],
+ "features": [
+  {
+   "type": "Feature",
+   "id": "3",
+   "properties": {
+    "FID_FC_201": 816,
+    "FOREST_NAM": "AGARAWATTA",
+    "n_activities": 0,
+    "site_cost_lkr": 0.0,
+    "style_fill_color": "#bdbdbd",
+    "style_fill_opacity": 0.7,
+    "style_stroke_color": "#333",
+    "style_stroke_weight": 1,
+    "popup_name": "AGARAWATTA",
+    "popup_sub": "Forest Plantation · ID 816",
+    "popup_id": 816,
+    "popup_fact_area": "46.27 ha",
+    "popup_fact_species": "Pinus",
+    "popup_fact_activities": "0",
+    "popup_division": "Nuwaraeliya",
+    "popup_range": "Hatton",
+    "popup_beat": "Watawala",
+    "activities": [],
+    "popup_note": "No activity in the management plan."
+   },
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       80.54213801814734,
+       6.930222386232132
+      ],
+      [
+       80.54217875394068,
+       6.930286208568121
+      ],
+      [
+       80.54217028516044,
+       6.930233151516021
+      ],
+      [
+       80.54213801814734,
+       6.930222386232132
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   }
+  }
+ ]
+}

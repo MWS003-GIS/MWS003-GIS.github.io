@@ -11,7 +11,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "60",
+    "No": "1",
     "GND No.": "57A",
     "Name of the Tank": "Mee ambe well",
     "Location_Detail": "Exact",
@@ -33,7 +33,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "61",
+    "No": "2",
     "GND No.": "57A",
     "Name of the Tank": "Panwewa well",
     "Location_Detail": "Exact",
@@ -55,7 +55,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "62",
+    "No": "3",
     "GND No.": "57A",
     "Name of the Tank": "Semba Ulpatha  reserve",
     "Location_Detail": "Exact",
@@ -77,7 +77,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "63",
+    "No": "4",
     "GND No.": "57A",
     "Name of the Tank": "Udabedda Ella reserve",
     "Location_Detail": "Exact",
@@ -99,7 +99,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "66",
+    "No": "5",
     "GND No.": "57H",
     "Name of the Tank": "Galkanda reserve",
     "Location_Detail": "Exact",
@@ -121,7 +121,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "67",
+    "No": "6",
     "GND No.": "57H",
     "Name of the Tank": "Dunugehinna reserve",
     "Location_Detail": "Exact",
@@ -143,7 +143,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "68",
+    "No": "7",
     "GND No.": "57H",
     "Name of the Tank": "Meenakoladowa",
     "Location_Detail": "Exact",
@@ -165,7 +165,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "69",
+    "No": "8",
     "GND No.": "57H",
     "Name of the Tank": "Madawalakapalla",
     "Location_Detail": "Exact",
@@ -187,7 +187,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "70",
+    "No": "9",
     "GND No.": "57H",
     "Name of the Tank": "Aluththenna",
     "Location_Detail": "Exact",
@@ -209,7 +209,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "71",
+    "No": "10",
     "GND No.": "57H",
     "Name of the Tank": "Diyaunnawa ella reserve",
     "Location_Detail": "Exact",
@@ -231,7 +231,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "72",
+    "No": "11",
     "GND No.": "57G",
     "Name of the Tank": "Hadilla gas ulpatha reserve",
     "Location_Detail": "Exact",
@@ -253,7 +253,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "73",
+    "No": "12",
     "GND No.": "57G",
     "Name of the Tank": "Kalavitithanna reserve",
     "Location_Detail": "Exact",
@@ -275,7 +275,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "74",
+    "No": "13",
     "GND No.": "57G",
     "Name of the Tank": "Kalawitithenna",
     "Location_Detail": "Exact",
@@ -297,7 +297,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "75",
+    "No": "14",
     "GND No.": "57C",
     "Name of the Tank": "Lindathanna Spring(Bulathwel kandura)",
     "Location_Detail": "Exact",
@@ -319,7 +319,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "76",
+    "No": "15",
     "GND No.": "57C",
     "Name of the Tank": "Boragas Spring",
     "Location_Detail": "Exact",
@@ -341,7 +341,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "77",
+    "No": "16",
     "GND No.": "57E",
     "Name of the Tank": "Amunubedda",
     "Location_Detail": "Exact",
@@ -363,7 +363,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "78",
+    "No": "17",
     "GND No.": "57E",
     "Name of the Tank": "Gonamal pilla  reserve",
     "Location_Detail": "Exact",
@@ -385,7 +385,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "79",
+    "No": "18",
     "GND No.": "57E",
     "Name of the Tank": "Mahathenna pathana(Near the temple)",
     "Location_Detail": "Exact",
@@ -407,7 +407,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "80",
+    "No": "19",
     "GND No.": "57E",
     "Name of the Tank": "Mahathenna pathana(Near the temple)",
     "Location_Detail": "Exact",
@@ -429,7 +429,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "81",
+    "No": "20",
     "GND No.": "57E",
     "Name of the Tank": "Dikroda",
     "Location_Detail": "Exact",
@@ -451,7 +451,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "64",
+    "No": "21",
     "GND No.": "57H",
     "Name of the Tank": "Sapugolla reserve",
     "Location_Detail": "Exact",
@@ -473,7 +473,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "82",
+    "No": "22",
     "GND No.": "57",
     "Name of the Tank": "Dikroda",
     "Location_Detail": "Exact",
@@ -495,7 +495,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "83",
+    "No": "23",
     "GND No.": "57",
     "Name of the Tank": "Medaulpatha",
     "Location_Detail": "Exact",
@@ -517,7 +517,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "84",
+    "No": "24",
     "GND No.": "57",
     "Name of the Tank": "Gasgolla",
     "Location_Detail": "Exact",
@@ -539,7 +539,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "85",
+    "No": "25",
     "GND No.": "57",
     "Name of the Tank": "Watabedda",
     "Location_Detail": "Exact",
@@ -561,7 +561,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "86",
+    "No": "26",
     "GND No.": "57",
     "Name of the Tank": "Dikroda reserve",
     "Location_Detail": "Exact",
@@ -583,7 +583,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "87",
+    "No": "27",
     "GND No.": "57",
     "Name of the Tank": "Maliththa division and mahathenna",
     "Location_Detail": "Exact",

@@ -11,7 +11,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "69",
+    "No": "1",
     "GND No.": "55 C",
     "Scheme": "Medahinna pahala Ela",
     "Location_Detail": "Exact",
@@ -33,7 +33,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "64",
+    "No": "2",
     "GND No.": "55 C",
     "Scheme": "Weragama Ela",
     "Location_Detail": "Exact",
@@ -55,7 +55,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "67",
+    "No": "3",
     "GND No.": "55 C",
     "Scheme": "Thabakumbura Ela",
     "Location_Detail": "Exact",
@@ -77,7 +77,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "72",
+    "No": "4",
     "GND No.": "56 D",
     "Scheme": "Gedarawelayaya Canal",
     "Location_Detail": "Exact",
@@ -99,7 +99,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "76",
+    "No": "5",
     "GND No.": "56 E",
     "Scheme": "Stream in the upper side of Gunakandura",
     "Location_Detail": "Exact",
@@ -121,7 +121,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "77",
+    "No": "6",
     "GND No.": "75 B",
     "Scheme": "Lokanarawa Ela",
     "Location_Detail": "Exact",
@@ -143,7 +143,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "78",
+    "No": "7",
     "GND No.": "75 B",
     "Scheme": "Dunukepotha Ela",
     "Location_Detail": "Exact",
@@ -165,7 +165,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "79",
+    "No": "8",
     "GND No.": "75 D",
     "Scheme": "Ambalankapuwa Ela",
     "Location_Detail": "Exact",
@@ -187,7 +187,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "80",
+    "No": "9",
     "GND No.": "75 D",
     "Scheme": "Pahala Kendagolla Ela",
     "Location_Detail": "Exact",
@@ -209,7 +209,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "81",
+    "No": "10",
     "GND No.": "75 D",
     "Scheme": "Eranawela Ela and Anicut",
     "Location_Detail": "Exact",
@@ -231,7 +231,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "74",
+    "No": "11",
     "GND No.": "75 D",
     "Scheme": "Lindakumbura yaya canal",
     "Location_Detail": "Exact",

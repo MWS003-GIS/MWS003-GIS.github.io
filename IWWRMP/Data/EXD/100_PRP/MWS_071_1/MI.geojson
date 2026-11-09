@@ -11,7 +11,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "82",
+    "No": "1",
     "GND No.": "77",
     "Scheme": "Gallalla Kumbura Canal",
     "Location_Detail": "Exact",
@@ -33,7 +33,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "83",
+    "No": "2",
     "GND No.": "77",
     "Scheme": "Iluka Canal",
     "Location_Detail": "Exact",
@@ -55,7 +55,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "84",
+    "No": "3",
     "GND No.": "77",
     "Scheme": "Kirimatiya Galpoththa Canal",
     "Location_Detail": "Exact",
@@ -77,7 +77,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "85",
+    "No": "4",
     "GND No.": "77",
     "Scheme": "Hawane Canal",
     "Location_Detail": "Exact",
@@ -99,7 +99,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "86",
+    "No": "5",
     "GND No.": "77 A",
     "Scheme": "Udenigama Canal",
     "Location_Detail": "Exact",
@@ -121,7 +121,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "87",
+    "No": "6",
     "GND No.": "77 A",
     "Scheme": "Hadiyakumbura Canal",
     "Location_Detail": "Exact",
@@ -143,7 +143,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "88",
+    "No": "7",
     "GND No.": "77 A",
     "Scheme": "Kahatadanda Canal",
     "Location_Detail": "Exact",
@@ -165,7 +165,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "89",
+    "No": "8",
     "GND No.": "76",
     "Scheme": "Mahakumbura Canal",
     "Location_Detail": "Exact",
@@ -187,7 +187,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "90",
+    "No": "9",
     "GND No.": "76",
     "Scheme": "Karanda Canal",
     "Location_Detail": "Exact",
@@ -209,7 +209,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "91",
+    "No": "10",
     "GND No.": "76",
     "Scheme": "Halaba Canal",
     "Location_Detail": "Exact",
@@ -231,7 +231,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "92",
+    "No": "11",
     "GND No.": "75 C",
     "Scheme": "Udurawa Ela Anicut",
     "Location_Detail": "Exact",
@@ -253,7 +253,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "93",
+    "No": "12",
     "GND No.": "77 B",
     "Scheme": "Uplatha Kumbura stream and anicut",
     "Location_Detail": "Exact",
@@ -275,7 +275,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "94",
+    "No": "13",
     "GND No.": "77 B",
     "Scheme": "Anguruwalapitiya Canal",
     "Location_Detail": "Exact",
@@ -297,7 +297,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "95",
+    "No": "14",
     "GND No.": "77 B",
     "Scheme": "Matiwala Ela and anicut",
     "Location_Detail": "Exact",
@@ -319,7 +319,7 @@
   {
    "type": "Feature",
    "properties": {
-    "No": "96",
+    "No": "15",
     "GND No.": "77 B",
     "Scheme": "Pallewela Ela",
     "Location_Detail": "Exact",

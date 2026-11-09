@@ -1,0 +1,76 @@
+Activity,Location,Description,Quantity,Units,Rate (LKR),Amount (LKR),Duration
+Boundary demarcation (Replace Damaged concrete posts),"Lulkandura forest 7.154739,
+80.693121",Purchase boundary posts,25,Boundary posts,4500,112500,2025
+,,Loading boundary posts,1,Man days,2500,2500,
+,,Unloading boundary posts,1,Man days,2500,2500,
+,,Transport cost (to the nearest motorable place) 100 boundary posts/ lorry load,1,2500,2500,2500,
+,,Head load - Transport boundary posts to the forest boundary,13,Man days,2500,32500,
+,,Holing (500 mm x 200mm x 200),3,Man days,2500,7500,
+,,Preparation field and erection,3,Man days,2500,7500,
+,,"Cost of Cement, metal and sand",25,nr,375,9375,
+,,"Head load -Transport Cement, metal and sand",10,Man days,2500,25000,
+,,,,,Sub Total,201875,
+,,Contingency (10%),,,,20188,
+,,,,,Total,222063,
+Maintenance of 560 Forest boundary posts – 14 km,"Lulkandura forest 7.154739,
+80.693121",Clearing land around boundary posts (1m circle),56,Man days,2500,140000,2025
+,,Cleaning boundary posts,56,Man days,2500,140000,
+,,Painting boundary posts with Red and Yellow colours,40,Man days,2500,100000,
+,,Numbering boundary posts,6,Man days,2500,15000,
+,,"Paint, Brushes and thinner",560,Lump sum,100,56000,
+,,,,,Sub Total,451000,
+,,,,,,45100,
+,,,,,Total,496100,
+"Establish live fence with Hana (Two rows in the zig zag arrangement)
+14 km","Lulkandura forest 7.154739,
+80.693121","Seedling Production (12""x8"")",5600,Seedlings,50,280000,2026
+,,"Transportation of seedlings to the site, (300 Seedlings / Lorry load)",19,Lorry loads,7500,142500,
+,,loading and unloading (300 plants/ Man day),19,Man days,2500,47500,
+,,Seedling transportation within the field (1000/6 Man days),34,Man days,2500,85000,
+,,Clearing the land and holing and planting (1000 plants/25 Man days),140,Man days,2500,350000,
+,,Fertilizer (100g /plant),560,Kg,300,168000,
+,,Applying fertilizer (5 Man days /1000 plants),28,Man days,2500,70000,
+,,Vacancy Planting -Seedling cost (20%),1120,Seedlings,300,336000,2027
+,,Vacancy Planting - Holing & Planting (7 Man days),98,man days,2500,245000,
+,,Vacancy Planting (10% )- Seedling cost,560,Seedlings,300,168000,2028
+,,Vacancy Planting - Holing & Planting (4 Man days),56,Man days,2500,140000,
+,,"(1st years
+3 maintenance,",504,Man days,2500,1260000,2027
+,,"2nd year
+2 maintenance,",336,Man days,2500,840000,2028
+,,"3rd year
+2 maintenance,",336,Man days,2500,840000,2029
+,,"4th year
+1 maintenance)",168,Man days,2500,420000,2030
+,,Fuel (Supervision),1,Lump sum,60000,60000,2026-2030
+,,,,,Sub Total,5452000,
+,,Contingency (10%),,,,545200,
+,,,,,Total,5997200,
+Promote Alley cropping (2ha),"Palledelthota,7.187830,
+80.661904","Purchasing fruit plants (12""x18"")",660,Seedlings,300,198000,2026
+,,Loading                                                                           (01 Man Day/300 Seedlings),3,Man days,2500,7500,
+,,Loading unloading                                                      (01 Man Day/300 Seedlings),3,Man days,2500,7500,
+,,Transportation and distribution (300 Seedling/Lorry load),3,Lorry load,7500,22500,
+,,Transportation of seedlings inside the field (5 Man days / ha),8,Man days,2500,12500,
+,,Holing and planting (33 Man days /ha),54,Man days,2500,135000,
+,,Vacancy Planting -Seedling cost (20%),132,Seedlings,300,39600,2027
+,,Vacancy Planting - Holing & Planting (7 Man days),12,Man days,2500,30000,
+,,,,,Sub Total,452600,
+,,Contingency (10%),,,,45260,
+,,,,,Total,497860,
+Conduct 06 awareness programmes,"PalledelthiotaPanvilathenna
+Mulgama",Refreshments,320,Packs,400,128000,2025-2029
+,,"Fuel                                                  (Rs 3,750/programs) - Two visits ( for organizing and conducting program)",16,Lump sum,3750,60000,
+,,Stationaries (file covers/ Handouts),8,Lump sum,2500,20000,
+,,,,,Sub total,208000,
+,,Contingency (10%),,,,20050,
+,,,,,Total,228050,
+Erect 02 display boards,"Palledelthota,
+Lulkandura",Preparation of display Boards (2’x3) (Aluminium sheets and GI pipes),2,Boards,24250,48500,2026
+,,Transportation of boards,2,Truck load,5000,10000,
+,,"Metal, Sand and Cement mixture for erection of board",2,Lump sum,750,1500,
+,,Fixing Boards (2 Man days/Board),4,Man days,2500,10000,
+,,,,,Sub Total,70000,
+,,Contingency (10%),,,,7000,
+,,,,,Total,77000,
+Total,,,,,,7518273,
