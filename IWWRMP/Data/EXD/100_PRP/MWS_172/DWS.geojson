@@ -1,0 +1,166 @@
+{
+ "type": "FeatureCollection",
+ "name": "DWS",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "468E",
+    "Scheme": "above the north puhuloya",
+    "Location_Detail": "Exact",
+    "N": "7.025141",
+    "E": "80.673715",
+    "Observation": "A well-planned water project that will distribute water to about two hundred and eighty families",
+    "Description": "Planting 25 Kumbuk Plants around the water source\n\nSupplying of Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna seedlings [to be planted in 3.5m x 3.5m grid]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance[7 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application [2.0 L/days per 100.0 x 2.0m]\n\nTidying up\n\nContingencies (10%)",
+    "Estimated Cost": "154000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.673715,
+     7.025141
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "468E",
+    "Scheme": "below the north puhuloya",
+    "Location_Detail": "Exact",
+    "N": "7.017946",
+    "E": "80.687618",
+    "Observation": "A well-planned water project that will distribute water to about two hundred and fifty families",
+    "Description": "Planting 25 Kumbuk Plants around the water source\n\nSupplying of Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna seedlings [to be planted in 3.5m x 3.5m grid]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance[7 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application [2.0 L/days per 100.0 x 2.0m]\n\nTidying up\n\nContingencies (10%)",
+    "Estimated Cost": "154000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.687618,
+     7.017946
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "469B",
+    "Scheme": "water spring at Kirindiwela village",
+    "Location_Detail": "Exact",
+    "N": "7.032953",
+    "E": "80.654387",
+    "Observation": "Currently, about eight families are obtaining water informally using pipes.",
+    "Description": "Construction of a Water Stock Tank (2.0m x2.0m x 1.5m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer (volume batching)\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nTidying up\n\nContingencies (10%)",
+    "Estimated Cost": "387200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.654387,
+     7.032953
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "469C",
+    "Scheme": "Arakkale well",
+    "Location_Detail": "Exact",
+    "N": "7.031017",
+    "E": "80.661455",
+    "Observation": "A well that about fifteen families use for drinking and bathing has now become completely overgrown.",
+    "Description": "Well Renovation\n\nClean around the well\n\nClean the well walls using a wire brush to remove algae.\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating -Replaster the well walls\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nTidying up\n\nContingencies (10%)",
+    "Estimated Cost": "85800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.661455,
+     7.031017
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "470",
+    "Scheme": "Water spring at Ambagahayata well in the division",
+    "Location_Detail": "Exact",
+    "N": "7.047646",
+    "E": "80.660122",
+    "Observation": "Since the constructed well is in disrepair, it should be removed and a new well should be constructed.",
+    "Description": "Construction of a Water Stock Tank (2.0m x2.0m x 3.0m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer (volume batching)\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats ofanticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nTidying up\n\nContingencies (10%)",
+    "Estimated Cost": "567600",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.660122,
+     7.047646
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "471",
+    "Scheme": "Dela meda water spring in the paddy field",
+    "Location_Detail": "Exact",
+    "N": "7.046105",
+    "E": "80.661204",
+    "Observation": "Located in the middle of a rice field, this spring has a tank two meters long, two meters wide, and one and a half meters high, where about fifteen families use water.",
+    "Description": "Well Renovation\n\nClean around the well\n\nClean the well walls using a wire brush to remove algae.\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating -Replaster the well walls\n\nTidying up\n\nContingencies (10%)",
+    "Estimated Cost": "49500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.661204,
+     7.046105
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "473",
+    "Scheme": "Lower in the \"Ambadeniya well\"",
+    "Location_Detail": "Exact",
+    "N": "7.045627",
+    "E": "80.660711",
+    "Observation": "This old well, located in the paddy field below the temple, is used for bathing.",
+    "Description": "Well Renovation\n\nClean around the well\n\nClean the well walls using a wire brush to remove algae.\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating -Replaster the well walls\n\nTidying up\n\nContingencies (10%)",
+    "Estimated Cost": "39600",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.660711,
+     7.045627
+    ]
+   }
+  }
+ ]
+}

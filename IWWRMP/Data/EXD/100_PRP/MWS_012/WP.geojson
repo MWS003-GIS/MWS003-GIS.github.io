@@ -1,0 +1,572 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "496A",
+    "GN Division": "Ambaliyadda1",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.17666018",
+    "E": "80.76402539",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76402539,
+     7.17666018
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "496B",
+    "GN Division": "Arattana",
+    "Non-point sources of pollution": "Improper disposal of household waste/tourist waste into the stream near the temple",
+    "Location_Detail": "Exact",
+    "N": "7.178317",
+    "E": "80.769454",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Providing trash bins to collect categorized wastes.",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "200000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.769454,
+     7.178317
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "496C",
+    "GN Division": "Dampola",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.178659661",
+    "E": "80.75783901",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75783901,
+     7.178659661
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "494",
+    "GN Division": "Damunumeya",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.172103203",
+    "E": "80.77614006",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77614006,
+     7.172103203
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "495D",
+    "GN Division": "Delgahapitiya",
+    "Non-point sources of pollution": "Improper disposal of household waste - Delgahapitiya",
+    "Location_Detail": "Exact",
+    "N": "7.181831",
+    "E": "80.774717",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in home gardens for disposing household waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.774717,
+     7.181831
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "494D",
+    "GN Division": "Deliwala",
+    "Non-point sources of pollution": "Improper disposal of household waste - Deliwala",
+    "Location_Detail": "Exact",
+    "N": "7.17057",
+    "E": "80.768771",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in home gardens for disposing household waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.768771,
+     7.17057
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "492",
+    "GN Division": "Diya - Udagama",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.162945824",
+    "E": "80.79298246",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79298246,
+     7.162945824
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "492B",
+    "GN Division": "Dodamkumbura",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.152239417",
+    "E": "80.79376796",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79376796,
+     7.152239417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "494A",
+    "GN Division": "Dolugala",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.159042683",
+    "E": "80.77172499",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77172499,
+     7.159042683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "495",
+    "GN Division": "Hanguranketha",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.175655904",
+    "E": "80.77822467",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77822467,
+     7.175655904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "496",
+    "GN Division": "Hapuwala",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.166906044",
+    "E": "80.7598456",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7598456,
+     7.166906044
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "493A",
+    "GN Division": "Kottala",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.168814949",
+    "E": "80.78664262",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78664262,
+     7.168814949
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "493",
+    "GN Division": "Madanwala",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.165357835",
+    "E": "80.77737053",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77737053,
+     7.165357835
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "495C",
+    "GN Division": "Pallemaluwa",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.179833661",
+    "E": "80.7722698",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7722698,
+     7.179833661
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "495A",
+    "GN Division": "Pussalamankada",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.190992317",
+    "E": "80.77045361",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77045361,
+     7.190992317
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "494C",
+    "GN Division": "Rathmetiya",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.153298509",
+    "E": "80.77234021",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77234021,
+     7.153298509
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "497A",
+    "GN Division": "Rekitipe",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.171316498",
+    "E": "80.75074264",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75074264,
+     7.171316498
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "492A",
+    "GN Division": "Rikillagaskada",
+    "Non-point sources of pollution": "Improper disposal of waste (toilet waste, household waste etc.) - Galpoththa Kandura and Diyabubula village",
+    "Location_Detail": "Approximation",
+    "N": "7.146842395",
+    "E": "80.78203175",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in home gardens for disposing household waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78203175,
+     7.146842395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "492C",
+    "GN Division": "Walalawela",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.156073419",
+    "E": "80.78039467",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to dispose of this waste properly and potential methods for recycling them",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78039467,
+     7.156073419
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GND No.": "495B",
+    "GN Division": "Yati Hanguranketha",
+    "Non-point sources of pollution": "Addition of agrochemicals - Paddy fields near the Hapuge Well",
+    "Location_Detail": "Exact",
+    "N": "7.185899",
+    "E": "80.761083",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness Programme on how to use agrochemicals properly",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.761083,
+     7.185899
+    ]
+   }
+  }
+ ]
+}

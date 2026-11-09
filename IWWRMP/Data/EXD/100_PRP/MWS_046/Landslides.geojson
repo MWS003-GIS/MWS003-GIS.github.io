@@ -1,0 +1,232 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "39C",
+    "GN Division": "Pitiyakumbura",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.972166756",
+    "E": "80.95644332",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.95644332,
+     6.972166756
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "40",
+    "GN Division": "Thuppitiya",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.987774753",
+    "E": "80.98068621",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98068621,
+     6.987774753
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "40A",
+    "GN Division": "Panagoda",
+    "Landslides": "Landsliding - Bambarapana, Mahakumbura main road, Gaalpattiya Division",
+    "Location_Detail": "Exact",
+    "N": "6.975759",
+    "E": "80.969537",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Inform PRDA and take appropriate actions based on the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.969537,
+     6.975759
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "41A",
+    "GN Division": "Pannalawela",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.966548842",
+    "E": "80.93554458",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93554458,
+     6.966548842
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "41D",
+    "GN Division": "Rahupola",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.962526846",
+    "E": "80.95211037",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.95211037,
+     6.962526846
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "53",
+    "GN Division": "Metiwalalanda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.94164423",
+    "E": "80.94415648",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94415648,
+     6.94164423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "53B",
+    "GN Division": "Ulugala",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.927316389",
+    "E": "80.94500144",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94500144,
+     6.927316389
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "53C",
+    "GN Division": "Yahala Arawa",
+    "Landslides": "Bank collapsing - Ransirigama",
+    "Location_Detail": "Exact",
+    "N": "6.925529",
+    "E": "80.937732",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Inform PRDA and take appropriate actions based on the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.937732,
+     6.925529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "54",
+    "GN Division": "Udaperuwa",
+    "Landslides": "Landsliding - Katakithula (5 ac)",
+    "Location_Detail": "Approximation",
+    "N": "6.952346164",
+    "E": "80.95437824",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Alternative lands have to be provided",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.95437824,
+     6.952346164
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "54A",
+    "GN Division": "Weliulla",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.954327569",
+    "E": "80.94324296",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94324296,
+     6.954327569
+    ]
+   }
+  }
+ ]
+}

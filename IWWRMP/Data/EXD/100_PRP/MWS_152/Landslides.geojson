@@ -1,0 +1,78 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "475H",
+    "GN Division": "Nagasena",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.9018678",
+    "E": "80.68385398",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68385398,
+     6.9018678
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "475T",
+    "GN Division": "Eildonhall",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.899775741",
+    "E": "80.66480003",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66480003,
+     6.899775741
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "475U",
+    "GN Division": "Rahanwatta",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.896311973",
+    "E": "80.64907317",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64907317,
+     6.896311973
+    ]
+   }
+  }
+ ]
+}

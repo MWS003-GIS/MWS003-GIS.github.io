@@ -1,0 +1,152 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "458",
+    "GN Division": "Ranwanthalawa",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.064039947",
+    "E": "80.62129229",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness program on how to disposal household waste properly and converting them to usable products such as compost",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62129229,
+     7.064039947
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "459",
+    "GN Division": "Kadadora",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage including plastics and polythene",
+    "Location_Detail": "Approximation",
+    "N": "7.066990312",
+    "E": "80.5996999",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in home gardens for disposing household waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5996999,
+     7.066990312
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "459A",
+    "GN Division": "Kotagepitiya South",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage including empty pesticide bottles, plastic bottles",
+    "Location_Detail": "Approximation",
+    "N": "7.070759885",
+    "E": "80.62303912",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in home gardens for disposing household waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62303912,
+     7.070759885
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "459B",
+    "GN Division": "Kotagepitiya North",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage including empty pesticide bottles, plastic bottles",
+    "Location_Detail": "Approximation",
+    "N": "7.07721756",
+    "E": "80.62081574",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in home gardens for disposing household waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62081574,
+     7.07721756
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "459C",
+    "GN Division": "Nayapana",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage including both degradable and non-degradable waste",
+    "Location_Detail": "Approximation",
+    "N": "7.072661293",
+    "E": "80.59045491",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in home gardens for disposing household waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59045491,
+     7.072661293
+    ]
+   }
+  }
+ ]
+}

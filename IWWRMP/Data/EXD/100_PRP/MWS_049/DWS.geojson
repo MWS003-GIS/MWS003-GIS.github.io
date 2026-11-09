@@ -1,0 +1,276 @@
+{
+ "type": "FeatureCollection",
+ "name": "DWS",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "37",
+    "Scheme": "Kovila Ella water source",
+    "Location_Detail": "Approximation",
+    "N": "7.025530314",
+    "E": "80.94346187",
+    "Observation": "A new water storage tank is required.",
+    "Description": "Construction of a Water Storage Tank, laying of pipe lines and connecting same with necessary pipes and fittings\n\nConstruction of Concrete water storage tank of 6 cum - size internal 2mx2mx1.75m\n\nExcavation in trenches less than 300mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of back filling, compacting and disposal of surplus earth for the transmission line - by machinery\n\nSupplying & laying 63mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 50mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 40mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 32mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nConnecting two tanks with necessary pipes and fittings\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "1249600",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94346187,
+     7.025530314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "37B",
+    "Scheme": "Galkotuwa",
+    "Location_Detail": "Exact",
+    "N": "7.014051",
+    "E": "80.943263",
+    "Observation": "A tank is constructed (0.8m x 0.8m x 0.8m, L*W*H). A 5m3 ferrow cement tank needs to be constructed with necessary pipe lines.",
+    "Description": "Construction of a Water Storage Tank & connecting same with necessary pipes and fittings\n\nConstruction of Concrete water storage tank of 6 cum - size internal 2mx2mx1.75m\n\nConnecting two tanks with necessary pipes and fittings\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "366300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.943263,
+     7.014051
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "37B",
+    "Scheme": "Galkotuwa",
+    "Location_Detail": "Exact",
+    "N": "7.017301",
+    "E": "80.945884",
+    "Observation": "A tank is constructed (0.8m x 0.8m x 0.8m, L*W*H). A 5m3 ferrow cement tank needs to be constructed with necessary pipe lines.",
+    "Description": "Construction of a Water Storage Tank & connecting same with necessary pipes and fittings\n\nConstruction of Concrete water storage tank of 6 cum - size internal 2mx2mx1.75m\n\nConnecting two tanks with necessary pipes and fittings\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "366300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.945884,
+     7.017301
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "37B",
+    "Scheme": "Bedda Arawa",
+    "Location_Detail": "Exact",
+    "N": "7.020137",
+    "E": "80.94138",
+    "Observation": "A 6m3 ferrow cement tank needs to be constructed with necessary pipe lines.",
+    "Description": "Construction of a Water Storage Tank & laying of pipe lines\n\nConstruction of Concrete water storage tank of 6 cum - size internal 2mx2mx1.75m\n\nExcavation in trenches less than 300mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of back filling, compacting and disposal of surplus earth for the transmission line - by machinery\n\nSupplying & laying 50mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nConstruction of 0.3 m x 0.3 m x 2.0 m RCC columns\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "572000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94138,
+     7.020137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "37C",
+    "Scheme": "Peramandiya",
+    "Location_Detail": "Exact",
+    "N": "7.031495",
+    "E": "80.931143",
+    "Observation": "A 6m3 ferrow cement tank needs to be constructed with necessary pipe lines.",
+    "Description": "Construction of a Water Storage Tank of 6 cum capacity\n\nConstruction of Concrete water storage tank of 6 cum - size internal 2mx2mx1.75m\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "344300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.931143,
+     7.031495
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "37C",
+    "Scheme": "Peramandiya",
+    "Location_Detail": "Exact",
+    "N": "7.02852",
+    "E": "80.933015",
+    "Observation": "A 6m3 ferrow cement tank needs to be constructed with necessary pipe lines.",
+    "Description": "Construction of a Water Storage Tank of 6 cum capacity\n\nConstruction of Concrete water storage tank of 6 cum - size internal 2mx2mx1.75m\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "344300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.933015,
+     7.02852
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "37F",
+    "Scheme": "Ritikumbura",
+    "Location_Detail": "Exact",
+    "N": "7.030887",
+    "E": "80.94118",
+    "Observation": "A 20m3 ferrow cement tank needs to be constructed with necessary pipe lines.",
+    "Description": "Construction of Concrete water storage tank of 20 cum - size internal t 3mx3mx2.5\n\nMiscellaneous\n\nContingencies 10",
+    "Estimated Cost": "745800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94118,
+     7.030887
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "8",
+    "GND No.": "38",
+    "Scheme": "Belongs to Wewegama area",
+    "Location_Detail": "Exact",
+    "N": "6.997919",
+    "E": "80.932731",
+    "Observation": "The pipe line is in dilapidated condition.",
+    "Description": "Excavation in trenches less than 300mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of back filling, compacting and disposal of surplus earth for the transmission line - by machinery\n\nSupplying & laying 63mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 50mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 40mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 20mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nMiscellaneous\n\nContingencies 10",
+    "Estimated Cost": "896500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.932731,
+     6.997919
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "9",
+    "GND No.": "38",
+    "Scheme": "Belongs to Wewegama area",
+    "Location_Detail": "Exact",
+    "N": "7.001172",
+    "E": "80.93669",
+    "Observation": "The pipe line is in dilapidated condition.",
+    "Description": "Excavation in trenches less than 300mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of back filling, compacting and disposal of surplus earth for the transmission line - by machinery\n\nSupplying & laying 63mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 50mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 40mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nSupplying & laying 20mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nMiscellaneous\n\nContingencies 10",
+    "Estimated Cost": "896500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93669,
+     7.001172
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "10",
+    "GND No.": "38C",
+    "Scheme": "Gampaha Upper Division",
+    "Location_Detail": "Approximation",
+    "N": "6.996144729",
+    "E": "80.92922321",
+    "Observation": "A 6m3 ferrow cement tank needs to be constructed with necessary pipe lines.\nVegetative cover around the spring needs to be improved.",
+    "Description": "Construction of a Water Storage Tank of 6 cum capacity, construction of a Retaining wall, laying of pipe lines and planting trees\n\nConstruction of Concrete water storage tank of 6 cum - size internal 2mx2mx1.75m\n\nConstruction of 1.5m high 1:3:6 (40mm) cement concrete Retaining Wall\n\nExcavation in trenches less than 300mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of back filling, compacting and disposal of surplus earth for the transmission line - by machinery\n\nSupplying & laying 63mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nVegetative cover improving around structures (5m x 10m) with planting Arecanut seedling in 1.5m x 1.5m grid, and planting Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings in 3.5m x 3.5 m grid\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "1081300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92922321,
+     6.996144729
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "11",
+    "GND No.": "38C",
+    "Scheme": "Gampaha Lower Division",
+    "Location_Detail": "Exact",
+    "N": "6.992624",
+    "E": "80.93214",
+    "Observation": "The pipe line is in dilapidated condition.",
+    "Description": "Excavation in trenches less than 300mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of back filling, compacting and disposal of surplus earth for the transmission line - by machinery\n\nSupplying & laying 50mm Dia PVC pipe line in solvent socket type in PN-11 rate including socket, solvent cement, etc..\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "613140",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93214,
+     6.992624
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "12",
+    "GND No.": "38D",
+    "Scheme": "Rathnodagama Kalugamuwa Division",
+    "Location_Detail": "Exact",
+    "N": "7.00497",
+    "E": "80.93031",
+    "Observation": "A welded wire mesh is required to cover the well.",
+    "Description": "Fabricating & fixing security weld mesh in open-type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete.\n\nAll as per detail drawing No.CPC/CS/11/04/2017/TYPE-ST/07\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "346500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93031,
+     7.00497
+    ]
+   }
+  }
+ ]
+}

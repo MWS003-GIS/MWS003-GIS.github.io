@@ -1,3 +1,78 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":8,"GN Division No.":"63B","GN Division":"Diyathalawa","Landslides":"Landsliding - The starting point of Gaswatta water source","N":6.806355,"E":80.958383,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Since it is high-risk area, construction should be planned in consultation with NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_066/Landsliding Gaswththa water source (2).jpg"},"geometry":{"type":"Point","coordinates":[80.958383,6.806355]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "63B",
+    "GN Division": "Diyathalawa",
+    "Landslides": "Landsliding - The starting point of Gaswatta water source",
+    "Location_Detail": "Exact",
+    "N": "6.806355",
+    "E": "80.958383",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Since it is high-risk area, construction should be planned in consultation with NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_066/Landsliding Gaswththa water source (2).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.958383,
+     6.806355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "63D",
+    "GN Division": "Aluthwela",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.813797988",
+    "E": "80.93390872",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93390872,
+     6.813797988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "63K",
+    "GN Division": "Ellagama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.829346118",
+    "E": "80.94869191",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94869191,
+     6.829346118
+    ]
+   }
+  }
+ ]
+}

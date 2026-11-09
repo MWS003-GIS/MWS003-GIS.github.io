@@ -1,0 +1,40 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "474A",
+    "GN Division": "Karagasthalawa",
+    "Non-point sources of pollution": "Potential to add human waste - Glenlow Estate\nPotential to add human waste - Memale Division\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.092058646",
+    "E": "80.69650664",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness program on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "Local/Central governments",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69650664,
+     7.092058646
+    ]
+   }
+  }
+ ]
+}

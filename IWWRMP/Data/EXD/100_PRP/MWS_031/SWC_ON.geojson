@@ -1,7 +1,255 @@
-{"type":"FeatureCollection","name":"SWC_ON","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":2,"GND No.":"533D","GND Name":"Udapussallawa North","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices (40�-60�)","Priority based on Soil Erosion Hazard":4,"N":7.009019,"E":80.909549,"Quantity":"1 ha","Proposed measure/s":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":250000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_031/Slop Lands - Udupussellawa.JPG"},"geometry":{"type":"Point","coordinates":[80.909549,7.009019]}},
-{"type":"Feature","properties":{"No.":6,"GND No.":"533G","GND Name":"Sooriyagahapathana Ihala","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices (60?-70?)","Priority based on Soil Erosion Hazard":5,"N":7.00546,"E":80.892218,"Quantity":"3 ha","Proposed measure/s":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":750000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.892218,7.00546]}},
-{"type":"Feature","properties":{"No.":7,"GND No.":"533G","GND Name":"Sooriyagahapathana Ihala","Key Activities proposed for Soil and Water conservation":"2. Soil conservation practices (60?-80?)","Priority based on Soil Erosion Hazard":5,"N":7.002906,"E":80.890759,"Quantity":"4 ha","Proposed measure/s":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":1000000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.890759,7.002906]}},
-{"type":"Feature","properties":{"No.":8,"GND No.":"533H","GND Name":"Galkadapathana","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices - (60?-80?)","Priority based on Soil Erosion Hazard":4,"N":7.016616,"E":80.895244,"Quantity":"5 ha","Proposed measure/s":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":1250000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_031/Soil Consurvetion.jpg"},"geometry":{"type":"Point","coordinates":[80.895244,7.016616]}},
-{"type":"Feature","properties":{"No.":9,"GND No.":"533H","GND Name":"Galkadapathana","Key Activities proposed for Soil and Water conservation":"2. Soil conservation practices - (60?-70?)","Priority based on Soil Erosion Hazard":4,"N":7.013373,"E":80.888789,"Quantity":"5 ha","Proposed measure/s":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":1250000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_031/Soil Consurvetion 3.jpg"},"geometry":{"type":"Point","coordinates":[80.888789,7.013373]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "533L",
+    "GND Name": "Delmar",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported.",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.993337178",
+    "E": "80.87468419",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.87468419,
+     6.993337178
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "533D",
+    "GND Name": "Udapussallawa North",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices (40?-60?)",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.009019",
+    "E": "80.909549",
+    "Quantity": "1 ha",
+    "Proposed measure/s": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "250000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_031/Slop Lands - Udupussellawa.JPG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.909549,
+     7.009019
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "533E",
+    "GND Name": "Udapussellawa South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported.",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.986062423",
+    "E": "80.88769024",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.88769024,
+     6.986062423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "533F",
+    "GND Name": "Sooriyagahapathana Pahala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported.",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.011135616",
+    "E": "80.89852326",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89852326,
+     7.011135616
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "533K",
+    "GND Name": "St. Magret",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported.",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.993414148",
+    "E": "80.90771518",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90771518,
+     6.993414148
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "533G",
+    "GND Name": "Sooriyagahapathana Ihala",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices (60?-70?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.00546",
+    "E": "80.892218",
+    "Quantity": "3 ha",
+    "Proposed measure/s": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "750000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.892218,
+     7.00546
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "533G",
+    "GND Name": "Sooriyagahapathana Ihala",
+    "Key Activities proposed for Soil and Water conservation": "2. Soil conservation practices (60?-80?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.002906",
+    "E": "80.890759",
+    "Quantity": "4 ha",
+    "Proposed measure/s": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1000000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.890759,
+     7.002906
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "533H",
+    "GND Name": "Galkadapathana",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices - (60?-80?)",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.016616",
+    "E": "80.895244",
+    "Quantity": "5 ha",
+    "Proposed measure/s": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1250000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_031/Soil Consurvetion.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.895244,
+     7.016616
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "533H",
+    "GND Name": "Galkadapathana",
+    "Key Activities proposed for Soil and Water conservation": "2. Soil conservation practices - (60?-70?)",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.013373",
+    "E": "80.888789",
+    "Quantity": "5 ha",
+    "Proposed measure/s": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1250000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_031/Soil Consurvetion 3.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.888789,
+     7.013373
+    ]
+   }
+  }
+ ]
+}

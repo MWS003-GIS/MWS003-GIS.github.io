@@ -1,0 +1,144 @@
+{
+ "type": "FeatureCollection",
+ "name": "WSP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "512 I",
+    "Name of the Tank": "Hunukotuwa spring",
+    "Location_Detail": "Exact",
+    "N": "7.040356",
+    "E": "80.785731",
+    "Observation": "Absence of a reservation, Absence of a tank for the spring",
+    "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\n\nConstruction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5\n\nProviding barb wire fence with 07 nos of 14G barb wire rows fixed firmly between 7ft high concrete posts erected at 2.0m intervals along the fence",
+    "Amount (Rs.)": "912860",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.785731,
+     7.040356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "512 H",
+    "Name of the Tank": "Rankevitiya Watta spring",
+    "Location_Detail": "Exact",
+    "N": "7.036966",
+    "E": "80.795536",
+    "Observation": "The tank is dilapidated",
+    "Description": "Demolish and remove dilapidated structure\n\nConstruction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5\n\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "789620",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.795536,
+     7.036966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "512 H",
+    "Name of the Tank": "Sarvodaya water spring",
+    "Location_Detail": "Exact",
+    "N": "7.032611",
+    "E": "80.79378",
+    "Observation": "The tank is dilapidated",
+    "Description": "Demolish and remove dilapidated structure\n\nConstruction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5\n\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "789620",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79378,
+     7.032611
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "512 H",
+    "Name of the Tank": "Spring near the Malsara Nuwara public playground",
+    "Location_Detail": "Exact",
+    "N": "7.036216",
+    "E": "80.782792",
+    "Observation": "The tank is dilapidated",
+    "Description": "Demolish and remove dilapidated structure.\n\nConstruction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5\n\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "789620",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.782792,
+     7.036216
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "512 B",
+    "Name of the Tank": "Neppu Kulama fountain spout නෙප්පු කුලම පිහිල්ල",
+    "Location_Detail": "Exact",
+    "N": "7.033096",
+    "E": "80.78203",
+    "Observation": "Absence of the fountain spout.",
+    "Description": "Construction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5\n\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "784420",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78203,
+     7.033096
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "512 G",
+    "Name of the Tank": "Welameda water springවෙලමැද ජල උල්පත",
+    "Location_Detail": "Exact",
+    "N": "7.045465",
+    "E": "80.779178",
+    "Observation": "Absence of a tank for the spring",
+    "Description": "Construction of Concrete water storage tank of 20 cum - size internal 3mx3mx2.5\n\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "784420",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.779178,
+     7.045465
+    ]
+   }
+  }
+ ]
+}

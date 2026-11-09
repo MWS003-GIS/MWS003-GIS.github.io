@@ -1,0 +1,144 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "1054",
+    "GN Division": "Pitakanda",
+    "Landslides": "1. Bank collapsing - Crened Estate Jana Udana Village, Carpet Road from Haldola to Pitakanda",
+    "Location_Detail": "Approximation",
+    "N": "7.092415995",
+    "E": "80.52669261",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing retaining wall may be needed having consulted with NBRO and other relevant agencies (Local Government, DS Office, PRDA, RDA)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52669261,
+     7.092415995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "1063",
+    "GN Division": "Malwattagama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.127591113",
+    "E": "80.523832",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.523832,
+     7.127591113
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "1064",
+    "GN Division": "Pellapitiya South",
+    "Landslides": "No special issues are reported\n2. Landsliding - Summersetwatta Akkara 40",
+    "Location_Detail": "Approximation",
+    "N": "7.111484602",
+    "E": "80.53768908",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO to resettle in another area",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53768908,
+     7.111484602
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "1065",
+    "GN Division": "Pellapitiya North",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.128093583",
+    "E": "80.54300526",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54300526,
+     7.128093583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "1071",
+    "GN Division": "Ulapane North",
+    "Landslides": "1. Landsliding - Landsliding in front and back areas of Ulapane Maha Vidyalaya",
+    "Location_Detail": "Approximation",
+    "N": "7.108890829",
+    "E": "80.55576857",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing retaining wall may be needed having consulted with NBRO and other relevant agencies (Local Government, DS Office, PRDA, RDA). Directing water during rainy seasons to the relevant streams and other rivers is essential.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55576857,
+     7.108890829
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "1072",
+    "GN Division": "Ulapane South",
+    "Landslides": "Bank collapsing - 500 m away from the Ulapane Junction along Mawela Road",
+    "Location_Detail": "Approximation",
+    "N": "7.098428357",
+    "E": "80.55365566",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55365566,
+     7.098428357
+    ]
+   }
+  }
+ ]
+}

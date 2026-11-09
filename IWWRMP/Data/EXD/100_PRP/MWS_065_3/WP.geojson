@@ -1,0 +1,208 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "65A",
+    "GN Division": "Kebillewela South",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.818154644",
+    "E": "80.99683695",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "50000",
+    "Time frame for the implementation": "Local/Central governments",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99683695,
+     6.818154644
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "65C",
+    "GN Division": "Karagahawela",
+    "Non-point sources of pollution": "Potential to add human waste - Mesland Watta\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.816187262",
+    "E": "80.97873542",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "50000",
+    "Time frame for the implementation": "Local/Central governments",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97873542,
+     6.816187262
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "65D",
+    "GN Division": "Beddekumbura",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.812958631",
+    "E": "80.99245244",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99245244,
+     6.812958631
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "65E",
+    "GN Division": "Inikambedda",
+    "Non-point sources of pollution": "Potential to add human waste - Inikambedda\nPotential to add human waste - Ellagawa\nPotential to add human waste - Ambathennawatta\nPotential to add human waste - Ambathennawatta\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.823725761",
+    "E": "80.98722187",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "50000",
+    "Time frame for the implementation": "Local/Central governments",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98722187,
+     6.823725761
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "65F",
+    "GN Division": "Obadella",
+    "Non-point sources of pollution": "Potential to add human waste - Galbadawatta\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.810044839",
+    "E": "80.98277935",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "50000",
+    "Time frame for the implementation": "Local/Central governments",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98277935,
+     6.810044839
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "65H",
+    "GN Division": "Nayabedda Estate",
+    "Non-point sources of pollution": "Potential to add human waste - Nayabedda Estate\nPotential to add human waste - Gonamotawa Estate\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.802078177",
+    "E": "80.99514647",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "50000",
+    "Time frame for the implementation": "Local/Central governments",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99514647,
+     6.802078177
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "66I",
+    "GN Division": "Creig Watta",
+    "Non-point sources of pollution": "Potential to add human waste - Constructing new toilets\nPotential to add human waste - Repairing existing toilets\nPotential to add human waste - Repairing existing toilet pits\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.815044721",
+    "E": "81.0163527",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "50000",
+    "Time frame for the implementation": "Local/Central governments",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.0163527,
+     6.815044721
+    ]
+   }
+  }
+ ]
+}

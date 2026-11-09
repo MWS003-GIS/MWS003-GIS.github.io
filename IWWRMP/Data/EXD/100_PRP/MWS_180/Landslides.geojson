@@ -1,10 +1,254 @@
 {
-"type": "FeatureCollection",
-"name": "Landslides",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No.": 48, "GN Division No.": "463", "GN Division": "Wataddara", "Landslides": "1. Landsliding - The upper part near the bridge", "N": 7.052263, "E": 80.635491, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "A gabian wall has been constructed. Soil conservation methods should be adapted in the lands.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_180/Landslide near the Bridge.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.635491, 7.052263 ] } },
-{ "type": "Feature", "properties": { "No.": 50, "GN Division No.": "465G", "GN Division": "Weerasekarapura", "Landslides": "1. Road surface erosion - Para Paha to Post Office Road", "N": 7.043077, "E": 80.637838, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "Construction of a fifty-meter-long, three-meter-high concrete side wall along the right bank of the road is needed", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_180/Road 5 Junction to Post Office Road - Bank Erosion.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.637838, 7.043077 ] } },
-{ "type": "Feature", "properties": { "No.": 51, "GN Division No.": "461A", "GN Division": "Harangala South", "Landslides": "1. Clearing of trees and rocks from hilly/mountainous areas - Galaudapahana", "N": 7.050181, "E": 80.583976, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "A residential house is situated directly below this landslide site. However, as of 2024, the necessary assessment reports from the NBRO have not yet been obtained. Replacement is needed. Follow the recommendations of NBRO.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_180/Galkadapathana Landslide area.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.583976, 7.050181 ] } }
-]
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "461",
+    "GN Division": "Harangala",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.056882969",
+    "E": "80.59019348",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59019348,
+     7.056882969
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "461B",
+    "GN Division": "Kirimetiyawa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.048996613",
+    "E": "80.59566855",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59566855,
+     7.048996613
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "462A",
+    "GN Division": "Thispane Kanda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.052932927",
+    "E": "80.61055024",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61055024,
+     7.052932927
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "463",
+    "GN Division": "Wataddara",
+    "Landslides": "1. Landsliding - The upper part near the bridge",
+    "Location_Detail": "Exact",
+    "N": "7.052263",
+    "E": "80.635491",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "A gabian wall has been constructed. Soil conservation methods should be adapted in the lands.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_180/Landslide near the Bridge.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.635491,
+     7.052263
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "464",
+    "GN Division": "Nawangama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.056523274",
+    "E": "80.64424027",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64424027,
+     7.056523274
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "465G",
+    "GN Division": "Weerasekarapura",
+    "Landslides": "1. Road surface erosion - Para Paha to Post Office Road",
+    "Location_Detail": "Exact",
+    "N": "7.043077",
+    "E": "80.637838",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Construction of a fifty-meter-long, three-meter-high concrete side wall along the right bank of the road is needed",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_180/Road 5 Junction to Post Office Road - Bank Erosion.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.637838,
+     7.043077
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "461A",
+    "GN Division": "Harangala South",
+    "Landslides": "1. Clearing of trees and rocks from hilly/mountainous areas - Galaudapahana",
+    "Location_Detail": "Exact",
+    "N": "7.050181",
+    "E": "80.583976",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "A residential house is situated directly below this landslide site. However, as of 2024, the necessary assessment reports from the NBRO have not yet been obtained. Replacement is needed. Follow the recommendations of NBRO.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_180/Galkadapathana Landslide area.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.583976,
+     7.050181
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "462C",
+    "GN Division": "Katugolla",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.032526619",
+    "E": "80.61169223",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61169223,
+     7.032526619
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "465B",
+    "GN Division": "Rojersangama North",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.038301947",
+    "E": "80.6281774",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6281774,
+     7.038301947
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "462B",
+    "GN Division": "Godamaditta",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.037320188",
+    "E": "80.61974937",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61974937,
+     7.037320188
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "465E",
+    "GN Division": "Wethalawa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.06281425",
+    "E": "80.65702553",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65702553,
+     7.06281425
+    ]
+   }
+  }
+ ]
 }

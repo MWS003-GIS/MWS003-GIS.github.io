@@ -1,804 +1,826 @@
 {
-  "type": "FeatureCollection",
-  "name": "SR",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
+ "type": "FeatureCollection",
+ "name": "SR",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "508E",
+    "Scheme": "Torrent near Mahawewa ",
+    "Location_Detail": "Exact",
+    "N": "7.070028",
+    "E": "80.79516",
+    "Observation": "Bank erosion on both sides during rainy days.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "125,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79516,
+     7.070028
+    ]
+   }
   },
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 1.0,
-        "GND No.": "508E",
-        "Scheme": "Torrent near Mahawewa ",
-        "N": 7.070028,
-        "E": 80.79516,
-        "Observation": "Bank erosion on both sides during rainy days.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "125,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.79516,
-          7.070028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 2.0,
-        "GND No.": "508 E",
-        "Scheme": "Torrent flows from the lake",
-        "N": 7.06723,
-        "E": 80.796924,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "76,300",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.796924,
-          7.06723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 3.0,
-        "GND No.": "508 E",
-        "Scheme": "The main feeder stream of the tank",
-        "N": 7.066747,
-        "E": 80.797789,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Construction of 1.2m high RR masonry wall (with section 0.60x0.60, 0.45x0.60) over 0.75m width x 0.15m thick screed concrete, plastering with 1:3 cement mortar and back filling\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "255,800",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.797789,
-          7.066747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 4.0,
-        "GND No.": "508 E",
-        "Scheme": "Sub canal of the main feeder stream of the tank",
-        "N": 7.066747,
-        "E": 80.797789,
-        "Observation": "under normal condition",
-        "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 0.9m, top width 0.15m, 0.45m high steps x 02, each of 0.15m step width & bottom width 0.45m)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "2,035,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.797789,
-          7.066747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 5.0,
-        "GND No.": "508 B",
-        "Scheme": "Gonakele torrent",
-        "N": 7.060614,
-        "E": 80.822391,
-        "Observation": "Soil erosion and flooding into houses & lands.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "283,500",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.822391,
-          7.060614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 6.0,
-        "GND No.": "508 B",
-        "Scheme": "Oluwawatta torrent",
-        "N": 7.057369,
-        "E": 80.821656,
-        "Observation": "Soil erosion and flooding into houses.",
-        "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "99,200",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.821656,
-          7.057369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 7.0,
-        "GND No.": "512 C",
-        "Scheme": "Meda Kadura",
-        "N": 7.050363,
-        "E": 80.789926,
-        "Observation": "Bank erosion on both sides and soil collapsing from upper lands.",
-        "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "236,900",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.789926,
-          7.050363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 8.0,
-        "GND No.": "512 C",
-        "Scheme": "Goodwood ????? ???? ????",
-        "N": 7.052011,
-        "E": 80.787596,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "148,100",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.787596,
-          7.052011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 9.0,
-        "GND No.": "512 C",
-        "Scheme": null,
-        "N": 7.053582,
-        "E": 80.789273,
-        "Observation": "Water of the spring wasting and flow with the torrent water.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "141,700",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW1.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.789273,
-          7.053582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 10.0,
-        "GND No.": "512 C",
-        "Scheme": "The torrent on the way to the lake",
-        "N": 7.051534,
-        "E": 80.785158,
-        "Observation": "Water spreads everywhere without draining out properly.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nConstruction of 1.2m high RR masonry wall (with section 0.60x0.60, 0.45x0.60) over 0.75m width x 0.15m thick screed concrete, plastering with 1:3 cement mortar and back filling",
-        "Amount (Rs.)": "329,800",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW13.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.785158,
-          7.051534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 11.0,
-        "GND No.": "508",
-        "Scheme": "Torrent 1",
-        "N": 7.073011,
-        "E": 80.806221,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "145,100",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.806221,
-          7.073011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 12.0,
-        "GND No.": "508",
-        "Scheme": "Torrent 2",
-        "N": 7.072368,
-        "E": 80.806499,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nConstruction of leader drain across streams -1m(W)x1m(H)\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "141,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.806499,
-          7.072368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 13.0,
-        "GND No.": "508",
-        "Scheme": "Mawussa torrent",
-        "N": 7.070696,
-        "E": 80.807242,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "145,100",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K12.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.807242,
-          7.070696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 14.0,
-        "GND No.": "512 E",
-        "Scheme": "Torrent at the Borahinna Pahala road",
-        "N": 7.05623,
-        "E": 80.781108,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "214,500",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K6.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.781108,
-          7.05623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 15.0,
-        "GND No.": "512 E",
-        "Scheme": "Diyanilla Ulpatha torrent",
-        "N": 7.056374,
-        "E": 80.779216,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "95,800",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K9.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.779216,
-          7.056374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 16.0,
-        "GND No.": "512 E",
-        "Scheme": "Aloka Bedda torrent",
-        "N": 7.05382,
-        "E": 80.77881,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "95,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.77881,
-          7.05382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 17.0,
-        "GND No.": "512 E",
-        "Scheme": "Torrent",
-        "N": 7.060161,
-        "E": 80.77043,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "95,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.77043,
-          7.060161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 18.0,
-        "GND No.": "512 E",
-        "Scheme": "Rathmetiya torrent",
-        "N": 7.063351,
-        "E": 80.780467,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "165,100",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.780467,
-          7.063351
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 19.0,
-        "GND No.": "512 E",
-        "Scheme": "Moraketihena torrent",
-        "N": 7.059493,
-        "E": 80.78085,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "111,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.78085,
-          7.059493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 20.0,
-        "GND No.": "512 E",
-        "Scheme": "Borahinna torrent",
-        "N": 7.057991,
-        "E": 80.781822,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "165,100",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.781822,
-          7.057991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 21.0,
-        "GND No.": "509",
-        "Scheme": "Digaredi Kadura",
-        "N": 7.077146,
-        "E": 80.801525,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "111,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.801525,
-          7.077146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 22.0,
-        "GND No.": "509",
-        "Scheme": "Ampitiya Oya",
-        "N": 7.0722402,
-        "E": 80.802659,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "125,100",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.802659,
-          7.0722402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 23.0,
-        "GND No.": "509 A",
-        "Scheme": "No. 5 torrent",
-        "N": 7.065878,
-        "E": 80.821672,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "111,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.821672,
-          7.065878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 24.0,
-        "GND No.": "509 A",
-        "Scheme": "Torrent that flows through canal No. 5",
-        "N": 7.06593,
-        "E": 80.821259,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "111,700",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/MG6 (2).jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.821259,
-          7.06593
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 25.0,
-        "GND No.": "509 A",
-        "Scheme": "Torrent of Huruduwe canal",
-        "N": 7.065574,
-        "E": 80.818967,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "111,700",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/MG6.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.818967,
-          7.065574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 26.0,
-        "GND No.": "509 A",
-        "Scheme": "4",
-        "N": 7.064684,
-        "E": 80.812672,
-        "Observation": "Collapsing boulders and bank erosion.",
-        "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "75,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.812672,
-          7.064684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 27.0,
-        "GND No.": "512 A",
-        "Scheme": "Bathkana Kadura 2",
-        "N": 7.068776,
-        "E": 80.783558,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "111,700",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/M (02)1.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.783558,
-          7.068776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 29.0,
-        "GND No.": "508 C",
-        "Scheme": "Torrent near Upali Stores (Uda Aswedduma)",
-        "N": 7.070337,
-        "E": 80.805148,
-        "Observation": "Bank erosion on both sides and accumulating wastes.",
-        "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "98,100",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU9.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.805148,
-          7.070337
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 30.0,
-        "GND No.": "508 C",
-        "Scheme": "Torrent at Aswedduma road",
-        "N": 7.068268,
-        "E": 80.806029,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "131,700",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU2.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.806029,
-          7.068268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 31.0,
-        "GND No.": "508 C",
-        "Scheme": "Torrent of Amunupura canal",
-        "N": 7.066842,
-        "E": 80.804683,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "131,700",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU21.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.804683,
-          7.066842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 32.0,
-        "GND No.": "508 C",
-        "Scheme": "Hindel torrent",
-        "N": 7.066204,
-        "E": 80.804431,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "233,500",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU1.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.804431,
-          7.066204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 33.0,
-        "GND No.": "508 C",
-        "Scheme": "Amunupura Oya",
-        "N": 7.065382,
-        "E": 80.803317,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "328,700",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU17.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.803317,
-          7.065382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 34.0,
-        "GND No.": "512",
-        "Scheme": "Belihul Oya",
-        "N": 7.08509,
-        "E": 80.78712,
-        "Observation": "Soil erosion of the lands on both sides of the river.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "218,000",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/V (02)1.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.78712,
-          7.08509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 35.0,
-        "GND No.": "512",
-        "Scheme": "Hawariella Oya",
-        "N": 7.067708,
-        "E": 80.786231,
-        "Observation": "Soil erosion of the lands on both sides of the river.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "172,100",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.786231,
-          7.067708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 36.0,
-        "GND No.": "512 F",
-        "Scheme": "Torrent from No.1 spring",
-        "N": 7.057704,
-        "E": 80.789684,
-        "Observation": "water flows in the normal condition.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "111,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.789684,
-          7.057704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 37.0,
-        "GND No.": "512 F",
-        "Scheme": "Torrent near Wewathenna lake",
-        "N": 7.063187,
-        "E": 80.790742,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "141,700",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.790742,
-          7.063187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 38.0,
-        "GND No.": "512 F",
-        "Scheme": "Gonapitiya waterfall (Katuerella waterfall)",
-        "N": 7.058555,
-        "E": 80.796654,
-        "Observation": "Bank erosion on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
-        "Amount (Rs.)": "189,900",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/WW12 (2).jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.796654,
-          7.058555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": null,
-        "GND No.": null,
-        "Scheme": null,
-        "N": null,
-        "E": null,
-        "Observation": null,
-        "Description": null,
-        "Amount (Rs.)": null,
-        "photopath": "Not_Available"
-      },
-      "geometry": null
-    }
-  ]
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "508 E",
+    "Scheme": "Torrent flows from the lake",
+    "Location_Detail": "Exact",
+    "N": "7.06723",
+    "E": "80.796924",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "76,300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.796924,
+     7.06723
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "508 E",
+    "Scheme": "The main feeder stream of the tank",
+    "Location_Detail": "Exact",
+    "N": "7.066747",
+    "E": "80.797789",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Construction of 1.2m high RR masonry wall (with section 0.60x0.60, 0.45x0.60) over 0.75m width x 0.15m thick screed concrete, plastering with 1:3 cement mortar and back filling\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "255,800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.797789,
+     7.066747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "508 E",
+    "Scheme": "Sub canal of the main feeder stream of the tank",
+    "Location_Detail": "Exact",
+    "N": "7.066747",
+    "E": "80.797789",
+    "Observation": "under normal condition",
+    "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 0.9m, top width 0.15m, 0.45m high steps x 02, each of 0.15m step width & bottom width 0.45m)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "2,035,000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.797789,
+     7.066747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "508 B",
+    "Scheme": "Gonakele torrent",
+    "Location_Detail": "Exact",
+    "N": "7.060614",
+    "E": "80.822391",
+    "Observation": "Soil erosion and flooding into houses & lands.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "283,500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.822391,
+     7.060614
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "508 B",
+    "Scheme": "Oluwawatta torrent",
+    "Location_Detail": "Exact",
+    "N": "7.057369",
+    "E": "80.821656",
+    "Observation": "Soil erosion and flooding into houses.",
+    "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "99,200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.821656,
+     7.057369
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "512 C",
+    "Scheme": "Meda Kadura",
+    "Location_Detail": "Exact",
+    "N": "7.050363",
+    "E": "80.789926",
+    "Observation": "Bank erosion on both sides and soil collapsing from upper lands.",
+    "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "236,900",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.789926,
+     7.050363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "8",
+    "GND No.": "512 C",
+    "Scheme": "Goodwood ????? ???? ????",
+    "Location_Detail": "Exact",
+    "N": "7.052011",
+    "E": "80.787596",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "148,100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.787596,
+     7.052011
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "9",
+    "GND No.": "512 C",
+    "Scheme": "-",
+    "Location_Detail": "Exact",
+    "N": "7.053582",
+    "E": "80.789273",
+    "Observation": "Water of the spring wasting and flow with the torrent water.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "141,700",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.789273,
+     7.053582
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "10",
+    "GND No.": "512 C",
+    "Scheme": "The torrent on the way to the lake",
+    "Location_Detail": "Exact",
+    "N": "7.051534",
+    "E": "80.785158",
+    "Observation": "Water spreads everywhere without draining out properly.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nConstruction of 1.2m high RR masonry wall (with section 0.60x0.60, 0.45x0.60) over 0.75m width x 0.15m thick screed concrete, plastering with 1:3 cement mortar and back filling",
+    "Amount (Rs.)": "329,800",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW13.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.785158,
+     7.051534
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "11",
+    "GND No.": "508",
+    "Scheme": "Torrent 1",
+    "Location_Detail": "Exact",
+    "N": "7.073011",
+    "E": "80.806221",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "145,100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.806221,
+     7.073011
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "12",
+    "GND No.": "508",
+    "Scheme": "Torrent 2",
+    "Location_Detail": "Exact",
+    "N": "7.072368",
+    "E": "80.806499",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nConstruction of leader drain across streams -1m(W)x1m(H)\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "141,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.806499,
+     7.072368
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "13",
+    "GND No.": "508",
+    "Scheme": "Mawussa torrent",
+    "Location_Detail": "Exact",
+    "N": "7.070696",
+    "E": "80.807242",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "145,100",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K12.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.807242,
+     7.070696
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "14",
+    "GND No.": "512 E",
+    "Scheme": "Torrent at the Borahinna Pahala road",
+    "Location_Detail": "Exact",
+    "N": "7.05623",
+    "E": "80.781108",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "214,500",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K6.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.781108,
+     7.05623
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "15",
+    "GND No.": "512 E",
+    "Scheme": "Diyanilla Ulpatha torrent",
+    "Location_Detail": "Exact",
+    "N": "7.056374",
+    "E": "80.779216",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "95,800",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K9.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.779216,
+     7.056374
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "16",
+    "GND No.": "512 E",
+    "Scheme": "Aloka Bedda torrent",
+    "Location_Detail": "Exact",
+    "N": "7.05382",
+    "E": "80.77881",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "95,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77881,
+     7.05382
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "17",
+    "GND No.": "512 E",
+    "Scheme": "Torrent",
+    "Location_Detail": "Exact",
+    "N": "7.060161",
+    "E": "80.77043",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "95,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77043,
+     7.060161
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "18",
+    "GND No.": "512 E",
+    "Scheme": "Rathmetiya torrent",
+    "Location_Detail": "Exact",
+    "N": "7.063351",
+    "E": "80.780467",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "165,100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.780467,
+     7.063351
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "19",
+    "GND No.": "512 E",
+    "Scheme": "Moraketihena torrent",
+    "Location_Detail": "Exact",
+    "N": "7.059493",
+    "E": "80.78085",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "111,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78085,
+     7.059493
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "20",
+    "GND No.": "512 E",
+    "Scheme": "Borahinna torrent",
+    "Location_Detail": "Exact",
+    "N": "7.057991",
+    "E": "80.781822",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "165,100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.781822,
+     7.057991
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "21",
+    "GND No.": "509",
+    "Scheme": "Digaredi Kadura",
+    "Location_Detail": "Exact",
+    "N": "7.077146",
+    "E": "80.801525",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "111,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.801525,
+     7.077146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "22",
+    "GND No.": "509",
+    "Scheme": "Ampitiya Oya",
+    "Location_Detail": "Exact",
+    "N": "7.0722402",
+    "E": "80.802659",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "125,100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.802659,
+     7.0722402
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "23",
+    "GND No.": "509 A",
+    "Scheme": "No. 5 torrent",
+    "Location_Detail": "Exact",
+    "N": "7.065878",
+    "E": "80.821672",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "111,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.821672,
+     7.065878
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "24",
+    "GND No.": "509 A",
+    "Scheme": "Torrent that flows through canal No. 5",
+    "Location_Detail": "Exact",
+    "N": "7.06593",
+    "E": "80.821259",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "111,700",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/MG6 (2).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.821259,
+     7.06593
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "25",
+    "GND No.": "509 A",
+    "Scheme": "Torrent of Huruduwe canal",
+    "Location_Detail": "Exact",
+    "N": "7.065574",
+    "E": "80.818967",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "111,700",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/MG6.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.818967,
+     7.065574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "26",
+    "GND No.": "509 A",
+    "Scheme": "4",
+    "Location_Detail": "Exact",
+    "N": "7.064684",
+    "E": "80.812672",
+    "Observation": "Collapsing boulders and bank erosion.",
+    "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "75,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.812672,
+     7.064684
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "27",
+    "GND No.": "512 A",
+    "Scheme": "Bathkana Kadura 2",
+    "Location_Detail": "Exact",
+    "N": "7.068776",
+    "E": "80.783558",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "111,700",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/M (02)1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.783558,
+     7.068776
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "28",
+    "GND No.": "508 C",
+    "Scheme": "Torrent near Upali Stores (Uda Aswedduma)",
+    "Location_Detail": "Exact",
+    "N": "7.070337",
+    "E": "80.805148",
+    "Observation": "Bank erosion on both sides and accumulating wastes.",
+    "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "98,100",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU9.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.805148,
+     7.070337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "29",
+    "GND No.": "508 C",
+    "Scheme": "Torrent at Aswedduma road",
+    "Location_Detail": "Exact",
+    "N": "7.068268",
+    "E": "80.806029",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "131,700",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU2.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.806029,
+     7.068268
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "30",
+    "GND No.": "508 C",
+    "Scheme": "Torrent of Amunupura canal",
+    "Location_Detail": "Exact",
+    "N": "7.066842",
+    "E": "80.804683",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "131,700",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU21.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.804683,
+     7.066842
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "31",
+    "GND No.": "508 C",
+    "Scheme": "Hindel torrent",
+    "Location_Detail": "Exact",
+    "N": "7.066204",
+    "E": "80.804431",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "233,500",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.804431,
+     7.066204
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "32",
+    "GND No.": "508 C",
+    "Scheme": "Amunupura Oya",
+    "Location_Detail": "Exact",
+    "N": "7.065382",
+    "E": "80.803317",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "328,700",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU17.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.803317,
+     7.065382
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "33",
+    "GND No.": "512",
+    "Scheme": "Belihul Oya",
+    "Location_Detail": "Exact",
+    "N": "7.08509",
+    "E": "80.78712",
+    "Observation": "Soil erosion of the lands on both sides of the river.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "218,000",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/V (02)1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78712,
+     7.08509
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "34",
+    "GND No.": "512",
+    "Scheme": "Hawariella Oya",
+    "Location_Detail": "Exact",
+    "N": "7.067708",
+    "E": "80.786231",
+    "Observation": "Soil erosion of the lands on both sides of the river.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "172,100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.786231,
+     7.067708
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "35",
+    "GND No.": "512 F",
+    "Scheme": "Torrent from No.1 spring",
+    "Location_Detail": "Exact",
+    "N": "7.057704",
+    "E": "80.789684",
+    "Observation": "water flows in the normal condition.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "111,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.789684,
+     7.057704
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "36",
+    "GND No.": "512 F",
+    "Scheme": "Torrent near Wewathenna lake",
+    "Location_Detail": "Exact",
+    "N": "7.063187",
+    "E": "80.790742",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "141,700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.790742,
+     7.063187
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "37",
+    "GND No.": "512 F",
+    "Scheme": "Gonapitiya waterfall (Katuerella waterfall)",
+    "Location_Detail": "Exact",
+    "N": "7.058555",
+    "E": "80.796654",
+    "Observation": "Bank erosion on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance",
+    "Amount (Rs.)": "189,900",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/WW12 (2).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.796654,
+     7.058555
+    ]
+   }
+  }
+ ]
 }

@@ -1,5 +1,144 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GN Division No.":"515E","GN Division":"Maha Uva","Landslides":"Land sinking - Field No. 2 Division","N":7.069336,"E":80.87431,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Sinking happened in 2013 and it is settled at the moment. Land use planning and removal of risky houses should be done following the advices of NBRO. Further, providing suitable lands is needed.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_027/1. Landslide.jpg"},"geometry":{"type":"Point","coordinates":[80.87431,7.069336]}},
-{"type":"Feature","properties":{"No.":2,"GN Division No.":"516","GN Division":"Ketakandura","Landslides":"Landslide - Ketakandura Madawala Watta (The embankment, about 12 m high, was cut vertically during the construction of the road, Therefore, banks collapse during rainy season)","N":7.102161,"E":80.873781,"NBRO Recommendation N/A":"NBRO has been informed","Proposed Measures":"Actions should be taken following the advice of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_027/23. Landslide Madewala.jpg"},"geometry":{"type":"Point","coordinates":[80.873781,7.102161]}},
-{"type":"Feature","properties":{"No.":6,"GN Division No.":"516D","GN Division":"Mahapathana","Landslides":"Landslide - Ma Ussakelle","N":7.05791,"E":80.872832,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Removal of risky houses and providing suitable lands","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.872832,7.05791]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "515E",
+    "GN Division": "Maha Uva",
+    "Landslides": "Land sinking - Field No. 2 Division",
+    "Location_Detail": "Exact",
+    "N": "7.069336",
+    "E": "80.87431",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Sinking happened in 2013 and it is settled at the moment. Land use planning and removal of risky houses should be done following the advices of NBRO. Further, providing suitable lands is needed.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_027/1. Landslide.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.87431,
+     7.069336
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "516",
+    "GN Division": "Ketakandura",
+    "Landslides": "Landslide - Ketakandura Madawala Watta (The embankment, about 12 m high, was cut vertically during the construction of the road, Therefore, banks collapse during rainy season)",
+    "Location_Detail": "Exact",
+    "N": "7.102161",
+    "E": "80.873781",
+    "NBRO Recommendation N/A": "NBRO has been informed",
+    "Proposed Measures": "Actions should be taken following the advice of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_027/23. Landslide Madewala.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.873781,
+     7.102161
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "516A",
+    "GN Division": "Kendagolla",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.097934434",
+    "E": "80.87554995",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.87554995,
+     7.097934434
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "516B",
+    "GN Division": "Egodakanda",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.085423516",
+    "E": "80.86990254",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.86990254,
+     7.085423516
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "516C",
+    "GN Division": "Werellapathana",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.07510241",
+    "E": "80.87918745",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.87918745,
+     7.07510241
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "516D",
+    "GN Division": "Mahapathana",
+    "Landslides": "Landslide - Ma Ussakelle",
+    "Location_Detail": "Exact",
+    "N": "7.05791",
+    "E": "80.872832",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Removal of risky houses and providing suitable lands",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.872832,
+     7.05791
+    ]
+   }
+  }
+ ]
+}

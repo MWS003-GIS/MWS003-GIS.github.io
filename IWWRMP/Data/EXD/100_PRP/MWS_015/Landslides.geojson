@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "511A",
+    "GN Division": "Deegalahinna",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.055637673",
+    "E": "80.75175661",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75175661,
+     7.055637673
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "511E",
+    "GN Division": "Elamulla",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.034140975",
+    "E": "80.76170588",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76170588,
+     7.034140975
+    ]
+   }
+  }
+ ]
+}

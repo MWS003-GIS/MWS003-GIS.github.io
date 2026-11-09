@@ -1,5 +1,78 @@
-{"type":"FeatureCollection","name":"WSP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No":2,"GND No.":"468I","Name of the Tank":"Spring at the tea plantation of the Middle division of 2nd mile post","N":6.996455,"E":80.722865,"Observation":"An anicut is built to intercept the water flowing from the spring located in the middle of the second mile post, providing water for about sixty families.","Description":"Construction of a Water Stock Tank with a Filter System (3.0m x2.0m x 2.0m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ?05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4","Amount (Rs.)":762300,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_2/Spring at the Middle division of 2nd mile post.jpg"},"geometry":{"type":"Point","coordinates":[80.722865,6.996455]}},
-{"type":"Feature","properties":{"No":3,"GND No.":"468I","Name of the Tank":"Spring at the lower division of the tea plantation of 'C' division","N":7.005702,"E":80.723921,"Observation":"An anicut is built at the source, and water is collected in a water storage tank and distributed to about thirty families. The 50mm diameter pipe, which runs for a distance of 500m from the source to the water storage tank, is in a dilapidated condition.","Description":"50mm dia PvC pipe in Solvent Socket Type in PNT11 -To connect the water source and tank\n\nMiscellaneous\n\nContingencies (10%)","Amount (Rs.)":523600,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_2/Spring at the lower division of the tea plantation of 'C' division.jpg"},"geometry":{"type":"Point","coordinates":[80.723921,7.005702]}},
-{"type":"Feature","properties":{"No":4,"GND No.":"468I","Name of the Tank":"The spring that is located in the reserve above the temple at the 3rd mile post","N":6.993552,"E":80.717289,"Observation":"A concrete dam 3.0m long and 0.6m high has been constructed and an anicut has been prepared to collect the water flowing from the spring. Water is being provided to eighteen families.","Description":"Construction of a Water Stock Tank  (2.0m x2.0m x 1.5m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ?05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concre","Amount (Rs.)":599500,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_2/Spring at the 3rd mile post.jpg"},"geometry":{"type":"Point","coordinates":[80.717289,6.993552]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "WSP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "468I",
+    "Name of the Tank": "Spring at the tea plantation of the Middle division of 2nd mile post",
+    "Location_Detail": "Exact",
+    "N": "6.996455",
+    "E": "80.722865",
+    "Observation": "An anicut is built to intercept the water flowing from the spring located in the middle of the second mile post, providing water for about sixty families.",
+    "Description": "Construction of a Water Stock Tank with a Filter System (3.0m x2.0m x 2.0m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nInstall a filter system\n\nInstall a streamline water distribution system\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "762300",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_2/Spring at the Middle division of 2nd mile post.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.722865,
+     6.996455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "468I",
+    "Name of the Tank": "Spring at the lower division of the tea plantation of 'C' division",
+    "Location_Detail": "Exact",
+    "N": "7.005702",
+    "E": "80.723921",
+    "Observation": "An anicut is built at the source, and water is collected in a water storage tank and distributed to about thirty families. The 50mm diameter pipe, which runs for a distance of 500m from the source to the water storage tank, is in a dilapidated condition.",
+    "Description": "50mm dia PvC pipe in Solvent Socket Type in PNT11 -To connect the water source and tank\n\nMiscellaneous\n\nContingencies (10%)",
+    "Amount (Rs.)": "523600",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_2/Spring at the lower division of the tea plantation of 'C' division.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.723921,
+     7.005702
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "468I",
+    "Name of the Tank": "The spring that is located in the reserve above the temple at the 3rd mile post",
+    "Location_Detail": "Exact",
+    "N": "6.993552",
+    "E": "80.717289",
+    "Observation": "A concrete dam 3.0m long and 0.6m high has been constructed and an anicut has been prepared to collect the water flowing from the spring. Water is being provided to eighteen families.",
+    "Description": "Construction of a Water Stock Tank  (2.0m x2.0m x 1.5m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\n25mm dia PvC pipe in Solvent Socket Type in PNT11\n\n20mm dia PvC pipe in Solvent Socket Type in PNT11\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "599500",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_165_2/Spring at the 3rd mile post.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.717289,
+     6.993552
+    ]
+   }
+  }
+ ]
+}

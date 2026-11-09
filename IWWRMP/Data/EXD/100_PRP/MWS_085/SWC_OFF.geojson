@@ -1,6 +1,246 @@
-{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GND No.":787,"GND Name":"Poddalgoda","Key Activities proposed for Soil and Water conservation":"1. Establishing a wall - Puranewela","Priority based on Soil Erosion Hazard":4,"N":7.322199,"E":80.792957,"Quantity":"15 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"1,749,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_085/Puranevela road erotion_20250327_131328.jpg"},"geometry":{"type":"Point","coordinates":[80.792957,7.322199]}},
-{"type":"Feature","properties":{"No.":3,"GND No.":789,"GND Name":"Katugoda","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - near No. 355/2 Mr. A.M.P.G. weerakoon Banda's house","Priority based on Soil Erosion Hazard":1,"N":7.327549,"E":80.801052,"Quantity":"10 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"1,171,500.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.801052,7.327549]}},
-{"type":"Feature","properties":{"No.":4,"GND No.":789,"GND Name":"Katugoda","Key Activities proposed for Soil and Water conservation":"2. Establishing a retaining wall - near Mr. Indika's house","Priority based on Soil Erosion Hazard":1,"N":7.328423,"E":80.799835,"Quantity":"20 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"2,332,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.799835,7.328423]}},
-{"type":"Feature","properties":{"No.":5,"GND No.":789,"GND Name":"Katugoda","Key Activities proposed for Soil and Water conservation":"3. Establishing a retaining wall - Katugoda Meda road near the Mrs. Tikirikumari's house","Priority based on Soil Erosion Hazard":1,"N":7.327683,"E":80.797309,"Quantity":"5 m x 2 m","Proposed measure/s":"Retaining Wall (Masonary)","Total_Cost":"220,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.797309,7.327683]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "787",
+    "GND Name": "Poddalgoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a wall - Puranewela",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.322199",
+    "E": "80.792957",
+    "Quantity": "15 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "1,749,000.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_085/Puranevela road erotion_20250327_131328.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.792957,
+     7.322199
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "788",
+    "GND Name": "Weladaramba",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.337515805",
+    "E": "80.79021251",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79021251,
+     7.337515805
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "789",
+    "GND Name": "Katugoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - near No. 355/2 Mr. A.M.P.G. weerakoon Banda's house",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.327549",
+    "E": "80.801052",
+    "Quantity": "10 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "1,171,500.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.801052,
+     7.327549
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "789",
+    "GND Name": "Katugoda",
+    "Key Activities proposed for Soil and Water conservation": "2. Establishing a retaining wall - near Mr. Indika's house",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.328423",
+    "E": "80.799835",
+    "Quantity": "20 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2,332,000.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.799835,
+     7.328423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "789",
+    "GND Name": "Katugoda",
+    "Key Activities proposed for Soil and Water conservation": "3. Establishing a retaining wall - Katugoda Meda road near the Mrs. Tikirikumari's house",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.327683",
+    "E": "80.797309",
+    "Quantity": "5 m x 2 m",
+    "Proposed measure/s": "Retaining Wall (Masonary)",
+    "Total_Cost": "220,000.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.797309,
+     7.327683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "790",
+    "GND Name": "Rangala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.353360738",
+    "E": "80.8037094",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8037094,
+     7.353360738
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "791",
+    "GND Name": "Rangala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.343577788",
+    "E": "80.79857824",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79857824,
+     7.343577788
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "792",
+    "GND Name": "Duckwariya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.352576671",
+    "E": "80.78900707",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78900707,
+     7.352576671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "797",
+    "GND Name": "Kurukohogama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.314319521",
+    "E": "80.79768664",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79768664,
+     7.314319521
+    ]
+   }
+  }
+ ]
+}

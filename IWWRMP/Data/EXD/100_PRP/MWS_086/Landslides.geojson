@@ -1,6 +1,144 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":3,"GN Division No.":796,"GN Division":"Heeloya","Landslides":"Landlide - Heeloya Watagala Road","N":7.324208,"E":80.803766,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow the recommendations of NBRO, having consulted","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250423_104940 Landslide section of road.jpg"},"geometry":{"type":"Point","coordinates":[80.803766,7.324208]}},
-{"type":"Feature","properties":{"No.":4,"GN Division No.":796,"GN Division":"Heeloya","Landslides":"Landlide - Heeloya Village Mr A.M. Kudabanda","N":7.321974,"E":80.805396,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Follow the recommendations of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250423_122743 Mr A.M Kudabanda Landslide land.jpg"},"geometry":{"type":"Point","coordinates":[80.805396,7.321974]}},
-{"type":"Feature","properties":{"No.":5,"GN Division No.":796,"GN Division":"Heeloya","Landslides":"Landlide - Heeloya Village Mr R.G. Darmadasa","N":7.320192,"E":80.801927,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Follow the recommendations of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250423_112309 Mr R.G Darmadasa land Landslide.jpg"},"geometry":{"type":"Point","coordinates":[80.801927,7.320192]}},
-{"type":"Feature","properties":{"No.":6,"GN Division No.":798,"GN Division":"Kiribattalawa","Landslides":"Landlide - From the Retiyagama main road to  Labuwagoda by-road","N":7.308896,"E":80.801131,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow the recommendations of NBRO, having consulted","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250425_102624Retiyagama Earth slip.jpg"},"geometry":{"type":"Point","coordinates":[80.801131,7.308896]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "794",
+    "GN Division": "Ferndail",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.361055532",
+    "E": "80.82670573",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.82670573,
+     7.361055532
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "795",
+    "GN Division": "Burnside",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.341513988",
+    "E": "80.81070418",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.81070418,
+     7.341513988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "796",
+    "GN Division": "Heeloya",
+    "Landslides": "Landlide - Heeloya Watagala Road",
+    "Location_Detail": "Exact",
+    "N": "7.324208",
+    "E": "80.803766",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow the recommendations of NBRO, having consulted",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250423_104940 Landslide section of road.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.803766,
+     7.324208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "796",
+    "GN Division": "Heeloya",
+    "Landslides": "Landlide - Heeloya Village Mr A.M. Kudabanda",
+    "Location_Detail": "Exact",
+    "N": "7.321974",
+    "E": "80.805396",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250423_122743 Mr A.M Kudabanda Landslide land.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.805396,
+     7.321974
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "796",
+    "GN Division": "Heeloya",
+    "Landslides": "Landlide - Heeloya Village Mr R.G. Darmadasa",
+    "Location_Detail": "Exact",
+    "N": "7.320192",
+    "E": "80.801927",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250423_112309 Mr R.G Darmadasa land Landslide.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.801927,
+     7.320192
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "798",
+    "GN Division": "Kiribattalawa",
+    "Landslides": "Landlide - From the Retiyagama main road to  Labuwagoda by-road",
+    "Location_Detail": "Exact",
+    "N": "7.308896",
+    "E": "80.801131",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow the recommendations of NBRO, having consulted",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_086/IMG_20250425_102624Retiyagama Earth slip.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.801131,
+     7.308896
+    ]
+   }
+  }
+ ]
+}

@@ -1,11 +1,348 @@
-{"type":"FeatureCollection","name":"WP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":2,"GND No.":"506 C","GN Division":"Madakandura","Non-point sources of pollution":"Potential to additing human waste - Liyanwela Watta","N":7.093574,"E":80.838629,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.838629,7.093574]}},
-{"type":"Feature","properties":{"No.":3,"GND No.":"506 C","GN Division":"Madakandura","Non-point sources of pollution":"Potential to additing human waste - Alma","N":7.093574,"E":80.838629,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.838629,7.093574]}},
-{"type":"Feature","properties":{"No.":4,"GND No.":"506 C","GN Division":"Madakandura","Non-point sources of pollution":"Improper disposal of household waste - Madakandura","N":7.093574,"E":80.838629,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection\n","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.838629,7.093574]}},
-{"type":"Feature","properties":{"No.":6,"GND No.":"506 E","GN Division":"Madumana","Non-point sources of pollution":"Potential to additing human waste - Liyanwela Watta","N":7.11664,"E":80.829734,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.829734,7.11664]}},
-{"type":"Feature","properties":{"No.":7,"GND No.":"506 F","GN Division":"Ilukpelessa","Non-point sources of pollution":"Potential to additing human waste - Illukpelessa","N":7.126289,"E":80.818879,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.818879,7.126289]}},
-{"type":"Feature","properties":{"No.":8,"GND No.":"513 F","GN Division":"Andawala","Non-point sources of pollution":"Potential to additing human waste - Ambagahathanna Village","N":7.130209,"E":80.831393,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.831393,7.130209]}},
-{"type":"Feature","properties":{"No.":9,"GND No.":"513 F","GN Division":"Andawala","Non-point sources of pollution":"Potential to additing human waste - Ilukpalassa Village","N":7.130209,"E":80.831393,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.831393,7.130209]}},
-{"type":"Feature","properties":{"No.":10,"GND No.":"513 F","GN Division":"Andawala","Non-point sources of pollution":"Potential to additing human waste - Malapattawa Village","N":7.130209,"E":80.831393,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.831393,7.130209]}},
-{"type":"Feature","properties":{"No.":11,"GND No.":"513 F","GN Division":"Andawala","Non-point sources of pollution":"Improper disposal of household waste - Madakandura","N":7.130209,"E":80.831393,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.831393,7.130209]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "506B",
+    "GN Division": "Liyanwela Pahala",
+    "Non-point sources of pollution": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.115240889",
+    "E": "80.82355922",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.82355922,
+     7.115240889
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "506 C",
+    "GN Division": "Madakandura",
+    "Non-point sources of pollution": "Potential to additing human waste - Liyanwela Watta",
+    "Location_Detail": "Exact",
+    "N": "7.093574",
+    "E": "80.838629",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.838629,
+     7.093574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "506 C",
+    "GN Division": "Madakandura",
+    "Non-point sources of pollution": "Potential to additing human waste - Alma",
+    "Location_Detail": "Exact",
+    "N": "7.093574",
+    "E": "80.838629",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.838629,
+     7.093574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "506 C",
+    "GN Division": "Madakandura",
+    "Non-point sources of pollution": "Improper disposal of household waste - Madakandura",
+    "Location_Detail": "Exact",
+    "N": "7.093574",
+    "E": "80.838629",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection\n",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50,000.00",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.838629,
+     7.093574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "506D",
+    "GN Division": "Liyanwela Ihala",
+    "Non-point sources of pollution": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.106598051",
+    "E": "80.83518447",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.83518447,
+     7.106598051
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "506 E",
+    "GN Division": "Madumana",
+    "Non-point sources of pollution": "Potential to additing human waste - Liyanwela Watta",
+    "Location_Detail": "Exact",
+    "N": "7.11664",
+    "E": "80.829734",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.829734,
+     7.11664
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "506 F",
+    "GN Division": "Ilukpelessa",
+    "Non-point sources of pollution": "Potential to additing human waste - Illukpelessa",
+    "Location_Detail": "Exact",
+    "N": "7.126289",
+    "E": "80.818879",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.818879,
+     7.126289
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "513 F",
+    "GN Division": "Andawala",
+    "Non-point sources of pollution": "Potential to additing human waste - Ambagahathanna Village",
+    "Location_Detail": "Exact",
+    "N": "7.130209",
+    "E": "80.831393",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.831393,
+     7.130209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "513 F",
+    "GN Division": "Andawala",
+    "Non-point sources of pollution": "Potential to additing human waste - Ilukpalassa Village",
+    "Location_Detail": "Exact",
+    "N": "7.130209",
+    "E": "80.831393",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.831393,
+     7.130209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "513 F",
+    "GN Division": "Andawala",
+    "Non-point sources of pollution": "Potential to additing human waste - Malapattawa Village",
+    "Location_Detail": "Exact",
+    "N": "7.130209",
+    "E": "80.831393",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.831393,
+     7.130209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "513 F",
+    "GN Division": "Andawala",
+    "Non-point sources of pollution": "Improper disposal of household waste - Madakandura",
+    "Location_Detail": "Exact",
+    "N": "7.130209",
+    "E": "80.831393",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50,000.00",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.831393,
+     7.130209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "514A",
+    "GN Division": "Naranthalawa",
+    "Non-point sources of pollution": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.120924205",
+    "E": "80.838562",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.838562,
+     7.120924205
+    ]
+   }
+  }
+ ]
+}

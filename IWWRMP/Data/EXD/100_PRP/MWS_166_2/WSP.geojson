@@ -1,12 +1,232 @@
-{"type":"FeatureCollection","name":"WSP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No":5,"GND No.":"474B","Name of the Tank":"Spring Behind the Community Hall","N":7.015513,"E":80.729578,"Observation":"A  tank is constructed (2.0 m x1.4 m x0.80 m, L*W*H).Water leaks from the tank. Located on public land.","Description":"Construction of a Water Stock Tank (2.5m x1.8m x 0.9m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ?05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concret","Amount (Rs.)":"267,300","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260112_093212 Spring Behind the Community Hall.jpg"},"geometry":{"type":"Point","coordinates":[80.729578,7.015513]}},
-{"type":"Feature","properties":{"No":6,"GND No.":"474B","Name of the Tank":"Spring Infront of the Mr. A.A.G Sugathapala house","N":7.010946,"E":80.738586,"Observation":"It is as a form of a natural spring. Located on public land. Used for drinking and bathing","Description":"Construction of a Water Stock Tank (2.0m x2.0m x 1.5m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ?05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concret","Amount (Rs.)":"368,500","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260112_101121 Spring Infront of the Mr. A.A.G Sugathapala house.jpg"},"geometry":{"type":"Point","coordinates":[80.738586,7.010946]}},
-{"type":"Feature","properties":{"No":7,"GND No.":"474C","Name of the Tank":"In the Kandy-Nuwara Eliya Main Road, Wedamulla Junction","N":7.041098,"E":80.704763,"Observation":"A  tank is constructed (4.6 m x 3.2 m x 1.80 m, L*W*H).Located on public land. Used for drinking and bathing","Description":"25mm dia PvC pipe in Solvent Socket Type in PNT11\n\nTidying up\n\nContingencies (10%)","Amount (Rs.)":"419,100","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20251224_131811 Wedamulla Juntion spring.jpg"},"geometry":{"type":"Point","coordinates":[80.704763,7.041098]}},
-{"type":"Feature","properties":{"No":8,"GND No.":"474C","Name of the Tank":"The spring near the sandun flower nursery (Kondagala)","N":7.037662,"E":80.708589,"Observation":"The spring is in the form of a kandura . used for drinking and bathing It is a land related to Forest Department","Description":"Construction of Concrete anicut of  4 m length and height 0.6 m.\n\nClearing the site \n\nCommon excavation for foundation or quarry materials and haul the surplus up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for structure -0","Amount (Rs.)":"2,253,900","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20251224_124009 The spring near the sadun flower nursery.jpg"},"geometry":{"type":"Point","coordinates":[80.708589,7.037662]}},
-{"type":"Feature","properties":{"No":9,"GND No.":"474I","Name of the Tank":"Labukele Watta Lower Part, Near Mr Kanagananda's House Spring","N":7.02139,"E":80.724171,"Observation":"Currently a Retaining wall has been constructed,  6.2 m long and 1.2 m hight. Water is leaking from the Retaining  Wall. used for drinking and bathing","Description":"1:2:4 concrete with concrete mixer  (volume batching) - To concrete the inner side of the retaining wall\n\nMiscellaneous\n\nContingencies (10%)","Amount (Rs.)":"27,500","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_141046 Labukele Watta Lower Part, Near Mr Kanagananda's House Spring.jpg"},"geometry":{"type":"Point","coordinates":[80.724171,7.02139]}},
-{"type":"Feature","properties":{"No":10,"GND No.":"474I","Name of the Tank":"Spring in the Tea Land which is in the Upper Part of the Church","N":7.02119,"E":80.711804,"Observation":"It is as a form of a natural spring","Description":"Construction of a Well using RRM with 1.5 m Dia\n\nSite preparation & setting out\n\nRemove loose soil and unstable material\n\nUse a pump and lower the water level temporary\n\nWet Silt removing from Tankbed and haul the surplus materials up to1.6 km distan","Amount (Rs.)":"678,700","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_143608 Spring in the Tea Land which is in the Upper Part of the Church.jpg"},"geometry":{"type":"Point","coordinates":[80.711804,7.02119]}},
-{"type":"Feature","properties":{"No":11,"GND No.":"474I","Name of the Tank":"Spring in the Kondagala No. 7","N":7.032816,"E":80.713937,"Observation":"It is as a form of a natural spring","Description":"Construction of a Water Stock Tank (1.2m x1.2m x 1.0m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ?05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concret","Amount (Rs.)":"209,000","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_133000 kondagala Nu-07 spring.jpg"},"geometry":{"type":"Point","coordinates":[80.713937,7.032816]}},
-{"type":"Feature","properties":{"No":12,"GND No.":"474H","Name of the Tank":"The part that supplies water to Labukele at the foot of the Kikiliyamana Reserve","N":7.017006,"E":80.723368,"Observation":"A  tank is constructed (3.5 m+ 3.3 m + 3.0 m, L*W*H).Located on public land. Used for drinking and bathing","Description":"Fabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two coats enamel paint over two coats of  anti","Amount (Rs.)":"134,200","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_094025 The part that supplies water to Labukele at the foot of the Kikiliyamana Reserve.jpg"},"geometry":{"type":"Point","coordinates":[80.723368,7.017006]}},
-{"type":"Feature","properties":{"No":13,"GND No.":"474H","Name of the Tank":"Water Supply Kuda Oya (old)","N":7.019085,"E":80.728305,"Observation":"A  tank is constructed (1.70 m + 1.00 m + 1.70 m, L*W*H).Water is leaking from the tank  Wall. Located on public land. Used for drinking and bathing","Description":"Construction of Concrete anicut of  4 m length and height 0.7 m.\n\nClearing the site \n\nCommon excavation for foundation or quarry materials and haul the surplus up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for structure -0","Amount (Rs.)":"123,200","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_112129 Water Supply Kuda Oya (old).jpg"},"geometry":{"type":"Point","coordinates":[80.728305,7.019085]}},
-{"type":"Feature","properties":{"No":14,"GND No.":"474H","Name of the Tank":"At the foot of the Kikilia Mana Reserve","N":7.015582,"E":80.723956,"Observation":"It is a land related to Forest Department, currently turpentine trees have been planted","Description":"Marking Reservation around the land \n\nContingencies (10%)","Amount (Rs.)":"55,000","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_100652 At the foot of the Kikilia Mana Reserve.jpg"},"geometry":{"type":"Point","coordinates":[80.723956,7.015582]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "WSP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "474B",
+    "Name of the Tank": "Spring Behind the Community Hall",
+    "Location_Detail": "Exact",
+    "N": "7.015513",
+    "E": "80.729578",
+    "Observation": "A  tank is constructed (2.0 m x1.4 m x0.80 m, L*W*H).Water leaks from the tank. Located on public land.",
+    "Description": "Construction of a Water Stock Tank (2.5m x1.8m x 0.9m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40 mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "267,300",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260112_093212 Spring Behind the Community Hall.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.729578,
+     7.015513
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "474B",
+    "Name of the Tank": "Spring Infront of the Mr. A.A.G Sugathapala house",
+    "Location_Detail": "Exact",
+    "N": "7.010946",
+    "E": "80.738586",
+    "Observation": "It is as a form of a natural spring. Located on public land. Used for drinking and bathing",
+    "Description": "Construction of a Water Stock Tank (2.0m x2.0m x 1.5m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40 mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nExcavation trenches less than 300 mm width in normal earth average depth of not exceeding 1.0m from ground level inclusive of backfilling, compacting and disposal of surplus earth - To connect the spring and stock tank\n\n40mm dia PvC pipe in Solvent Socket Type in PNT11-connect the spring and water tank + Overflow\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "368,500",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260112_101121 Spring Infront of the Mr. A.A.G Sugathapala house.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.738586,
+     7.010946
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "474C",
+    "Name of the Tank": "In the Kandy-Nuwara Eliya Main Road, Wedamulla Junction",
+    "Location_Detail": "Exact",
+    "N": "7.041098",
+    "E": "80.704763",
+    "Observation": "A  tank is constructed (4.6 m x 3.2 m x 1.80 m, L*W*H).Located on public land. Used for drinking and bathing",
+    "Description": "25mm dia PvC pipe in Solvent Socket Type in PNT11\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "419,100",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20251224_131811 Wedamulla Juntion spring.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.704763,
+     7.041098
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "474C",
+    "Name of the Tank": "The spring near the sandun flower nursery (Kondagala)",
+    "Location_Detail": "Exact",
+    "N": "7.037662",
+    "E": "80.708589",
+    "Observation": "The spring is in the form of a kandura . used for drinking and bathing It is a land related to Forest Department",
+    "Description": "Construction of Concrete anicut of  4 m length and height 0.6 m.\n\nClearing the site \n\nCommon excavation for foundation or quarry materials and haul the surplus up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer with 20% plums (volume batching) in 0.9 m high & 17.0 m long water retaining wall keeping 02 Nos. 1000 mm long, 600 mm deep opening to be functioned as the spillway.\n\nDry rubble packing (with locally found rubble, size over 225mm ) for 1.5 m width and to the whole width to act as a DS erosion protection\n\nTransport of materials\n\nTidying up\n\nConstruction of a Water Stock Tank (4.0m x4.0m x 2.0m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40 mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\n63mm dia PvC pipe in Solvent Socket Type in PNT11\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "2,253,900",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20251224_124009 The spring near the sadun flower nursery.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.708589,
+     7.037662
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "474I",
+    "Name of the Tank": "Labukele Watta Lower Part, Near Mr Kanagananda's House Spring",
+    "Location_Detail": "Exact",
+    "N": "7.02139",
+    "E": "80.724171",
+    "Observation": "Currently a Retaining wall has been constructed,  6.2 m long and 1.2 m hight. Water is leaking from the Retaining  Wall. used for drinking and bathing",
+    "Description": "1:2:4 concrete with concrete mixer  (volume batching) - To concrete the inner side of the retaining wall\n\nMiscellaneous\n\nContingencies (10%)",
+    "Amount (Rs.)": "27,500",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_141046 Labukele Watta Lower Part, Near Mr Kanagananda's House Spring.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.724171,
+     7.02139
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "474I",
+    "Name of the Tank": "Spring in the Tea Land which is in the Upper Part of the Church",
+    "Location_Detail": "Exact",
+    "N": "7.02119",
+    "E": "80.711804",
+    "Observation": "It is as a form of a natural spring",
+    "Description": "Construction of a Well using RRM with 1.5 m Dia\n\nSite preparation & setting out\n\nRemove loose soil and unstable material\n\nUse a pump and lower the water level temporary\n\nWet Silt removing from Tankbed and haul the surplus materials up to1.6 km distance by machinery (This rate is excluding of transporting of machinery)\n\n150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures - To build the well wall\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\n150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures - To construct a collar at the top\n\n1:2:4 concrete with concrete mixer (volume batching)- To construct a pavement around the well\n\nMachine Transport\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40 mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "678,700",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_143608 Spring in the Tea Land which is in the Upper Part of the Church.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.711804,
+     7.02119
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "474I",
+    "Name of the Tank": "Spring in the Kondagala No. 7",
+    "Location_Detail": "Exact",
+    "N": "7.032816",
+    "E": "80.713937",
+    "Observation": "It is as a form of a natural spring",
+    "Description": "Construction of a Water Stock Tank (1.2m x1.2m x 1.0m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "209,000",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_133000 kondagala Nu-07 spring.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.713937,
+     7.032816
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "8",
+    "GND No.": "474H",
+    "Name of the Tank": "The part that supplies water to Labukele at the foot of the Kikiliyamana Reserve",
+    "Location_Detail": "Exact",
+    "N": "7.017006",
+    "E": "80.723368",
+    "Observation": "A  tank is constructed (3.5 m+ 3.3 m + 3.0 m, L*W*H).Located on public land. Used for drinking and bathing",
+    "Description": "Fabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm  SWG 10, welded on 40mm x 40mm x 5mm  angle frame complete with application of two coats enamel paint over two coats of  anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07 - To cover the well\n\nMiscellaneous\n\nContingencies (10%)",
+    "Amount (Rs.)": "134,200",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_094025 The part that supplies water to Labukele at the foot of the Kikiliyamana Reserve.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.723368,
+     7.017006
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "9",
+    "GND No.": "474H",
+    "Name of the Tank": "Water Supply Kuda Oya (old)",
+    "Location_Detail": "Exact",
+    "N": "7.019085",
+    "E": "80.728305",
+    "Observation": "A  tank is constructed (1.70 m + 1.00 m + 1.70 m, L*W*H).Water is leaking from the tank  Wall. Located on public land. Used for drinking and bathing",
+    "Description": "Construction of Concrete anicut of  4 m length and height 0.7 m.\n\nClearing the site \n\nCommon excavation for foundation or quarry materials and haul the surplus up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer with 20% plums (volume batching) in 0.9 m high & 17.0 m long water retaining wall keeping 02 Nos. 1000 mm long, 600 mm deep opening to be functioned as the spillway.\n\nDry rubble packing (with locally found rubble, size over 225mm ) for 1.5 m width and to the whole width to act as a DS erosion protection\n\nTransport of materials\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "123,200",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_112129 Water Supply Kuda Oya (old).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.728305,
+     7.019085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "10",
+    "GND No.": "474H",
+    "Name of the Tank": "At the foot of the Kikilia Mana Reserve",
+    "Location_Detail": "Exact",
+    "N": "7.015582",
+    "E": "80.723956",
+    "Observation": "It is a land related to Forest Department, currently turpentine trees have been planted",
+    "Description": "Marking Reservation around the land \n\nContingencies (10%)",
+    "Amount (Rs.)": "55,000",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_166_2/IMG_20260102_100652 At the foot of the Kikilia Mana Reserve.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.723956,
+     7.015582
+    ]
+   }
+  }
+ ]
+}

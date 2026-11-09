@@ -1,15 +1,376 @@
-{"type":"FeatureCollection","name":"WP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":2,"GND No.":"530B","GN Division":"Wathulanda West","Non-point sources of pollution":"Potential to add human waste - Rapathana Waththa","N":7.01744584,"E":80.91227546,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.91227546,7.01744584]}},
-{"type":"Feature","properties":{"No.":3,"GND No.":"530A","GN Division":"Wathulanda East","Non-point sources of pollution":"Throwing household waste - Adiyarawaththa Udapussallawa Road-Galabindathena","N":7.01242,"E":80.91929,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste, Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Facilitating garbage collection","Unit Cost (Rs.)":"50,000.00","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.91929,7.01242]}},
-{"type":"Feature","properties":{"No.":4,"GND No.":"527","GN Division":"Madulla North","Non-point sources of pollution":"Improper disposal of domestic waste - Minor","N":7.05811725,"E":80.92269102,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments., Facilitating garbage collection","Unit Cost (Rs.)":"50,000.00","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92269102,7.05811725]}},
-{"type":"Feature","properties":{"No.":5,"GND No.":"528C","GN Division":"Maliyadda","Non-point sources of pollution":"Improper disposal of domestic waste - Minor","N":7.02907331,"E":80.9225902,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments, Facilitating garbage collection","Unit Cost (Rs.)":"50,000.00","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.9225902,7.02907331]}},
-{"type":"Feature","properties":{"No.":6,"GND No.":"530","GN Division":"Kurupanawela","Non-point sources of pollution":"Improper disposal of domestic waste - Minor","N":7.02121512,"E":80.92142153,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments, Facilitating garbage collection","Unit Cost (Rs.)":"50,000.00","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92142153,7.02121512]}},
-{"type":"Feature","properties":{"No.":7,"GND No.":"530","GN Division":"Kurupanawela","Non-point sources of pollution":"Potential to add human waste - Estate area","N":7.02121512,"E":80.92142153,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92142153,7.02121512]}},
-{"type":"Feature","properties":{"No.":8,"GND No.":"527A","GN Division":"Madulla South","Non-point sources of pollution":"Potential to add human waste - Rabar Waththa","N":7.04838973,"E":80.92100954,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92100954,7.04838973]}},
-{"type":"Feature","properties":{"No.":9,"GND No.":"527A","GN Division":"Madulla South","Non-point sources of pollution":"Potential to add human waste - Hapugas Hinna","N":7.04838973,"E":80.92100954,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92100954,7.04838973]}},
-{"type":"Feature","properties":{"No.":10,"GND No.":"527A","GN Division":"Madulla South","Non-point sources of pollution":"Potential to add human waste - Helagama","N":7.04838973,"E":80.92100954,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92100954,7.04838973]}},
-{"type":"Feature","properties":{"No.":11,"GND No.":"527A","GN Division":"Madulla South","Non-point sources of pollution":"Potential to add human waste - Gangaragolla","N":7.04838973,"E":80.92100954,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92100954,7.04838973]}},
-{"type":"Feature","properties":{"No.":12,"GND No.":"527A","GN Division":"Madulla South","Non-point sources of pollution":"Accumulation of domestic waste in the Great Irrigation Canal of Keenawala","N":7.054,"E":80.92612,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments, Facilitating garbage collection","Unit Cost (Rs.)":"50,000.00","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92612,7.054]}},
-{"type":"Feature","properties":{"No.":13,"GND No.":"527B","GN Division":"Morahela","Non-point sources of pollution":"Potential to add human waste - Madulla New Town","N":7.04652404,"E":80.93315119,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.93315119,7.04652404]}},
-{"type":"Feature","properties":{"No.":14,"GND No.":"527B","GN Division":"Morahela","Non-point sources of pollution":"Improper disposal of domestic waste - Morahela New Town","N":7.04652404,"E":80.93315119,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments, Facilitating garbage collection","Unit Cost (Rs.)":"50,000.00","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.93315119,7.04652404]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "530B",
+    "GN Division": "Wathulanda West",
+    "Non-point sources of pollution": "Potential to add human waste - Rapathana Waththa",
+    "Location_Detail": "Approximation",
+    "N": "7.01744584",
+    "E": "80.91227546",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91227546,
+     7.01744584
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "530A",
+    "GN Division": "Wathulanda East",
+    "Non-point sources of pollution": "Throwing household waste - Adiyarawaththa Udapussallawa Road-Galabindathena",
+    "Location_Detail": "Exact",
+    "N": "7.01242",
+    "E": "80.91929",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste, Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Facilitating garbage collection",
+    "Unit Cost (Rs.)": "50,000.00",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91929,
+     7.01242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "527",
+    "GN Division": "Madulla North",
+    "Non-point sources of pollution": "Improper disposal of domestic waste - Minor",
+    "Location_Detail": "Approximation",
+    "N": "7.05811725",
+    "E": "80.92269102",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments., Facilitating garbage collection",
+    "Unit Cost (Rs.)": "50,000.00",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92269102,
+     7.05811725
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "528C",
+    "GN Division": "Maliyadda",
+    "Non-point sources of pollution": "Improper disposal of domestic waste - Minor",
+    "Location_Detail": "Approximation",
+    "N": "7.02907331",
+    "E": "80.9225902",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments, Facilitating garbage collection",
+    "Unit Cost (Rs.)": "50,000.00",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9225902,
+     7.02907331
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "530",
+    "GN Division": "Kurupanawela",
+    "Non-point sources of pollution": "Improper disposal of domestic waste - Minor",
+    "Location_Detail": "Approximation",
+    "N": "7.02121512",
+    "E": "80.92142153",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments, Facilitating garbage collection",
+    "Unit Cost (Rs.)": "50,000.00",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92142153,
+     7.02121512
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "530",
+    "GN Division": "Kurupanawela",
+    "Non-point sources of pollution": "Potential to add human waste - Estate area",
+    "Location_Detail": "Approximation",
+    "N": "7.02121512",
+    "E": "80.92142153",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92142153,
+     7.02121512
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "527A",
+    "GN Division": "Madulla South",
+    "Non-point sources of pollution": "Accumulation of domestic waste in the Great Irrigation Canal of Keenawala",
+    "Location_Detail": "Exact",
+    "N": "7.054",
+    "E": "80.92612",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments, Facilitating garbage collection",
+    "Unit Cost (Rs.)": "50,000.00",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92612,
+     7.054
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "527A",
+    "GN Division": "Madulla South",
+    "Non-point sources of pollution": "Potential to add human waste - Rabar Waththa",
+    "Location_Detail": "Approximation",
+    "N": "7.04838973",
+    "E": "80.92100954",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92100954,
+     7.04838973
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "527A",
+    "GN Division": "Madulla South",
+    "Non-point sources of pollution": "Potential to add human waste - Hapugas Hinna",
+    "Location_Detail": "Approximation",
+    "N": "7.04838973",
+    "E": "80.92100954",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92100954,
+     7.04838973
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "527A",
+    "GN Division": "Madulla South",
+    "Non-point sources of pollution": "Potential to add human waste - Helagama",
+    "Location_Detail": "Approximation",
+    "N": "7.04838973",
+    "E": "80.92100954",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92100954,
+     7.04838973
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "527A",
+    "GN Division": "Madulla South",
+    "Non-point sources of pollution": "Potential to add human waste - Gangaragolla",
+    "Location_Detail": "Approximation",
+    "N": "7.04838973",
+    "E": "80.92100954",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92100954,
+     7.04838973
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "527B",
+    "GN Division": "Morahela",
+    "Non-point sources of pollution": "Potential to add human waste - Madulla New Town",
+    "Location_Detail": "Approximation",
+    "N": "7.04652404",
+    "E": "80.93315119",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93315119,
+     7.04652404
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "527B",
+    "GN Division": "Morahela",
+    "Non-point sources of pollution": "Improper disposal of domestic waste - Morahela New Town",
+    "Location_Detail": "Approximation",
+    "N": "7.04652404",
+    "E": "80.93315119",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost, Introduce waste collecting methods and converting them into productive output with the mediation of Local Governments, Facilitating garbage collection",
+    "Unit Cost (Rs.)": "50,000.00",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93315119,
+     7.04652404
+    ]
+   }
+  }
+ ]
+}

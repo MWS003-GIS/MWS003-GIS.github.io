@@ -1,342 +1,342 @@
 {
-  "type": "FeatureCollection",
-  "name": "SR",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
+ "type": "FeatureCollection",
+ "name": "SR",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "512 I",
+    "Scheme": "Torrent flow across the Samurdhi road",
+    "Location_Detail": "Exact",
+    "N": "7.038076",
+    "E": "80.783912",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "313300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.783912,
+     7.038076
+    ]
+   }
   },
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 1.0,
-        "GND No.": "512 I",
-        "Scheme": "Torrent flow across the Samurdhi road",
-        "N": 7.038076,
-        "E": 80.783912,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "241,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.783912,
-          7.038076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 2.0,
-        "GND No.": "512 I",
-        "Scheme": "Hunukotuwa main torrent",
-        "N": 7.03968,
-        "E": 80.785044,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "288,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.785044,
-          7.03968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 3.0,
-        "GND No.": "512 H",
-        "Scheme": "Rankevita Bokka torrent",
-        "N": 7.035936,
-        "E": 80.794726,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "670,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.794726,
-          7.035936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 4.0,
-        "GND No.": "512 H",
-        "Scheme": "Belihul Oya",
-        "N": 7.033271,
-        "E": 80.786646,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nBoulder /Rubble dams (SABO) across streams to trap sediment-Size 3m(L)x2m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedling sand dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
-        "Amount (Rs.)": "533,400",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.786646,
-          7.033271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 5.0,
-        "GND No.": "512 B",
-        "Scheme": "No. 9 torrent",
-        "N": 7.033593,
-        "E": 80.782668,
-        "Observation": "Soil erosion.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "388,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.782668,
-          7.033593
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 6.0,
-        "GND No.": "512 B",
-        "Scheme": "No. 5 torrent 2",
-        "N": 7.031954,
-        "E": 80.786587,
-        "Observation": "Soil erosion.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nBoulder /Rubble dams (SABO) across streams to trap sediment-Size 3m(L)x2m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedling sand dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
-        "Amount (Rs.)": "437,400",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.786587,
-          7.031954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 7.0,
-        "GND No.": "512 B",
-        "Scheme": "No. 8 torrent 3",
-        "N": 7.03105,
-        "E": 80.788171,
-        "Observation": "Bank erosion.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nBoulder /Rubble dams (SABO) across streams to trap sediment-Size 3m(L)x2m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedling sand dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
-        "Amount (Rs.)": "391,400",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.788171,
-          7.03105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 8.0,
-        "GND No.": "512 B",
-        "Scheme": "No. 5 torrent 4",
-        "N": 7.029019,
-        "E": 80.788357,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "141,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.788357,
-          7.029019
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 9.0,
-        "GND No.": "512 B",
-        "Scheme": "Belihul Oya",
-        "N": 7.02942,
-        "E": 80.780031,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "282,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.780031,
-          7.02942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 10.0,
-        "GND No.": "512 G",
-        "Scheme": "Torrent",
-        "N": 7.043398,
-        "E": 80.781033,
-        "Observation": "Soil erosion. The torrent is connecting to the irrigation canal.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "382,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.781033,
-          7.043398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 11.0,
-        "GND No.": "512 G",
-        "Scheme": "Hunukotuwa Medawela torrent",
-        "N": 7.043375,
-        "E": 80.781377,
-        "Observation": "Soil erosion.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "376,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.781377,
-          7.043375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 12.0,
-        "GND No.": "512 D",
-        "Scheme": "Belihul Oya",
-        "N": 7.041343,
-        "E": 80.778317,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "282,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.778317,
-          7.041343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 13.0,
-        "GND No.": "512 G",
-        "Scheme": "Medawela torrent",
-        "N": 7.046048,
-        "E": 80.781796,
-        "Observation": "Soil erosion.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "605,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.781796,
-          7.046048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 14.0,
-        "GND No.": "512 G",
-        "Scheme": "Belihul Oya",
-        "N": 7.050661,
-        "E": 80.777194,
-        "Observation": "Soil erosion of lands on both sides.",
-        "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nBoulder /Rubble dams (SABO) across streams to trap sediment-Size 3m(L)x2m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedling sand dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
-        "Amount (Rs.)": "991,800",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.777194,
-          7.050661
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 15.0,
-        "GND No.": "512 G",
-        "Scheme": "Torrent at Attana Bedda road",
-        "N": 7.046457,
-        "E": 80.779932,
-        "Observation": "Soil erosion of lands on both sides. Flooding onto the road.",
-        "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
-        "Amount (Rs.)": "294,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.779932,
-          7.046457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": null,
-        "GND No.": null,
-        "Scheme": null,
-        "N": null,
-        "E": null,
-        "Observation": null,
-        "Description": null,
-        "Amount (Rs.)": null,
-        "photopath": "Not_Available"
-      },
-      "geometry": null
-    }
-  ]
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "512 I",
+    "Scheme": "Hunukotuwa main torrent",
+    "Location_Detail": "Exact",
+    "N": "7.03968",
+    "E": "80.785044",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "374400",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.785044,
+     7.03968
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "512 H",
+    "Scheme": "Rankevita Bokka torrent",
+    "Location_Detail": "Exact",
+    "N": "7.035936",
+    "E": "80.794726",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "871000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.794726,
+     7.035936
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "512 H",
+    "Scheme": "Belihul Oya",
+    "Location_Detail": "Exact",
+    "N": "7.033271",
+    "E": "80.786646",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nBoulder /Rubble dams (SABO) across streams to trap sediment-Size 3m(L)x2m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedling sand dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "693420",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.786646,
+     7.033271
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "512 B",
+    "Scheme": "No. 9 torrent",
+    "Location_Detail": "Exact",
+    "N": "7.033593",
+    "E": "80.782668",
+    "Observation": "Soil erosion.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "504400",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.782668,
+     7.033593
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "512 B",
+    "Scheme": "No. 5 torrent 2",
+    "Location_Detail": "Exact",
+    "N": "7.031954",
+    "E": "80.786587",
+    "Observation": "Soil erosion.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nBoulder /Rubble dams (SABO) across streams to trap sediment-Size 3m(L)x2m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedling sand dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "568620",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.786587,
+     7.031954
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "512 B",
+    "Scheme": "No. 8 torrent 3",
+    "Location_Detail": "Exact",
+    "N": "7.03105",
+    "E": "80.788171",
+    "Observation": "Bank erosion.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance\nBoulder /Rubble dams (SABO) across streams to trap sediment-Size 3m(L)x2m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedling sand dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "508820",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.788171,
+     7.03105
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "8",
+    "GND No.": "512 B",
+    "Scheme": "No. 5 torrent 4",
+    "Location_Detail": "Exact",
+    "N": "7.029019",
+    "E": "80.788357",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "183300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.788357,
+     7.029019
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "9",
+    "GND No.": "512 B",
+    "Scheme": "Belihul Oya",
+    "Location_Detail": "Exact",
+    "N": "7.02942",
+    "E": "80.780031",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "366600",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.780031,
+     7.02942
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "10",
+    "GND No.": "512 G",
+    "Scheme": "Torrent",
+    "Location_Detail": "Exact",
+    "N": "7.043398",
+    "E": "80.781033",
+    "Observation": "Soil erosion. The torrent is connecting to the irrigation canal.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "496600",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.781033,
+     7.043398
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "11",
+    "GND No.": "512 G",
+    "Scheme": "Hunukotuwa Medawela torrent",
+    "Location_Detail": "Exact",
+    "N": "7.043375",
+    "E": "80.781377",
+    "Observation": "Soil erosion.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "488800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.781377,
+     7.043375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "12",
+    "GND No.": "512 D",
+    "Scheme": "Belihul Oya",
+    "Location_Detail": "Exact",
+    "N": "7.041343",
+    "E": "80.778317",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "366600",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.778317,
+     7.041343
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "13",
+    "GND No.": "512 G",
+    "Scheme": "Medawela torrent",
+    "Location_Detail": "Exact",
+    "N": "7.046048",
+    "E": "80.781796",
+    "Observation": "Soil erosion.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "786500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.781796,
+     7.046048
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "14",
+    "GND No.": "512 G",
+    "Scheme": "Belihul Oya",
+    "Location_Detail": "Exact",
+    "N": "7.050661",
+    "E": "80.777194",
+    "Observation": "Soil erosion of lands on both sides.",
+    "Description": "Vegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance\nBoulder /Rubble dams (SABO) across streams to trap sediment-Size 3m(L)x2m(W)x1m(H)\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedling sand dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "1289340",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.777194,
+     7.050661
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "15",
+    "GND No.": "512 G",
+    "Scheme": "Torrent at Attana Bedda road",
+    "Location_Detail": "Exact",
+    "N": "7.046457",
+    "E": "80.779932",
+    "Observation": "Soil erosion of lands on both sides. Flooding onto the road.",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, green gram as a cover crop including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "382200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.779932,
+     7.046457
+    ]
+   }
+  }
+ ]
 }

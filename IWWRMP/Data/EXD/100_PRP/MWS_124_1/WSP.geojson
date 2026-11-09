@@ -1,3 +1,34 @@
-{"type":"FeatureCollection","name":"WSP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No":1,"GND No.":"474A","Name of the Tank":"Spring near Line house No. 05 of Glenlow Estate","N":7.080461,"E":80.681722,"Observation":"A concrete dam 3.0m long and 0.6m high has been constructed and an anicut has been prepared to collect the water flowing from the spring.","Description":"Construction of a Water Stock Tank (2.0m x2.0m x 1.5m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ?05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concret","Amount (Rs.)":"601,700","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_124_1/Spring near by Line house No. 05.jpg"},"geometry":{"type":"Point","coordinates":[80.681722,7.080461]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "WSP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "474A",
+    "Name of the Tank": "Spring near Line house No. 05 of Glenlow Estate",
+    "Location_Detail": "Exact",
+    "N": "7.080461",
+    "E": "80.681722",
+    "Observation": "A concrete dam 3.0m long and 0.6m high has been constructed and an anicut has been prepared to collect the water flowing from the spring.",
+    "Description": "Construction of a Water Stock Tank (2.0m x2.0m x 1.5m)\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 concrete with concrete mixer (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with Gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nTidying up\n\n25mm dia PvC pipe in Solvent Socket Type in PNT11\n\n20mm dia PvC pipe in Solvent Socket Type in PNT11\n\nTidying up\n\nContingencies (10%)",
+    "Amount (Rs.)": "601,700",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_124_1/Spring near by Line house No. 05.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.681722,
+     7.080461
+    ]
+   }
+  }
+ ]
+}

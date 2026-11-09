@@ -1,11 +1,166 @@
 {
-"type": "FeatureCollection",
-"name": "Landslides",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No.": 2, "GN Division No.": "63G", "GN Division": "Dodamwatta", "Landslides": "Landsliding- Kosgahakumbura", "N": 6.813314, "E": 80.95976, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "Alternative lands should be provided", "photopath": "Not_Available" }, "geometry": { "type": "Point", "coordinates": [ 80.95976, 6.813314 ] } },
-{ "type": "Feature", "properties": { "No.": 3, "GN Division No.": "63H", "GN Division": "Umankandura", "Landslides": "Landsliding - Area near Galkanda Thorana", "N": 6.803382, "E": 80.96556, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "-", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Landslide area near Galkanda Thorana.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.96556, 6.803382 ] } },
-{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": "64", "GN Division": "Kahagolla", "Landslides": "Landsliding - Medawela canal", "N": 6.810902, "E": 80.971923, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "-", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Medawala yaya landslide (3).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.971923, 6.810902 ] } },
-{ "type": "Feature", "properties": { "No.": 5, "GN Division No.": "64A", "GN Division": "Kahattewela", "Landslides": "Sinking the road - Sangaraja Piriven Road (area above the Oya)", "N": 6.835437, "E": 80.974183, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "-", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Sangaraja Piriven Road damage area.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.974183, 6.835437 ] } }
-]
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "64",
+    "GN Division": "Kahagolla",
+    "Landslides": "Landsliding - Medawela canal",
+    "Location_Detail": "Exact",
+    "N": "6.810902",
+    "E": "80.971923",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "-",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Medawala yaya landslide (3).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.971923,
+     6.810902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "63G",
+    "GN Division": "Dodamwatta",
+    "Landslides": "Landsliding- Kosgahakumbura",
+    "Location_Detail": "Exact",
+    "N": "6.813314",
+    "E": "80.95976",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Alternative lands should be provided",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.95976,
+     6.813314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "63H",
+    "GN Division": "Umankandura",
+    "Landslides": "Landsliding - Area near Galkanda Thorana",
+    "Location_Detail": "Exact",
+    "N": "6.803382",
+    "E": "80.96556",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "-",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Landslide area near Galkanda Thorana.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.96556,
+     6.803382
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "63M",
+    "GN Division": "Panketiya",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.791086643",
+    "E": "80.96973956",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.96973956,
+     6.791086643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "64A",
+    "GN Division": "Kahattewela",
+    "Landslides": "Sinking the road - Sangaraja Piriven Road (area above the Oya)",
+    "Location_Detail": "Exact",
+    "N": "6.835437",
+    "E": "80.974183",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "-",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_065_2/Sangaraja Piriven Road damage area.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.974183,
+     6.835437
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "64C",
+    "GN Division": "Ranjallawa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.825194391",
+    "E": "80.97246078",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97246078,
+     6.825194391
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "64G",
+    "GN Division": "Bingethenna",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.817643129",
+    "E": "80.96530959",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.96530959,
+     6.817643129
+    ]
+   }
+  }
+ ]
 }

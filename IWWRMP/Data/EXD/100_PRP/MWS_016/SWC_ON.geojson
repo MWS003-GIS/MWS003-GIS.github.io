@@ -1,552 +1,552 @@
 {
-  "type": "FeatureCollection",
-  "name": "SWC_ON",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "512 I",
+    "GND Name": "Hunukotuwa",
+    "Key Activities proposed for Soil and Water conservation": "3. Soil conservation practices - Hunukotuwa (65?)",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.037962",
+    "E": "80.784234",
+    "Quantity": "0.6 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "150,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.784234,
+     7.037962
+    ]
+   }
   },
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 3.0,
-        "GND No.": "512 I",
-        "GND Name": "Hunukotuwa",
-        "Key Activities proposed for Soil and Water conservation": "3. Soil conservation practices - Hunukotuwa (65�)",
-        "Priority based on Soil Erosion Hazard": 4.0,
-        "N": 7.037962,
-        "E": 80.784234,
-        "Quantity": "0.6 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "150,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.784234,
-          7.037962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 4.0,
-        "GND No.": "512 I",
-        "GND Name": "Hunukotuwa",
-        "Key Activities proposed for Soil and Water conservation": "4. Soil conservation practices - Hunukotuwa Upper Division (65�)",
-        "Priority based on Soil Erosion Hazard": 1.0,
-        "N": 7.03789,
-        "E": 80.784198,
-        "Quantity": "4.4 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "1,100,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.784198,
-          7.03789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 5.0,
-        "GND No.": "512 I",
-        "GND Name": "Hunukotuwa",
-        "Key Activities proposed for Soil and Water conservation": "5. Soil conservation practices - Hunukotuwa No. 1 Janapadaya (70�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.035205,
-        "E": 80.778912,
-        "Quantity": "10 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "2,500,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "1 Year",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.778912,
-          7.035205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 9.0,
-        "GND No.": "512 H",
-        "GND Name": "Malsara Nuwara",
-        "Key Activities proposed for Soil and Water conservation": "4. Soil conservation practices - Malsara Nuwara (65�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.035877,
-        "E": 80.787664,
-        "Quantity": "8 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "2,000,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.787664,
-          7.035877
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 10.0,
-        "GND No.": "512 H",
-        "GND Name": "Malsara Nuwara",
-        "Key Activities proposed for Soil and Water conservation": "5. Soil conservation practices - Malsara Nuwara (70�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.034554,
-        "E": 80.792417,
-        "Quantity": "4 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "1,000,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.792417,
-          7.034554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 11.0,
-        "GND No.": "512 H",
-        "GND Name": "Malsara Nuwara",
-        "Key Activities proposed for Soil and Water conservation": "6. Soil conservation practices - Rankevita Bokka (70�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.034492,
-        "E": 80.79321,
-        "Quantity": "10 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "2,500,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "1 Year",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.79321,
-          7.034492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 12.0,
-        "GND No.": "512 H",
-        "GND Name": "Malsara Nuwara",
-        "Key Activities proposed for Soil and Water conservation": "7. Soil conservation practices - Rankevita Bokka (70�)",
-        "Priority based on Soil Erosion Hazard": 1.0,
-        "N": 7.035905,
-        "E": 80.794326,
-        "Quantity": "4 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "1,000,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.794326,
-          7.035905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 19.0,
-        "GND No.": "512 B",
-        "GND Name": "Mandaram Nuwara",
-        "Key Activities proposed for Soil and Water conservation": "7. Soil conservation practices - No. 5 (80�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.031442,
-        "E": 80.787209,
-        "Quantity": "4 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "1,000,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.787209,
-          7.031442
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 20.0,
-        "GND No.": "512 B",
-        "GND Name": "Mandaram Nuwara",
-        "Key Activities proposed for Soil and Water conservation": "8. Soil conservation practices - No. 10 (75�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.031444,
-        "E": 80.780998,
-        "Quantity": "20 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "5,000,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "1 Year",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.780998,
-          7.031444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 22.0,
-        "GND No.": "512 B",
-        "GND Name": "Mandaram Nuwara",
-        "Key Activities proposed for Soil and Water conservation": "10. Establishing two side/retaining walls (upper lands and behind the house) - No. 5",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.031821,
-        "E": 80.78702,
-        "Quantity": "6 m x 3 m x 0.5 m",
-        "Proposed measure/s": "Side/Retaining wall",
-        "Uniti_Cost": "2,000.00 m-3",
-        "Total_Cost": "18,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.25 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.78702,
-          7.031821
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 29.0,
-        "GND No.": "512 G",
-        "GND Name": "Medawela",
-        "Key Activities proposed for Soil and Water conservation": "6. Soil conservation practices - Watagommana (70�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.045057,
-        "E": 80.782955,
-        "Quantity": "14 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "3,500,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.782955,
-          7.045057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 30.0,
-        "GND No.": "512 G",
-        "GND Name": "Medawela",
-        "Key Activities proposed for Soil and Water conservation": "7. Soil conservation practices - Watagommana (80�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.044963,
-        "E": 80.783563,
-        "Quantity": "30 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "7,500,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.783563,
-          7.044963
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 31.0,
-        "GND No.": "512 G",
-        "GND Name": "Medawela",
-        "Key Activities proposed for Soil and Water conservation": "8. Soil conservation practices - Medawela Village (70�)",
-        "Priority based on Soil Erosion Hazard": 3.0,
-        "N": 7.047697,
-        "E": 80.780703,
-        "Quantity": "4 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "1,000,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.780703,
-          7.047697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 32.0,
-        "GND No.": "512 G",
-        "GND Name": "Medawela",
-        "Key Activities proposed for Soil and Water conservation": "9. Soil conservation practices - Medawela Village (70�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.050196,
-        "E": 80.779951,
-        "Quantity": "2.8 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "700,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.779951,
-          7.050196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 33.0,
-        "GND No.": "512 G",
-        "GND Name": "Medawela",
-        "Key Activities proposed for Soil and Water conservation": "10. Soil conservation practices - Medawela Village (75�)",
-        "Priority based on Soil Erosion Hazard": 1.0,
-        "N": 7.050049,
-        "E": 80.779282,
-        "Quantity": "4 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "1,000,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.779282,
-          7.050049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 34.0,
-        "GND No.": "512 G",
-        "GND Name": "Medawela",
-        "Key Activities proposed for Soil and Water conservation": "11. Soil conservation practices - Walasbedda (75�)",
-        "Priority based on Soil Erosion Hazard": 4.0,
-        "N": 7.050614,
-        "E": 80.777126,
-        "Quantity": "16 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "4,000,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.25 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.777126,
-          7.050614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 39.0,
-        "GND No.": "512 G",
-        "GND Name": "Medawela",
-        "Key Activities proposed for Soil and Water conservation": "16. Establishing a side/retaining wall - Medawela (Mr. P.G. Dhanapala)",
-        "Priority based on Soil Erosion Hazard": 2.0,
-        "N": 7.046048,
-        "E": 80.781796,
-        "Quantity": "9 m x 6 m x 0.5 m",
-        "Proposed measure/s": "Side/Retaining wall",
-        "Uniti_Cost": "2,000.00 m-3",
-        "Total_Cost": "54,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.781796,
-          7.046048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 40.0,
-        "GND No.": "512 G",
-        "GND Name": "Medawela",
-        "Key Activities proposed for Soil and Water conservation": "17. Establishing a side/retaining wall - Rathunaaya",
-        "Priority based on Soil Erosion Hazard": 4.0,
-        "N": 7.046761,
-        "E": 80.779826,
-        "Quantity": "6 m x 4.5 m x 0.5 m",
-        "Proposed measure/s": "Side/Retaining wall",
-        "Uniti_Cost": "2,000.00 m-3",
-        "Total_Cost": "27,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.779826,
-          7.046761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 43.0,
-        "GND No.": "512 D",
-        "GND Name": "Uda Wela",
-        "Key Activities proposed for Soil and Water conservation": "3. Soil conservation practices - Udawela (70�)",
-        "Priority based on Soil Erosion Hazard": 3.0,
-        "N": 7.041044,
-        "E": 80.77827,
-        "Quantity": "40 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "10,000,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.77827,
-          7.041044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": 44.0,
-        "GND No.": "512 D",
-        "GND Name": "Uda Wela",
-        "Key Activities proposed for Soil and Water conservation": "4. Soil conservation practices - Udawela (70�)",
-        "Priority based on Soil Erosion Hazard": 5.0,
-        "N": 7.034526,
-        "E": 80.780073,
-        "Quantity": "4.8 ha",
-        "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
-        "Uniti_Cost": "250.00 m-1",
-        "Total_Cost": "1,200,000.00",
-        "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
-        "Time frame for the implementation": "0.5 Years",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.780073,
-          7.034526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No.": null,
-        "GND No.": null,
-        "GND Name": null,
-        "Key Activities proposed for Soil and Water conservation": null,
-        "Priority based on Soil Erosion Hazard": null,
-        "N": null,
-        "E": null,
-        "Quantity": null,
-        "Proposed measure/s": null,
-        "Uniti_Cost": null,
-        "Total_Cost": null,
-        "Contribution (Local Community, LA, and the project)": null,
-        "Time frame for the implementation": null,
-        "photopath": "Not_Available"
-      },
-      "geometry": null
-    }
-  ]
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "512 I",
+    "GND Name": "Hunukotuwa",
+    "Key Activities proposed for Soil and Water conservation": "4. Soil conservation practices - Hunukotuwa Upper Division (65?)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.03789",
+    "E": "80.784198",
+    "Quantity": "4.4 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,100,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.784198,
+     7.03789
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "512 I",
+    "GND Name": "Hunukotuwa",
+    "Key Activities proposed for Soil and Water conservation": "5. Soil conservation practices - Hunukotuwa No. 1 Janapadaya (70?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.035205",
+    "E": "80.778912",
+    "Quantity": "10 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "2,500,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "1 Year",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.778912,
+     7.035205
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "512 H",
+    "GND Name": "Malsara Nuwara",
+    "Key Activities proposed for Soil and Water conservation": "4. Soil conservation practices - Malsara Nuwara (65?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.035877",
+    "E": "80.787664",
+    "Quantity": "8 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "2,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.787664,
+     7.035877
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "512 H",
+    "GND Name": "Malsara Nuwara",
+    "Key Activities proposed for Soil and Water conservation": "5. Soil conservation practices - Malsara Nuwara (70?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.034554",
+    "E": "80.792417",
+    "Quantity": "4 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.792417,
+     7.034554
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "512 H",
+    "GND Name": "Malsara Nuwara",
+    "Key Activities proposed for Soil and Water conservation": "6. Soil conservation practices - Rankevita Bokka (70?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.034492",
+    "E": "80.79321",
+    "Quantity": "10 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "2,500,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "1 Year",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79321,
+     7.034492
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "512 H",
+    "GND Name": "Malsara Nuwara",
+    "Key Activities proposed for Soil and Water conservation": "7. Soil conservation practices - Rankevita Bokka (70?)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.035905",
+    "E": "80.794326",
+    "Quantity": "4 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.794326,
+     7.035905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "512 B",
+    "GND Name": "Mandaram Nuwara",
+    "Key Activities proposed for Soil and Water conservation": "7. Soil conservation practices - No. 5 (80?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.031442",
+    "E": "80.787209",
+    "Quantity": "4 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.787209,
+     7.031442
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "512 B",
+    "GND Name": "Mandaram Nuwara",
+    "Key Activities proposed for Soil and Water conservation": "8. Soil conservation practices - No. 10 (75?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.031444",
+    "E": "80.780998",
+    "Quantity": "20 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "5,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "1 Year",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.780998,
+     7.031444
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "512 B",
+    "GND Name": "Mandaram Nuwara",
+    "Key Activities proposed for Soil and Water conservation": "10. Establishing two side/retaining walls (upper lands and behind the house) - No. 5",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.031821",
+    "E": "80.78702",
+    "Quantity": "6 m x 3 m x 0.5 m",
+    "Proposed measure/s": "Side/Retaining wall",
+    "Uniti_Cost": "2,000.00 m-3",
+    "Total_Cost": "18,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78702,
+     7.031821
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "512 G",
+    "GND Name": "Medawela",
+    "Key Activities proposed for Soil and Water conservation": "6. Soil conservation practices - Watagommana (70?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.045057",
+    "E": "80.782955",
+    "Quantity": "14 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "3,500,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.782955,
+     7.045057
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "512 G",
+    "GND Name": "Medawela",
+    "Key Activities proposed for Soil and Water conservation": "7. Soil conservation practices - Watagommana (80?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.044963",
+    "E": "80.783563",
+    "Quantity": "30 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "7,500,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.783563,
+     7.044963
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "512 G",
+    "GND Name": "Medawela",
+    "Key Activities proposed for Soil and Water conservation": "8. Soil conservation practices - Medawela Village (70?)",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.047697",
+    "E": "80.780703",
+    "Quantity": "4 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.780703,
+     7.047697
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "512 G",
+    "GND Name": "Medawela",
+    "Key Activities proposed for Soil and Water conservation": "9. Soil conservation practices - Medawela Village (70?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.050196",
+    "E": "80.779951",
+    "Quantity": "2.8 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "700,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.779951,
+     7.050196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "512 G",
+    "GND Name": "Medawela",
+    "Key Activities proposed for Soil and Water conservation": "10. Soil conservation practices - Medawela Village (75?)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.050049",
+    "E": "80.779282",
+    "Quantity": "4 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.779282,
+     7.050049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "512 G",
+    "GND Name": "Medawela",
+    "Key Activities proposed for Soil and Water conservation": "11. Soil conservation practices - Walasbedda (75?)",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.050614",
+    "E": "80.777126",
+    "Quantity": "16 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "4,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.777126,
+     7.050614
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "512 G",
+    "GND Name": "Medawela",
+    "Key Activities proposed for Soil and Water conservation": "16. Establishing a side/retaining wall - Medawela (Mr. P.G. Dhanapala)",
+    "Priority based on Soil Erosion Hazard": "2",
+    "Location_Detail": "Exact",
+    "N": "7.046048",
+    "E": "80.781796",
+    "Quantity": "9 m x 6 m x 0.5 m",
+    "Proposed measure/s": "Side/Retaining wall",
+    "Uniti_Cost": "2,000.00 m-3",
+    "Total_Cost": "54,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.781796,
+     7.046048
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "512 G",
+    "GND Name": "Medawela",
+    "Key Activities proposed for Soil and Water conservation": "17. Establishing a side/retaining wall - Rathunaaya",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.046761",
+    "E": "80.779826",
+    "Quantity": "6 m x 4.5 m x 0.5 m",
+    "Proposed measure/s": "Side/Retaining wall",
+    "Uniti_Cost": "2,000.00 m-3",
+    "Total_Cost": "27,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.779826,
+     7.046761
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "512 D",
+    "GND Name": "Uda Wela",
+    "Key Activities proposed for Soil and Water conservation": "3. Soil conservation practices - Udawela (70?)",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.041044",
+    "E": "80.77827",
+    "Quantity": "40 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "10,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77827,
+     7.041044
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GND No.": "512 D",
+    "GND Name": "Uda Wela",
+    "Key Activities proposed for Soil and Water conservation": "4. Soil conservation practices - Udawela (70?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.034526",
+    "E": "80.780073",
+    "Quantity": "4.8 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,200,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.780073,
+     7.034526
+    ]
+   }
+  }
+ ]
 }

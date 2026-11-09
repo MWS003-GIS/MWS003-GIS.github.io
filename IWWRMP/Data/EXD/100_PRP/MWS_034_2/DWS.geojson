@@ -1,0 +1,31 @@
+{
+ "type": "FeatureCollection",
+ "name": "DWS",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Name of the Area": "Wetaman Kadura reservation",
+    "Location_Detail": "Exact",
+    "N": "7.016488",
+    "E": "80.94773",
+    "Observation": "New water tank is requested by the community for this location.",
+    "Description": "Construction of 2.0 m  x 2.0 m x 1.5 m (L x W x H) Water tank",
+    "Amount (LKR)": "397100"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94773,
+     7.016488
+    ]
+   }
+  }
+ ]
+}

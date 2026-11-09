@@ -1,8 +1,93 @@
 {
-"type": "FeatureCollection",
-"name": "SWC_Off",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No_": 8, "GN_Divisio": "63E", "GN_Divis_1": "Horadorowwa", "Key_Activi": "1. Establishing a retaining wall - Horadorowwa Weaving workshop building", "Priority_b": 4, "N": 6.795455, "E": 80.919081, "Quantity": "13 m x 3 m", "Proposed_m": "Retaining Wall (Concrete)", "Total_Cost": 1518000, "Contributi": "By the project", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_063/Soil Conservation - Horadorowwa Weaving workshop building (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.919081, 6.795455 ] } }
-]
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "63E",
+    "GND Name": "Horadorowwa",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Horadorowwa Weaving workshop building",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.792156424",
+    "E": "80.9151884",
+    "Quantity": "-",
+    "Proposed measure/s": "80.919081",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "13 m x 3 m",
+    "Time frame for the implementation": "Retaining Wall (Concrete)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9151884,
+     6.792156424
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "63J",
+    "GND Name": "Welanhinna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.798685251",
+    "E": "80.9265178",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9265178,
+     6.798685251
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "64F",
+    "GND Name": "Glenanore",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.780794736",
+    "E": "80.92455574",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92455574,
+     6.780794736
+    ]
+   }
+  }
+ ]
 }

@@ -1,9 +1,386 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GN Division No.":"65B","GN Division":"Bandarawela West","Landslides":"1. Sinking, Landsliding - Vishaka Road","N":6.839969,"E":80.987668,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Inform RDA and take appropriate actions following the recommedations of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Vishaka road (7).jpg"},"geometry":{"type":"Point","coordinates":[80.987668,6.839969]}},
-{"type":"Feature","properties":{"No.":2,"GN Division No.":"65B","GN Division":"Bandarawela West","Landslides":"2. Landsliding, Bank collapsing - Near the Local Council Kovil of Welimada Road","N":6.838396,"E":80.983879,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Inform RDA and take appropriate actions following the recommedations of NBRO having consulted","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Welimada road (3).jpg"},"geometry":{"type":"Point","coordinates":[80.983879,6.838396]}},
-{"type":"Feature","properties":{"No.":3,"GN Division No.":"65B","GN Division":"Bandarawela West","Landslides":"3. Bank collapsing - Police Kanda","N":6.830272,"E":80.985608,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Construction of stone terraces and Lock & spill drains and follow the recommendations of NBRO having consulted","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Police mountain (2).jpg"},"geometry":{"type":"Point","coordinates":[80.985608,6.830272]}},
-{"type":"Feature","properties":{"No.":4,"GN Division No.":"65B","GN Division":"Bandarawela West","Landslides":"4. Bank collapsing - Perera Road","N":6.832666,"E":80.981949,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Inform the RDA and take appropriate actions following the recommedations of NBRO having consulted","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Perera road.jpg"},"geometry":{"type":"Point","coordinates":[80.981949,6.832666]}},
-{"type":"Feature","properties":{"No.":5,"GN Division No.":"66","GN Division":"Kinigama","Landslides":"Landsliding/Uma Oya - Rathmalgas Ella","N":6.828164,"E":81.002675,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Follow the recommendations of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Rathmalgas Ella Landslide.jpg"},"geometry":{"type":"Point","coordinates":[81.002675,6.828164]}},
-{"type":"Feature","properties":{"No.":6,"GN Division No.":"66G","GN Division":"Thanthiriya","Landslides":"Bank collapsing - Pin Arawa Pathana","N":6.833011,"E":81.000193,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Follow the recommendations of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Pinarawa Near Badullka Road - Earthslip.jpg"},"geometry":{"type":"Point","coordinates":[81.000193,6.833011]}},
-{"type":"Feature","properties":{"No.":7,"GN Division No.":"67G","GN Division":"Wewathenna","Landslides":"Landsliding - Welimada Road, Diyabibila, Located in Ambegoda GND Around 70 m distance","N":6.840195,"E":80.975632,"NBRO Recommendation N/A":"-","Proposed Measures":"-","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/IMG_20250917_113906 Earth slip location in welimada bandarawela road.jpg"},"geometry":{"type":"Point","coordinates":[80.975632,6.840195]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "65B",
+    "GN Division": "Bandarawela West",
+    "Landslides": "1. Sinking, Landsliding - Vishaka Road",
+    "Location_Detail": "Exact",
+    "N": "6.839969",
+    "E": "80.987668",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Inform RDA and take appropriate actions following the recommedations of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Vishaka road (7).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.987668,
+     6.839969
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "65B",
+    "GN Division": "Bandarawela West",
+    "Landslides": "2. Landsliding, Bank collapsing - Near the Local Council Kovil of Welimada Road",
+    "Location_Detail": "Exact",
+    "N": "6.838396",
+    "E": "80.983879",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Inform RDA and take appropriate actions following the recommedations of NBRO having consulted",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Welimada road (3).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.983879,
+     6.838396
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "65B",
+    "GN Division": "Bandarawela West",
+    "Landslides": "3. Bank collapsing - Police Kanda",
+    "Location_Detail": "Exact",
+    "N": "6.830272",
+    "E": "80.985608",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Construction of stone terraces and Lock & spill drains and follow the recommendations of NBRO having consulted",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Police mountain (2).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.985608,
+     6.830272
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "65B",
+    "GN Division": "Bandarawela West",
+    "Landslides": "4. Bank collapsing - Perera Road",
+    "Location_Detail": "Exact",
+    "N": "6.832666",
+    "E": "80.981949",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Inform the RDA and take appropriate actions following the recommedations of NBRO having consulted",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Perera road.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.981949,
+     6.832666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "65G",
+    "GN Division": "Bandarawela East",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.828509395",
+    "E": "80.99297805",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99297805,
+     6.828509395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "66",
+    "GN Division": "Kinigama",
+    "Landslides": "Landsliding/Uma Oya - Rathmalgas Ella",
+    "Location_Detail": "Exact",
+    "N": "6.828164",
+    "E": "81.002675",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Rathmalgas Ella Landslide.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.002675,
+     6.828164
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "66D",
+    "GN Division": "Mahaulpatha",
+    "Landslides": "Landsliding - Aluth Kanda",
+    "Location_Detail": "Approximation",
+    "N": "6.823621814",
+    "E": "81.0051562",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.0051562,
+     6.823621814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "66G",
+    "GN Division": "Thanthiriya",
+    "Landslides": "Bank collapsing - Pin Arawa Pathana",
+    "Location_Detail": "Exact",
+    "N": "6.833011",
+    "E": "81.000193",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Pinarawa Near Badullka Road - Earthslip.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.000193,
+     6.833011
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "67",
+    "GN Division": "Ettalapitiya",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.855446289",
+    "E": "80.98844918",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98844918,
+     6.855446289
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "67A",
+    "GN Division": "Konthahela",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.867441552",
+    "E": "80.97154012",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97154012,
+     6.867441552
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "67B",
+    "GN Division": "Bindunuwewa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.844844842",
+    "E": "80.99966797",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99966797,
+     6.844844842
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "67D",
+    "GN Division": "Kebillewela North",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.83770505",
+    "E": "80.9969224",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9969224,
+     6.83770505
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "67E",
+    "GN Division": "Kirioruwa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.864851556",
+    "E": "80.98694763",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98694763,
+     6.864851556
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "67F",
+    "GN Division": "Watagamuwa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.855644815",
+    "E": "81.00053857",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.00053857,
+     6.855644815
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GN Division No.": "67G",
+    "GN Division": "Wewathenna",
+    "Landslides": "Landsliding - Welimada Road, Diyabibila, Located in Ambegoda GND Around 70 m distance",
+    "Location_Detail": "Exact",
+    "N": "6.840195",
+    "E": "80.975632",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/IMG_20250917_113906 Earth slip location in welimada bandarawela road.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.975632,
+     6.840195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GN Division No.": "67H",
+    "GN Division": "Diganathenna",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.856325157",
+    "E": "80.9728733",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9728733,
+     6.856325157
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GN Division No.": "67K",
+    "GN Division": "Gediyaroda",
+    "Landslides": "Risk of landsliding - Vishaka Road",
+    "Location_Detail": "Approximation",
+    "N": "6.84018868",
+    "E": "80.99097934",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow the recommendations of NBRO having consulted",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99097934,
+     6.84018868
+    ]
+   }
+  }
+ ]
+}

@@ -1,8 +1,506 @@
-{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":4,"GND No.":751,"GND Name":"Maneluwa","Key Activities proposed for Soil and Water conservation":"1. Establishing a wall - Samagi mawatha of Maneluwa GND and all other roads","Priority based on Soil Erosion Hazard":1,"N":7.348965,"E":80.739586,"Quantity":"40 m x 2 m","Proposed measure/s":"Retaining Wall (Masonary)","Total_Cost":"1,760,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.739586,7.348965]}},
-{"type":"Feature","properties":{"No.":7,"GND No.":754,"GND Name":"Weliketiya","Key Activities proposed for Soil and Water conservation":"1. Establishing a wall - The road to Alupotha Getagahawela","Priority based on Soil Erosion Hazard":3,"N":7.338895,"E":80.761162,"Quantity":"50 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"5,813,500.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Alupotha - Getawela Road Landslide.jpg"},"geometry":{"type":"Point","coordinates":[80.761162,7.338895]}},
-{"type":"Feature","properties":{"No.":8,"GND No.":754,"GND Name":"Weliketiya","Key Activities proposed for Soil and Water conservation":"2. Establishing a wall - Main road of Putuhapuwa Werapitiya","Priority based on Soil Erosion Hazard":3,"N":7.342878,"E":80.752727,"Quantity":"18 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"2,101,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Putuhapuwa Main Road Landslide.jpg"},"geometry":{"type":"Point","coordinates":[80.752727,7.342878]}},
-{"type":"Feature","properties":{"No.":9,"GND No.":755,"GND Name":"Putuhapuwa","Key Activities proposed for Soil and Water conservation":"1. Establishing a wall - Galkanda Middle Division","Priority based on Soil Erosion Hazard":4,"N":7.339505,"E":80.749058,"Quantity":"40 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"4,653,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Galkanda Landslide on the Road.jpg"},"geometry":{"type":"Point","coordinates":[80.749058,7.339505]}},
-{"type":"Feature","properties":{"No.":10,"GND No.":756,"GND Name":"Giddawa","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - Culvert near the Priyadarshana's house","Priority based on Soil Erosion Hazard":5,"N":7.342622,"E":80.736072,"Quantity":"20 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"2,332,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.736072,7.342622]}},
-{"type":"Feature","properties":{"No.":11,"GND No.":757,"GND Name":"Ambalagala","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - Near the Mr. Wilson's house","Priority based on Soil Erosion Hazard":1,"N":7.338205,"E":80.74489,"Quantity":"20 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"2,332,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Landslide near the Wilson's house 1.jpg"},"geometry":{"type":"Point","coordinates":[80.74489,7.338205]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "747",
+    "GND Name": "Werapitiya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.358525732",
+    "E": "80.74438994",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74438994,
+     7.358525732
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "748",
+    "GND Name": "Werathenna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.358615573",
+    "E": "80.75580312",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75580312,
+     7.358615573
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "750",
+    "GND Name": "Dunhinna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.351643045",
+    "E": "80.75478013",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75478013,
+     7.351643045
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "751",
+    "GND Name": "Maneluwa",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a wall - Samagi mawatha of Maneluwa GND and all other roads",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.348965",
+    "E": "80.739586",
+    "Quantity": "40 m x 2 m",
+    "Proposed measure/s": "Retaining Wall (Masonary)",
+    "Total_Cost": "1,760,000.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.739586,
+     7.348965
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "752",
+    "GND Name": "Giddawa-",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.349080375",
+    "E": "80.76073498",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76073498,
+     7.349080375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "753",
+    "GND Name": "Randiwela",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.353408268",
+    "E": "80.77160104",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77160104,
+     7.353408268
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "754",
+    "GND Name": "Weliketiya",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a wall - The road to Alupotha Getagahawela",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.338895",
+    "E": "80.761162",
+    "Quantity": "50 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "5,813,500.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Alupotha - Getawela Road Landslide.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.761162,
+     7.338895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "754",
+    "GND Name": "Weliketiya",
+    "Key Activities proposed for Soil and Water conservation": "2. Establishing a wall - Main road of Putuhapuwa Werapitiya",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.342878",
+    "E": "80.752727",
+    "Quantity": "18 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2,101,000.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Putuhapuwa Main Road Landslide.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.752727,
+     7.342878
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "755",
+    "GND Name": "Putuhapuwa",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a wall - Galkanda Middle Division",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.339505",
+    "E": "80.749058",
+    "Quantity": "40 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "4,653,000.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Galkanda Landslide on the Road.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.749058,
+     7.339505
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "756",
+    "GND Name": "Giddawa",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Culvert near the Priyadarshana's house",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.342622",
+    "E": "80.736072",
+    "Quantity": "20 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2,332,000.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.736072,
+     7.342622
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "757",
+    "GND Name": "Ambalagala",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Near the Mr. Wilson's house",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.338205",
+    "E": "80.74489",
+    "Quantity": "20 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2,332,000.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_091/Landslide near the Wilson's house 1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74489,
+     7.338205
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "758",
+    "GND Name": "Watapana",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.33199144",
+    "E": "80.75058234",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75058234,
+     7.33199144
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "759",
+    "GND Name": "Nugepathana",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.326425684",
+    "E": "80.75806495",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75806495,
+     7.326425684
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "760",
+    "GND Name": "Gangasirigama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.324585786",
+    "E": "80.74806338",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74806338,
+     7.324585786
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "761",
+    "GND Name": "Madapola",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.320351936",
+    "E": "80.75670232",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75670232,
+     7.320351936
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "774",
+    "GND Name": "Siridigana",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.324069087",
+    "E": "80.76818173",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76818173,
+     7.324069087
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "779",
+    "GND Name": "Udabage",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.336350785",
+    "E": "80.76903017",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76903017,
+     7.336350785
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "780",
+    "GND Name": "Waradiwela",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.341790926",
+    "E": "80.76256504",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76256504,
+     7.341790926
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "781",
+    "GND Name": "Bobebila",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.346291431",
+    "E": "80.77246708",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77246708,
+     7.346291431
+    ]
+   }
+  }
+ ]
+}

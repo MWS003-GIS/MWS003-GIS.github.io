@@ -1,22 +1,552 @@
-{"type":"FeatureCollection","name":"WP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GND No.":"518A","GN Division":"Kosgolla","Non-point sources of pollution":"Potential to add human waste - Kosgolla","N":7.0877255,"E":80.92298768,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.92298768,7.0877255]}},
-{"type":"Feature","properties":{"No.":4,"GND No.":"524C","GN Division":"Purankumbura","Non-point sources of pollution":"Potential to add human waste - Purankumbura Village","N":7.07200495,"E":80.89644595,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.89644595,7.07200495]}},
-{"type":"Feature","properties":{"No.":5,"GND No.":"524C","GN Division":"Purankumbura","Non-point sources of pollution":"Improper disposal of domestic waste ","N":7.07200495,"E":80.89644595,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years"},"geometry":{"type":"Point","coordinates":[80.89644595,7.07200495]}},
-{"type":"Feature","properties":{"No.":7,"GND No.":"525B","GN Division":"Karandagolla","Non-point sources of pollution":"Potential to add human waste - Purankumbura Village","N":7.05638211,"E":80.90165528,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.90165528,7.05638211]}},
-{"type":"Feature","properties":{"No.":8,"GND No.":"525B","GN Division":"Karandagolla","Non-point sources of pollution":"Improper disposal of domestic waste ","N":7.05638211,"E":80.90165528,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years"},"geometry":{"type":"Point","coordinates":[80.90165528,7.05638211]}},
-{"type":"Feature","properties":{"No.":9,"GND No.":"523B","GN Division":"Wewathenna","Non-point sources of pollution":"Potential to add human waste - Purankumbura Village","N":7.07682102,"E":80.91879294,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.91879294,7.07682102]}},
-{"type":"Feature","properties":{"No.":10,"GND No.":"523B","GN Division":"Wewathenna","Non-point sources of pollution":"Improper disposal of domestic waste ","N":7.07682102,"E":80.91879294,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years"},"geometry":{"type":"Point","coordinates":[80.91879294,7.07682102]}},
-{"type":"Feature","properties":{"No.":11,"GND No.":"524A","GN Division":"Dambagolla","Non-point sources of pollution":"Improper disposal of domestic waste ","N":7.06329927,"E":80.90160138,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years"},"geometry":{"type":"Point","coordinates":[80.90160138,7.06329927]}},
-{"type":"Feature","properties":{"No.":15,"GND No.":"518D","GN Division":"Yatimadura","Non-point sources of pollution":"Potential to add human waste - Private toilets considering the four parts of the village","N":7.08290244,"E":80.93205981,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.93205981,7.08290244]}},
-{"type":"Feature","properties":{"No.":16,"GND No.":"518D","GN Division":"Yatimadura","Non-point sources of pollution":"Potential to add human waste - Seva piyasa","N":7.08290244,"E":80.93205981,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.93205981,7.08290244]}},
-{"type":"Feature","properties":{"No.":17,"GND No.":"518D","GN Division":"Yatimadura","Non-point sources of pollution":"Potential to add human waste - Jethavana Rajamaha Vihara","N":7.08290244,"E":80.93205981,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.93205981,7.08290244]}},
-{"type":"Feature","properties":{"No.":18,"GND No.":"518D","GN Division":"Yatimadura","Non-point sources of pollution":"Potential to add human waste - Center for Early Childhood Development","N":7.08290244,"E":80.93205981,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.93205981,7.08290244]}},
-{"type":"Feature","properties":{"No.":19,"GND No.":"518D","GN Division":"Yatimadura","Non-point sources of pollution":"Potential to add human waste - Paddy Field in Yatimadhura GND","N":7.08290244,"E":80.93205981,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.93205981,7.08290244]}},
-{"type":"Feature","properties":{"No.":20,"GND No.":"518D","GN Division":"Yatimadura","Non-point sources of pollution":"Potential to add human waste - Fertilizer Distribution Center","N":7.08290244,"E":80.93205981,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.93205981,7.08290244]}},
-{"type":"Feature","properties":{"No.":21,"GND No.":"518D","GN Division":"Yatimadura","Non-point sources of pollution":"Improper disposal of domestic waste - Chetavana Rajamaha Temple, Yati Madura Primary School","N":7.08290244,"E":80.93205981,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"50,000.00","Total Cost (Rs.)":"Local/Central governments ","Contributions (Local Community, LA, Project)":"0.5 Years","Time frame for the implementation":null},"geometry":{"type":"Point","coordinates":[80.93205981,7.08290244]}},
-{"type":"Feature","properties":{"No.":22,"GND No.":"525C","GN Division":"Kotambe","Non-point sources of pollution":"Potential to add human waste - Private toilets considering the four parts of the village","N":7.0513252,"E":80.9031911,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.9031911,7.0513252]}},
-{"type":"Feature","properties":{"No.":23,"GND No.":"525A","GN Division":"Udagama","Non-point sources of pollution":"Potential to add human waste - Private toilets considering the four parts of the village","N":7.05428904,"E":80.89413905,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.89413905,7.05428904]}},
-{"type":"Feature","properties":{"No.":24,"GND No.":"525A","GN Division":"Udagama","Non-point sources of pollution":"Improper disposal of domestic waste - Chetavana Rajamaha Temple, Yati Madura Primary School","N":7.05428904,"E":80.89413905,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years"},"geometry":{"type":"Point","coordinates":[80.89413905,7.05428904]}},
-{"type":"Feature","properties":{"No.":26,"GND No.":"523","GN Division":"Ambanella","Non-point sources of pollution":"Potential to add human waste - Private toilets considering the four parts of the village","N":7.0789243,"E":80.91103755,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-"},"geometry":{"type":"Point","coordinates":[80.91103755,7.0789243]}},
-{"type":"Feature","properties":{"No.":27,"GND No.":"523","GN Division":"Ambanella","Non-point sources of pollution":"Improper disposal of domestic waste - Chetavana Rajamaha Temple, Yati Madura Primary School","N":7.0789243,"E":80.91103755,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments ","Time frame for the implementation":"0.5 Years"},"geometry":{"type":"Point","coordinates":[80.91103755,7.0789243]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "518A",
+    "GN Division": "Kosgolla",
+    "Non-point sources of pollution": "Potential to add human waste - Kosgolla",
+    "Location_Detail": "Exact",
+    "N": "7.0877255",
+    "E": "80.92298768",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92298768,
+     7.0877255
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "524C",
+    "GN Division": "Purankumbura",
+    "Non-point sources of pollution": "Potential to add human waste - Purankumbura Village",
+    "Location_Detail": "Approximation",
+    "N": "7.07200495",
+    "E": "80.89644595",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89644595,
+     7.07200495
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "524C",
+    "GN Division": "Purankumbura",
+    "Non-point sources of pollution": "Improper disposal of domestic waste ",
+    "Location_Detail": "Approximation",
+    "N": "7.07200495",
+    "E": "80.89644595",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50,000.00",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89644595,
+     7.07200495
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "525B",
+    "GN Division": "Karandagolla",
+    "Non-point sources of pollution": "Potential to add human waste - Purankumbura Village",
+    "Location_Detail": "Exact",
+    "N": "7.05638211",
+    "E": "80.90165528",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90165528,
+     7.05638211
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "525B",
+    "GN Division": "Karandagolla",
+    "Non-point sources of pollution": "Improper disposal of domestic waste ",
+    "Location_Detail": "Exact",
+    "N": "7.05638211",
+    "E": "80.90165528",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50,000.00",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90165528,
+     7.05638211
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "523B",
+    "GN Division": "Wewathenna",
+    "Non-point sources of pollution": "Potential to add human waste - Purankumbura Village",
+    "Location_Detail": "Exact",
+    "N": "7.07682102",
+    "E": "80.91879294",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91879294,
+     7.07682102
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "523B",
+    "GN Division": "Wewathenna",
+    "Non-point sources of pollution": "Improper disposal of domestic waste ",
+    "Location_Detail": "Exact",
+    "N": "7.07682102",
+    "E": "80.91879294",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50,000.00",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91879294,
+     7.07682102
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "524A",
+    "GN Division": "Dambagolla",
+    "Non-point sources of pollution": "Improper disposal of domestic waste ",
+    "Location_Detail": "Exact",
+    "N": "7.06329927",
+    "E": "80.90160138",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50,000.00",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90160138,
+     7.06329927
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "518D",
+    "GN Division": "Yatimadura",
+    "Non-point sources of pollution": "Potential to add human waste - Private toilets considering the four parts of the village",
+    "Location_Detail": "Exact",
+    "N": "7.08290244",
+    "E": "80.93205981",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93205981,
+     7.08290244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "518D",
+    "GN Division": "Yatimadura",
+    "Non-point sources of pollution": "Potential to add human waste - Seva piyasa",
+    "Location_Detail": "Exact",
+    "N": "7.08290244",
+    "E": "80.93205981",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93205981,
+     7.08290244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "518D",
+    "GN Division": "Yatimadura",
+    "Non-point sources of pollution": "Potential to add human waste - Jethavana Rajamaha Vihara",
+    "Location_Detail": "Exact",
+    "N": "7.08290244",
+    "E": "80.93205981",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93205981,
+     7.08290244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "518D",
+    "GN Division": "Yatimadura",
+    "Non-point sources of pollution": "Potential to add human waste - Center for Early Childhood Development",
+    "Location_Detail": "Exact",
+    "N": "7.08290244",
+    "E": "80.93205981",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93205981,
+     7.08290244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "518D",
+    "GN Division": "Yatimadura",
+    "Non-point sources of pollution": "Potential to add human waste - Paddy Field in Yatimadhura GND",
+    "Location_Detail": "Exact",
+    "N": "7.08290244",
+    "E": "80.93205981",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93205981,
+     7.08290244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "518D",
+    "GN Division": "Yatimadura",
+    "Non-point sources of pollution": "Potential to add human waste - Fertilizer Distribution Center",
+    "Location_Detail": "Exact",
+    "N": "7.08290244",
+    "E": "80.93205981",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93205981,
+     7.08290244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "518D",
+    "GN Division": "Yatimadura",
+    "Non-point sources of pollution": "Improper disposal of domestic waste - Chetavana Rajamaha Temple, Yati Madura Primary School",
+    "Location_Detail": "Exact",
+    "N": "7.08290244",
+    "E": "80.93205981",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50,000.00",
+    "Total Cost (Rs.)": "Local/Central governments ",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93205981,
+     7.08290244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "525C",
+    "GN Division": "Kotambe",
+    "Non-point sources of pollution": "Potential to add human waste - Private toilets considering the four parts of the village",
+    "Location_Detail": "Approximation",
+    "N": "7.0513252",
+    "E": "80.9031911",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9031911,
+     7.0513252
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "525A",
+    "GN Division": "Udagama",
+    "Non-point sources of pollution": "Potential to add human waste - Private toilets considering the four parts of the village",
+    "Location_Detail": "Exact",
+    "N": "7.05428904",
+    "E": "80.89413905",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89413905,
+     7.05428904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "525A",
+    "GN Division": "Udagama",
+    "Non-point sources of pollution": "Improper disposal of domestic waste - Chetavana Rajamaha Temple, Yati Madura Primary School",
+    "Location_Detail": "Exact",
+    "N": "7.05428904",
+    "E": "80.89413905",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50,000.00",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89413905,
+     7.05428904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "523",
+    "GN Division": "Ambanella",
+    "Non-point sources of pollution": "Potential to add human waste - Private toilets considering the four parts of the village",
+    "Location_Detail": "Approximation",
+    "N": "7.0789243",
+    "E": "80.91103755",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91103755,
+     7.0789243
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GND No.": "523",
+    "GN Division": "Ambanella",
+    "Non-point sources of pollution": "Improper disposal of domestic waste - Chetavana Rajamaha Temple, Yati Madura Primary School",
+    "Location_Detail": "Approximation",
+    "N": "7.0789243",
+    "E": "80.91103755",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste\nAwareness programme on how to disposal household waste properly and converting them to usable products such as compost\nFacilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50,000.00",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments ",
+    "Time frame for the implementation": "0.5 Years"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91103755,
+     7.0789243
+    ]
+   }
+  }
+ ]
+}

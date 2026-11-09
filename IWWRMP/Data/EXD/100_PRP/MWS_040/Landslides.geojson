@@ -1,0 +1,34 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "521A",
+    "GN Division": "Hegasulla",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.157888696",
+    "E": "80.94183072",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94183072,
+     7.157888696
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "319B",
+    "GN Division": "Hatton North",
+    "Landslides": "1. Landsliding - MR Town\n2. Nursinghome Road\n3. Bank collapsing - Gaminipura",
+    "Location_Detail": "Approximation",
+    "N": "6.897553583",
+    "E": "80.60410023",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted. Constructing retaining walls is needed. Attention and mediation of DS Office, PRDA, RDA is needed.\nFollow recommendations of NBRO having consulted. Widening the bridge of the canal and increasing the depth of the canal are needed. Attention and mediation of DS Office, PRDA, RDA is needed.\nFollow recommendations of NBRO having consulted. Constructing retaining walls is needed. Attention and mediation of DS Office, PRDA, RDA is needed.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60410023,
+     6.897553583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "319C",
+    "GN Division": "Hatton West",
+    "Landslides": "1. Landsliding - Kudagama\n2. Landsliding - Rothas Place 01",
+    "Location_Detail": "Approximation",
+    "N": "6.90117935",
+    "E": "80.58732676",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO. Relocate the people and further constructions should be stopped.\nFollow recommendations of NBRO having consulted. Constructing retaining walls and draining systems is needed. Attention and mediation of DS Office, PRDA, RDA is needed.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58732676,
+     6.90117935
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "319D",
+    "GN Division": "Hatton South",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.893859538",
+    "E": "80.59471981",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59471981,
+     6.893859538
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "319E",
+    "GN Division": "Hatton East",
+    "Landslides": "1. Landsliding - Samanalagama\n2. Sanchur",
+    "Location_Detail": "Approximation",
+    "N": "6.886694645",
+    "E": "80.58999672",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted. Attention and mediation of DS Office, PRDA, RDA is needed.\nFollow recommendations of NBRO having consulted. Alternative lands should be provided. Attention and mediation of DS Office, PRDA, RDA is needed.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58999672,
+     6.886694645
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "319K",
+    "GN Division": "Lethant",
+    "Landslides": "1. Sinking the mountain area\n2. Risk of the collapsing boulders\n3. Bank collapsing",
+    "Location_Detail": "Approximation",
+    "N": "6.889602749",
+    "E": "80.55577677",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted. Relocation is needed and the lands have been provided. Affected lands should be restored and attention and mediation of DS Office, PRDA, RDA is needed.\nFollow recommendations of NBRO having consulted. Alternative lands should be provided. Attention and mediation of DS Office, PRDA, RDA is needed.\nFollow recommendations of NBRO having consulted. Soil conservation measures are needed. Alternative lands should be provided. Attention and mediation of DS Office, PRDA, RDA is needed.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55577677,
+     6.889602749
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "320G",
+    "GN Division": "Ruwanpura",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.924741222",
+    "E": "80.57793266",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57793266,
+     6.924741222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "320O",
+    "GN Division": "Shanon",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.89960271",
+    "E": "80.57454741",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57454741,
+     6.89960271
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "320R",
+    "GN Division": "Panmur",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.908151558",
+    "E": "80.57325103",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57325103,
+     6.908151558
+    ]
+   }
+  }
+ ]
+}

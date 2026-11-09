@@ -1,7 +1,166 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GN Division No.":"529","GN Division":"Manthreethenna","Landslides":"Landslide - Dorawa Village Road","N":7.02726,"E":80.88007,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"It is advisable to take NBRO's recommendations and take appropriate actions accordingly. Additionally, soil conservation practices should be adopted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Dorawe earth slip area.jpg"},"geometry":{"type":"Point","coordinates":[80.88007,7.02726]}},
-{"type":"Feature","properties":{"No.":4,"GN Division No.":"533A","GN Division":"Samagipura","Landslides":"Irrigation canal overflowing to the houses - Marketplace of Gonakale","N":7.057311,"E":80.821513,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Oluwawatta canal needs to be concrete lined.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Samagipura nagenahira diya agala.jpg"},"geometry":{"type":"Point","coordinates":[80.821513,7.057311]}},
-{"type":"Feature","properties":{"No.":5,"GN Division No.":"533B","GN Division":"Senarathpura","Landslides":"Landslide - Gonabokka","N":7.021721,"E":80.886559,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Removal of risky houses and Providing suitable land","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Gonapura Landslide 1.JPG"},"geometry":{"type":"Point","coordinates":[80.886559,7.021721]}},
-{"type":"Feature","properties":{"No.":6,"GN Division No.":"533C","GN Division":"Rathnayakapura","Landslides":"Sinking in 1985 - The lands in the Eastern direction from Mrs. Somawathi's house to Wlapane-Ragala Road","N":7.030637,"E":80.853857,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Proper draining of water is needed and soil conservation practices should be adopted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Sinking area- Nearly Somawathe home.jpg"},"geometry":{"type":"Point","coordinates":[80.853857,7.030637]}},
-{"type":"Feature","properties":{"No.":7,"GN Division No.":"533M","GN Division":"St. Leonard","Landslides":"1. Landslide - Conicor No. 03","N":6.99296,"E":80.8614,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Proper draining of water is needed and soil conservation practices should be adopted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Landslide Coniga Estate.jpg"},"geometry":{"type":"Point","coordinates":[80.8614,6.99296]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "529",
+    "GN Division": "Manthreethenna",
+    "Landslides": "Landslide - Dorawa Village Road",
+    "Location_Detail": "Exact",
+    "N": "7.02726",
+    "E": "80.88007",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "It is advisable to take NBRO's recommendations and take appropriate actions accordingly. Additionally, soil conservation practices should be adopted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Dorawe earth slip area.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.88007,
+     7.02726
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "529A",
+    "GN Division": "Pandithaya Kumbura",
+    "Landslides": "Landslide - Pandithaya Kumbura",
+    "Location_Detail": "Approximation",
+    "N": "7.032975836",
+    "E": "80.88743077",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "It is advisable to take NBRO's recommendations and take appropriate actions accordingly. Additionally, soil conservation practices should be adopted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.88743077,
+     7.032975836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "533",
+    "GN Division": "Ragala",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.012204902",
+    "E": "80.85914452",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.85914452,
+     7.012204902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "533A",
+    "GN Division": "Samagipura",
+    "Landslides": "Irrigation canal overflowing to the houses - Marketplace of Gonakale",
+    "Location_Detail": "Exact",
+    "N": "7.057311",
+    "E": "80.821513",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Oluwawatta canal needs to be concrete lined.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Samagipura nagenahira diya agala.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.821513,
+     7.057311
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "533B",
+    "GN Division": "Senarathpura",
+    "Landslides": "Landslide - Gonabokka",
+    "Location_Detail": "Exact",
+    "N": "7.021721",
+    "E": "80.886559",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Removal of risky houses and Providing suitable land",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Gonapura Landslide 1.JPG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.886559,
+     7.021721
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "533C",
+    "GN Division": "Rathnayakapura",
+    "Landslides": "Sinking in 1985 - The lands in the Eastern direction from Mrs. Somawathi's house to Wlapane-Ragala Road",
+    "Location_Detail": "Exact",
+    "N": "7.030637",
+    "E": "80.853857",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Proper draining of water is needed and soil conservation practices should be adopted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Sinking area- Nearly Somawathe home.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.853857,
+     7.030637
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "533M",
+    "GN Division": "St. Leonard",
+    "Landslides": "1. Landslide - Conicor No. 03",
+    "Location_Detail": "Exact",
+    "N": "6.99296",
+    "E": "80.8614",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Proper draining of water is needed and soil conservation practices should be adopted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_023/Landslide Coniga Estate.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8614,
+     6.99296
+    ]
+   }
+  }
+ ]
+}

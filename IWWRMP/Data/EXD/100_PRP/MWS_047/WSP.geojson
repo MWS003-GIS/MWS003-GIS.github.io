@@ -1,0 +1,298 @@
+{
+ "type": "FeatureCollection",
+ "name": "WSP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "41E",
+    "Name of the Tank": "Dawatagaha Kele/ forest",
+    "Location_Detail": "Exact",
+    "N": "6.963515",
+    "E": "80.926154",
+    "Observation": "Paddy cultivation is done with water flowing naturally from the spring",
+    "Description": "Plant 10 no of Kumbuk trees\n\nSupplying of Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna seedlings [to be planted in 3.5m x 3.5m grid]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance [7 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application [2.0 L/days per 100.0 x 2.0m]\n\nMulching with straw/banana tree skin\n\nTools\n\nContingencies 10%",
+    "Amount (Rs.)": "22000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.926154,
+     6.963515
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "41E",
+    "Name of the Tank": "Uda Arawa",
+    "Location_Detail": "Exact",
+    "N": "6.963515",
+    "E": "80.926154",
+    "Observation": "Paddy cultivation is done with water flowing naturally from the spring",
+    "Description": "Plant 10 no of Kumbuk trees upplying of Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna seedlings [to be planted in 3.5m x 3.5m grid]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance [7 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application [2.0 L/days per 100.0 x 2.0m]\n\nMulching with straw/banana tree skin\n\nTools\n\nContingencies 10%",
+    "Amount (Rs.)": "14300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.926154,
+     6.963515
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "42A",
+    "Name of the Tank": "Osowwa (Unagahadorowwa)",
+    "Location_Detail": "Exact",
+    "N": "6.969125",
+    "E": "80.903402",
+    "Observation": "Currently, a earth pit has been constructed and PVC pipe used to supply drinking water to about 6 families. The water is in very dirty condition.",
+    "Description": "Construction of a Filter Tank\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete manual mix (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nAdd filter materials\n\nTidying up\n\nContingencies 10%",
+    "Amount (Rs.)": "338800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.903402,
+     6.969125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "42B",
+    "Name of the Tank": "Haputhalewela (Wasanagama) Spring",
+    "Location_Detail": "Exact",
+    "N": "6.977755",
+    "E": "80.910557",
+    "Observation": "Currently, a concrete pit has been constructed and PVC pipe used to supply drinking water to about 40 families. The water is in very dirty condition.",
+    "Description": "Construction of a Filter Tank\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete manual mix (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nAdd filter materials\n\nTidying up\n\nContingencies 10%",
+    "Amount (Rs.)": "338800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.910557,
+     6.977755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "42B",
+    "Name of the Tank": "Alagolla Tea Factory area",
+    "Location_Detail": "Exact",
+    "N": "6.984784",
+    "E": "80.926512",
+    "Observation": "A water tank is constructed using concrete rings and water is distributed throug it for about 40 families. The water is in very dirty condition.",
+    "Description": "Construction of a Filter Tank\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete manual mix (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nAdd filter materials\n\nTidying up\n\nPlant 5 no of Kumbuk trees\n\nSupplying of Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna seedlings [to be planted in 3.5m x 3.5m grid]\n\nSupplying of NPK fertilizer [0.10kg/plant]\n\nGround preparation & maintenance [7 L/days per 100.0m x 2.0m]\n\nPlanting & fertilizer application [2.0 L/days per 100.0 x 2.0m\n\nMulching with straw/banana tree skin\n\nTools\n\nContingencies 10%",
+    "Amount (Rs.)": "349800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.926512,
+     6.984784
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "43G",
+    "Name of the Tank": "Kondagala spring",
+    "Location_Detail": "Exact",
+    "N": "6.978388",
+    "E": "80.904361",
+    "Observation": "Currently, a concrete pit has been constructed and PVC pipe used to collect to water to 20,000 liters water storage tank, Distribution drinking water to about 50 families by using PVC pipes. The water is in very dirty condition.",
+    "Description": "Construction of a Filter Tank with distribution System\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete manual mix (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nAdd filter materials\n\nSupply and laying 25 mm dia pvc pipe line in plain ended type in PN 11 rate including socket, solvent, cement and etc\n\nTidying up\n\nContingencies 10%",
+    "Amount (Rs.)": "682000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.904361,
+     6.978388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "43G",
+    "Name of the Tank": "Spring at 17th Division of Kondagala",
+    "Location_Detail": "Exact",
+    "N": "6.978723",
+    "E": "80.905059",
+    "Observation": "Currently, a earth pit has been constructed and PVC pipe used to collect to water to 10,000 liters water storage tank, Distribution drinking water to about 20 families by using PVC pipes. The water is in very dirty condition.",
+    "Description": "Construction of a Filter Tank with distribution System\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete manual mix (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nAdd filter materials\n\nSupply and laying 25 mm dia pvc pipe line in plain ended type in PN 11 rate including socket, solvent, cement and etc\n\nTidying up\n\nRenovation of the Existing Tank\n\nMinor repairs\n\nContingencies 10%",
+    "Amount (Rs.)": "541200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.905059,
+     6.978723
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "8",
+    "GND No.": "43G",
+    "Name of the Tank": "Keeriyagolla water spring",
+    "Location_Detail": "Exact",
+    "N": "6.972555",
+    "E": "80.899432",
+    "Observation": "Currently, a earth pit has been constructed and PVC pipe used to collect to water to two nos of 5,000 liters water storage tank, Distribution drinking water to about 120 families by using PVC pipes. The water is in very dirty condition.",
+    "Description": "Construction of a Filter Tank with distribution System\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete manual mix (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nAdd filter materials\n\nSupply and laying 25 mm dia pvc pipe line in plain ended type in PN 11 rate including socket, solvent, cement and etc\n\nTidying up\n\nRenovation of the Existing Tank\n\nMinor repairs\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nTidying up\n\nContingencies 10%.",
+    "Amount (Rs.)": "794200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.899432,
+     6.972555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "9",
+    "GND No.": "43G",
+    "Name of the Tank": "Spring of Thumbedda Division",
+    "Location_Detail": "Exact",
+    "N": "6.974742",
+    "E": "80.887258",
+    "Observation": "Currently, a concrete pit has been constructed and PVC pipe used to distribute to water about 85 families, The water is in very dirty condition.",
+    "Description": "Construction of a Filter Tank with distribution System\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure ‐05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete manual mix (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07\n\nAdd filter materials\n\nTidying up\n\nContingencies 10%",
+    "Amount (Rs.)": "338800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.887258,
+     6.974742
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "10",
+    "GND No.": "43G",
+    "Name of the Tank": "Kondagala spring",
+    "Location_Detail": "Exact",
+    "N": "6.978388",
+    "E": "80.904361",
+    "Observation": "Located in a tea estate owned by a private company (Voldemar)",
+    "Description": "Vegetative cover improving around the spring (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del / Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval (Before plantation get the permissions from the relevant authorities)",
+    "Amount (Rs.)": "242000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.904361,
+     6.978388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "11",
+    "GND No.": "43G",
+    "Name of the Tank": "Spring at 17th Division of Kondagala",
+    "Location_Detail": "Exact",
+    "N": "6.978723",
+    "E": "80.905059",
+    "Observation": "Located in a tea estate owned by a private company (Voldemar)",
+    "Description": "Vegetative cover improving around the spring (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del / Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval (Before plantation get the permissions from the relevant authorities)",
+    "Amount (Rs.)": "290400",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.905059,
+     6.978723
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "12",
+    "GND No.": "43G",
+    "Name of the Tank": "Keeriyagolla water spring",
+    "Location_Detail": "Exact",
+    "N": "6.972555",
+    "E": "80.899432",
+    "Observation": "Located in a tea estate owned by a private company (Voldemar)",
+    "Description": "Vegetative cover improving around the spring (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del / Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval (Before plantation get the permissions from the relevant authorities)",
+    "Amount (Rs.)": "290400",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.899432,
+     6.972555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "13",
+    "GND No.": "43G",
+    "Name of the Tank": "Spring of Thumbedda Division",
+    "Location_Detail": "Exact",
+    "N": "6.974742",
+    "E": "80.887258",
+    "Observation": "Located in a tea estate owned by a private company (Voldemar)",
+    "Description": "Vegetative cover improving around the spring (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del / Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval (Before plantation get the permissions from the relevant authorities)",
+    "Amount (Rs.)": "242000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.887258,
+     6.974742
+    ]
+   }
+  }
+ ]
+}

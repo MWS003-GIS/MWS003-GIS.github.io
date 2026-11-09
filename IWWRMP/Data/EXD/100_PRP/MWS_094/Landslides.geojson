@@ -1,5 +1,188 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":3,"GN Division No.":828,"GN Division":"Senarathwela","Landslides":"Slope failure - The part of the Bambaragala Mountain belongs to Senarathwela GND","N":7.282554,"E":80.764275,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Soil conservation practices should be adopted; stones are available on the land. It is also preferable to settle the residents in a separate area","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_094/Disaster area_20250307_100216.jpg"},"geometry":{"type":"Point","coordinates":[80.764275,7.282554]}},
-{"type":"Feature","properties":{"No.":5,"GN Division No.":830,"GN Division":"Elle Pola","Landslides":"Erosion (high slope) - Near the Mrs. Wajira's house at Pinnaketiyawatta","N":7.287972,"E":80.755676,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"A suitable allotment of land should be provided in another area","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_094/Disaster Vajira home_20250314_112118.jpg"},"geometry":{"type":"Point","coordinates":[80.755676,7.287972]}},
-{"type":"Feature","properties":{"No.":6,"GN Division No.":831,"GN Division":"Galambalama","Landslides":"Construction of houses at high slope areas","N":7.296875,"E":80.743043,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Slope of the cuts should be adjusted as appropriate and applied.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_094/Disaster place_20250317_112330.jpg"},"geometry":{"type":"Point","coordinates":[80.743043,7.296875]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "826",
+    "GN Division": "Nithulemada",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.275767669",
+    "E": "80.77220146",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77220146,
+     7.275767669
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "827",
+    "GN Division": "Maberiyathenna",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.266214241",
+    "E": "80.77268563",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77268563,
+     7.266214241
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "828",
+    "GN Division": "Senarathwela",
+    "Landslides": "Slope failure - The part of the Bambaragala Mountain belongs to Senarathwela GND",
+    "Location_Detail": "Exact",
+    "N": "7.282554",
+    "E": "80.764275",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Soil conservation practices should be adopted; stones are available on the land. It is also preferable to settle the residents in a separate area",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_094/Disaster area_20250307_100216.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.764275,
+     7.282554
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "829",
+    "GN Division": "Weeghman",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.292751957",
+    "E": "80.7639776",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7639776,
+     7.292751957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "830",
+    "GN Division": "Elle Pola",
+    "Landslides": "Erosion (high slope) - Near the Mrs. Wajira's house at Pinnaketiyawatta",
+    "Location_Detail": "Exact",
+    "N": "7.287972",
+    "E": "80.755676",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "A suitable allotment of land should be provided in another area",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_094/Disaster Vajira home_20250314_112118.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.755676,
+     7.287972
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "831",
+    "GN Division": "Galambalama",
+    "Landslides": "Construction of houses at high slope areas",
+    "Location_Detail": "Exact",
+    "N": "7.296875",
+    "E": "80.743043",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Slope of the cuts should be adjusted as appropriate and applied.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_094/Disaster place_20250317_112330.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.743043,
+     7.296875
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "832",
+    "GN Division": "Hijrapura",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.298158777",
+    "E": "80.7466254",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7466254,
+     7.298158777
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "833",
+    "GN Division": "Ambagahalanda",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.303102745",
+    "E": "80.74961019",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74961019,
+     7.303102745
+    ]
+   }
+  }
+ ]
+}

@@ -1,8 +1,166 @@
-{"type":"FeatureCollection","name":"DWS","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No_":1,"GND_No_":"319C","Name_of_th":"Kudagama Lions' Club","N":6.907454,"E":80.589363,"Observatio":"There is currently no water in this well. It appear that the land on which this tube well is built is being illeagally occupied.","Descriptio":"Repairs to the Tube well","Amount__Rs":20000,"photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.589363,6.907454]}},
-{"type":"Feature","properties":{"No_":2,"GND_No_":"319E","Name_of_th":"BT Dispensary","N":6.885604,"E":80.59766,"Observatio":"It was reported that they will face a severe water shortage during the dry season.","Descriptio":"Construction of a Deep Well with a Pump\n\nPreliminary Investigations\n\nHydrogeological investigation\n\nsite selection\n\nWater quality testing (chemical + bacteriological)\n\nPumping test (2–4 hours)\n\nBore Hole drilling and Construction\n\nDrilling of 150 mm (6","Amount__Rs":2134000,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_143/Drinking Water Sources to be Conserved and Water Catchment Area Conservation - Rothas A estate.jpg"},"geometry":{"type":"Point","coordinates":[80.59766,6.885604]}},
-{"type":"Feature","properties":{"No_":3,"GND_No_":"319E","Name_of_th":"Highland school","N":6.888118,"E":80.595057,"Observatio":"It was reported that they will face a severe water shortage during the dry season.","Descriptio":"Construction of a Deep Well with a Pump\n\nPreliminary Investigations\n\nHydrogeological investigation\n\nsite selection\n\nWater quality testing (chemical + bacteriological)\n\nPumping test (2–4 hours)\n\nBore Hole drilling and Construction\n\nDrilling of 150 mm (6","Amount__Rs":1666500,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_143/Drinking Water Sources to be Conserved - Spring of Kudagama Samagi Mawatha (2).jpg"},"geometry":{"type":"Point","coordinates":[80.595057,6.888118]}},
-{"type":"Feature","properties":{"No_":5,"GND_No_":"320G","Name_of_th":"Ruwanpura","N":6.917902,"E":80.58007,"Observatio":"It is appropriate to rebuild the well. (L=4.5m, W=3m, H=3m)","Descriptio":"Repairs to the existing well\n\nClean around the well\n\nScarifying existing walls removing the old plaster\n\nRepairs to the damaged section od the walls of the well\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabrica","Amount__Rs":368500,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_143/Forest Conservation - Ruwanpura reserve (2).jpg"},"geometry":{"type":"Point","coordinates":[80.58007,6.917902]}},
-{"type":"Feature","properties":{"No_":6,"GND_No_":"320O","Name_of_th":"Glentoff Division","N":6.904592,"E":80.578378,"Observatio":"It is advisable to construct a new tube well after proper study.","Descriptio":"Construction of a Tube Well\n\nDrilling of tube well (5m deep) with supplying and fixing of 0.5 HP x 4\" Dia tube well pump including all necessery connections and constructing a protective cell for the pump and mounting the same to good working order \n\nMis","Amount__Rs":145200,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_143/Regularization of Community Water Schemes - Glentoff Division (3).jpg"},"geometry":{"type":"Point","coordinates":[80.578378,6.904592]}},
-{"type":"Feature","properties":{"No_":7,"GND_No_":"320O","Name_of_th":"Shanon Division","N":6.906871,"E":80.571941,"Observatio":"It is advisable to construct a new tube well after proper study.","Descriptio":"Construction of a Tube Well\n\nDrilling of tube well (5m deep) with supplying and fixing of 0.5 HP x 4\" Dia tube well pump including all necessery connections and constructing a protective cell for the pump and mounting the same to good working order \n\nMis","Amount__Rs":145200,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_143/Regularization of Community Water Schemes - Shanon Division (2).jpg"},"geometry":{"type":"Point","coordinates":[80.571941,6.906871]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "DWS",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "319C",
+    "Scheme": "Kudagama Lions' Club",
+    "Location_Detail": "Exact",
+    "N": "6.907454",
+    "E": "80.589363",
+    "Observation": "There is currently no water in this well. It appear that the land on which this tube well is built is being illeagally occupied.",
+    "Description": "Repairs to the Tube well",
+    "Estimated Cost": "20000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.589363,
+     6.907454
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "319E",
+    "Scheme": "BT Dispensary",
+    "Location_Detail": "Exact",
+    "N": "6.885604",
+    "E": "80.59766",
+    "Observation": "It was reported that they will face a severe water shortage during the dry season.",
+    "Description": "Construction of a Deep Well with a Pump\n\nPreliminary Investigations\n\nHydrogeological investigation site selection\n\nWater quality testing (chemical + bacteriological)\n\nPumping test (2–4 hours)\n\nBore Hole drilling and Construction\n\nDrilling of 150 mm (6\") tube well (avg 175 ft ≈ 53 m @ Rs 3,500–4,500/ft)\n\nPVC casing (150 mm, Class 10)\n\nWell screen strainer (150 mm)\n\nGravel packing\n\nDevelopment by airlift flushing\n\nPumping Unit & Accessories\n\n1.5 HP Submersible pump (suitable for 150 mm bore)\n\nDelivery pipe, clamps and fittings\n\nCable and control panel\n\nPump installation\n\nCivil Works\n\nConstruction of concrete well head apron\n\nProtective enclosure\n\nTransport & Miscellaneous\n\nContingencies 10%\n\nConstruction of 2.5 m x 2.5 m x 1.5 m (L x W x h) storage tank\n\nSite preparation & setting out\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:2:4 (20mm) concrete with concrete mixer (volume batching)\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open-type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE-ST/07\n\nConnecting of the Pump with the storage tank with necessary pipes & fittings\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "2134000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59766,
+     6.885604
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "319E",
+    "Scheme": "Highland school",
+    "Location_Detail": "Exact",
+    "N": "6.888118",
+    "E": "80.595057",
+    "Observation": "It was reported that they will face a severe water shortage during the dry season.",
+    "Description": "Construction of a Deep Well with a Pump\n\nPreliminary Investigations\n\nHydrogeological investigation site selection\n\nWater quality testing (chemical + bacteriological)\n\nPumping test (2–4 hours)\n\nBore Hole drilling and Construction\n\nDrilling of 150 mm (6\") tube well (avg 175 ft ≈ 53 m @ Rs 3,500–4,500/ft)\n\nPVC casing (150 mm, Class 10)\n\nWell screen strainer (150 mm)\n\nGravel packing\n\nDevelopment by airlift flushing\n\nPumping Unit & Accessories\n\n1.5 HP Submersible pump (suitable for 150 mm bore)\n\nDelivery pipe, clamps and fittings\n\nCable and control panel\n\nPump installation\n\nCivil Works\n\nConstruction of concrete well head apron\n\nProtective enclosure\n\nTransport & Miscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "1666500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.595057,
+     6.888118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "319K",
+    "Scheme": "Castlereigh junction",
+    "Location_Detail": "Approximation",
+    "N": "6.889602749",
+    "E": "80.55577677",
+    "Observation": "-",
+    "Description": "Construction of a Tube Well\n\nDrilling of tube well (5m deep) with supplying and fixing of 0.5 HP x 4\" Dia tube well pump including all necessery connections and constructing a protective cell for the pump and mounting the same to good working order\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "145200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55577677,
+     6.889602749
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "320G",
+    "Scheme": "Ruwanpura",
+    "Location_Detail": "Exact",
+    "N": "6.917902",
+    "E": "80.58007",
+    "Observation": "It is appropriate to rebuild the well. (L=4.5m, W=3m, H=3m)",
+    "Description": "Repairs to the existing well\n\nClean around the well\n\nScarifying existing walls removing the old plaster\n\nRepairs to the damaged section od the walls of the well\n\nPlaster 12mm thick in 1:3 cement and sand finished smooth with gray cement floating\n\nFabricating & fixing security weld mesh in open-type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete. All as per detail drawing No.CPC/CS/11/04/2017/TYPE-ST/07\n\nDealing with water\n\nTransport of construction materials\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "368500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58007,
+     6.917902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "320O",
+    "Scheme": "Glentoff Division",
+    "Location_Detail": "Exact",
+    "N": "6.904592",
+    "E": "80.578378",
+    "Observation": "It is advisable to construct a new tube well after proper study.",
+    "Description": "Construction of a Tube Well\n\nDrilling of tube well (5m deep) with supplying and fixing of 0.5 HP x 4\" Dia tube well pump including all necessery connections and constructing a protective cell for the pump and mounting the same to good working order\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "145200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.578378,
+     6.904592
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "320O",
+    "Scheme": "Shanon Division",
+    "Location_Detail": "Exact",
+    "N": "6.906871",
+    "E": "80.571941",
+    "Observation": "It is advisable to construct a new tube well after proper study.",
+    "Description": "Construction of a Tube Well\n\nDrilling of tube well (5m deep) with supplying and fixing of 0.5 HP x 4\" Dia tube well pump including all necessery connections and constructing a protective cell for the pump and mounting the same to good working order\n\nMiscellaneous\n\nContingencies 10%",
+    "Estimated Cost": "145200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.571941,
+     6.906871
+    ]
+   }
+  }
+ ]
+}

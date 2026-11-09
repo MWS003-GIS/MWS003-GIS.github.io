@@ -1,4 +1,180 @@
-{"type":"FeatureCollection","name":"WP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":2,"GND No.":804,"GN Division":"Hatheyalwela","Non-point sources of pollution":"Potential to add human waste - Withalawa Estate","N":7.3128397,"E":80.8326191,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"-","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"-","Contributions (Local Community, LA, Project)":"-","Time frame for the implementation":"-","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_088/Garbage Disposal (2).jpg"},"geometry":{"type":"Point","coordinates":[80.8326191,7.3128397]}},
-{"type":"Feature","properties":{"No.":3,"GND No.":804,"GN Division":"Hatheyalwela","Non-point sources of pollution":"Informal disposal of houshold wastes/garbage","N":7.3128397,"E":80.8326191,"Point sources of pollution":"-","Add. N ":"-","Add. E ":"-","Recommended water quality improvement measures":"Preparing a separate place in homegardens for disposing houshold waste,Awareness programme on how to disposal household waste properly and converting them to usable products such as compost,Facilitating garbage collection","Unit Cost (Rs.)":"-","Total Cost (Rs.)":"50,000.00","Contributions (Local Community, LA, Project)":"Local/Central governments","Time frame for the implementation":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_088/Garbage disposal.jpg"},"geometry":{"type":"Point","coordinates":[80.8326191,7.3128397]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "803",
+    "GN Division": "Metideniya",
+    "Non-point sources of pollution": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.297961905",
+    "E": "80.81541447",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.81541447,
+     7.297961905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "804",
+    "GN Division": "Hatheyalwela",
+    "Non-point sources of pollution": "Potential to add human waste - Withalawa Estate",
+    "Location_Detail": "Approximation",
+    "N": "7.3128397",
+    "E": "80.8326191",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_088/Garbage Disposal (2).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8326191,
+     7.3128397
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "804",
+    "GN Division": "Hatheyalwela",
+    "Non-point sources of pollution": "Informal disposal of houshold wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.3128397",
+    "E": "80.8326191",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing houshold waste,Awareness programme on how to disposal household waste properly and converting them to usable products such as compost,Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50,000.00",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_088/Garbage disposal.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8326191,
+     7.3128397
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "805",
+    "GN Division": "Namandagala",
+    "Non-point sources of pollution": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.298259863",
+    "E": "80.82681104",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.82681104,
+     7.298259863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "806",
+    "GN Division": "Mangoda",
+    "Non-point sources of pollution": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.304278645",
+    "E": "80.84019677",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.84019677,
+     7.304278645
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "807",
+    "GN Division": "Rambukpotha",
+    "Non-point sources of pollution": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.302511161",
+    "E": "80.84627173",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.84627173,
+     7.302511161
+    ]
+   }
+  }
+ ]
+}

@@ -1,12 +1,525 @@
 {
-"type": "FeatureCollection",
-"name": "SWC_Off",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "GN_Divisio": "65B", "GN_Divis_1": "Bandarawela West", "Key_Activi": "1. Constructing walls - Perera Road", "Priority_b": 5, "N": 6.832666, "E": 80.981949, "Quantity": "80 perch", "Proposed_m": "Since it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.", "Total_Cost": null, "Contributi": "Appropriate actions should be taken by RDA", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Pitawatta road (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.981949, 6.832666 ] } },
-{ "type": "Feature", "properties": { "GN_Divisio": "65B", "GN_Divis_1": "Bandarawela West", "Key_Activi": "2. Constructing walls - Vishaka Road", "Priority_b": 4, "N": 6.839969, "E": 80.987668, "Quantity": "1 acre", "Proposed_m": "In an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.", "Total_Cost": null, "Contributi": "Appropriate actions should be taken by RDA", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Vishaka road (4).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.987668, 6.839969 ] } },
-{ "type": "Feature", "properties": { "GN_Divisio": "65B", "GN_Divis_1": "Bandarawela West", "Key_Activi": "3. Constructing walls - Welimada Road", "Priority_b": 4, "N": 6.838467, "E": 80.984018, "Quantity": "2 acres", "Proposed_m": "In an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.", "Total_Cost": null, "Contributi": "Appropriate actions should be taken by RDA", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Welimada road.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.984018, 6.838467 ] } },
-{ "type": "Feature", "properties": { "GN_Divisio": "65B", "GN_Divis_1": "Bandarawela West", "Key_Activi": "4. Constructing walls - Pitawatta Road", "Priority_b": 4, "N": 6.835223, "E": 80.980546, "Quantity": "1 acre", "Proposed_m": "In an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.", "Total_Cost": null, "Contributi": "Appropriate actions should be taken by RDA", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Pitawatta road.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.980546, 6.835223 ] } },
-{ "type": "Feature", "properties": { "GN_Divisio": "65B", "GN_Divis_1": "Bandarawela West", "Key_Activi": "5. Constructing walls - Ambathenna Watta", "Priority_b": 4, "N": 6.829388, "E": 80.986129, "Quantity": "40 perch", "Proposed_m": "Since it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.", "Total_Cost": null, "Contributi": "Appropriate actions should be taken by RDA", "Time_frame": "0.25 Years", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_067_2/Soil Conservation - Ambathenna Watta.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.986129, 6.829388 ] } }
-]
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "65B",
+    "GND Name": "Bandarawela West",
+    "Key Activities proposed for Soil and Water conservation": "1. Constructing walls - Perera Road\n2. Constructing walls - Vishaka Road\n3. Constructing walls - Welimada Road\n4. Constructing walls - Pitawatta Road\n5. Constructing walls - Ambathenna Watta",
+    "Priority based on Soil Erosion Hazard": "5\n4\n4\n4\n4",
+    "Location_Detail": "Exact",
+    "N": "6.832666",
+    "E": "80.981949",
+    "Quantity": "0.2 ha\n0.4 ha\n0.8 ha\n0.4 ha\n0.1 ha",
+    "Proposed measure/s": "Since it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nSince it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.",
+    "Uniti_Cost": "N/A\nN/A\nN/A\nN/A\nN/A",
+    "Total_Cost": "Appropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.981949,
+     6.832666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "65B",
+    "GND Name": "Bandarawela West",
+    "Key Activities proposed for Soil and Water conservation": "1. Constructing walls - Perera Road\n2. Constructing walls - Vishaka Road\n3. Constructing walls - Welimada Road\n4. Constructing walls - Pitawatta Road\n5. Constructing walls - Ambathenna Watta",
+    "Priority based on Soil Erosion Hazard": "5\n4\n4\n4\n4",
+    "Location_Detail": "Exact",
+    "N": "6.839969",
+    "E": "80.987668",
+    "Quantity": "0.2 ha\n0.4 ha\n0.8 ha\n0.4 ha\n0.1 ha",
+    "Proposed measure/s": "Since it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nSince it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.",
+    "Uniti_Cost": "N/A\nN/A\nN/A\nN/A\nN/A",
+    "Total_Cost": "Appropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.987668,
+     6.839969
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "65B",
+    "GND Name": "Bandarawela West",
+    "Key Activities proposed for Soil and Water conservation": "1. Constructing walls - Perera Road\n2. Constructing walls - Vishaka Road\n3. Constructing walls - Welimada Road\n4. Constructing walls - Pitawatta Road\n5. Constructing walls - Ambathenna Watta",
+    "Priority based on Soil Erosion Hazard": "5\n4\n4\n4\n4",
+    "Location_Detail": "Exact",
+    "N": "6.838467",
+    "E": "80.984018",
+    "Quantity": "0.2 ha\n0.4 ha\n0.8 ha\n0.4 ha\n0.1 ha",
+    "Proposed measure/s": "Since it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nSince it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.",
+    "Uniti_Cost": "N/A\nN/A\nN/A\nN/A\nN/A",
+    "Total_Cost": "Appropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.984018,
+     6.838467
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "65B",
+    "GND Name": "Bandarawela West",
+    "Key Activities proposed for Soil and Water conservation": "1. Constructing walls - Perera Road\n2. Constructing walls - Vishaka Road\n3. Constructing walls - Welimada Road\n4. Constructing walls - Pitawatta Road\n5. Constructing walls - Ambathenna Watta",
+    "Priority based on Soil Erosion Hazard": "5\n4\n4\n4\n4",
+    "Location_Detail": "Exact",
+    "N": "6.835223",
+    "E": "80.980546",
+    "Quantity": "0.2 ha\n0.4 ha\n0.8 ha\n0.4 ha\n0.1 ha",
+    "Proposed measure/s": "Since it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nSince it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.",
+    "Uniti_Cost": "N/A\nN/A\nN/A\nN/A\nN/A",
+    "Total_Cost": "Appropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.980546,
+     6.835223
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "65B",
+    "GND Name": "Bandarawela West",
+    "Key Activities proposed for Soil and Water conservation": "1. Constructing walls - Perera Road\n2. Constructing walls - Vishaka Road\n3. Constructing walls - Welimada Road\n4. Constructing walls - Pitawatta Road\n5. Constructing walls - Ambathenna Watta",
+    "Priority based on Soil Erosion Hazard": "5\n4\n4\n4\n4",
+    "Location_Detail": "Exact",
+    "N": "6.829388",
+    "E": "80.986129",
+    "Quantity": "0.2 ha\n0.4 ha\n0.8 ha\n0.4 ha\n0.1 ha",
+    "Proposed measure/s": "Since it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nIn an area where houses are built above the road. The banks have been cut vertically during the construction of the road. Houses are damaged as banks collapse during the rainy season.\nSince it is an urban area, it is a densely populated area. There is no enough space to follow soil conservation practices.",
+    "Uniti_Cost": "N/A\nN/A\nN/A\nN/A\nN/A",
+    "Total_Cost": "Appropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA\nAppropriate actions should be taken by RDA",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.986129,
+     6.829388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "65G",
+    "GND Name": "Bandarawela East",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.828509395",
+    "E": "80.99297805",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99297805,
+     6.828509395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "66",
+    "GND Name": "Kinigama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.828591405",
+    "E": "81.00878844",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.00878844,
+     6.828591405
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "66D",
+    "GND Name": "Mahaulpatha",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.823621814",
+    "E": "81.0051562",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.0051562,
+     6.823621814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "66G",
+    "GND Name": "Thanthiriya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.833065257",
+    "E": "81.00284603",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.00284603,
+     6.833065257
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "67",
+    "GND Name": "Ettalapitiya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.855446289",
+    "E": "80.98844918",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98844918,
+     6.855446289
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "67A",
+    "GND Name": "Konthahela",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.867441552",
+    "E": "80.97154012",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97154012,
+     6.867441552
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "67B",
+    "GND Name": "Bindunuwewa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.844844842",
+    "E": "80.99966797",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99966797,
+     6.844844842
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "67D",
+    "GND Name": "Kebillewela North",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.83770505",
+    "E": "80.9969224",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9969224,
+     6.83770505
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "67E",
+    "GND Name": "Kirioruwa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.864851556",
+    "E": "80.98694763",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98694763,
+     6.864851556
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "67F",
+    "GND Name": "Watagamuwa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.855644815",
+    "E": "81.00053857",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.00053857,
+     6.855644815
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "67G",
+    "GND Name": "Wewathenna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.846274173",
+    "E": "80.97857553",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97857553,
+     6.846274173
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "67H",
+    "GND Name": "Diganathenna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.856325157",
+    "E": "80.9728733",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9728733,
+     6.856325157
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "67K",
+    "GND Name": "Gediyaroda",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.84018868",
+    "E": "80.99097934",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99097934,
+     6.84018868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "67N",
+    "GND Name": "Icelab Watta",
+    "Key Activities proposed for Soil and Water conservation": "No special issues were reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.866321228",
+    "E": "80.99466165",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99466165,
+     6.866321228
+    ]
+   }
+  }
+ ]
 }

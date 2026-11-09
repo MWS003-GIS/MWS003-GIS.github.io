@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "521F",
+    "GN Division": "Helagama",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.112008667",
+    "E": "80.92236789",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92236789,
+     7.112008667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "521D",
+    "GN Division": "Mallagama",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.128667043",
+    "E": "80.91050052",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91050052,
+     7.128667043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "521E",
+    "GN Division": "Dulana",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.117607529",
+    "E": "80.92041869",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92041869,
+     7.117607529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "521C",
+    "GN Division": "Theripehe",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.113018749",
+    "E": "80.91355035",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91355035,
+     7.113018749
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+{
+ "type": "FeatureCollection",
+ "name": "MI",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "41",
+    "Scheme": "Lunuwatta Canal",
+    "Location_Detail": "Exact",
+    "N": "6.970584",
+    "E": "80.9161",
+    "Observation": "Water is leaking from the side wall built on the left side of the canal for a length of 75m. A 15m section of the canal has landslide. Command area 6.0 acres",
+    "Description": "Construction of 15 m long Trough (with 0.30m x 0.30m section), 07 nos of piers (3.0 m high)\n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:3:6 (40mm) concrete with concrete mixer (volume batching)\n\n1:2:4 (20mm) concrete with concrete mixer (volume batching)\n\nSpreading , Levelling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nTransport of materials\n\nMiscellaneous\n\nContingencies 10%\n\nArresting water leaks in the rubble wall\n\nScarifying existing concrete surface\n\n1:1½:3 (20mm) concrete manual mix (volume batching) in sealing the bottom and raising the two walls\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1309000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9161,
+     6.970584
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "41",
+    "Scheme": "Aswedduma anicut and canal",
+    "Location_Detail": "Exact",
+    "N": "6.970567",
+    "E": "80.91675",
+    "Observation": "The concrete wall built for the anicut has been broken. The 15m long concrete wall built at the beginning of the canal has been also collapsed. Command area 10.0 acres",
+    "Description": "Construction of Concrete anicut of 15 m length and height 1.5 m.\n\nClearing the site\n\nCommon excavation for foundation or quarry materials and haul the surplus up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer with 20% plums (volume batching) in 1.0 m high & 10.5 m long water retaining wall keeping 02 Nos. 600 mm long, 600 mm deep opening to be functioned as the spillway.\n\nDry rubble packing (with locally found rubble, size over 225mm ) for 1.5 m width and to the whole width to act as a DS erosion protection\n\nTransport of machinery and materials\n\nMiscellaneous\n\nContingencies 10%\n\nConstruction of 15 m long Retaining wall\n\nConstruction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall\n\nTransport of machinery and materials\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1345300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91675,
+     6.970567
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "41",
+    "Scheme": "Kithul Gaha Arawa canal",
+    "Location_Detail": "Exact",
+    "N": "6.971527",
+    "E": "80.91312",
+    "Observation": "Total length of canal about 2.6km. A section of the canal has been concreted, but 150m section of existing concrete canal is in a dilapidated condition. Command area 50.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1677500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91312,
+     6.971527
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "41",
+    "Scheme": "Pattiya Kumbuka canal",
+    "Location_Detail": "Exact",
+    "N": "6.972271",
+    "E": "80.92648",
+    "Observation": "Total length of canal about 300m. A section of the canal has been concreted, but 50m section of existing concrete canal is in a dilapidated condition . A 12m section of the canal has landslided. Command area 26.0 acres",
+    "Description": "Construction of 12 m long Trough (with 0.30m x 0.30m section), 05 nos of piers (3.0 m high)\n\nSite preparation & setting out\n\nEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\nCutting, Bending & Placing tor steel reinforcement bars\n\n1:3:6 (40mm) concrete with concrete mixer (volume batching)\n\n1:2:4 (20mm) concrete with concrete mixer (volume batching)\n\nSpreading , Levelling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150-225 mm Thick Layers (Loose Volume)\n\nTransport of materials\n\nMiscellaneous\n\nContingencies 10%\n\nCanal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1959100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92648,
+     6.972271
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "41E",
+    "Scheme": "Wella Kumbura canal",
+    "Location_Detail": "Exact",
+    "N": "6.964421",
+    "E": "80.92853",
+    "Observation": "Total length of canal about 700m, part of canal has been concreted, Command area 10.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1048300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92853,
+     6.964421
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "41E",
+    "Scheme": "Gannila canal",
+    "Location_Detail": "Exact",
+    "N": "6.966054",
+    "E": "80.92177",
+    "Observation": "Total length of canal about 1000m, part of canal has been concreted, Command area 15.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1048300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92177,
+     6.966054
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "41E",
+    "Scheme": "Kahalla canal",
+    "Location_Detail": "Exact",
+    "N": "6.965015",
+    "E": "80.92199",
+    "Observation": "Total length of canal about 800m, part of canal has been concreted, Command area 9.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1048300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92199,
+     6.965015
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "8",
+    "GND No.": "41E",
+    "Scheme": "Hapu Dandawa canal",
+    "Location_Detail": "Exact",
+    "N": "6.967038",
+    "E": "80.92118",
+    "Observation": "Total length of canal about 700m, part of canal has been concreted, Command area 11.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1048300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92118,
+     6.967038
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "9",
+    "GND No.": "42",
+    "Scheme": "Uda Kiripotha anicut",
+    "Location_Detail": "Exact",
+    "N": "6.956341",
+    "E": "80.89377",
+    "Observation": "The anicut is built of earth Command area 8.0 acres",
+    "Description": "Construction of Concrete anicut of 3.0 m length and height 0.9 m.\n\nClearing the site\n\nCommon excavation for foundation or quarry materials and haul the surplus up to 30m by Manually.\n\nPlywood form work including making, fixing & removing for structure -05 uses\n\n1:3:6 (40mm) concrete with concrete mixer with 20% plums (volume batching) in 1.0 m high & 10.5 m long water retaining wall keeping 02 Nos. 600 mm long, 600 mm deep opening to be functioned as the spillway.\n\nDry rubble packing (with locally found rubble, size over 225mm ) for 1.5 m width and to the whole width to act as a DS erosion protection\n\nTransport of machinery and materials\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "95700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89377,
+     6.956341
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "10",
+    "GND No.": "42",
+    "Scheme": "Palle Kiripotha Canal",
+    "Location_Detail": "Exact",
+    "N": "6.955487",
+    "E": "80.89355",
+    "Observation": "Part of canal has been concreted, Part of existing concrete canal I in a dilapidated condition, Command area 6.0 acres",
+    "Description": "Demolishing the damaged concrete lining and reconstruction including canal earth work & tree planting\n\nDemolishing the existing damaged concrete lining and removing out side\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "783200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89355,
+     6.955487
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "11",
+    "GND No.": "42",
+    "Scheme": "Radigathalawa canal",
+    "Location_Detail": "Exact",
+    "N": "6.958153",
+    "E": "80.89484",
+    "Observation": "Total length of canal about 3km, part of canal has been concreted, Command area 42.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanals reservation protection by concrete lining For 125mm thick , 500 mm wide and 400 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nTransporting of earth moving machinery & Materials\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1669800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89484,
+     6.958153
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "12",
+    "GND No.": "42",
+    "Scheme": "Uda Kiripotha canal",
+    "Location_Detail": "Exact",
+    "N": "6.956321",
+    "E": "80.89379",
+    "Observation": "Part of canal has been concreted, Command area 8.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "783200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89379,
+     6.956321
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "13",
+    "GND No.": "42",
+    "Scheme": "Agatha canal",
+    "Location_Detail": "Exact",
+    "N": "6.947493",
+    "E": "80.90551",
+    "Observation": "Total length of canal about 3km, part of canal has been concreted, Command area 60.0 acres The paddy fields of several GN Divisions are Cultivated by the water of this canal.",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanals reservation protection by concrete lining For 125mm thick , 500 mm wide and 400 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nTransporting of earth moving machinery & Materials\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1531200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90551,
+     6.947493
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "14",
+    "GND No.": "42A",
+    "Scheme": "Agathakumbura canal",
+    "Location_Detail": "Exact",
+    "N": "6.958248",
+    "E": "80.92249",
+    "Observation": "Total length of canal about 3km, part of canal has been concreted, Command area 60.0 acres The paddy fields of several GN Divisions are Cultivated by the water of this canal.",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanals reservation protection by concrete lining For 125mm thick , 500 mm wide and 400 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nTransporting of earth moving machinery & Materials\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "1669800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92249,
+     6.958248
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "15",
+    "GND No.": "42A",
+    "Scheme": "Unagahadorowwa canal",
+    "Location_Detail": "Exact",
+    "N": "6.971874",
+    "E": "80.90624",
+    "Observation": "Part of canal has been concreted, Part of existing concrete canal I in a dilapidated condition, Command area 15.0 acres",
+    "Description": "Demolishing the damaged concrete lining and reconstruction including canal earth work & tree planting\n\nDemolishing the existing damaged concrete lining and removing outside\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "921800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90624,
+     6.971874
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "16",
+    "GND No.": "42A",
+    "Scheme": "Podagolla canal",
+    "Location_Detail": "Exact",
+    "N": "6.958877",
+    "E": "80.92333",
+    "Observation": "An earthen canal about 500m long.. Command area 10.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "783200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92333,
+     6.958877
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "17",
+    "GND No.": "42B",
+    "Scheme": "Kande Kumbura - Haputhalewela Canal",
+    "Location_Detail": "Exact",
+    "N": "6.980291",
+    "E": "80.91299",
+    "Observation": "Total length of canal about 500m, part of canal has been concreted, Command area 9.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "783200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91299,
+     6.980291
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "18",
+    "GND No.": "43D",
+    "Scheme": "Nikawetawela canal",
+    "Location_Detail": "Exact",
+    "N": "6.956765",
+    "E": "80.89064",
+    "Observation": "Total length of canal about 700m, part of canal has been concreted, Command area 8.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "783200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89064,
+     6.956765
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "19",
+    "GND No.": "43D",
+    "Scheme": "Gannila canal",
+    "Location_Detail": "Exact",
+    "N": "6.955705",
+    "E": "80.89049",
+    "Observation": "Total length of canal about 300m, part of canal has been concreted, Command area 5.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "519200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89049,
+     6.955705
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "20",
+    "GND No.": "43D",
+    "Scheme": "Wakkumbura canal",
+    "Location_Detail": "Exact",
+    "N": "6.955918",
+    "E": "80.89286",
+    "Observation": "Total length of canal about 800m, part of canal has been concreted, Command area 18.0 acres",
+    "Description": "Canal lining and protection including earth work & tree planting\n\nCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2.0 m wide and average Depth of 0.5m\n\nVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row\n\nMiscellaneous\n\nContingencies 10%",
+    "Amount (Rs.)": "909700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89286,
+     6.955918
+    ]
+   }
+  }
+ ]
+}

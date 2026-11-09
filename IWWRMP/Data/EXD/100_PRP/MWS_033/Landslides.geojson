@@ -1,12 +1,254 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GN Division No.":"528 D","GN Division":"Meepanawa","Landslides":"Falling stones/boulders - Alawaththa ","N":7.03809,"E":80.92549,"NBRO Recommendation N/A":"NBRO is aware ","Proposed Measures":"Appropriate measures should be taken upon the guidance of NBRO","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92549,7.03809]}},
-{"type":"Feature","properties":{"No.":3,"GN Division No.":"530A","GN Division":"Wathulanda East","Landslides":"Soil erosion - A system of canals near the Ritigaha Hena stairs Wathulanda Road","N":7.01659,"E":80.91158,"NBRO Recommendation N/A":"-","Proposed Measures":"Construction of 500 m long 300 mm x 300 mm (width x height) Rectangular Con. canal. Wall thickness 125 mm","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.91158,7.01659]}},
-{"type":"Feature","properties":{"No.":5,"GN Division No.":"528C","GN Division":"Maliyadda","Landslides":"Soil sinking - Rathupas Ella","N":7.027515,"E":80.916869,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Appropriate measures should be taken upon the guidance of NBRO","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.916869,7.027515]}},
-{"type":"Feature","properties":{"No.":6,"GN Division No.":"530","GN Division":"Kurupanawela","Landslides":"Soil sinking - Duniyagolla","N":7.02237,"E":80.91877,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Appropriate measures should be taken upon the guidance of NBRO","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.91877,7.02237]}},
-{"type":"Feature","properties":{"No.":7,"GN Division No.":"527A","GN Division":"Madulla South","Landslides":"1. Soil sinking - Balungala Yaya","N":7.04365,"E":80.92518,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Appropriate measures should be taken upon the guidance of NBRO","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92518,7.04365]}},
-{"type":"Feature","properties":{"No.":8,"GN Division No.":"527A","GN Division":"Madulla South","Landslides":"2. Stone rolling - Gangaragolla","N":7.04768,"E":80.91767,"NBRO Recommendation N/A":"NBRO has visited","Proposed Measures":"Measures should be taken, as recommended by NBRO","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.91767,7.04768]}},
-{"type":"Feature","properties":{"No.":9,"GN Division No.":"527A","GN Division":"Madulla South","Landslides":"3. Earth slip - Kotagan Arawa Rabarwattha Kotasa","N":7.04478,"E":80.92868,"NBRO Recommendation N/A":"NBRO has visited","Proposed Measures":"Measures should be taken, as recommended by NBRO","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92868,7.04478]}},
-{"type":"Feature","properties":{"No.":10,"GN Division No.":"527B","GN Division":"Morahela","Landslides":"1. Damps collapsing","N":7.04638,"E":80.92979,"NBRO Recommendation N/A":"-","Proposed Measures":"Measures should be taken, as recommended by NBRO","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.92979,7.04638]}},
-{"type":"Feature","properties":{"No.":11,"GN Division No.":"527B","GN Division":"Morahela","Landslides":"2. Damps collapsing","N":7.05308,"E":80.932,"NBRO Recommendation N/A":"-","Proposed Measures":"Measures should be taken, as recommended by NBRO","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.932,7.05308]}},
-{"type":"Feature","properties":{"No.":12,"GN Division No.":"527B","GN Division":"Morahela","Landslides":"3. Road erosion ","N":7.04353,"E":80.9336,"NBRO Recommendation N/A":"-","Proposed Measures":"Construction of 1000 m long 300 mm x 300 mm (width x height) Rectangular Con. canal. Wall thickness 125 mm","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.9336,7.04353]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "528 D",
+    "GN Division": "Meepanawa",
+    "Landslides": "Falling stones/boulders - Alawaththa ",
+    "Location_Detail": "Exact",
+    "N": "7.03809",
+    "E": "80.92549",
+    "NBRO Recommendation N/A": "NBRO is aware ",
+    "Proposed Measures": "Appropriate measures should be taken upon the guidance of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92549,
+     7.03809
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "530A",
+    "GN Division": "Wathulanda East",
+    "Landslides": "Soil erosion - A system of canals near the Ritigaha Hena stairs Wathulanda Road",
+    "Location_Detail": "Exact",
+    "N": "7.01659",
+    "E": "80.91158",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Construction of 500 m long 300 mm x 300 mm (width x height) Rectangular Con. canal. Wall thickness 125 mm",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91158,
+     7.01659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "527",
+    "GN Division": "Madulla North",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.058117254",
+    "E": "80.92269102",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92269102,
+     7.058117254
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "528C",
+    "GN Division": "Maliyadda",
+    "Landslides": "Soil sinking - Rathupas Ella",
+    "Location_Detail": "Exact",
+    "N": "7.027515",
+    "E": "80.916869",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Appropriate measures should be taken upon the guidance of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.916869,
+     7.027515
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "530",
+    "GN Division": "Kurupanawela",
+    "Landslides": "Soil sinking - Duniyagolla",
+    "Location_Detail": "Exact",
+    "N": "7.02237",
+    "E": "80.91877",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Appropriate measures should be taken upon the guidance of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91877,
+     7.02237
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "527A",
+    "GN Division": "Madulla South",
+    "Landslides": "1. Soil sinking - Balungala Yaya",
+    "Location_Detail": "Exact",
+    "N": "7.04365",
+    "E": "80.92518",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Appropriate measures should be taken upon the guidance of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92518,
+     7.04365
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "527A",
+    "GN Division": "Madulla South",
+    "Landslides": "2. Stone rolling - Gangaragolla",
+    "Location_Detail": "Exact",
+    "N": "7.04768",
+    "E": "80.91767",
+    "NBRO Recommendation N/A": "NBRO has visited",
+    "Proposed Measures": "Measures should be taken, as recommended by NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91767,
+     7.04768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "527A",
+    "GN Division": "Madulla South",
+    "Landslides": "3. Earth slip - Kotagan Arawa Rabarwattha Kotasa",
+    "Location_Detail": "Exact",
+    "N": "7.04478",
+    "E": "80.92868",
+    "NBRO Recommendation N/A": "NBRO has visited",
+    "Proposed Measures": "Measures should be taken, as recommended by NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92868,
+     7.04478
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "527B",
+    "GN Division": "Morahela",
+    "Landslides": "1. Damps collapsing",
+    "Location_Detail": "Exact",
+    "N": "7.04638",
+    "E": "80.92979",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Measures should be taken, as recommended by NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92979,
+     7.04638
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "527B",
+    "GN Division": "Morahela",
+    "Landslides": "2. Damps collapsing",
+    "Location_Detail": "Exact",
+    "N": "7.05308",
+    "E": "80.932",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Measures should be taken, as recommended by NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.932,
+     7.05308
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "527B",
+    "GN Division": "Morahela",
+    "Landslides": "3. Road erosion ",
+    "Location_Detail": "Exact",
+    "N": "7.04353",
+    "E": "80.9336",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Construction of 1000 m long 300 mm x 300 mm (width x height) Rectangular Con. canal. Wall thickness 125 mm",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9336,
+     7.04353
+    ]
+   }
+  }
+ ]
+}

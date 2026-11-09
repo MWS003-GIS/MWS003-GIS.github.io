@@ -1,1167 +1,1288 @@
 {
-  "type": "FeatureCollection",
-  "name": "MI",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
+ "type": "FeatureCollection",
+ "name": "MI",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "508 D",
+    "Scheme": "Makule canal",
+    "Location_Detail": "Exact",
+    "N": "7.074829",
+    "E": "80.799249",
+    "Observation": "•Water overflows from the canal and the capacity of the canal is insufficient.",
+    "Description": "Canals reservation protection by concrete lining for 100mm thick, 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with ecofriendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1161794",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.799249,
+     7.074829
+    ]
+   }
   },
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 1,
-        "GND No.": "508 D",
-        "Scheme": "Makule canal",
-        "N": 7.074829,
-        "E": 80.799249,
-        "Observe problems": "Water overflows from the canal and the capacity of the canal is insufficient.",
-        "Description": "Canal reservatio protectio b concret linin fo 100m thick 0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit ecofriendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "893,688",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/AM4.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.799249,
-          7.074829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 2,
-        "GND No.": "508 D",
-        "Scheme": "Diya Molliya canal",
-        "N": 7.076044,
-        "E": 80.793127,
-        "Observe problems": "Erosion of part of the canal. (L- 20m)",
-        "Description": "Constructio o 1:3: ( 1/2\" c concret retainin wal (heigh 0.9m to widt 0.15m 0.45 hig step  02 eac o 0.15 ste widt  botto widt 0.45m)\nVegetativ cove improving replantin bambo specie an vetive gras o riparia specie a 500m gri interva includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "185,400",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/AM2.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.793127,
-          7.076044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 3,
-        "GND No.": "508 D",
-        "Scheme": "Diyamulla canal",
-        "N": 7.071026,
-        "E": 80.793355,
-        "Observe problems": "Seepages towards the field side. (L- 10m)",
-        "Description": "Canal reservatio protectio b concret linin Fo 125m thic  0.4 wid an 0.5 hig cana -singl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "71,327",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.793355,
-          7.071026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 4,
-        "GND No.": "508 D",
-        "Scheme": "Vishara Kumbura canal",
-        "N": 7.073834,
-        "E": 80.795405,
-        "Observe problems": "Seepages towards the field side and erosion of the field side.",
-        "Description": "Constructio o 1:3: ( 1/2\" c concret retainin wal (heigh 1.2m to widt 0.15m 0.60 hig step  02 eac o 0.15 ste widt  botto widt 0.45m)\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improving replantin bambo specie an vetive gras o riparia specie a 500m gri interva includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "62,090",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.795405,
-          7.073834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 5,
-        "GND No.": "508 D",
-        "Scheme": "Katukithula Vishara Kumbura canal",
-        "N": 7.074048,
-        "E": 80.794832,
-        "Observe problems": "Erosion of the canal.",
-        "Description": "Canal reservatio protectio b concret linin Fo 125m thick 0.5 wid an 0.4 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance\n2.5 lon cana ove crossin wit 0.30 Di RC Hum Pipe (fo cana be elevate 0.6 fro th strea bed)\nVegetativ cove improvin wit Arec nu seedlin  1.5 spacin i  singl row Kumbuk Mee Godapara Kaduru Aththikka Wa Del Kekuna randoml mixe seedling an dens plantin a 500m gri interval applyin o compos manure NP fertilizer mulchin wit straw banan tre ski an maintenance",
-        "Amount (Rs.)": "1,635,012",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.794832,
-          7.074048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 7,
-        "GND No.": "508 D",
-        "Scheme": "Hinatiwela canal",
-        "N": 7.0767932,
-        "E": 80.794812,
-        "Observe problems": "Water cannot be distributed properly due to canal erosion at field side.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thick 0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit ecofriendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "847,800",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.794812,
-          7.0767932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 9,
-        "GND No.": "508 D",
-        "Scheme": "Thenne Amuna Palle Pihilla canal",
-        "N": 7.07794,
-        "E": 80.795859,
-        "Observe problems": "Bank erosion of the canal. (L- 20m)",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "1,225,813",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.795859,
-          7.07794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 10,
-        "GND No.": "508 D",
-        "Scheme": "Palle Pihilla Pahala canal",
-        "N": 7.07778,
-        "E": 80.796022,
-        "Observe problems": "Erosion of the canal.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "59,172",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.796022,
-          7.07778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 11,
-        "GND No.": "508 D",
-        "Scheme": "Palle Pihilla canal",
-        "N": 7.077321,
-        "E": 80.796022,
-        "Observe problems": "Seepages towards the field side.",
-        "Description": "Cana reservatio protectio b concret linin Fo 100m thick 0.4 wid an 0.3 hig cana -singl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "810,037",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.796022,
-          7.077321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 12,
-        "GND No.": "508 E",
-        "Scheme": "Alakola Wewa",
-        "N": 7.066876,
-        "E": 80.797782,
-        "Observe problems": "The allocated reservation is insufficient for the lake.\nThe lake is silted.",
-        "Description": "Vegetativ cove improvin wit Arec nu seedlin  1.5 spacin i  singl row Kumbuk Mee Godapara Kaduru Aththikka Wa Del Kekuna randoml mixe seedling an dens plantin a 500m gri interval applyin o compos manure NP fertilizer mulchin wit straw banan tre ski an maintenance\nVegetativ cove improving replantin bambo specie an vetive gras o riparia specie a 500m gri interva includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "669,000",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.797782,
-          7.066876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 13,
-        "GND No.": "508 E",
-        "Scheme": "Baidampitiya canal",
-        "N": 7.067528,
-        "E": 80.797583,
-        "Observe problems": "Erosion of the nearby lands due to the canal. (L- 2km)",
-        "Description": "Strea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "1,387,750",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/DK8.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.797583,
-          7.067528
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 14,
-        "GND No.": "508 A",
-        "Scheme": "Hapuarawa canal",
-        "N": 7.072287,
-        "E": 80.798842,
-        "Observe problems": "Water cannot be distributed properly. (L- 1km)",
-        "Description": "Cana reservatio protectio b concret linin Fo 100m thic  0.4 wid an 0.3 hig cana -singl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "203,837",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/DK9.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.798842,
-          7.072287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 15,
-        "GND No.": "508 A",
-        "Scheme": "Piyerapana canal",
-        "N": 7.071849,
-        "E": 80.798939,
-        "Observe problems": "Seepages towards the field side. (L- 1km)",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "1,197,412",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/DK7.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.798939,
-          7.071849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 16,
-        "GND No.": "508 A",
-        "Scheme": "Amunumulla canal",
-        "N": 7.070782,
-        "E": 80.799442,
-        "Observe problems": "Distribute water to the other canals by blocking this canal (1km)",
-        "Description": "Canal reservatio protectio b concret linin Fo 125m thick 0.5 wid an 0.4 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "1,330,385",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/DK7 (2).jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.799442,
-          7.070782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 17,
-        "GND No.": "508 A",
-        "Scheme": "Damunu Arawa canal",
-        "N": 7.072493,
-        "E": 80.799994,
-        "Observe problems": "Seepages towards the field side.",
-        "Description": "Constructio o curtai wal (0.075m thk wit 1:2: (3/4\" concrete 1/2 dowel a 600m  600m interval an embedde wit chicke mesh\n1/2 th 1: cemen mota plasterin t preven leakage i lining\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "215,156",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/DK5.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.799994,
-          7.072493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 18,
-        "GND No.": "508 A",
-        "Scheme": "Deniye Kumbura canal",
-        "N": 7.073637,
-        "E": 80.8003371,
-        "Observe problems": "Water overflows towards field side. ????? ??? ?????",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "257,837",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/DK3.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.8003371,
-          7.073637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 19,
-        "GND No.": "508 B",
-        "Scheme": "Oluwawatta canal",
-        "N": 7.05735,
-        "E": 80.821672,
-        "Observe problems": "Water overflows from the canal and flooding into the houses. Additionally, seepages from the canal.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "607,450",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.821672,
-          7.05735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 20,
-        "GND No.": "512 C",
-        "Scheme": "Paththakara Meda canal",
-        "N": 7.052718,
-        "E": 80.789956,
-        "Observe problems": "Distribute water through a pipeline. (L- 200m)",
-        "Description": "Layin an joinin 12 di  24 di Concret pipes\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nConstructio o 1:3: ( 1/2\" c concret retainin wal (heigh 0.9m to widt 0.15m 0.45 hig step  02 eac o 0.15 ste widt  botto widt 0.45m)\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "252,175",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW12.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.789956,
-          7.052718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 21,
-        "GND No.": "512 C",
-        "Scheme": "Bangala Kadura field canal",
-        "N": 7.05305,
-        "E": 80.788615,
-        "Observe problems": "Seepages towards the field side. (L- 500m)",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "1,420,275",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW5.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.788615,
-          7.05305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 22,
-        "GND No.": "512 C",
-        "Scheme": "Wellagiri Colony lake",
-        "N": 7.051512,
-        "E": 80.785791,
-        "Observe problems": "Absence of a reservation.\nThe lake is silted.\nWater is contaminated.\nSeepages from the tank bund.",
-        "Description": "Vegetativ cove improvin wit Arec nu seedlin  1.5 spacin i  singl row Kumbuk Mee Godapara Kaduru Aththikka Wa Del Kekuna randoml mixe seedling an dens plantin a 500m gri interval applyin o compos manure NP fertilizer mulchin wit straw banan tre ski an maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "76,900",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW1.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.785791,
-          7.051512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 23,
-        "GND No.": "512 C",
-        "Scheme": "Field canal of Wellagiri lake",
-        "N": 7.051922,
-        "E": 80.785901,
-        "Observe problems": "Water cannot distributed properly. (L- 210m)",
-        "Description": "Constructio o leade drai acros stream -1m(W)x1m(H)\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "424,550",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/GW13.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.785901,
-          7.051922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 24,
-        "GND No.": "508",
-        "Scheme": "Godaliyadda canal",
-        "N": 7.070992,
-        "E": 80.806868,
-        "Observe problems": "Seepages towards the field side.",
-        "Description": "Constructio o curtai wal (0.075m thk wit 1:2: (3/4\" concrete 1/2 dowel a 600m  600m interval an embedde wit chicke mesh\n1/2 th 1: cemen mota plasterin t preven leakage i lining\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "523,290",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K9.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.806868,
-          7.070992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 25,
-        "GND No.": "508",
-        "Scheme": "Yakkawane anicut",
-        "N": 7.070177,
-        "E": 80.807555,
-        "Observe problems": "The anicut is a temporary anicut.",
-        "Description": "Demolishin existin structure\nConstructio o 4.0 lon  0.9 heigh anicu wit 0 no  0.9 widt openings supplyin o 3 thic C  timbe plank fo eac opening supplyin an fixin o 9 Di C gat inclusiv o al arrangement (A i MW 011/Anicuts/57)",
-        "Amount (Rs.)": "225,000",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K6.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.807555,
-          7.070177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 26,
-        "GND No.": "508",
-        "Scheme": "Yakkawane canal",
-        "N": 7.070177,
-        "E": 80.807555,
-        "Observe problems": "Water cannot be distributed properly.",
-        "Description": "Cana reservatio protectio b concret linin Fo 100m thic  0.4 wid an 0.3 hig cana -singl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "677,688",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/K7.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.807555,
-          7.070177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 27,
-        "GND No.": "512 E",
-        "Scheme": "Aloka Bedda ",
-        "N": 7.057468,
-        "E": 80.77798,
-        "Observe problems": "Seepages towards the field side.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "378,012",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.77798,
-          7.057468
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 28,
-        "GND No.": "512 E",
-        "Scheme": "Mahawela sub field canal",
-        "N": 7.057775,
-        "E": 80.778037,
-        "Observe problems": "The capacity of the canal is insufficient.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "378,012",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.778037,
-          7.057775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 29,
-        "GND No.": "512 E",
-        "Scheme": null,
-        "N": 7.05854,
-        "E": 80.771538,
-        "Observe problems": "Seepages from the canal and the capacity of the canal is insufficient.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "234,894",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.771538,
-          7.05854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 30,
-        "GND No.": "512 E",
-        "Scheme": "Wahala Wela middle canal",
-        "N": 7.059424,
-        "E": 80.778649,
-        "Observe problems": "The capacity of the canal is insufficient.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "939,575",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.778649,
-          7.059424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 32,
-        "GND No.": "512 E",
-        "Scheme": "Hapugaha Pathana canal",
-        "N": 7.059982,
-        "E": 80.77918,
-        "Observe problems": "Seepages from the canal and the capacity of the canal is insufficient.",
-        "Description": "Canal reservatio protectio b concret linin Fo 125m thic  0.5 wid an 0.4 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "873,581",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.77918,
-          7.059982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 33,
-        "GND No.": "512 E",
-        "Scheme": "Hapugaha Pathana canal",
-        "N": 7.060803,
-        "E": 80.779122,
-        "Observe problems": "Water cannot be distributed properly, seepages occur, and the side walls of the canal are eroded.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "756,025",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.779122,
-          7.060803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 35,
-        "GND No.": "509",
-        "Scheme": "Daranda Arawa canal",
-        "N": 7.079097,
-        "E": 80.800269,
-        "Observe problems": "Water overflows from the canal and the capacity of the canal is insufficient. Seepages occur towards the field side.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "201,125",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.800269,
-          7.079097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 36,
-        "GND No.": "509",
-        "Scheme": "Attana Kumbura middle canal",
-        "N": 7.077334,
-        "E": 80.801392,
-        "Observe problems": "Seepages towards the field side and flooding into paddy fields.",
-        "Description": "Canal reservatio protectio b concret linin Fo 125m thic  0.4 wid an 0.5 hig cana -singl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "713,275",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.801392,
-          7.077334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 37,
-        "GND No.": "509",
-        "Scheme": "Daranda Arawa canal",
-        "N": 7.072754,
-        "E": 80.802379,
-        "Observe problems": "Erosion of part of the canal. (L- 30m)",
-        "Description": "Constructio o 0.3 Di hal roun RC pip troug wit averag heigh o 0.6  0.9 elevate troug be leve fro EGL pier i 2.44 intervals includin U  D basin (fo troug lengt  10.0m)\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "771,775",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.802379,
-          7.072754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 38,
-        "GND No.": "509",
-        "Scheme": "Daranda Arawa canal",
-        "N": 7.072754,
-        "E": 80.802374,
-        "Observe problems": "Erosion of part of the canal. (L- 20m)",
-        "Description": "Layin an joinin 6 di  9 di Concret pipes\nConstructio o 1:3: ( 1/2\" c concret retainin wal (heigh 0.9m to widt 0.15m 0.45 hig step  02 eac o 0.15 ste widt  botto widt 0.45m)\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "59,960",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.802374,
-          7.072754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 39,
-        "GND No.": "509 A",
-        "Scheme": "No. 5 lake",
-        "N": 7.065734,
-        "E": 80.818628,
-        "Observe problems": "The tank is silted. Water cannot be stored.\nAbsence of a reservation.",
-        "Description": "Removin sil fro cana be dept u t 9\"-18\"\nCanal reservatio protectio b concret linin Fo 125m thic  0.4 wid an 0.5 hig cana -singl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance\nVegetativ cove improvin wit Arec nu seedlin  1.5 spacin i  singl row Kumbuk Mee Godapara Kaduru Aththikka Wa Del Kekuna randoml mixe seedling an dens plantin a 500m gri interval applyin o compos manure NP fertilizer mulchin wit straw banan tre ski an maintenance",
-        "Amount (Rs.)": "491,400",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.818628,
-          7.065734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 40,
-        "GND No.": "509 A",
-        "Scheme": "Canal of Kurundu Oya",
-        "N": 7.06849,
-        "E": 80.812038,
-        "Observe problems": "Bank erosion of part of the canal. (L- 500m)",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "756,025",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/MG6.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.812038,
-          7.06849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 41,
-        "GND No.": "512 A",
-        "Scheme": "Udakanda canal",
-        "N": 7.066039,
-        "E": 80.783329,
-        "Observe problems": "Erosion and seepages towards the field side.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "423,900",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/M (02)1.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.783329,
-          7.066039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 42,
-        "GND No.": "508 C",
-        "Scheme": "Pitapela canal",
-        "N": 7.069382,
-        "E": 80.80492,
-        "Observe problems": "Water cannot be distributed properly, the canal is silted. (L- 1000m)",
-        "Description": "Removin sil fro cana be dept u t 9 an cana clearin \nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "103,383",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU21.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.80492,
-          7.069382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 43,
-        "GND No.": "508 C",
-        "Scheme": "Aswedduma canal",
-        "N": 7.067579,
-        "E": 80.805039,
-        "Observe problems": "Bank erosion of the canal.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\n5.0 lon cana ove crossin wit 0.30 Di RC Hum Pipe (fo cana be elevate 0.6 fro th strea bed)\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "468,012",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU1.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.805039,
-          7.067579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 44,
-        "GND No.": "508 C",
-        "Scheme": "Amunupura canal",
-        "N": 7.066809,
-        "E": 80.804725,
-        "Observe problems": "Seepages towards the field side.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit ecofriendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "801,913",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU2.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.804725,
-          7.066809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 45,
-        "GND No.": "508 C",
-        "Scheme": "Kehelgasthenna canal",
-        "N": 7.065846,
-        "E": 80.804018,
-        "Observe problems": "Bank erosion of the canal. (L- 300m)",
-        "Description": "Constructio o leade drai acros stream -1m(W)x1m(H)\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "191,775",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU18.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.804018,
-          7.065846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 46,
-        "GND No.": "508 C",
-        "Scheme": "Unagahathella canal",
-        "N": 7.070682,
-        "E": 80.804777,
-        "Observe problems": "Erosion of part of the canal. (L- 10m)",
-        "Description": "Layin an joinin 12 di  24 di Concret pipes\nConstructio o 1:3: ( 1/2\" c concret retainin wal (heigh 0.9m to widt 0.15m 0.45 hig step  02 eac o 0.15 ste widt  botto widt 0.45m)\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "93,428",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU17.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.804777,
-          7.070682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 47,
-        "GND No.": "508 C",
-        "Scheme": "Pallewatta anicut",
-        "N": 7.067752,
-        "E": 80.803329,
-        "Observe problems": "Seepages from the anicut.",
-        "Description": "Constructio o curtai wal (0.075m thk wit 1:2: (3/4\" concrete 1/2 dowel a 600m  600m interval an embedde wit chicke mesh\nMino repair t th structure\nVegetativ cove improvin wit Arec nu seedlin  1.5 spacin i  singl row Kumbuk Mee Godapara Kaduru Aththikka Wa Del Kekuna randoml mixe seedling an dens plantin a 500m gri interval applyin o compos manure NP fertilizer mulchin wit straw banan tre ski an maintenance",
-        "Amount (Rs.)": "103,400",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU14 (10).jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.803329,
-          7.067752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 48,
-        "GND No.": "508 C",
-        "Scheme": "Pallewatta anicut",
-        "N": 7.067752,
-        "E": 80.803329,
-        "Observe problems": "Seepages towards the field side.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "349,612",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU14 (10).jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.803329,
-          7.067752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 49,
-        "GND No.": "508 C",
-        "Scheme": "Udagama middle canal",
-        "N": 7.068712,
-        "E": 80.803668,
-        "Observe problems": "Erosion of part of the canal at the field side. (L- 30m)",
-        "Description": "Cana reservatio protectio b concret linin Fo 100m thic  0.4 wid an 0.3 hig cana -singl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "112,594",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU19.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.803668,
-          7.068712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 50,
-        "GND No.": "508 C",
-        "Scheme": "Udagama middle canal",
-        "N": 7.069951,
-        "E": 80.803729,
-        "Observe problems": "Bank erosion of the canal.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "234,894",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU9.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.803729,
-          7.069951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 51,
-        "GND No.": "508 C",
-        "Scheme": "Panduliyadda canal",
-        "N": 7.069423,
-        "E": 80.804199,
-        "Observe problems": "Seepages towards the field side.",
-        "Description": "Cana reservatio protectio b concret linin Fo 100m thic  0.4 wid an 0.3 hig cana -singl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "499,450",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/KU12.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.804199,
-          7.069423
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 52,
-        "GND No.": "512",
-        "Scheme": "Heenatiwela Canal",
-        "N": 7.076001,
-        "E": 80.790928,
-        "Observe problems": "The canal is dilapidated and seepages occur (L- 1km) towards the field side.",
-        "Description": "Canal reservatio protectio b concret linin Fo 125m thic  0.4 wid an 0.5 hig cana -singl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit ecofriendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "1,931,313",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/V (04)5.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.790928,
-          7.076001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 53,
-        "GND No.": "512",
-        "Scheme": "Canal flows to Lunugala Digaredda (?????? ??? ?????? ?? ??)",
-        "N": 7.075784,
-        "E": 80.790494,
-        "Observe problems": "The capacity of the canal is insufficient to distribute water.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "791,000",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/V (04)1.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.790494,
-          7.075784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 54,
-        "GND No.": "512",
-        "Scheme": "Canal flows to Digaredda Kotumulla",
-        "N": 7.075784,
-        "E": 80.790494,
-        "Observe problems": "The capacity of the canal is insufficient to distribute water.",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "791,000",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/V (04)4.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.790494,
-          7.075784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 55,
-        "GND No.": "512",
-        "Scheme": "Maha Ela",
-        "N": 7.07286,
-        "E": 80.789998,
-        "Observe problems": "Erosion of the canal. (60?)",
-        "Description": "Canal reservatio protectio b concret linin Fo 125m thic  0.5 wid an 0.4 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "2,604,875",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/V (04)2.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.789998,
-          7.07286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 56,
-        "GND No.": "512",
-        "Scheme": "Naaya Ela of Viharakumbura Ihala",
-        "N": 7.072157,
-        "E": 80.790728,
-        "Observe problems": "The canal is blocked due to silting. (400m)",
-        "Description": "Removin sil fro cana be dept u t 9\"-18\"\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "112,565",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/V (05)3.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.790728,
-          7.072157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 57,
-        "GND No.": "512 F",
-        "Scheme": "Wewathenna lake",
-        "N": 7.063368,
-        "E": 80.790636,
-        "Observe problems": "Absence of a reservation.",
-        "Description": "Desiltin channel b P 2 o 3 Excavato i  loos soi withou pontoo cuttin dept 300mm\nVegetativ cove improvin wit Arec nu seedlin  1.5 spacin i  singl row Kumbuk Mee Godapara Kaduru Aththikka Wa Del Kekuna randoml mixe seedling an dens plantin a 500m gri interval applyin o compos manure NP fertilizer mulchin wit straw banan tre ski an maintenance\nVegetativ cove improving replantin bambo specie an vetive gras o riparia specie a 500m gri interva includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "159,600",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/WW1 (2).jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.790636,
-          7.063368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 58,
-        "GND No.": "512 F",
-        "Scheme": "Wewathenna field canal",
-        "N": 7.060481,
-        "E": 80.791936,
-        "Observe problems": "Water cannot be distributed properly. (L- 3000ft)",
-        "Description": "Canal reservatio protectio b concret linin Fo 125m thic  0.5 wid an 0.4 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "2,160,150",
-        "photopath": "Not_Available"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.791936,
-          7.060481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "No": 59,
-        "GND No.": "508B",
-        "Scheme": "Oluwawatta Stream",
-        "N": 7.05735,
-        "E": 80.821672,
-        "Observe problems": "Houses get affected by the flood, Water leaking",
-        "Description": "Canal reservatio protectio b concret linin Fo 100m thic  0.3 wid an 0.3 hig cana -doubl banking\nStrea  cana reservatio protectio b eart fillin o stri o 1.5 t 2 wid an averag Dept o 0.5m Turfin t ne slopin soi surfac (DA  01 o plantin singl ro o vetive gras wit eco-friendl edibl plant lik Gotukola Mukunuwenna Thampal et includin applicatio o compos manur an 0 month maintenance\nVegetativ cove improvin (1.5m-2.0 wide wit Arec nu seedling  1.5 spacin i tw rows Beetl creepe V  3 spacin i  singl row Gree gra a  cove cro includin applyin o compos manure NP fertilize an maintenance",
-        "Amount (Rs.)": "607,450",
-        "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_017/WW12.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.821672,
-          7.05735
-        ]
-      }
-    }
-  ]
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "508 D",
+    "Scheme": "Diya Molliya canal",
+    "Location_Detail": "Exact",
+    "N": "7.076044",
+    "E": "80.793127",
+    "Observation": "•Erosion of part of the canal. (L- 20m)",
+    "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 0.9m, top width 0.15m, 0.45m high steps x 02, each of 0.15m step width & bottom width 0.45m)\n\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "241020",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.793127,
+     7.076044
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "508 D",
+    "Scheme": "Diyamulla canal",
+    "Location_Detail": "Exact",
+    "N": "7.071026",
+    "E": "80.793355",
+    "Observation": "•Seepages towards the field side. (L- 10m)",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick , 0.4m wide and 0.5m high canal -single banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "92725",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.793355,
+     7.071026
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "508 D",
+    "Scheme": "Vishara Kumbura canal",
+    "Location_Detail": "Exact",
+    "N": "7.073834",
+    "E": "80.795405",
+    "Observation": "•Seepages towards the field side and erosion of the field side.",
+    "Description": "Construction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 1.2m, top width 0.15m, 0.60m high steps x 02, each of 0.15m step width & bottom width 0.45m)\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "80717",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.795405,
+     7.073834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "508 D",
+    "Scheme": "Katukithula Vishara Kumbura canal",
+    "Location_Detail": "Exact",
+    "N": "7.074048",
+    "E": "80.794832",
+    "Observation": "•Erosion of the canal.",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick, 0.5m wide and 0.4m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance\n\n2.5m long canal over crossing with 0.30m Dia RCC Hume Pipes (for canal bed elevated 0.6m from the stream bed)\n\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "2125516",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.794832,
+     7.074048
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "508 D",
+    "Scheme": "Walabode canal",
+    "Location_Detail": "Approximation",
+    "N": "7.072971763",
+    "E": "80.79551723",
+    "Observation": "•Seepages towards the field side. (L- 1km)",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick, 0.4m wide and 0.5m high canal -single banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1523795",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79551723,
+     7.072971763
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "508 D",
+    "Scheme": "Hinatiwela canal",
+    "Location_Detail": "Exact",
+    "N": "7.0767932",
+    "E": "80.794812",
+    "Observation": "•Water cannot be distributed properly due to canal erosion at field side.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick, 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with ecofriendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1102140",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.794812,
+     7.0767932
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "8",
+    "GND No.": "508 D",
+    "Scheme": "Palle Pihilla canal",
+    "Location_Detail": "Approximation",
+    "N": "7.072971763",
+    "E": "80.79551723",
+    "Observation": "•Seepages towards the field side and the capacity of the canal is insufficient.",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick, 0.5m wide and 0.4m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1752823",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79551723,
+     7.072971763
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "9",
+    "GND No.": "508 D",
+    "Scheme": "Thenne Amuna Palle Pihilla canal",
+    "Location_Detail": "Exact",
+    "N": "7.07794",
+    "E": "80.795859",
+    "Observation": "•Bank erosion of the canal. (L- 20m)",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1593557",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.795859,
+     7.07794
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "10",
+    "GND No.": "508 D",
+    "Scheme": "Palle Pihilla Pahala canal",
+    "Location_Detail": "Exact",
+    "N": "7.07778",
+    "E": "80.796022",
+    "Observation": "•Erosion of the canal.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "76924",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.796022,
+     7.07778
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "11",
+    "GND No.": "508 D",
+    "Scheme": "Palle Pihilla canal",
+    "Location_Detail": "Exact",
+    "N": "7.077321",
+    "E": "80.796022",
+    "Observation": "•Seepages towards the field side.",
+    "Description": "Canal reservation protection by concrete lining For 100mm thick, 0.4m wide and 0.3m high canal -single banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1053048",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.796022,
+     7.077321
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "12",
+    "GND No.": "508 E",
+    "Scheme": "Alakola Wewa",
+    "Location_Detail": "Exact",
+    "N": "7.066876",
+    "E": "80.797782",
+    "Observation": "•The allocated reservation is insufficient for the lake.•The lake is silted.",
+    "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\n\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "869700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.797782,
+     7.066876
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "13",
+    "GND No.": "508 E",
+    "Scheme": "Baidampitiya canal",
+    "Location_Detail": "Exact",
+    "N": "7.067528",
+    "E": "80.797583",
+    "Observation": "•Erosion of the nearby lands due to the canal. (L- 2km)",
+    "Description": "Stream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1804075",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.797583,
+     7.067528
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "14",
+    "GND No.": "508 A",
+    "Scheme": "Hapuarawa canal",
+    "Location_Detail": "Exact",
+    "N": "7.072287",
+    "E": "80.798842",
+    "Observation": "•Water cannot be distributed properly. (L- 1km)",
+    "Description": "Canal reservation protection by concrete lining For 100mm thick , 0.4m wide and 0.3m high canal -single banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "264988",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.798842,
+     7.072287
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "15",
+    "GND No.": "508 A",
+    "Scheme": "Piyerapana canal",
+    "Location_Detail": "Exact",
+    "N": "7.071849",
+    "E": "80.798939",
+    "Observation": "•Seepages towards the field side. (L- 1km)",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1556636",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.798939,
+     7.071849
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "16",
+    "GND No.": "508 A",
+    "Scheme": "Amunumulla canal",
+    "Location_Detail": "Exact",
+    "N": "7.070782",
+    "E": "80.799442",
+    "Observation": "•Distribute water to the other canals by blocking this canal (1km)",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick, 0.5m wide and 0.4m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1729501",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.799442,
+     7.070782
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "17",
+    "GND No.": "508 A",
+    "Scheme": "Damunu Arawa canal",
+    "Location_Detail": "Exact",
+    "N": "7.072493",
+    "E": "80.799994",
+    "Observation": "•Seepages towards the field side.",
+    "Description": "Construction of curtain wall (0.075mm thk) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\n\n1/2\" thk 1:3 cement motar plastering to prevent leakages in lining\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "279703",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.799994,
+     7.072493
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "18",
+    "GND No.": "508 A",
+    "Scheme": "Deniye Kumbura canal",
+    "Location_Detail": "Exact",
+    "N": "7.073637",
+    "E": "80.8003371",
+    "Observation": "•Water overflows towards field side. ඇලෙහි ජලය ගැසීම",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "335188",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8003371,
+     7.073637
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "19",
+    "GND No.": "508 B",
+    "Scheme": "Oluwawatta canal",
+    "Location_Detail": "Exact",
+    "N": "7.05735",
+    "E": "80.821672",
+    "Observation": "•Water overflows from the canal and flooding into the houses. Additionally, seepages from the canal.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "789685",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.821672,
+     7.05735
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "20",
+    "GND No.": "512 C",
+    "Scheme": "Paththakara Meda canal",
+    "Location_Detail": "Exact",
+    "N": "7.052718",
+    "E": "80.789956",
+    "Observation": "•Distribute water through a pipeline. (L- 200m)",
+    "Description": "Laying and joining 12\" dia - 24\" dia Concrete pipes\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nConstruction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 0.9m, top width 0.15m, 0.45m high steps x 02, each of 0.15m step width & bottom width 0.45m)\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "327828",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.789956,
+     7.052718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "21",
+    "GND No.": "512 C",
+    "Scheme": "Bangala Kadura field canal",
+    "Location_Detail": "Exact",
+    "N": "7.05305",
+    "E": "80.788615",
+    "Observation": "•Seepages towards the field side. (L- 500m)",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1846358",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.788615,
+     7.05305
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "22",
+    "GND No.": "512 C",
+    "Scheme": "Wellagiri Colony lake",
+    "Location_Detail": "Exact",
+    "N": "7.051512",
+    "E": "80.785791",
+    "Observation": "•Absence of a reservation.•The lake is silted.•Water is contaminated.•Seepages from the tank bund.",
+    "Description": "Vegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "99970",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.785791,
+     7.051512
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "23",
+    "GND No.": "512 C",
+    "Scheme": "Field canal of Wellagiri lake",
+    "Location_Detail": "Exact",
+    "N": "7.051922",
+    "E": "80.785901",
+    "Observation": "•Water cannot distribute properly. (L- 210m)",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "551915",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.785901,
+     7.051922
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "24",
+    "GND No.": "508",
+    "Scheme": "Godaliyadda canal",
+    "Location_Detail": "Exact",
+    "N": "7.070992",
+    "E": "80.806868",
+    "Observation": "•Seepages towards the field side.",
+    "Description": "Construction of curtain wall (0.075mm thk) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\n\n1/2\" thk 1:3 cement mortar plastering to prevent leakages in lining\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "680277",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.806868,
+     7.070992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "25",
+    "GND No.": "508",
+    "Scheme": "Yakkawane anicut",
+    "Location_Detail": "Exact",
+    "N": "7.070177",
+    "E": "80.807555",
+    "Observation": "•The anicut is a temporary anicut.",
+    "Description": "Demolishing existing structure\n\nConstruction of 4.0m long x 0.9m height anicut with 02 nos x 0.9m width openings, supplying of 3\" thick CL I timber planks for each opening, supplying and fixing of 9\" Dia CI gate inclusive of all arrangements (As in MWS 011/Anicuts/57)",
+    "Amount (Rs.)": "292500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.807555,
+     7.070177
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "27",
+    "GND No.": "512 E",
+    "Scheme": "Aloka Bedda අලෝක බැද්ද පහල සිට ඇති පිට ඇල",
+    "Location_Detail": "Exact",
+    "N": "7.057468",
+    "E": "80.77798",
+    "Observation": "•Seepages towards the field side.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "491416",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77798,
+     7.057468
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "28",
+    "GND No.": "512 E",
+    "Scheme": "Mahawela sub field canal",
+    "Location_Detail": "Exact",
+    "N": "7.057775",
+    "E": "80.778037",
+    "Observation": "•The capacity of the canal is insufficient.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "491416",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.778037,
+     7.057775
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "29",
+    "GND No.": "512 E",
+    "Scheme": "බෙලිගල් පිට ඇල",
+    "Location_Detail": "Exact",
+    "N": "7.05854",
+    "E": "80.771538",
+    "Observation": "•Seepages from the canal and the capacity of the canal is insufficient.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "305362",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.771538,
+     7.05854
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "30",
+    "GND No.": "512 E",
+    "Scheme": "Wahala Wela middle canal",
+    "Location_Detail": "Exact",
+    "N": "7.059424",
+    "E": "80.778649",
+    "Observation": "•The capacity of the canal is insufficient.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1221448",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.778649,
+     7.059424
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "31",
+    "GND No.": "512 E",
+    "Scheme": "Wahala Wela Unagahathenna canal",
+    "Location_Detail": "Approximation",
+    "N": "7.059022314",
+    "E": "80.78164795",
+    "Observation": "•Seepages from the canal and bank erosion.",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick , 0.5m wide and 0.4m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with ecofriendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1991438",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78164795,
+     7.059022314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "32",
+    "GND No.": "512 E",
+    "Scheme": "Hapugaha Pathana canal",
+    "Location_Detail": "Exact",
+    "N": "7.059982",
+    "E": "80.77918",
+    "Observation": "•Seepages from the canal and the capacity of the canal is insufficient.",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick , 0.5m wide and 0.4m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1135655",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77918,
+     7.059982
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "33",
+    "GND No.": "512 E",
+    "Scheme": "Hapugaha Pathana canal",
+    "Location_Detail": "Exact",
+    "N": "7.060803",
+    "E": "80.779122",
+    "Observation": "•Water cannot be distributed properly, seepages occur, and the side walls of the canal are eroded.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "982833",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.779122,
+     7.060803
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "34",
+    "GND No.": "512 E",
+    "Scheme": "Goraketihena canal",
+    "Location_Detail": "Approximation",
+    "N": "7.059022314",
+    "E": "80.78164795",
+    "Observation": "•Water cannot be distributed properly and seepages occur from the canal.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1102140",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78164795,
+     7.059022314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "35",
+    "GND No.": "509",
+    "Scheme": "Daranda Arawa canal",
+    "Location_Detail": "Exact",
+    "N": "7.079097",
+    "E": "80.800269",
+    "Observation": "•Water overflows from the canal and the capacity of the canal is insufficient. Seepages occur towards the field side.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "261463",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.800269,
+     7.079097
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "36",
+    "GND No.": "509",
+    "Scheme": "Attana Kumbura middle canal",
+    "Location_Detail": "Exact",
+    "N": "7.077334",
+    "E": "80.801392",
+    "Observation": "•Seepages towards the field side and flooding into paddy fields.",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick , 0.4m wide and 0.5m high canal -single banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "927258",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.801392,
+     7.077334
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "37",
+    "GND No.": "509",
+    "Scheme": "Daranda Arawa canal",
+    "Location_Detail": "Exact",
+    "N": "7.072754",
+    "E": "80.802379",
+    "Observation": "•Erosion of part of the canal. (L- 30m)",
+    "Description": "Construction of 0.3m Dia half round RCC pipe trough with average height of 0.6m - 0.9m elevated trough bed level from EGL, piers in 2.44m intervals, including US & DS basins (for trough length > 10.0m)\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1003308",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.802379,
+     7.072754
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "38",
+    "GND No.": "509",
+    "Scheme": "Daranda Arawa canal",
+    "Location_Detail": "Exact",
+    "N": "7.072754",
+    "E": "80.802374",
+    "Observation": "•Erosion of part of the canal. (L- 20m)",
+    "Description": "Laying and joining 6\" dia - 9\" dia Concrete pipes\n\nConstruction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 0.9m, top width 0.15m, 0.45m high steps x 02, each of 0.15m step width & bottom width 0.45m)\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "77948",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.802374,
+     7.072754
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "39",
+    "GND No.": "509 A",
+    "Scheme": "No. 5 lake",
+    "Location_Detail": "Exact",
+    "N": "7.065734",
+    "E": "80.818628",
+    "Observation": "•The tank is silted. Water cannot be stored.•Absence of a reservation.",
+    "Description": "Removing silt from canal bed depth up to 9\"-18\"\n\nCanals reservation protection by concrete lining For 125mm thick , 0.4m wide and 0.5m high canal -single banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance\n\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "638820",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.818628,
+     7.065734
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "40",
+    "GND No.": "509 A",
+    "Scheme": "Canal of Kurundu Oya",
+    "Location_Detail": "Exact",
+    "N": "7.06849",
+    "E": "80.812038",
+    "Observation": "•Bank erosion of part of the canal. (L- 500m)",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "982833",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.812038,
+     7.06849
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "41",
+    "GND No.": "512 A",
+    "Scheme": "Udakanda canal",
+    "Location_Detail": "Approximation",
+    "N": "7.068757856",
+    "E": "80.78979879",
+    "Observation": "•Erosion and seepages towards the field side.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "551070",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78979879,
+     7.068757856
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "42",
+    "GND No.": "508 C",
+    "Scheme": "Pitapela canal",
+    "Location_Detail": "Exact",
+    "N": "7.069382",
+    "E": "80.80492",
+    "Observation": "•Water cannot be distributed properly, the canal is silted. (L- 1000m)",
+    "Description": "Removing silt from canal bed depth up to 9\" and canal clearing\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "134398",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.80492,
+     7.069382
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "43",
+    "GND No.": "508 C",
+    "Scheme": "Aswedduma canal",
+    "Location_Detail": "Exact",
+    "N": "7.067579",
+    "E": "80.805039",
+    "Observation": "•Bank erosion of the canal.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\n5.0m long canal over crossing with 0.30m Dia RCC Hume Pipes (for canal bed elevated 0.6m from the stream bed)\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "608416",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.805039,
+     7.067579
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "44",
+    "GND No.": "508 C",
+    "Scheme": "Amunupura canal",
+    "Location_Detail": "Exact",
+    "N": "7.066809",
+    "E": "80.804725",
+    "Observation": "•Seepages towards the field side.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with ecofriendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1042487",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.804725,
+     7.066809
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "45",
+    "GND No.": "508 C",
+    "Scheme": "Kehelgasthenna canal",
+    "Location_Detail": "Exact",
+    "N": "7.065846",
+    "E": "80.804018",
+    "Observation": "•Bank erosion of the canal. (L- 300m)",
+    "Description": "Construction of leader drain across streams -1m(W)x1m(H)\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "249308",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.804018,
+     7.065846
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "46",
+    "GND No.": "508 C",
+    "Scheme": "Unagahathella canal",
+    "Location_Detail": "Exact",
+    "N": "7.070682",
+    "E": "80.804777",
+    "Observation": "•Erosion of part of the canal. (L- 10m)",
+    "Description": "Laying and joining 12\" dia - 24\" dia Concrete pipes\n\nConstruction of 1:3:6 (1 1/2\") ct concrete retaining wall (height 0.9m, top width 0.15m, 0.45m high steps x 02, each of 0.15m step width & bottom width 0.45m)\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "121456",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.804777,
+     7.070682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "47",
+    "GND No.": "508 C",
+    "Scheme": "Pallewatta anicut",
+    "Location_Detail": "Exact",
+    "N": "7.067752",
+    "E": "80.803329",
+    "Observation": "•Seepages from the anicut.",
+    "Description": "Construction of curtain wall (0.075mm thk) with 1:2:4 (3/4\") concrete, 1/2\" dowels at 600mm x 600mm intervals and embedded with chicken mesh\n\nMinor repairs to the structure\n\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying of compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance",
+    "Amount (Rs.)": "134420",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.803329,
+     7.067752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "48",
+    "GND No.": "508 C",
+    "Scheme": "Pallewatta anicut",
+    "Location_Detail": "Exact",
+    "N": "7.067752",
+    "E": "80.803329",
+    "Observation": "•Seepages towards the field side.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "454496",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.803329,
+     7.067752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "49",
+    "GND No.": "508 C",
+    "Scheme": "Udagama middle canal",
+    "Location_Detail": "Exact",
+    "N": "7.068712",
+    "E": "80.803668",
+    "Observation": "•Erosion of part of the canal at the field side. (L- 30m)",
+    "Description": "Canal reservation protection by concrete lining For 100mm thick , 0.4m wide and 0.3m high canal -single banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "146372",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.803668,
+     7.068712
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "50",
+    "GND No.": "508 C",
+    "Scheme": "Udagama middle canal",
+    "Location_Detail": "Exact",
+    "N": "7.069951",
+    "E": "80.803729",
+    "Observation": "•Bank erosion of the canal.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "305362",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.803729,
+     7.069951
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "51",
+    "GND No.": "508 C",
+    "Scheme": "Panduliyadda canal",
+    "Location_Detail": "Exact",
+    "N": "7.069423",
+    "E": "80.804199",
+    "Observation": "•Seepages towards the field side.",
+    "Description": "Canal reservation protection by concrete lining For 100mm thick , 0.4m wide and 0.3m high canal -single banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "649285",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.804199,
+     7.069423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "52",
+    "GND No.": "512",
+    "Scheme": "Heenatiwela Canal",
+    "Location_Detail": "Exact",
+    "N": "7.076001",
+    "E": "80.790928",
+    "Observation": "•The canal is dilapidated and seepages occur (L- 1km) towards the field side.",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick , 0.4m wide and 0.5m high canal -single banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with ecofriendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "2510707",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.790928,
+     7.076001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "53",
+    "GND No.": "512",
+    "Scheme": "Canal flows to Lunugala Digaredda (ලුණුගල දිග රෙද්දට යන ඇල)",
+    "Location_Detail": "Exact",
+    "N": "7.075784",
+    "E": "80.790494",
+    "Observation": "•The capacity of the canal is insufficient to distribute water.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1028300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.790494,
+     7.075784
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "54",
+    "GND No.": "512",
+    "Scheme": "Canal flows to Digaredda Kotumulla",
+    "Location_Detail": "Exact",
+    "N": "7.075784",
+    "E": "80.790494",
+    "Observation": "•The capacity of the canal is insufficient to distribute water.",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "1028300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.790494,
+     7.075784
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "55",
+    "GND No.": "512",
+    "Scheme": "Maha Ela",
+    "Location_Detail": "Exact",
+    "N": "7.07286",
+    "E": "80.789998",
+    "Observation": "•Erosion of the canal. (60º)",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick , 0.5m wide and 0.4m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "3386338",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.789998,
+     7.07286
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "56",
+    "GND No.": "512",
+    "Scheme": "Naaya Ela of Viharakumbura Ihala",
+    "Location_Detail": "Exact",
+    "N": "7.072157",
+    "E": "80.790728",
+    "Observation": "•The canal is blocked due to silting. (400m)",
+    "Description": "Removing silt from canal bed depth up to 9\"-18\"\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "146335",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.790728,
+     7.072157
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "57",
+    "GND No.": "512 F",
+    "Scheme": "Wewathenna lake",
+    "Location_Detail": "Exact",
+    "N": "7.063368",
+    "E": "80.790636",
+    "Observation": "•The lake is silted.•Absence of a reservation.",
+    "Description": "Desilting channels by PC 20 or 30 Excavator in a loose soil without pontoon cutting depth 300mm\n\nVegetative cover improving with Areca nut seedling @ 1.5m spacing in a single row, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and dense planting at 500mm grid interval, applying compost manure, NPK fertilizer, mulching with straw/ banana tree skin and maintenance\n\nVegetative cover improving, replanting bamboo species and vetiver grass or riparian species at 500mm grid interval including applying compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "207480",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.790636,
+     7.063368
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "58",
+    "GND No.": "512 F",
+    "Scheme": "Wewathenna field canal",
+    "Location_Detail": "Exact",
+    "N": "7.060481",
+    "E": "80.791936",
+    "Observation": "•Water cannot be distributed properly. (L- 3000ft)",
+    "Description": "Canals reservation protection by concrete lining For 125mm thick , 0.5m wide and 0.4m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "2808195",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.791936,
+     7.060481
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "59",
+    "GND No.": "508B",
+    "Scheme": "Oluwawatta Stream",
+    "Location_Detail": "Exact",
+    "N": "7.05735",
+    "E": "80.821672",
+    "Observation": "Houses get affected by the flood, Water leaking",
+    "Description": "Canals reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal -double banking\n\nStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5m, Turfing to new sloping soil surface (DAD D 01) or planting single row of vetiver grass with eco-friendly edible plants like Gotukola, Mukunuwenna, Thampala etc including application of compost manure and 02 months maintenance\n\nVegetative cover improving (1.5m-2.0m wide) with Areca nut seedlings @ 1.5m spacing in two rows, Beetle creeper VP @ 3m spacing in a single row, Including applying of compost manure, NPK fertilizer and maintenance",
+    "Amount (Rs.)": "789685",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.821672,
+     7.05735
+    ]
+   }
+  }
+ ]
 }

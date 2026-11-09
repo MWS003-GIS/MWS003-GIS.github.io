@@ -1,0 +1,210 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "32",
+    "GN Division": "Godunna",
+    "Landslides": "1. Landsliding - Nearby area of Thalpitigala",
+    "Location_Detail": "Approximation",
+    "N": "7.071046531",
+    "E": "80.97482529",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97482529,
+     7.071046531
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "32B",
+    "GN Division": "Dikkumbura",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.09766316",
+    "E": "80.96822032",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.96822032,
+     7.09766316
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "32D",
+    "GN Division": "Wasanagama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.067362352",
+    "E": "80.96453771",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.96453771,
+     7.067362352
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "35",
+    "GN Division": "Galauda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.036613546",
+    "E": "80.98586591",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98586591,
+     7.036613546
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "35A",
+    "GN Division": "Beramada",
+    "Landslides": "1. Landsliding - Dodamgaslanda\n2. Landsliding - Labugasthalawa",
+    "Location_Detail": "Approximation",
+    "N": "7.054091821",
+    "E": "80.98953836",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations\nFollow the recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.98953836,
+     7.054091821
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "35B",
+    "GN Division": "Bokanoruwa",
+    "Landslides": "Bank collapsing to the road, Collapsing trees and boulders, Erosion of the roads - Bokanoruwa Village",
+    "Location_Detail": "Approximation",
+    "N": "7.040348213",
+    "E": "80.99852859",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99852859,
+     7.040348213
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "35C",
+    "GN Division": "Thetilla",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.048624224",
+    "E": "80.97489446",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97489446,
+     7.048624224
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "35D",
+    "GN Division": "Narangala",
+    "Landslides": "1. Landsliding - Narangala",
+    "Location_Detail": "Approximation",
+    "N": "7.028683217",
+    "E": "80.99806286",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations; Alternative lands need to be given.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.99806286,
+     7.028683217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "35E",
+    "GN Division": "Thalakumbura",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.028498025",
+    "E": "80.97857059",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.97857059,
+     7.028498025
+    ]
+   }
+  }
+ ]
+}
