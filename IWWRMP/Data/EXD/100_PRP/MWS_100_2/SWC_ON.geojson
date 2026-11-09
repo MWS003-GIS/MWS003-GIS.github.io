@@ -1,0 +1,93 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "726",
+    "GND Name": "Udugoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices - Ihalagama (35°-55°)\n2. Soil conservation practices - Dewalagama (35°-55°)\n3. Soil conservation practices - Kurundugolla (35°-55°)\n4. Soil conservation practices - Kurukude (35°-55°)",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.362721075",
+    "E": "80.69500152",
+    "Quantity": "30 ha\n20 ha\n12 ha\n8 ha",
+    "Proposed measure/s": "1. Establishing SALT - 6000 m\n2. Lock and spills - 1000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.\n1. Establishing SALT - 6000 m\n2. Lock and spills - 1000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.\n1. Establishing SALT - 6000 m\n2. Lock and spills - 1000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.\n1. Establishing SALT - 6000 m\n2. Lock and spills - 1000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250 m-1\n400 m-1\n2500 m-1\n250 m-1\n400 m-1\n2500 m-1\n250 m-1\n400 m-1\n2500 m-1\n250 m-1\n400 m-1\n2500 m-1",
+    "Total_Cost": "1500000\n400000\n2500000\n1500000\n400000\n2500000\n1500000\n400000\n2500000\n1500000\n400000\n2500000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community\nLabour and other basic services by the Local community\nLabour and other basic services by the Local community\nLabour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69500152,
+     7.362721075
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "727",
+    "GND Name": "Pitawala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported.",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.355641519",
+    "E": "80.70099122",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70099122,
+     7.355641519
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "728",
+    "GND Name": "Angammana",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices - Udanga (30°-50°)",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.377888162",
+    "E": "80.70486202",
+    "Quantity": "3 ha",
+    "Proposed measure/s": "1. Establishing SALT - 1000 m\n2. Live fencing - 1000 m\n3. Lock and spills - 500 m\n4. Stone terracing - 500 m\n5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250 m-1\n120 m-1\n400 m-1\n2500 m-1",
+    "Total_Cost": "250000\n120000\n200000\n1250000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70486202,
+     7.377888162
+    ]
+   }
+  }
+ ]
+}

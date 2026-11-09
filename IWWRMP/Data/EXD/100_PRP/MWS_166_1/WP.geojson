@@ -1,0 +1,40 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "535J",
+    "GN Division": "Toppass",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.002231929",
+    "E": "80.74280672",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness program on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74280672,
+     7.002231929
+    ]
+   }
+  }
+ ]
+}

@@ -1,3 +1,90 @@
-{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":2,"GND No.":"50A","GND Name":"Ambewela","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - Ambewela Arawa (Kemahena - Kelapathana Road)","Priority based on Soil Erosion Hazard":1,"N":6.875967,"E":80.84243,"Quantity":"35 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":4070000,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.84243,6.875967]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "49D",
+    "GND Name": "Alakolagala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.908847066",
+    "E": "80.81043052",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.81043052,
+     6.908847066
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "50A",
+    "GND Name": "Ambewela",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Ambewela Arawa (Kemahena - Kelapathana Road)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "6.875967",
+    "E": "80.84243",
+    "Quantity": "35 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "4070000",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.84243,
+     6.875967
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "50A",
+    "GND Name": "Ambewela",
+    "Key Activities proposed for Soil and Water conservation": "-",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Exact",
+    "N": "6.872205",
+    "E": "80.841472",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.841472,
+     6.872205
+    ]
+   }
+  }
+ ]
+}

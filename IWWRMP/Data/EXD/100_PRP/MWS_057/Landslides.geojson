@@ -1,4 +1,188 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":4,"GN Division No.":"59C","GN Division":"Medagedaragama","Landslides":"Road erosion and sliding - Medagedaragama Road","N":6.877904,"E":80.91968,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Directing water during rainy seasons to the relevant streams and other rivers is essential.","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.91968,6.877904]}},
-{"type":"Feature","properties":{"No.":7,"GN Division No.":"61","GN Division":"Guruthalawa","Landslides":"Landsliding - Gonigolla","N":6.843547,"E":80.897916,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow recommendations of NBRO having consulted (Already informed)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_057/Disaster - Landsliding prone area - Gonigolla.jpg"},"geometry":{"type":"Point","coordinates":[80.897916,6.843547]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "58A",
+    "GN Division": "Ketakella",
+    "Landslides": "1. Bank collapsing - Bank collapsing areas and canal's side walls of the Batagolla Arawa Road\n2. Bank collapsing - Middle part of the Ketakella Road\n3. Bank collapsing - Galpoththa Arawa Road",
+    "Location_Detail": "Approximation",
+    "N": "6.894139685",
+    "E": "80.92785374",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Establishing retaining wall may be needed having consulted with NBRO and other relevant agencies (Local Government, DS Office, PRDA, RDA)\nEstablishing retaining wall may be needed having consulted with NBRO and other relevant agencies (Local Government, DS Office, PRDA, RDA)\nEstablishing retaining wall may be needed having consulted with NBRO and other relevant agencies (Local Government, DS Office, PRDA, RDA)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92785374,
+     6.894139685
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "59",
+    "GN Division": "Nawela",
+    "Landslides": "Bank collapsing - Naye Gedara Dehibedda Yaya",
+    "Location_Detail": "Approximation",
+    "N": "6.873828421",
+    "E": "80.92626947",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO to resettle in another area",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92626947,
+     6.873828421
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "59B",
+    "GN Division": "Yalpathwela",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.887022883",
+    "E": "80.92473251",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92473251,
+     6.887022883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "59C",
+    "GN Division": "Medagedaragama",
+    "Landslides": "Road erosion and sliding - Medagedaragama Road",
+    "Location_Detail": "Exact",
+    "N": "6.877904",
+    "E": "80.91968",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Directing water during rainy seasons to the relevant streams and other rivers is essential.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91968,
+     6.877904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "59D",
+    "GN Division": "Divithotawela",
+    "Landslides": "Landsliding - Agatha Kumbura Divithotawela Demodara division (R.M. Munidasa)",
+    "Location_Detail": "Approximation",
+    "N": "6.901761992",
+    "E": "80.91953963",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted (Already informed)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91953963,
+     6.901761992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "59E",
+    "GN Division": "Pahalayalkumbura",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.879575216",
+    "E": "80.93464908",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93464908,
+     6.879575216
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "61",
+    "GN Division": "Guruthalawa",
+    "Landslides": "Landsliding - Gonigolla",
+    "Location_Detail": "Exact",
+    "N": "6.843547",
+    "E": "80.897916",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted (Already informed)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_057/Disaster - Landsliding prone area - Gonigolla.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.897916,
+     6.843547
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "61C",
+    "GN Division": "Mahathenna",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.83852348",
+    "E": "80.90883141",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90883141,
+     6.83852348
+    ]
+   }
+  }
+ ]
+}

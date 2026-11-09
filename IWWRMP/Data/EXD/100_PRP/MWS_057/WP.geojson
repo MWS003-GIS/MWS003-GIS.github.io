@@ -1,0 +1,236 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "58A",
+    "GN Division": "Ketakella",
+    "Non-point sources of pollution": "Potential to add human waste - Ketakella GND\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.894139685",
+    "E": "80.92785374",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness Programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92785374,
+     6.894139685
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "59",
+    "GN Division": "Nawela",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.873828421",
+    "E": "80.92626947",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness Programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92626947,
+     6.873828421
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "59B",
+    "GN Division": "Yalpathwela",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.887022883",
+    "E": "80.92473251",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness Programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.92473251,
+     6.887022883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "59C",
+    "GN Division": "Medagedaragama",
+    "Non-point sources of pollution": "Potential to add human waste - Bogahagoda\nPotential to add human waste - Amunumulla (Digalthenna)\nPotential to add human waste - Sapubedda\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.879147835",
+    "E": "80.91622603",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness Programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91622603,
+     6.879147835
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "59D",
+    "GN Division": "Divithotawela",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.901761992",
+    "E": "80.91953963",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness Programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91953963,
+     6.901761992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "59E",
+    "GN Division": "Pahalayalkumbura",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.879575216",
+    "E": "80.93464908",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness Programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93464908,
+     6.879575216
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "61",
+    "GN Division": "Guruthalawa",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.84671214",
+    "E": "80.90889922",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness Programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90889922,
+     6.84671214
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "61C",
+    "GN Division": "Mahathenna",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.83852348",
+    "E": "80.90883141",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness Programme on how to disposal household waste properly and converting them to usable products such as compost",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90883141,
+     6.83852348
+    ]
+   }
+  }
+ ]
+}

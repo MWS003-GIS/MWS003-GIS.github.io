@@ -1,3 +1,454 @@
-{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":2,"GND No.":258,"GND Name":"Ihala Katukele","Key Activities proposed for Soil and Water conservation":"Establishing a retaining wall - Ihala Katukele","Priority based on Soil Erosion Hazard":1,"N":7.291188,"E":80.632571,"Quantity":"100 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":10609500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at wewa para-2026-07-05-20-41-53.jpg"},"geometry":{"type":"Point","coordinates":[80.632571,7.291188]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "242",
+    "GND Name": "Heeressagala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.269071855",
+    "E": "80.62902094",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62902094,
+     7.269071855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "244",
+    "GND Name": "Uda Bowala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.267891279",
+    "E": "80.61395846",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61395846,
+     7.267891279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "245",
+    "GND Name": "Bowala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.271148113",
+    "E": "80.61433224",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61433224,
+     7.271148113
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "246",
+    "GND Name": "Ogastawatta",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.26275829",
+    "E": "80.61134843",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61134843,
+     7.26275829
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "252",
+    "GND Name": "Ampitiya North",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.286135013",
+    "E": "80.65254246",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65254246,
+     7.286135013
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "253",
+    "GND Name": "Ampitiya South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.28283125",
+    "E": "80.64801681",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64801681,
+     7.28283125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "255",
+    "GND Name": "Katukele",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.290238966",
+    "E": "80.62770725",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62770725,
+     7.290238966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "256",
+    "GND Name": "Katukele West",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.284928951",
+    "E": "80.62376735",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62376735,
+     7.284928951
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "257",
+    "GND Name": "Mahanuwara",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.296284155",
+    "E": "80.63776562",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63776562,
+     7.296284155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "258",
+    "GND Name": "Ihala Katukele",
+    "Key Activities proposed for Soil and Water conservation": "Establishing a retaining wall - Ihala Katukele",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.291188",
+    "E": "80.632571",
+    "Quantity": "100 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "10609500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at wewa para-2026-07-05-20-41-53.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.632571,
+     7.291188
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "259",
+    "GND Name": "Getambe",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.272831207",
+    "E": "80.60233016",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60233016,
+     7.272831207
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "260",
+    "GND Name": "Welata",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.279182332",
+    "E": "80.61669676",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61669676,
+     7.279182332
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "261",
+    "GND Name": "Deiyannewela",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.28746141",
+    "E": "80.63084653",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63084653,
+     7.28746141
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "262",
+    "GND Name": "Nagasthenna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.282742631",
+    "E": "80.63086074",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63086074,
+     7.282742631
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "263",
+    "GND Name": "Hanthana Pedesa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.275163962",
+    "E": "80.63701517",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63701517,
+     7.275163962
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "265",
+    "GND Name": "Suduhumpala East",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.281335133",
+    "E": "80.62891755",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62891755,
+     7.281335133
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "266",
+    "GND Name": "Suduhumpala West",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.28113498",
+    "E": "80.62453967",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62453967,
+     7.28113498
+    ]
+   }
+  }
+ ]
+}

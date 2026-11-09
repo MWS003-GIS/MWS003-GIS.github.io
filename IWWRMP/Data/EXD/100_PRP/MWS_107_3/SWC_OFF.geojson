@@ -1,3 +1,350 @@
-{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":7,"GND No.":635,"GND Name":"Abasingama","Key Activities proposed for Soil and Water conservation":"Establishing a concrete dranage","Priority based on Soil Erosion Hazard":1,"N":7.322538,"E":80.673754,"Quantity":"4 m","Proposed measure/s":"Concrete Drain","Total_Cost":242000,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.673754,7.322538]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "594",
+    "GND Name": "Wattegama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.352480023",
+    "E": "80.67838033",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67838033,
+     7.352480023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "595",
+    "GND Name": "Wattegama North",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.352239554",
+    "E": "80.68475272",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68475272,
+     7.352239554
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "597",
+    "GND Name": "Eriyagasthenna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.344164919",
+    "E": "80.69170589",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69170589,
+     7.344164919
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "599",
+    "GND Name": "Puwakgahadeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.356397938",
+    "E": "80.66749683",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66749683,
+     7.356397938
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "602",
+    "GND Name": "Walpaladeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.351111154",
+    "E": "80.65993669",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65993669,
+     7.351111154
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "604",
+    "GND Name": "Meegamawatta",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.335989238",
+    "E": "80.66615133",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66615133,
+     7.335989238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "611",
+    "GND Name": "Udathalavinna Madige",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.336708582",
+    "E": "80.65419882",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65419882,
+     7.336708582
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "635",
+    "GND Name": "Abasingama",
+    "Key Activities proposed for Soil and Water conservation": "Establishing a concrete dranage",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.322538",
+    "E": "80.673754",
+    "Quantity": "4 m",
+    "Proposed measure/s": "Concrete Drain",
+    "Total_Cost": "242000",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.673754,
+     7.322538
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "636",
+    "GND Name": "Leemagahadeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.324706014",
+    "E": "80.67807211",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67807211,
+     7.324706014
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "637",
+    "GND Name": "Madawala Madige",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.330018986",
+    "E": "80.67050963",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67050963,
+     7.330018986
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "640",
+    "GND Name": "Madawala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.331364685",
+    "E": "80.67941919",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67941919,
+     7.331364685
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "641",
+    "GND Name": "Yatirawana",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.340971468",
+    "E": "80.67687127",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67687127,
+     7.340971468
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "642",
+    "GND Name": "Pitiyegedara",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.337514786",
+    "E": "80.68132278",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68132278,
+     7.337514786
+    ]
+   }
+  }
+ ]
+}

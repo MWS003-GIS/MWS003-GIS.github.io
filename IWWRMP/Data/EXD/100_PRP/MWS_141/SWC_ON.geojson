@@ -1,4 +1,228 @@
-{"type":"FeatureCollection","name":"SWC_ON","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":11,"GND No.":1089,"GND Name":"Uda Rambukpitiya","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices -  Uda Rambukpitiya   (50°-60°)","Priority based on Soil Erosion Hazard":3,"N":7.045479,"E":80.504594,"Quantity":"20 ha","Proposed measure/s":"1. Live fencing/SALT  - 16000 m/ 2. Lock and spills - 2000 m/ 3. Stone terracing - 2000 m/ 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbre","Uniti_Cost":"250.00 m-1/ 400.00 m-1/ 2500.00 m-1","Total_Cost":9800000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_141/Tea Land 1.jpg"},"geometry":{"type":"Point","coordinates":[80.504594,7.045479]}},
-{"type":"Feature","properties":{"No.":12,"GND No.":1090,"GND Name":"Pahala Rambukpitiya","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices -  Pahala Rambukpitiya   (50°-60°)","Priority based on Soil Erosion Hazard":1,"N":7.04957,"E":80.507005,"Quantity":"16 ha","Proposed measure/s":"1. Live fencing/SALT  - 12000 m/ 2. Lock and spills - 2000 m/ 3. Stone terracing - 2000 m/ 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbre","Uniti_Cost":"250.00 m-1/ 400.00 m-1/ 2500.00 m-1","Total_Cost":8800000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_141/Tea Land 3.jpg"},"geometry":{"type":"Point","coordinates":[80.507005,7.04957]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "1085",
+    "GND Name": "Nawalapitiya East",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.056790928",
+    "E": "80.53725942",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53725942,
+     7.056790928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "1086",
+    "GND Name": "Nawalapitiya South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.059487856",
+    "E": "80.53266512",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53266512,
+     7.059487856
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "1088",
+    "GND Name": "Nawalapitiya West",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.049860016",
+    "E": "80.53259129",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53259129,
+     7.049860016
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "1089",
+    "GND Name": "Uda Rambukpitiya",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices -  Uda Rambukpitiya   (50°-60°)",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.045479",
+    "E": "80.504594",
+    "Quantity": "20 ha",
+    "Proposed measure/s": "1. Live fencing/SALT  - 16000 m/ 2. Lock and spills - 2000 m/ 3. Stone terracing - 2000 m/ 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbre",
+    "Uniti_Cost": "250.00 m-1/ 400.00 m-1/ 2500.00 m-1",
+    "Total_Cost": "9800000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_141/Tea Land 1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.504594,
+     7.045479
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "1090",
+    "GND Name": "Pahala Rambukpitiya",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices -  Pahala Rambukpitiya   (50°-60°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.04957",
+    "E": "80.507005",
+    "Quantity": "16 ha",
+    "Proposed measure/s": "1. Live fencing/SALT  - 12000 m/ 2. Lock and spills - 2000 m/ 3. Stone terracing - 2000 m/ 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbre",
+    "Uniti_Cost": "250.00 m-1/ 400.00 m-1/ 2500.00 m-1",
+    "Total_Cost": "8800000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_141/Tea Land 3.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.507005,
+     7.04957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "1105",
+    "GND Name": "Warakawa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.077475064",
+    "E": "80.54079302",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54079302,
+     7.077475064
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "1106",
+    "GND Name": "Penithuduwa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.056873217",
+    "E": "80.51778347",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51778347,
+     7.056873217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "1107",
+    "GND Name": "Karahandungala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.047671774",
+    "E": "80.52231149",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52231149,
+     7.047671774
+    ]
+   }
+  }
+ ]
+}

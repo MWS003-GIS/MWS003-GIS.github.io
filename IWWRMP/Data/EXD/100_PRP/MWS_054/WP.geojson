@@ -1,0 +1,180 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "60",
+    "GN Division": "Mirahawatta",
+    "Non-point sources of pollution": "Informal disposal of houshold wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.878853222",
+    "E": "80.95034682",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in homegardens for disposing houshold waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.95034682,
+     6.878853222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "60A",
+    "GN Division": "Malpotha",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.854613153",
+    "E": "80.93236497",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93236497,
+     6.854613153
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "60B",
+    "GN Division": "Udupeella",
+    "Non-point sources of pollution": "Informal disposal of houshold wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.873333176",
+    "E": "80.94147404",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in homegardens for disposing houshold waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94147404,
+     6.873333176
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "60C",
+    "GN Division": "Kotakithula",
+    "Non-point sources of pollution": "Informal disposal of houshold wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.865004078",
+    "E": "80.9317301",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in homegardens for disposing houshold waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9317301,
+     6.865004078
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "60D",
+    "GN Division": "Welikadagama",
+    "Non-point sources of pollution": "Informal disposal of houshold wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "6.853919045",
+    "E": "80.94506543",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Preparing a separate place in homegardens for disposing houshold waste",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "50000",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.94506543,
+     6.853919045
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "60E",
+    "GN Division": "Hingurugamuwa",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.839722756",
+    "E": "80.93034806",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.93034806,
+     6.839722756
+    ]
+   }
+  }
+ ]
+}

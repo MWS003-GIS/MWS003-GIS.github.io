@@ -1,0 +1,320 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "1163",
+    "GN Division": "Anganmana East",
+    "Landslides": "1. Bank collapsing - Mr. Aruna Indika's house at Kobbewala\n2. Bank collapsing - Near Mr.Yaralawa's house 1\n3. Bank collapsing - Near Mr.Yaralawa's house 2\n4. Bank collapsing - Near Mr.Ranjandewa's house\n5. Bank collapsing - Near Mr. T.G. Karunarathna's house\n6. Bank collapsing - Near Mr. Sampath Rathnayaka's house",
+    "Location_Detail": "Exact",
+    "N": "7.159443",
+    "E": "80.580387",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.580387,
+     7.159443
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "1163",
+    "GN Division": "Anganmana East",
+    "Landslides": "1. Bank collapsing - Mr. Aruna Indika's house at Kobbewala\n2. Bank collapsing - Near Mr.Yaralawa's house 1\n3. Bank collapsing - Near Mr.Yaralawa's house 2\n4. Bank collapsing - Near Mr.Ranjandewa's house\n5. Bank collapsing - Near Mr. T.G. Karunarathna's house\n6. Bank collapsing - Near Mr. Sampath Rathnayaka's house",
+    "Location_Detail": "Exact",
+    "N": "7.159989",
+    "E": "80.579952",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.579952,
+     7.159989
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "1163",
+    "GN Division": "Anganmana East",
+    "Landslides": "1. Bank collapsing - Mr. Aruna Indika's house at Kobbewala\n2. Bank collapsing - Near Mr.Yaralawa's house 1\n3. Bank collapsing - Near Mr.Yaralawa's house 2\n4. Bank collapsing - Near Mr.Ranjandewa's house\n5. Bank collapsing - Near Mr. T.G. Karunarathna's house\n6. Bank collapsing - Near Mr. Sampath Rathnayaka's house",
+    "Location_Detail": "Exact",
+    "N": "7.159782",
+    "E": "80.579954",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.579954,
+     7.159782
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "1163",
+    "GN Division": "Anganmana East",
+    "Landslides": "1. Bank collapsing - Mr. Aruna Indika's house at Kobbewala\n2. Bank collapsing - Near Mr.Yaralawa's house 1\n3. Bank collapsing - Near Mr.Yaralawa's house 2\n4. Bank collapsing - Near Mr.Ranjandewa's house\n5. Bank collapsing - Near Mr. T.G. Karunarathna's house\n6. Bank collapsing - Near Mr. Sampath Rathnayaka's house",
+    "Location_Detail": "Exact",
+    "N": "7.156347",
+    "E": "80.588032",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.588032,
+     7.156347
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "1163",
+    "GN Division": "Anganmana East",
+    "Landslides": "1. Bank collapsing - Mr. Aruna Indika's house at Kobbewala\n2. Bank collapsing - Near Mr.Yaralawa's house 1\n3. Bank collapsing - Near Mr.Yaralawa's house 2\n4. Bank collapsing - Near Mr.Ranjandewa's house\n5. Bank collapsing - Near Mr. T.G. Karunarathna's house\n6. Bank collapsing - Near Mr. Sampath Rathnayaka's house",
+    "Location_Detail": "Exact",
+    "N": "7.153882",
+    "E": "80.584295",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.584295,
+     7.153882
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "1163",
+    "GN Division": "Anganmana East",
+    "Landslides": "1. Bank collapsing - Mr. Aruna Indika's house at Kobbewala\n2. Bank collapsing - Near Mr.Yaralawa's house 1\n3. Bank collapsing - Near Mr.Yaralawa's house 2\n4. Bank collapsing - Near Mr.Ranjandewa's house\n5. Bank collapsing - Near Mr. T.G. Karunarathna's house\n6. Bank collapsing - Near Mr. Sampath Rathnayaka's house",
+    "Location_Detail": "Exact",
+    "N": "7.159885",
+    "E": "80.587019",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.587019,
+     7.159885
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "1164",
+    "GN Division": "Anganmana west",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.15834748",
+    "E": "80.57717379",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57717379,
+     7.15834748
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "1165",
+    "GN Division": "Amunupura",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.148910052",
+    "E": "80.58706378",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58706378,
+     7.148910052
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "1166",
+    "GN Division": "Delpitiya",
+    "Landslides": "1. Landsliding - Paranawatta",
+    "Location_Detail": "Exact",
+    "N": "7.137612",
+    "E": "80.587711",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "It is best to take appropriate actions based on the NBRO's recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.587711,
+     7.137612
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "1167",
+    "GN Division": "Nawadevita",
+    "Landslides": "1. Landsliding - Vitofield flower plantation near the Nuwara Eliya road\n2. Landsliding - Gangasirigama\n3. Landsliding - Sewanath Janapadaya\n4. Landsliding - Near the quarrying area of Galaha road",
+    "Location_Detail": "Exact",
+    "N": "7.145623",
+    "E": "80.581464",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO. It is needed to provide house for vacating the risky lands.\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.581464,
+     7.145623
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "1167",
+    "GN Division": "Nawadevita",
+    "Landslides": "1. Landsliding - Vitofield flower plantation near the Nuwara Eliya road\n2. Landsliding - Gangasirigama\n3. Landsliding - Sewanath Janapadaya\n4. Landsliding - Near the quarrying area of Galaha road",
+    "Location_Detail": "Exact",
+    "N": "7.133957",
+    "E": "80.586083",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO. It is needed to provide house for vacating the risky lands.\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.586083,
+     7.133957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "1167",
+    "GN Division": "Nawadevita",
+    "Landslides": "1. Landsliding - Vitofield flower plantation near the Nuwara Eliya road\n2. Landsliding - Gangasirigama\n3. Landsliding - Sewanath Janapadaya\n4. Landsliding - Near the quarrying area of Galaha road",
+    "Location_Detail": "Exact",
+    "N": "7.127506",
+    "E": "80.58913",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO. It is needed to provide house for vacating the risky lands.\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58913,
+     7.127506
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "1167",
+    "GN Division": "Nawadevita",
+    "Landslides": "1. Landsliding - Vitofield flower plantation near the Nuwara Eliya road\n2. Landsliding - Gangasirigama\n3. Landsliding - Sewanath Janapadaya\n4. Landsliding - Near the quarrying area of Galaha road",
+    "Location_Detail": "Exact",
+    "N": "7.129713",
+    "E": "80.586113",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO. It is needed to provide house for vacating the risky lands.\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.586113,
+     7.129713
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "1170",
+    "GN Division": "Watthehena",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.144609451",
+    "E": "80.60175034",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60175034,
+     7.144609451
+    ]
+   }
+  }
+ ]
+}

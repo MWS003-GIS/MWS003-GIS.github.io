@@ -1,0 +1,78 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "726",
+    "GN Division": "Udugoda",
+    "Landslides": "Landslide - Kurudugolla",
+    "Location_Detail": "Exact",
+    "N": "7.36599",
+    "E": "80.692391",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Soil conservation practices should be adopted. Recommendations of NBRO should be followed having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.692391,
+     7.36599
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "727",
+    "GN Division": "Pitawala",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.355641519",
+    "E": "80.70099122",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70099122,
+     7.355641519
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "728",
+    "GN Division": "Angammana",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.377888162",
+    "E": "80.70486202",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70486202,
+     7.377888162
+    ]
+   }
+  }
+ ]
+}

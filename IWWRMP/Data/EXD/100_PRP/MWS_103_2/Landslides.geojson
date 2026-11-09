@@ -1,0 +1,122 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "633",
+    "GN Division": "Napana",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.320068365",
+    "E": "80.68205422",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68205422,
+     7.320068365
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "644",
+    "GN Division": "Ketakahala",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.326542816",
+    "E": "80.69303282",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69303282,
+     7.326542816
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "645",
+    "GN Division": "Thalkotuwa",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.319880197",
+    "E": "80.68997069",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68997069,
+     7.319880197
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "643",
+    "GN Division": "Walala",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.326225273",
+    "E": "80.68687638",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68687638,
+     7.326225273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "634",
+    "GN Division": "Hamindagoda",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.314115949",
+    "E": "80.682539",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.682539,
+     7.314115949
+    ]
+   }
+  }
+ ]
+}

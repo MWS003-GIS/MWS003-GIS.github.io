@@ -1,0 +1,34 @@
+{
+ "type": "FeatureCollection",
+ "name": "MI",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "870",
+    "Scheme": "Kosgahawala anicut and canal (Liyangaha Pihilla)",
+    "Location_Detail": "Exact",
+    "N": "7.300209",
+    "E": "80.925792",
+    "Observation": "The anicut wall is built irregularly with rubble stones, Existing Earthen canal, Water from this canal is used to grow paddy on an area of about 10 acres.",
+    "Description": "Construction of the Concrete AnicutScarifying existing rock surface to receive new concreteSupplying and fixing M.S. dowels spliced and dovetailed with wedge at one end 16mm dia. And 600mm long, boring holes to 0.3m depth in fixingPlywood form work including making, fixing & removing for structure - 05 uses1:3:6 (40mm) concrete with concrete mixer with 20% plums (volume batching) in 0.90 m high & 12 m long water retaining wall keeping 02 Nos. 900 mm long, 300 mm deep openings to be functioned as the spillway.Transport of machinery and materialsMiscellaneousContingencies 10%Canal protection worksCanal reservation protection by concrete lining For 100 mm thick , 300 mm wide and 300 mm high canal -double bankingStream / canal reservation protection by earthfilling of strip of 1.5m to 2.0 m wide and average Depth of 0.5mVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover cropMiscellaneousContingencies 10%",
+    "Amount (Rs.)": "321750",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.925792,
+     7.300209
+    ]
+   }
+  }
+ ]
+}

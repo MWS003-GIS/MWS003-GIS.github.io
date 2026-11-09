@@ -1,8 +1,688 @@
-{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":4,"GND No.":191,"GND Name":"Amunupura","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - Blana-Thepelpala Primary Medial Unit","Priority based on Soil Erosion Hazard":"1","N":7.27341,"E":80.507622,"Quantity":"20 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":2128500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/08-04-2026_01-32-38_6634.jpg"},"geometry":{"type":"Point","coordinates":[80.507622,7.27341]}},
-{"type":"Feature","properties":{"No.":5,"GND No.":191,"GND Name":"Amunupura","Key Activities proposed for Soil and Water conservation":"2. Establishing a retaining wall - Sri Rajasinghe Cave Temple","Priority based on Soil Erosion Hazard":"-","N":7.271974,"E":80.495441,"Quantity":"20 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":2128500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Coconut Cultivated soil.jpg"},"geometry":{"type":"Point","coordinates":[80.495441,7.271974]}},
-{"type":"Feature","properties":{"No.":6,"GND No.":191,"GND Name":"Amunupura","Key Activities proposed for Soil and Water conservation":"3. Establishing a retaining wall - The part of the Balana road between Mrs. Mallika Senarathna's house and Mr. Jayapala's house","Priority based on Soil Erosion Hazard":"1","N":7.271267,"E":80.507179,"Quantity":"50 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":5307500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Balana Rd near Mallika house damage.jpg"},"geometry":{"type":"Point","coordinates":[80.507179,7.271267]}},
-{"type":"Feature","properties":{"No.":7,"GND No.":191,"GND Name":"Amunupura","Key Activities proposed for Soil and Water conservation":"4. Establishing a retaining wall - Surrounding area of Mrs. Nayana's house near Ulukade temple","Priority based on Soil Erosion Hazard":"2","N":7.275134,"E":80.50457,"Quantity":"20 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":2128500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Gallena pansala soil.jpg"},"geometry":{"type":"Point","coordinates":[80.50457,7.275134]}},
-{"type":"Feature","properties":{"No.":8,"GND No.":196,"GND Name":"Udarathmeewala","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - Udarathmeewala Aluth Kanda Mr. H.P.G. Prabhath Premasekara's land","Priority based on Soil Erosion Hazard":"3","N":7.281445,"E":80.505295,"Quantity":"100 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":10609500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Prabhath Premasekara_s land disaster.jpg"},"geometry":{"type":"Point","coordinates":[80.505295,7.281445]}},
-{"type":"Feature","properties":{"No.":9,"GND No.":196,"GND Name":"Udarathmeewala","Key Activities proposed for Soil and Water conservation":"3. Establishing a retaining wall - Raththepitiya carpet road near Mr. Nimal Wijesiri's house","Priority based on Soil Erosion Hazard":"1","N":7.279131,"E":80.508045,"Quantity":"20 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":2128500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Road ner nanu oya ela.jpg"},"geometry":{"type":"Point","coordinates":[80.508045,7.279131]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "167",
+    "GND Name": "Embilmeegama South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.26286235",
+    "E": "80.56279327",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56279327,
+     7.26286235
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "171",
+    "GND Name": "Govindala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.26031604",
+    "E": "80.55521399",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55521399,
+     7.26031604
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "172",
+    "GND Name": "Pilimathalawa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.262390526",
+    "E": "80.55155649",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55155649,
+     7.262390526
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "173",
+    "GND Name": "Ilukwatta",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.259400815",
+    "E": "80.54503159",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54503159,
+     7.259400815
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "188",
+    "GND Name": "Gondeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.277120262",
+    "E": "80.4961705",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.4961705,
+     7.277120262
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "191",
+    "GND Name": "Amunupura",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Blana-Thepelpala Primary Medial Unit",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.27341",
+    "E": "80.507622",
+    "Quantity": "20 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2128500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/08-04-2026_01-32-38_6634.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.507622,
+     7.27341
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "191",
+    "GND Name": "Amunupura",
+    "Key Activities proposed for Soil and Water conservation": "2. Establishing a retaining wall - Sri Rajasinghe Cave Temple",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Exact",
+    "N": "7.271974",
+    "E": "80.495441",
+    "Quantity": "20 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2128500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Coconut Cultivated soil.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.495441,
+     7.271974
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "191",
+    "GND Name": "Amunupura",
+    "Key Activities proposed for Soil and Water conservation": "3. Establishing a retaining wall - The part of the Balana road between Mrs. Mallika Senarathna's house and Mr. Jayapala's house",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.271267",
+    "E": "80.507179",
+    "Quantity": "50 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "5307500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Balana Rd near Mallika house damage.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.507179,
+     7.271267
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "191",
+    "GND Name": "Amunupura",
+    "Key Activities proposed for Soil and Water conservation": "4. Establishing a retaining wall - Surrounding area of Mrs. Nayana's house near Ulukade temple",
+    "Priority based on Soil Erosion Hazard": "2",
+    "Location_Detail": "Exact",
+    "N": "7.275134",
+    "E": "80.50457",
+    "Quantity": "20 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2128500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Gallena pansala soil.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.50457,
+     7.275134
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "195",
+    "GND Name": "Madiligama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.279896424",
+    "E": "80.50084155",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.50084155,
+     7.279896424
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "196",
+    "GND Name": "Udarathmeewala",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Udarathmeewala Aluth Kanda Mr. H.P.G. Prabhath Premasekara's land",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.281445",
+    "E": "80.505295",
+    "Quantity": "100 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "10609500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Prabhath Premasekara_s land disaster.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.505295,
+     7.281445
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "196",
+    "GND Name": "Udarathmeewala",
+    "Key Activities proposed for Soil and Water conservation": "3. Establishing a retaining wall - Raththepitiya carpet road near Mr. Nimal Wijesiri's house",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.279131",
+    "E": "80.508045",
+    "Quantity": "20 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2128500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Road ner nanu oya ela.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.508045,
+     7.279131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "197",
+    "GND Name": "Pahala Rathmeewala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.275999762",
+    "E": "80.51094591",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51094591,
+     7.275999762
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "202",
+    "GND Name": "Ketakumbura",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.268993017",
+    "E": "80.51309111",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51309111,
+     7.268993017
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "203",
+    "GND Name": "Maligathenna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.26794201",
+    "E": "80.51828361",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51828361,
+     7.26794201
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "204",
+    "GND Name": "Kadawathgama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.255803383",
+    "E": "80.52316929",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52316929,
+     7.255803383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "205",
+    "GND Name": "Kadugannawa Town",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.258562357",
+    "E": "80.5235652",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5235652,
+     7.258562357
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "207",
+    "GND Name": "Kavudupana",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.272707837",
+    "E": "80.52308713",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52308713,
+     7.272707837
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "208",
+    "GND Name": "Kandangama North",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.266596905",
+    "E": "80.52765221",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52765221,
+     7.266596905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GND No.": "209",
+    "GND Name": "Kandangama South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.261241216",
+    "E": "80.52714863",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52714863,
+     7.261241216
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GND No.": "213",
+    "GND Name": "Doluwa East",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.289050522",
+    "E": "80.52010607",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52010607,
+     7.289050522
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GND No.": "214",
+    "GND Name": "Doluwa West",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.291067427",
+    "E": "80.51678075",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51678075,
+     7.291067427
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GND No.": "215",
+    "GND Name": "Kotaligoda North",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.289153783",
+    "E": "80.51089374",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51089374,
+     7.289153783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GND No.": "216",
+    "GND Name": "Kotaligoda South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.296163983",
+    "E": "80.51112682",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51112682,
+     7.296163983
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "25",
+    "GND No.": "217",
+    "GND Name": "Menikdiwela",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.288331387",
+    "E": "80.50381548",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.50381548,
+     7.288331387
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "26",
+    "GND No.": "218",
+    "GND Name": "Deldeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.282029234",
+    "E": "80.51410649",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51410649,
+     7.282029234
+    ]
+   }
+  }
+ ]
+}

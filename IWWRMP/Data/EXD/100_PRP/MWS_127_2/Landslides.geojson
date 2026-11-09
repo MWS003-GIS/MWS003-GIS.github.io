@@ -1,0 +1,122 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "247",
+    "GN Division": "Bowalawatta",
+    "Landslides": "Landsliding - Slopy lands in GND",
+    "Location_Detail": "Approximation",
+    "N": "7.25793735",
+    "E": "80.61989502",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow recvommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61989502,
+     7.25793735
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "248",
+    "GN Division": "Palle Peradeniya",
+    "Landslides": "Landsliding - Temple of the University of Peradeniya",
+    "Location_Detail": "Approximation",
+    "N": "7.253372334",
+    "E": "80.59951909",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow recvommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59951909,
+     7.253372334
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "249",
+    "GN Division": "Uda Peradeniya",
+    "Landslides": "Bank collapsing - Welihiriya (Near Ma Oya)",
+    "Location_Detail": "Approximation",
+    "N": "7.249043345",
+    "E": "80.61397055",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow recvommendations of NBRO. Relocation is advisable.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61397055,
+     7.249043345
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "267",
+    "GN Division": "Hindagala",
+    "Landslides": "Bank collapsing, Earth fissures - Peragolla",
+    "Location_Detail": "Approximation",
+    "N": "7.235994413",
+    "E": "80.60568736",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow recvommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60568736,
+     7.235994413
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "268",
+    "GN Division": "Mahakanda",
+    "Landslides": "1. Landsliding, Tree collapsing - Sarasavigama\n2. Landsliding, Bank collapsing near the canals - Mahakanda, Gal Oya, Sarasavigama, Liyangahamula, Dahanak Oya",
+    "Location_Detail": "Approximation",
+    "N": "7.227905548",
+    "E": "80.61197541",
+    "NBRO Recommendation N/A": "NBRO reports received for a part of the Sarasavigama, NBRO checked Sarasavigama and some areas in Mahakanda\nNeeds NBRO concern",
+    "Proposed Measures": "Constructing retaining walls (200 m x 3 m). Providing alternative lands\nConstructing retaining walls - Gal Oya, Dahanak Oya, Liyangahamula (200 m x 3 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61197541,
+     7.227905548
+    ]
+   }
+  }
+ ]
+}

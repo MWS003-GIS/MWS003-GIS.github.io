@@ -1,0 +1,124 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "277",
+    "GN Division": "Gurudeniya Dambawela",
+    "Non-point sources of pollution": "Potential to add human waste - Delumwatta Road and in the Pathaha near the bathing well\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.265550411",
+    "E": "80.68620213",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68620213,
+     7.265550411
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "278",
+    "GN Division": "Gurudeniya West",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.270356981",
+    "E": "80.68136022",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68136022,
+     7.270356981
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "280",
+    "GN Division": "Lewla",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.257464345",
+    "E": "80.68099574",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68099574,
+     7.257464345
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "281",
+    "GN Division": "Ketawala",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.260462551",
+    "E": "80.67574065",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67574065,
+     7.260462551
+    ]
+   }
+  }
+ ]
+}

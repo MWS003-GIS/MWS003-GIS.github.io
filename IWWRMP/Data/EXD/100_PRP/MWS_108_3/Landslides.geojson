@@ -1,0 +1,78 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "629",
+    "GN Division": "Ambathenna",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.351098311",
+    "E": "80.6192066",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6192066,
+     7.351098311
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "630",
+    "GN Division": "Kendaliyadda",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.352660541",
+    "E": "80.62681412",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62681412,
+     7.352660541
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "631",
+    "GN Division": "Girakaduwa",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.35833717",
+    "E": "80.62321128",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62321128,
+     7.35833717
+    ]
+   }
+  }
+ ]
+}

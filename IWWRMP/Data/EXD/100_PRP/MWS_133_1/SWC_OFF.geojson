@@ -1,0 +1,282 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "94",
+    "GND Name": "Dihitideniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.193030899",
+    "E": "80.56298066",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56298066,
+     7.193030899
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "95",
+    "GND Name": "Appallagoda East",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.193724237",
+    "E": "80.55716385",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55716385,
+     7.193724237
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "96",
+    "GND Name": "Appallagoda West",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.191720819",
+    "E": "80.55200929",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55200929,
+     7.191720819
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "97",
+    "GND Name": "Kotagaloluwa",
+    "Key Activities proposed for Soil and Water conservation": "Establishing a retaining wall - Alakotuwa culvert\nEstablishing a retaining wall - Kotagaloluwa Community Hall\nEstablishing a concrete drain - Alakotuwa culvert",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.193730394",
+    "E": "80.57008945",
+    "Quantity": "50 m x 3 m\n50 m x 3 m\n50 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)\nRetaining Wall (Concrete)\nConcrete drain",
+    "Uniti_Cost": "5307500\n5307500\n3008500",
+    "Total_Cost": "By the project\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57008945,
+     7.193730394
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "98",
+    "GND Name": "Deldeniya",
+    "Key Activities proposed for Soil and Water conservation": "Establishing a concrete drain - from Galkoho bridge to Dhaldheniya Uskoho Culvert",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.188209392",
+    "E": "80.56932536",
+    "Quantity": "200 m",
+    "Proposed measure/s": "Concrete drain",
+    "Uniti_Cost": "12034000",
+    "Total_Cost": "By the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56932536,
+     7.188209392
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "99",
+    "GND Name": "Viharagama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.199063528",
+    "E": "80.55833126",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55833126,
+     7.199063528
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "100",
+    "GND Name": "Welamboda",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.201900934",
+    "E": "80.55168354",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55168354,
+     7.201900934
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "102",
+    "GND Name": "Watadeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.195701594",
+    "E": "80.54935619",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54935619,
+     7.195701594
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "103",
+    "GND Name": "Maveekumbura North",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.193324611",
+    "E": "80.54264286",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54264286,
+     7.193324611
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "106",
+    "GND Name": "Kooradeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.207959103",
+    "E": "80.54638035",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54638035,
+     7.207959103
+    ]
+   }
+  }
+ ]
+}

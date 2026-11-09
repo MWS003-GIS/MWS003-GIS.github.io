@@ -1,0 +1,488 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "594",
+    "GN Division": "Wattegama",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.352480023",
+    "E": "80.67838033",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67838033,
+     7.352480023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "595",
+    "GN Division": "Wattegama North",
+    "Non-point sources of pollution": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.352239554",
+    "E": "80.68475272",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68475272,
+     7.352239554
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "597",
+    "GN Division": "Eriyagasthenna",
+    "Non-point sources of pollution": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.344164919",
+    "E": "80.69170589",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69170589,
+     7.344164919
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "598",
+    "GN Division": "Udurawana",
+    "Non-point sources of pollution": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.361948336",
+    "E": "80.66767959",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66767959,
+     7.361948336
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "599",
+    "GN Division": "Puwakgahadeniya",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.356397938",
+    "E": "80.66749683",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66749683,
+     7.356397938
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "601",
+    "GN Division": "Meegammana",
+    "Non-point sources of pollution": "Potential to add human waste - Discharging waste into the Waththe Kade drain system during the rainy days (sewage pipes discharging into the drains)\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.346172116",
+    "E": "80.66874893",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66874893,
+     7.346172116
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "602",
+    "GN Division": "Walpaladeniya",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.351111154",
+    "E": "80.65993669",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65993669,
+     7.351111154
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "604",
+    "GN Division": "Meegamawatta",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.335989238",
+    "E": "80.66615133",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66615133,
+     7.335989238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "611",
+    "GN Division": "Udathalavinna Madige",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.336708582",
+    "E": "80.65419882",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65419882,
+     7.336708582
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "635",
+    "GN Division": "Abasingama",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.319347469",
+    "E": "80.67370086",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67370086,
+     7.319347469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "636",
+    "GN Division": "Leemagahadeniya",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.324706014",
+    "E": "80.67807211",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67807211,
+     7.324706014
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "637",
+    "GN Division": "Madawala Madige",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.330018986",
+    "E": "80.67050963",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67050963,
+     7.330018986
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "638",
+    "GN Division": "Gunnepana Madige",
+    "Non-point sources of pollution": "Potential to add human waste\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.324634133",
+    "E": "80.66692855",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66692855,
+     7.324634133
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "639",
+    "GN Division": "Pihilladeniya",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.321436682",
+    "E": "80.6726958",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6726958,
+     7.321436682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "640",
+    "GN Division": "Madawala",
+    "Non-point sources of pollution": "Potential to add human waste\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.331364685",
+    "E": "80.67941919",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67941919,
+     7.331364685
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "641",
+    "GN Division": "Yatirawana",
+    "Non-point sources of pollution": "Potential to add human waste - Yatirawana - Waththegama - Kandy Main Road\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.340971468",
+    "E": "80.67687127",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67687127,
+     7.340971468
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "642",
+    "GN Division": "Pitiyegedara",
+    "Non-point sources of pollution": "Potential to add human waste - Ramanwatta Pitiyegedara Housing Scheme\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.337514786",
+    "E": "80.68132278",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68132278,
+     7.337514786
+    ]
+   }
+  }
+ ]
+}

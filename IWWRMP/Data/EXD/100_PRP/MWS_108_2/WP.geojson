@@ -1,0 +1,768 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "559",
+    "GN Division": "Bulugohothenna",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.37095681",
+    "E": "80.61116756",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61116756,
+     7.37095681
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "563",
+    "GN Division": "Dodangolla",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.364534982",
+    "E": "80.61578605",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61578605,
+     7.364534982
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "564",
+    "GN Division": "Akurana",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.370683559",
+    "E": "80.61993781",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61993781,
+     7.370683559
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "565",
+    "GN Division": "Thelambugahawatta",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.371950794",
+    "E": "80.62713726",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62713726,
+     7.371950794
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "566",
+    "GN Division": "Waragashinna",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.367883531",
+    "E": "80.6205884",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6205884,
+     7.367883531
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "567",
+    "GN Division": "Neerella",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.375392058",
+    "E": "80.61621091",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61621091,
+     7.375392058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "568",
+    "GN Division": "Melchena",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.377606674",
+    "E": "80.61122493",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61122493,
+     7.377606674
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "569",
+    "GN Division": "Malwanahinna",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.38353338",
+    "E": "80.61477072",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61477072,
+     7.38353338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "570",
+    "GN Division": "Kurugoda",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.380345892",
+    "E": "80.62410425",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62410425,
+     7.380345892
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "571",
+    "GN Division": "Hureegolla",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.383927525",
+    "E": "80.62091103",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62091103,
+     7.383927525
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "572",
+    "GN Division": "Delgasthenna",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.377296613",
+    "E": "80.62517812",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62517812,
+     7.377296613
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "573",
+    "GN Division": "Pangollamada",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.388977035",
+    "E": "80.64257735",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64257735,
+     7.388977035
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "574",
+    "GN Division": "Malgamandeniya",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.396438881",
+    "E": "80.6340177",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6340177,
+     7.396438881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "575",
+    "GN Division": "Rathukoho",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.38914778",
+    "E": "80.63241044",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63241044,
+     7.38914778
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "576",
+    "GN Division": "Deegala",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.383133737",
+    "E": "80.63601587",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63601587,
+     7.383133737
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "577",
+    "GN Division": "Palle Deegala",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.377069209",
+    "E": "80.63515604",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63515604,
+     7.377069209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "578",
+    "GN Division": "Dunuvila North",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.381248528",
+    "E": "80.65205692",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65205692,
+     7.381248528
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "579",
+    "GN Division": "Dunuvila South",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.374635726",
+    "E": "80.64932391",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64932391,
+     7.374635726
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "580",
+    "GN Division": "Mawathupola",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.40122814",
+    "E": "80.62026219",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62026219,
+     7.40122814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GND No.": "581",
+    "GN Division": "Konakalagala",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.392249902",
+    "E": "80.62028874",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62028874,
+     7.392249902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GND No.": "582",
+    "GN Division": "Marahela",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.390065459",
+    "E": "80.62641507",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62641507,
+     7.390065459
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GND No.": "584",
+    "GN Division": "Arambepola",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.394773801",
+    "E": "80.6130439",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6130439,
+     7.394773801
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GND No.": "586",
+    "GN Division": "Dippitiya",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.387890266",
+    "E": "80.60710127",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60710127,
+     7.387890266
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GND No.": "587",
+    "GN Division": "Walahena",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.404771058",
+    "E": "80.60310366",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60310366,
+     7.404771058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "25",
+    "GND No.": "588",
+    "GN Division": "Delgasgoda",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.397578439",
+    "E": "80.60476338",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60476338,
+     7.397578439
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "26",
+    "GND No.": "592",
+    "GN Division": "Kurudugahaela",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.362626668",
+    "E": "80.62145128",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62145128,
+     7.362626668
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "27",
+    "GND No.": "593",
+    "GN Division": "Uggala",
+    "Non-point sources of pollution": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.367333054",
+    "E": "80.62907285",
+    "Point sources of pollution": "Local/Central governments",
+    "Add. N ": "0.5",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62907285,
+     7.367333054
+    ]
+   }
+  }
+ ]
+}

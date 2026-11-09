@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "276",
+    "GN Division": "Gurudeniya East",
+    "Landslides": "Risk of collapsing boulders - Kethgalla Watta Land at Old Hanguranketha Road",
+    "Location_Detail": "Approximation",
+    "N": "7.26563799",
+    "E": "80.70635464",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a retaining wall (100 m x 3 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70635464,
+     7.26563799
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "279",
+    "GN Division": "Maligathenna",
+    "Landslides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.258509928",
+    "E": "80.71178348",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71178348,
+     7.258509928
+    ]
+   }
+  }
+ ]
+}

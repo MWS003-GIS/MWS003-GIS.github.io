@@ -1,16 +1,452 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GN Division No.":"486C","GN Division":"Adikarigama","Landslides":"Soil erosion/soil sloughing during rainy season, Bogaspitiya","N":7.209943,"E":80.777199,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Constructing a retaining (L- 30 m W- 0.37 5m H- 3.6 m)","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.777199,7.209943]}},
-{"type":"Feature","properties":{"No.":2,"GN Division No.":"486B","GN Division":"Ambewela2","Landslides":"The road is not in proper condition due to high surface runoff and collapsing walls.","N":7.239338,"E":80.775758,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Constructing a retaining wall (L- 100 m H- 3 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/aw15.jpg"},"geometry":{"type":"Point","coordinates":[80.775758,7.239338]}},
-{"type":"Feature","properties":{"No.":5,"GN Division No.":"486","GN Division":"Idamalanda","Landslides":"Landsliding of earth embankment","N":7.219789,"E":80.772783,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Soil conservation methods need to be practiced in upper lands. Retaining walls and two tier bio rows need to be established.","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.772783,7.219789]}},
-{"type":"Feature","properties":{"No.":6,"GN Division No.":"486","GN Division":"Idamalanda","Landslides":"Soil erosion from the land accumulates in the stream","N":7.22015,"E":80.772291,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Soil conservation methods need to be practiced in upper lands. A retaining wall need to be constructed (L- 200 m W- 0.6 m H- 3.6 m)","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.772291,7.22015]}},
-{"type":"Feature","properties":{"No.":7,"GN Division No.":"485","GN Division":"Karalliyadda","Landslides":"Wall collapsing - Bogahalanda","N":7.205475,"E":80.78619,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Constructing a retaining wall (L- 6 m)","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.78619,7.205475]}},
-{"type":"Feature","properties":{"No.":8,"GN Division No.":"485","GN Division":"Karalliyadda","Landslides":"Landsliding of earth embankment -Gonakan Thenna","N":7.204205,"E":80.786344,"NBRO Recommendation N/A":"-","Proposed Measures":"Constructing a retaining wall (L- 6 m W- 0.6 m H- 4.5 m)","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.786344,7.204205]}},
-{"type":"Feature","properties":{"No.":9,"GN Division No.":"485","GN Division":"Karalliyadda","Landslides":"Landsliding -Karalliyadda","N":7.204774,"E":80.783901,"NBRO Recommendation N/A":"-","Proposed Measures":"Constructing a retaining wall (L- 9 m W- 0.6 m H- 7.5 m)","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.783901,7.204774]}},
-{"type":"Feature","properties":{"No.":10,"GN Division No.":"485C","GN Division":"Maliyadda1","Landslides":"Land sliding near the Maliyadda Thotupala (ferry)","N":7.196741,"E":80.782173,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Constructing a retaining wall (L - 9 m W - 0.6 m H - 1.8 m)","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.782173,7.196741]}},
-{"type":"Feature","properties":{"No.":11,"GN Division No.":"485C","GN Division":"Maliyadda2","Landslides":"Wall collapsing at the middle of Palle Gam Medda","N":7.198209,"E":80.783222,"NBRO Recommendation N/A":"-","Proposed Measures":"Constructing a retaining wall (L - 3 m W - 0.6 m H - 3.6 m)","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.783222,7.198209]}},
-{"type":"Feature","properties":{"No.":12,"GN Division No.":"485C","GN Division":"Maliyadda3","Landslides":"Landsliding of earth embankment - Gonagaha Kanda","N":7.198797,"E":80.782781,"NBRO Recommendation N/A":"-","Proposed Measures":"Constructing a retaining wall (L- 9 m W - 0.6 m H - 7.5 m)","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.782781,7.198797]}},
-{"type":"Feature","properties":{"No.":14,"GN Division No.":"487B","GN Division":"Mirahampe","Landslides":"The walls of houses are cracked.","N":7.189937,"E":80.780554,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Adapting proper soil conservation measures","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/MIR (11)1.jpg"},"geometry":{"type":"Point","coordinates":[80.780554,7.189937]}},
-{"type":"Feature","properties":{"No.":15,"GN Division No.":"487B","GN Division":"Mirahampe","Landslides":"Landsliding","N":7.19142,"E":80.780025,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Adapting proper soil conservation measures","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/MIR (11)2.jpg"},"geometry":{"type":"Point","coordinates":[80.780025,7.19142]}},
-{"type":"Feature","properties":{"No.":16,"GN Division No.":"487B","GN Division":"Mirahampe","Landslides":"The walls of houses are cracked.","N":7.194152,"E":80.778317,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Adapting proper soil conservation measures","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/MIR (11)3.jpg"},"geometry":{"type":"Point","coordinates":[80.778317,7.194152]}},
-{"type":"Feature","properties":{"No.":17,"GN Division No.":"487B","GN Division":"Mirahampe","Landslides":"Soil collapsing/sloughing","N":7.191898,"E":80.779826,"NBRO Recommendation N/A":"NBRO has visited","Proposed Measures":"Adapting proper soil conservation measures","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/MIR (11)4.jpg"},"geometry":{"type":"Point","coordinates":[80.779826,7.191898]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "486C",
+    "GN Division": "Adikarigama",
+    "Landslides": "Soil erosion/soil sloughing during rainy season, Bogaspitiya",
+    "Location_Detail": "Exact",
+    "N": "7.209943",
+    "E": "80.777199",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Constructing a retaining (L- 30 m W- 0.37 5m H- 3.6 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.777199,
+     7.209943
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "486B",
+    "GN Division": "Ambewela2",
+    "Landslides": "The road is not in proper condition due to high surface runoff and collapsing walls.",
+    "Location_Detail": "Exact",
+    "N": "7.239338",
+    "E": "80.775758",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Constructing a retaining wall (L- 100 m H- 3 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/aw15.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.775758,
+     7.239338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "487",
+    "GN Division": "Ganga Udagama",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.193817089",
+    "E": "80.78384747",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78384747,
+     7.193817089
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "486A",
+    "GN Division": "Hingurukaduwa",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.253530671",
+    "E": "80.76440438",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76440438,
+     7.253530671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "486",
+    "GN Division": "Idamalanda",
+    "Landslides": "Landsliding of earth embankment",
+    "Location_Detail": "Exact",
+    "N": "7.219789",
+    "E": "80.772783",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Soil conservation methods need to be practiced in upper lands. Retaining walls and two tier bio rows need to be established.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.772783,
+     7.219789
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "486",
+    "GN Division": "Idamalanda",
+    "Landslides": "Soil erosion from the land accumulates in the stream",
+    "Location_Detail": "Exact",
+    "N": "7.22015",
+    "E": "80.772291",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Soil conservation methods need to be practiced in upper lands. A retaining wall need to be constructed (L- 200 m W- 0.6 m H- 3.6 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.772291,
+     7.22015
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "485",
+    "GN Division": "Karalliyadda",
+    "Landslides": "Wall collapsing - Bogahalanda",
+    "Location_Detail": "Exact",
+    "N": "7.205475",
+    "E": "80.78619",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Constructing a retaining wall (L- 6 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78619,
+     7.205475
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "485",
+    "GN Division": "Karalliyadda",
+    "Landslides": "Landsliding of earth embankment -Gonakan Thenna",
+    "Location_Detail": "Exact",
+    "N": "7.204205",
+    "E": "80.786344",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Constructing a retaining wall (L- 6 m W- 0.6 m H- 4.5 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.786344,
+     7.204205
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "485",
+    "GN Division": "Karalliyadda",
+    "Landslides": "Landsliding -Karalliyadda",
+    "Location_Detail": "Exact",
+    "N": "7.204774",
+    "E": "80.783901",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Constructing a retaining wall (L- 9 m W- 0.6 m H- 7.5 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.783901,
+     7.204774
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "485C",
+    "GN Division": "Maliyadda1",
+    "Landslides": "Land sliding near the Maliyadda Thotupala (ferry)",
+    "Location_Detail": "Exact",
+    "N": "7.196741",
+    "E": "80.782173",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Constructing a retaining wall (L - 9 m W - 0.6 m H - 1.8 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.782173,
+     7.196741
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "485C",
+    "GN Division": "Maliyadda2",
+    "Landslides": "Wall collapsing at the middle of Palle Gam Medda",
+    "Location_Detail": "Exact",
+    "N": "7.198209",
+    "E": "80.783222",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Constructing a retaining wall (L - 3 m W - 0.6 m H - 3.6 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.783222,
+     7.198209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "485C",
+    "GN Division": "Maliyadda3",
+    "Landslides": "Landsliding of earth embankment - Gonagaha Kanda",
+    "Location_Detail": "Exact",
+    "N": "7.198797",
+    "E": "80.782781",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Constructing a retaining wall (L- 9 m W - 0.6 m H - 7.5 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.782781,
+     7.198797
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "488",
+    "GN Division": "Malulla",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.190408045",
+    "E": "80.79101492",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.79101492,
+     7.190408045
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "487B",
+    "GN Division": "Mirahampe",
+    "Landslides": "The walls of houses are cracked.",
+    "Location_Detail": "Exact",
+    "N": "7.189937",
+    "E": "80.780554",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Adapting proper soil conservation measures",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/MIR (11)1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.780554,
+     7.189937
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GN Division No.": "487B",
+    "GN Division": "Mirahampe",
+    "Landslides": "Landsliding",
+    "Location_Detail": "Exact",
+    "N": "7.19142",
+    "E": "80.780025",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Adapting proper soil conservation measures",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/MIR (11)2.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.780025,
+     7.19142
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GN Division No.": "487B",
+    "GN Division": "Mirahampe",
+    "Landslides": "The walls of houses are cracked.",
+    "Location_Detail": "Exact",
+    "N": "7.194152",
+    "E": "80.778317",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Adapting proper soil conservation measures",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/MIR (11)3.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.778317,
+     7.194152
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GN Division No.": "487B",
+    "GN Division": "Mirahampe",
+    "Landslides": "Soil collapsing/sloughing",
+    "Location_Detail": "Exact",
+    "N": "7.191898",
+    "E": "80.779826",
+    "NBRO Recommendation N/A": "NBRO has visited",
+    "Proposed Measures": "Adapting proper soil conservation measures",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_013/MIR (11)4.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.779826,
+     7.191898
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GN Division No.": "487A",
+    "GN Division": "Mudunapita",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.181800266",
+    "E": "80.78846692",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78846692,
+     7.181800266
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GN Division No.": "494B",
+    "GN Division": "Sangaraja Gama",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.186396177",
+    "E": "80.77913168",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77913168,
+     7.186396177
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GN Division No.": "494F",
+    "GN Division": "Udawatta Kumbura",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.176349297",
+    "E": "80.7850336",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7850336,
+     7.176349297
+    ]
+   }
+  }
+ ]
+}

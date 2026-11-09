@@ -1,0 +1,180 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "1157",
+    "GN Division": "Megoda Kalugamuwa",
+    "Non-point sources of pollution": "Improper disposal of domestic waste",
+    "Location_Detail": "Approximation",
+    "N": "7.211613151",
+    "E": "80.60928789",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in home gardens for disposing household waste/ Awareness program on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60928789,
+     7.211613151
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "1161",
+    "GN Division": "Wariyagala",
+    "Non-point sources of pollution": "Potential to add human waste - Hillside Janapadaya\nImproper disposal of domestic waste",
+    "Location_Detail": "Approximation",
+    "N": "7.206775239",
+    "E": "80.63285036",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63285036,
+     7.206775239
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "1160",
+    "GN Division": "Haloya",
+    "Non-point sources of pollution": "Potential to add human waste - Upland No. 02 Line-house\nImproper disposal of domestic waste",
+    "Location_Detail": "Approximation",
+    "N": "7.222175227",
+    "E": "80.62840269",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62840269,
+     7.222175227
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "1137",
+    "GN Division": "Nillamba",
+    "Non-point sources of pollution": "Improper disposal of domestic waste",
+    "Location_Detail": "Approximation",
+    "N": "7.194337476",
+    "E": "80.63636076",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63636076,
+     7.194337476
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "1162",
+    "GN Division": "Galoya",
+    "Non-point sources of pollution": "Potential to add human waste - Hadabima Janapadaya, Galoya\nImproper disposal of domestic waste",
+    "Location_Detail": "Approximation",
+    "N": "7.219193807",
+    "E": "80.61846585",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Preparing a separate place in homegardens for disposing household waste/ Awareness programme on how to disposal household waste properly and converting them to usable products such as compost/ Facilitating garbage collection",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "Local/Central governments",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61846585,
+     7.219193807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "1158",
+    "GN Division": "Ganegoda",
+    "Non-point sources of pollution": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.200785063",
+    "E": "80.61078969",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "Awareness programme on how to disposal household waste properly and converting them to usable products such as compost",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61078969,
+     7.200785063
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "51C",
+    "GND Name": "Kandepuhulpola",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.843922428",
+    "E": "80.8625277",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8625277,
+     6.843922428
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "62D",
+    "GND Name": "Wangiyakumbura",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Flooding over the bridge due to blockages of Kudugala Oya from waste",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.832517823",
+    "E": "80.8659973",
+    "Quantity": "25 m x 2 m\n12 m x 2 m",
+    "Proposed measure/s": "Retaining Wall (Masonary)\nRetaining Wall (Masonary)",
+    "Uniti_Cost": "1100000\n528000",
+    "Total_Cost": "By the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8659973,
+     6.832517823
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "62H",
+    "GND Name": "Helayalkumbura",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Thennekumbura",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "6.841374891",
+    "E": "80.89133284",
+    "Quantity": "30 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Uniti_Cost": "3492500",
+    "Total_Cost": "By the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89133284,
+     6.841374891
+    ]
+   }
+  }
+ ]
+}

@@ -1,10 +1,628 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":11,"GN Division No.":144,"GN Division":"Dehigama North","Landslides":"Bank collapsing - Dehigama North Muslim School's Road","N":7.295547,"E":80.569241,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Revisit landuse planning. Construct a retaining wall (20 m x 3 m). Follow recommendations of NBRO having consulted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Dehigama North Muslim School_s road.jpg"},"geometry":{"type":"Point","coordinates":[80.569241,7.295547]}},
-{"type":"Feature","properties":{"No.":12,"GN Division No.":145,"GN Division":"Dehigama South","Landslides":"1. Landsliding - Near Saralankara Building","N":7.292881,"E":80.566994,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Construct a retaining wall (10 m x 3 m). Follow recommendations of NBRO having consulted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/near saranankara building.jpg"},"geometry":{"type":"Point","coordinates":[80.566994,7.292881]}},
-{"type":"Feature","properties":{"No.":13,"GN Division No.":145,"GN Division":"Dehigama South","Landslides":"2. Landsliding - Road near Mrs. Karunawathi's house","N":7.292683,"E":80.567691,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Construct a retaining wall (10 m x 3 m). Follow recommendations of NBRO having consulted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Disaster near to karunawathi haouse.jpg"},"geometry":{"type":"Point","coordinates":[80.567691,7.292683]}},
-{"type":"Feature","properties":{"No.":14,"GN Division No.":146,"GN Division":"Mangalagama","Landslides":"Bank collapsing - Near Jayawardanarama Temple","N":7.275793,"E":80.560579,"NBRO Recommendation N/A":null,"Proposed Measures":"Construct a retaining wall (10 m x 3 m). Follow recommendations of NBRO having consulted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Disaster at Guruketiya Temple.jpg"},"geometry":{"type":"Point","coordinates":[80.560579,7.275793]}},
-{"type":"Feature","properties":{"No.":15,"GN Division No.":149,"GN Division":"Malgammana","Landslides":"1. Landsliding - Near the old post office near Mr. C.M.V.G. Thilan's house","N":7.276487,"E":80.56065,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Soil  conservation with retaining walls, live hedges etc. is needed. Follow recommendations of NBRO having consulted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Old post office.jpg"},"geometry":{"type":"Point","coordinates":[80.56065,7.276487]}},
-{"type":"Feature","properties":{"No.":16,"GN Division No.":149,"GN Division":"Malgammana","Landslides":"2. Landsliding - Near the Bo tree of Gurukete Temple","N":7.277944,"E":80.56065,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Soil  conservation with retaining walls, live hedges etc. is needed. Follow recommendations of NBRO.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Disaster at Guruketiya Temple.jpg"},"geometry":{"type":"Point","coordinates":[80.56065,7.277944]}},
-{"type":"Feature","properties":{"No.":17,"GN Division No.":158,"GN Division":"Gurugama","Landslides":"Bank erosion - Sanka Mawatha","N":7.293677,"E":80.553373,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Construct a retaining wall (50 m x 3 m). Follow recommendations of NBRO having consulted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Sanaka mawatha_8253.jpg"},"geometry":{"type":"Point","coordinates":[80.553373,7.293677]}},
-{"type":"Feature","properties":{"No.":18,"GN Division No.":165,"GN Division":"Arambegama West","Landslides":"Bank collapsing - Kudaoya canal nearby areas","N":7.271928,"E":80.544492,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Practice soil conservation methods to protect the houses. Follow recommendations of NBRO having consulted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/06-04-2026_12-25-59_7911.jpg"},"geometry":{"type":"Point","coordinates":[80.544492,7.271928]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "144",
+    "GN Division": "Dehigama North",
+    "Landslides": "Bank collapsing - Dehigama North Muslim School's Road",
+    "Location_Detail": "Exact",
+    "N": "7.295547",
+    "E": "80.569241",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Revisit landuse planning. Construct a retaining wall (20 m x 3 m). Follow recommendations of NBRO having consulted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Dehigama North Muslim School_s road.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.569241,
+     7.295547
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "145",
+    "GN Division": "Dehigama South",
+    "Landslides": "1. Landsliding - Near Saralankara Building",
+    "Location_Detail": "Exact",
+    "N": "7.292881",
+    "E": "80.566994",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Construct a retaining wall (10 m x 3 m). Follow recommendations of NBRO having consulted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/near saranankara building.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.566994,
+     7.292881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "145",
+    "GN Division": "Dehigama South",
+    "Landslides": "2. Landsliding - Road near Mrs. Karunawathi's house",
+    "Location_Detail": "Exact",
+    "N": "7.292683",
+    "E": "80.567691",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Construct a retaining wall (10 m x 3 m). Follow recommendations of NBRO having consulted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Disaster near to karunawathi haouse.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.567691,
+     7.292683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "146",
+    "GN Division": "Mangalagama",
+    "Landslides": "Bank collapsing - Near Jayawardanarama Temple",
+    "Location_Detail": "Exact",
+    "N": "7.275793",
+    "E": "80.560579",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Construct a retaining wall (10 m x 3 m). Follow recommendations of NBRO having consulted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Disaster at Guruketiya Temple.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.560579,
+     7.275793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "147",
+    "GN Division": "Diyapalagoda",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.285380783",
+    "E": "80.55840978",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55840978,
+     7.285380783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "149",
+    "GN Division": "Malgammana",
+    "Landslides": "1. Landsliding - Near the old post office near Mr. C.M.V.G. Thilan's house",
+    "Location_Detail": "Exact",
+    "N": "7.276487",
+    "E": "80.56065",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Soil  conservation with retaining walls, live hedges etc. is needed. Follow recommendations of NBRO having consulted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Old post office.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56065,
+     7.276487
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "149",
+    "GN Division": "Malgammana",
+    "Landslides": "2. Landsliding - Near the Bo tree of Gurukete Temple",
+    "Location_Detail": "Exact",
+    "N": "7.277944",
+    "E": "80.56065",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Soil  conservation with retaining walls, live hedges etc. is needed. Follow recommendations of NBRO.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Disaster at Guruketiya Temple.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56065,
+     7.277944
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "155",
+    "GN Division": "Ihala Dodamwala",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.290298307",
+    "E": "80.54337533",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54337533,
+     7.290298307
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "156",
+    "GN Division": "Pahala Dodamwala",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.288842347",
+    "E": "80.55137826",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55137826,
+     7.288842347
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "157",
+    "GN Division": "Wathurakumbura",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.300303033",
+    "E": "80.54039068",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54039068,
+     7.300303033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "158",
+    "GN Division": "Gurugama",
+    "Landslides": "Bank erosion - Sanka Mawatha",
+    "Location_Detail": "Exact",
+    "N": "7.293677",
+    "E": "80.553373",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Construct a retaining wall (50 m x 3 m). Follow recommendations of NBRO having consulted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/Sanaka mawatha_8253.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.553373,
+     7.293677
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "159",
+    "GN Division": "Dehianga North",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.303214895",
+    "E": "80.55481294",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55481294,
+     7.303214895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "160",
+    "GN Division": "Dehianga South",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.296427062",
+    "E": "80.55732894",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55732894,
+     7.296427062
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "161",
+    "GN Division": "Danthure",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.283765361",
+    "E": "80.53586393",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53586393,
+     7.283765361
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GN Division No.": "162",
+    "GN Division": "Munwathugoda",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.287021785",
+    "E": "80.53405032",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53405032,
+     7.287021785
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GN Division No.": "163",
+    "GN Division": "Siyambalagoda",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.27993706",
+    "E": "80.5402154",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5402154,
+     7.27993706
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GN Division No.": "164",
+    "GN Division": "Arambegama East",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.272090783",
+    "E": "80.54977299",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54977299,
+     7.272090783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GN Division No.": "165",
+    "GN Division": "Arambegama West",
+    "Landslides": "Bank collapsing - Kudaoya canal nearby areas",
+    "Location_Detail": "Exact",
+    "N": "7.271928",
+    "E": "80.544492",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Practice soil conservation methods to protect the houses. Follow recommendations of NBRO having consulted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_120/06-04-2026_12-25-59_7911.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.544492,
+     7.271928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GN Division No.": "168",
+    "GN Division": "Urapola",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.263490799",
+    "E": "80.53960312",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53960312,
+     7.263490799
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GN Division No.": "169",
+    "GN Division": "Kurunduwatta",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.269967792",
+    "E": "80.53866206",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53866206,
+     7.269967792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GN Division No.": "170",
+    "GN Division": "Kudaoya",
+    "Landslides": "Potential to add human waste - There are only 2 toilets in Giragama Estate residents\nInformal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.269571799",
+    "E": "80.54265402",
+    "NBRO Recommendation N/A": "3",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54265402,
+     7.269571799
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GN Division No.": "174",
+    "GN Division": "Haliyadda",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.274112364",
+    "E": "80.53377799",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53377799,
+     7.274112364
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GN Division No.": "175",
+    "GN Division": "Kotabogoda",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.266692325",
+    "E": "80.53267028",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53267028,
+     7.266692325
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GN Division No.": "179",
+    "GN Division": "Udawela Pahalagama",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.295410491",
+    "E": "80.53309521",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53309521,
+     7.295410491
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "25",
+    "GN Division No.": "180",
+    "GN Division": "Giragama",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.273783135",
+    "E": "80.55588467",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55588467,
+     7.273783135
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "26",
+    "GN Division No.": "181",
+    "GN Division": "Parakatawella",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.280375016",
+    "E": "80.54535178",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54535178,
+     7.280375016
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "27",
+    "GN Division No.": "182",
+    "GN Division": "Imbulmalgama",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.280803747",
+    "E": "80.55125349",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55125349,
+     7.280803747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "28",
+    "GN Division No.": "211",
+    "GN Division": "Walgampaya",
+    "Landslides": "Informal disposal of household wastes/garbage",
+    "Location_Detail": "Approximation",
+    "N": "7.288806022",
+    "E": "80.52791962",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52791962,
+     7.288806022
+    ]
+   }
+  }
+ ]
+}

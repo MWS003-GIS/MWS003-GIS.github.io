@@ -1,5 +1,122 @@
-{"type":"FeatureCollection","name":"SR","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No":1,"GND No.":734,"Scheme":"irragation canel Tharura govipala","N":7.413969,"E":80.738075,"Observations":"slit was deposited, and waste are accumulated in the canal. 1800m long canal. There are 30 acres of paddy fields that get water from this canal.","Description":"Planting Arecanut at 1.5m \nspacing in 2 rows and Silt removal\nPlanting Arecanut for 1000m Length\nWet silt removal from Canal or Tank beds and hauling surplus materials\nTidying up\nContingencies (10%)","Amount (Rs.)":614213,"photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.738075,7.413969]}},
-{"type":"Feature","properties":{"No":2,"GND No.":734,"Scheme":"Huluganga - Branch \nWatakele","N":7.415747,"E":80.739944,"Observations":"The canal bunds are damaged due to the flooding ","Description":"Canal Reservation protection by Earth filling\nStream/Canal Reservation protection by Earth filling of strip of 1.5m to 2m wide and average depth of 0.5m for 1km.\nPlanting bamboo trees for 0.5km\nReplanting Bamboo species and Vetiver grass or riparian species\nArecanut Seedling for 0.5km\nVegetative cover improvement for narrow strips (1.5mâ€2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover crop\nTidying up\nContingencies (10%)\n","Amount (Rs.)":1949200,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_095/hulu river.jpg"},"geometry":{"type":"Point","coordinates":[80.739944,7.415747]}},
-{"type":"Feature","properties":{"No":3,"GND No.":735,"Scheme":"relugas Ela Maligawe Idama","N":7.454766,"E":80.711962,"Observations":"20 acres initiated into forest. ","Description":"Silt Removal Using a Backhoe Machine\nEarth excavation for fill material and hauling fill materials up to 1.6 km by machinery\nTidying up\nContingencies (10%)","Amount (Rs.)":189750,"photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_095/relugas canal (2).jpg"},"geometry":{"type":"Point","coordinates":[80.711962,7.454766]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SR",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "734",
+    "Scheme": "Irrigation canel Tharura govipala",
+    "Location_Detail": "Exact",
+    "N": "7.413969",
+    "E": "80.738075",
+    "Observation": "slit was deposited, and waste are accumulated in the canal. 1800m long canal. There are 30 acres of paddy fields that get water from this canal.",
+    "Description": "Planting Arecanut at 1.5m spacing in 2 rows and Silt removalPlanting Arecanut for 1000m Length Wet silt removal from Canal or Tank beds and hauling surplus materialsTidying upContingencies (10%)",
+    "Amount (Rs.)": "614213",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.738075,
+     7.413969
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "734",
+    "Scheme": "Huluganga - Branch Watakele",
+    "Location_Detail": "Exact",
+    "N": "7.415747",
+    "E": "80.739944",
+    "Observation": "The canal bunds are damaged due to the flooding",
+    "Description": "Canal Reservation protection by Earth fillingStream/Canal Reservation protection by Earth filling of strip of 1.5m to 2m wide and average depth of 0.5m for 1km.Planting bamboo trees for 0.5kmReplanting Bamboo species and Vetiver grass or riparian speciesArecanut Seedling for 0.5kmVegetative cover improvement for narrow strips (1.5m‐2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover cropTidying upContingencies (10%)",
+    "Amount (Rs.)": "1949200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.739944,
+     7.415747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "735",
+    "Scheme": "relugas Ela Maligawe Idama",
+    "Location_Detail": "Exact",
+    "N": "7.454766",
+    "E": "80.711962",
+    "Observation": "20 acres initiated into forest.",
+    "Description": "Silt Removal Using a Backhoe MachineEarth excavation for fill material and hauling fill materials up to 1.6 km by machineryTidying upContingencies (10%)",
+    "Amount (Rs.)": "189750",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.711962,
+     7.454766
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "735",
+    "Scheme": "Huluganga - Branch Hulankanda - Nellimale",
+    "Location_Detail": "Approximation",
+    "N": "7.447770202",
+    "E": "80.72421529",
+    "Observation": "No considerable issue",
+    "Description": "Plantation of Bamboo Trees and Arecanut SeedlingPlanting Bamboo Trees for 0.5kmReplanting Bamboo species and Vetiver grass or riparian speciesArecanut Seedlings for 0.5kmVegetative cover improvement for narrow strips (1.5m‐2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover cropTidying upContingencies (10%)",
+    "Amount (Rs.)": "1090100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.72421529,
+     7.447770202
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "735",
+    "Scheme": "Nellimale Ela",
+    "Location_Detail": "Approximation",
+    "N": "7.447770202",
+    "E": "80.72421529",
+    "Observation": "No considerable issue",
+    "Description": "Plantation of Bamboo Trees and Arecanut SeedlingsPlanting Bamboo Trees for 0.25kmReplanting Bamboo species and Vetiver grass or riparian speciesArecanut Seedling for 0.25kmVegetative cover improvement for narrow strips (1.5m‐2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover cropTidying upContingencies (10%)",
+    "Amount (Rs.)": "545600",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.72421529,
+     7.447770202
+    ]
+   }
+  }
+ ]
+}

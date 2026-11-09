@@ -1,0 +1,66 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "276",
+    "GND Name": "Gurudeniya East",
+    "Key Activities proposed for Soil and Water conservation": "Establishing a retaining wall - Kethgalla Watta Land at Old Hanguranketha Road",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.26563799",
+    "E": "80.70635464",
+    "Quantity": "100 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Uniti_Cost": "10609500",
+    "Total_Cost": "By the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70635464,
+     7.26563799
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "279",
+    "GND Name": "Maligathenna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported.",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.258509928",
+    "E": "80.71178348",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71178348,
+     7.258509928
+    ]
+   }
+  }
+ ]
+}

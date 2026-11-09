@@ -1,10 +1,228 @@
-{"type":"FeatureCollection","name":"SWC_ON","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":5,"GND No.":"499 G","GND Name":"Kirimetiya5","Key Activities proposed for Soil and Water conservation":"4. Soil conservation practices - Aluthgama (70�)","Priority based on Soil Erosion Hazard":3,"N":7.116992,"E":80.744619,"Quantity":"5 ha","Proposed measure/s":"The boundaries of the reservation need to be demarcated and a fence needs to be constructed.","Uniti_Cost":"-","Total_Cost":"500,000.00","Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community/ Shramadana","Time frame for the implementation":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/KT3.jpg"},"geometry":{"type":"Point","coordinates":[80.744619,7.116992]}},
-{"type":"Feature","properties":{"No.":7,"GND No.":"499 G","GND Name":"Kirimetiya7","Key Activities proposed for Soil and Water conservation":"6. Soil conservation practices - Devalapathana  (75�)","Priority based on Soil Erosion Hazard":4,"N":7.116538,"E":80.745188,"Quantity":"3.2 ha","Proposed measure/s":"Live fencing/SALT\nStone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"800,000.00","Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/KT6.jpg"},"geometry":{"type":"Point","coordinates":[80.745188,7.116538]}},
-{"type":"Feature","properties":{"No.":8,"GND No.":"499 G","GND Name":"Kirimetiya8","Key Activities proposed for Soil and Water conservation":"7. Soil conservation practices - Kirimetiya (65�)","Priority based on Soil Erosion Hazard":1,"N":7.122623,"E":80.745175,"Quantity":"32 ha","Proposed measure/s":"Live fencing/SALT\nStone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"8,000,000.00","Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"1 Year","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.745175,7.122623]}},
-{"type":"Feature","properties":{"No.":12,"GND No.":"501B","GND Name":"Muloya","Key Activities proposed for Soil and Water conservation":"4. Establishing a  rubble masonory wall - Muloya Regional Hospital","Priority based on Soil Erosion Hazard":5,"N":7.09745,"E":80.750984,"Quantity":"30 m x 3.6 m","Proposed measure/s":"Retaining wall","Uniti_Cost":"2,000.00 m-2","Total_Cost":"216,000.00","Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.5 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.750984,7.09745]}},
-{"type":"Feature","properties":{"No.":18,"GND No.":"501","GND Name":"Rahathungoda","Key Activities proposed for Soil and Water conservation":"6. Soil conservation practices - Rahathungoda (60�)","Priority based on Soil Erosion Hazard":5,"N":7.110655,"E":80.76249,"Quantity":"40 ha","Proposed measure/s":"Live fencing/SALT\nStone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"10,000,000.00","Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"1 Year","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.76249,7.110655]}},
-{"type":"Feature","properties":{"No.":19,"GND No.":"501","GND Name":"Rahathungoda","Key Activities proposed for Soil and Water conservation":"7. Soil conservation practices - Rahathungoda (45�)","Priority based on Soil Erosion Hazard":5,"N":7.112706,"E":80.76632,"Quantity":"3.4 ha","Proposed measure/s":"Live fencing/SALT\nStone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"850,000.00","Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/RG5.jpg"},"geometry":{"type":"Point","coordinates":[80.76632,7.112706]}},
-{"type":"Feature","properties":{"No.":20,"GND No.":"501","GND Name":"Rahathungoda","Key Activities proposed for Soil and Water conservation":"8. Soil conservation practices - Rahathungoda (60�)","Priority based on Soil Erosion Hazard":5,"N":7.107671,"E":80.764355,"Quantity":"20 ha","Proposed measure/s":"Live fencing/SALT\nStone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"5,000,000.00","Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/RG14.jpg"},"geometry":{"type":"Point","coordinates":[80.764355,7.107671]}},
-{"type":"Feature","properties":{"No.":22,"GND No.":"501F","GND Name":"Rookwood Estate","Key Activities proposed for Soil and Water conservation":"2. Soil conservation practices - Rookwood Estate (45�)","Priority based on Soil Erosion Hazard":4,"N":7.084622,"E":80.761246,"Quantity":"20 ha","Proposed measure/s":"Live fencing/SALT\nStone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"5,000,000.00","Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"1 Year","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/R (05)2.jpg"},"geometry":{"type":"Point","coordinates":[80.761246,7.084622]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "499 G",
+    "GND Name": "Kirimetiya5",
+    "Key Activities proposed for Soil and Water conservation": "4. Soil conservation practices - Aluthgama (70?)",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.116992",
+    "E": "80.744619",
+    "Quantity": "5 ha",
+    "Proposed measure/s": "The boundaries of the reservation need to be demarcated and a fence needs to be constructed.",
+    "Uniti_Cost": "-",
+    "Total_Cost": "500,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community/ Shramadana Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/KT3.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.744619,
+     7.116992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "499 G",
+    "GND Name": "Kirimetiya7",
+    "Key Activities proposed for Soil and Water conservation": "6. Soil conservation practices - Devalapathana  (75?)",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.116538",
+    "E": "80.745188",
+    "Quantity": "3.2 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "800,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/KT6.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.745188,
+     7.116538
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "499 G",
+    "GND Name": "Kirimetiya8",
+    "Key Activities proposed for Soil and Water conservation": "7. Soil conservation practices - Kirimetiya (65?)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.122623",
+    "E": "80.745175",
+    "Quantity": "32 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "8,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "1 Year",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.745175,
+     7.122623
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "501B",
+    "GND Name": "Muloya",
+    "Key Activities proposed for Soil and Water conservation": "4. Establishing a  rubble masonory wall - Muloya Regional Hospital",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.09745",
+    "E": "80.750984",
+    "Quantity": "30 m x 3.6 m",
+    "Proposed measure/s": "Retaining wall",
+    "Uniti_Cost": "2,000.00 m-2",
+    "Total_Cost": "216,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.750984,
+     7.09745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "501",
+    "GND Name": "Rahathungoda",
+    "Key Activities proposed for Soil and Water conservation": "6. Soil conservation practices - Rahathungoda (60?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.110655",
+    "E": "80.76249",
+    "Quantity": "40 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "10,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "1 Year",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76249,
+     7.110655
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "501",
+    "GND Name": "Rahathungoda",
+    "Key Activities proposed for Soil and Water conservation": "7. Soil conservation practices - Rahathungoda (45?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.112706",
+    "E": "80.76632",
+    "Quantity": "3.4 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "850,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/RG5.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76632,
+     7.112706
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "501",
+    "GND Name": "Rahathungoda",
+    "Key Activities proposed for Soil and Water conservation": "8. Soil conservation practices - Rahathungoda (60?)",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Exact",
+    "N": "7.107671",
+    "E": "80.764355",
+    "Quantity": "20 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "5,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/RG14.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.764355,
+     7.107671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "501F",
+    "GND Name": "Rookwood Estate",
+    "Key Activities proposed for Soil and Water conservation": "2. Soil conservation practices - Rookwood Estate (45?)",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.084622",
+    "E": "80.761246",
+    "Quantity": "20 ha",
+    "Proposed measure/s": "Live fencing/SALT\nStone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "5,000,000.00",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "1 Year",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_010/R (05)2.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.761246,
+     7.084622
+    ]
+   }
+  }
+ ]
+}

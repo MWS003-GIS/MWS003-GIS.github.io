@@ -1,3 +1,34 @@
-{"type":"FeatureCollection","name":"MI","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No":1,"MWS_ID":132,"GND_No_":1187,"Name_of_th":"Anicut and Canal of Mahakumbura Yaaya","N":7.093564,"E":80.575279,"Observatio":"Although the anicut is in good condition, it is unable to collect water due to bank erosion. The canal has also been developed. 6 acres of paddy is cultivated from this canal.","Descriptio":"Extension of the existing anicut by 1.50 m length,  0.75 m height and minor repairs to the existing anicut\n\nClearing the site and scarifying the surfaces of the existing anicut\n\nCommon excavation for foundation or quarry materials and haul the surplus up","Amount__Rs":"266,200","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_132/Minor Irrigation - Mahakumbura Yaaya Canal and anicut (4).jpg"},"geometry":{"type":"Point","coordinates":[80.575279,7.093564]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "MI",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "1187",
+    "Scheme": "Anicut and Canal of Mahakumbura Yaaya",
+    "Location_Detail": "Exact",
+    "N": "7.093564",
+    "E": "80.575279",
+    "Observation": "Although the anicut is in good condition, it is unable to collect water due to bank erosion. The canal has also been developed. 6 acres of paddy is cultivated from this canal. Leakages are observed (along the canal). Canal bund has been encroached at some places therefore farmers requested to strengthen the bund and demarcate the reservation by planting Arecanut trees.",
+    "Description": "Extension of the existing anicut by 1.50 m length, 0.75 m height and minor repairs to the existing anicutClearing the site and scarifying the surfaces of the existing anicutCommon excavation for foundation or quarry materials and haul the surplus up to 30m by Manually.Plywood form work including making, fixing & removing for structure -05 uses1:3:6 (40mm) concrete with concrete mixer with 20% plums (volume batching) in 1.8 m high & 5.0 m long water retaining wall keeping 01 No. 1.20m long, 0.9 m deep opening to be functioned as the spillway.Dry rubble packing (with locally found rubble, size over 225mm ) for 1.5 m width and to the whole width to act as a DS erosion protectionTransport of machinery and materialsMinor repairs to the existing anicutMiscellaneousContingencies 10% Earth work in the canal and Planting trees along the canalStream / canal reservation protection by earthfilling of strip of 1.5m to 2.0 m wide and average Depth of 0.5mVegetative cover improving for narrow strips (1.5m-2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 rowMiscellaneousContingencies 10%",
+    "Amount (Rs.)": "266200",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.575279,
+     7.093564
+    ]
+   }
+  }
+ ]
+}

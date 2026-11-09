@@ -1,7 +1,309 @@
-{"type":"FeatureCollection","name":"SWC_ON","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":2,"GND No.":402,"GND Name":"Marawanagoda","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices - Land cultivated with mixed crops (35°-45°)","Priority based on Soil Erosion Hazard":1,"N":7.342721,"E":80.558544,"Quantity":"1 ha","Proposed measure/s":"1. Establishing SALT  - 800 m/ 2. Lock and spills - 100 m/ 3. Stone terracing - 100 m/ 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks","Uniti_Cost":"250.00 m-1/ 400.00 m-1/ 2500.00 m-1","Total_Cost":490000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_115_1/Land cultivated with mixed crops_1.jpg"},"geometry":{"type":"Point","coordinates":[80.558544,7.342721]}},
-{"type":"Feature","properties":{"No.":3,"GND No.":403,"GND Name":"Niyambepola","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices (30°-40°)","Priority based on Soil Erosion Hazard":1,"N":7.351832,"E":80.555183,"Quantity":"6 ha","Proposed measure/s":"1. Establishing SALT  - 2000 m/ 2. Live fencing - 2000 m/ 3. Lock and spills - 1000 m/ 4. Stone terracing - 1000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching,","Uniti_Cost":"250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1","Total_Cost":3640000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.555183,7.351832]}},
-{"type":"Feature","properties":{"No.":4,"GND No.":403,"GND Name":"Niyambepola","Key Activities proposed for Soil and Water conservation":"2. Soil conservation practices -  Around Ms. Champika's House (30°-40°)","Priority based on Soil Erosion Hazard":1,"N":7.352189,"E":80.55775,"Quantity":"6 ha","Proposed measure/s":"1. Establishing SALT  - 2000 m/ 2. Live fencing - 2000 m/ 3. Lock and spills - 1000 m/ 4. Stone terracing - 1000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching,","Uniti_Cost":"250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1","Total_Cost":3640000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.55775,7.352189]}},
-{"type":"Feature","properties":{"No.":5,"GND No.":403,"GND Name":"Niyambepola","Key Activities proposed for Soil and Water conservation":"3. Soil conservation practices -  Around B.G. Sunil' House  (30°-40°)","Priority based on Soil Erosion Hazard":1,"N":7.351143,"E":80.560061,"Quantity":"2 ha","Proposed measure/s":"1. Establishing SALT  - 2000 m/2. Live fencing - 2000 m/ 3. Lock and spills - 1000 m/ 4. Stone terracing - 1000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching,","Uniti_Cost":"250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1","Total_Cost":3640000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.560061,7.351143]}},
-{"type":"Feature","properties":{"No.":6,"GND No.":403,"GND Name":"Niyambepola","Key Activities proposed for Soil and Water conservation":"4. Soil conservation practices -  Around Mr. Chandra Kumara' House (30°-40°)","Priority based on Soil Erosion Hazard":1,"N":7.352256,"E":80.564682,"Quantity":"2 ha","Proposed measure/s":"1. Establishing SALT  - 2000 m/ 2. Live fencing - 2000 m/ 3. Lock and spills - 1000 m/ 4. Stone terracing - 1000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching,","Uniti_Cost":"250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1","Total_Cost":3640000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.564682,7.352256]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "360",
+    "GND Name": "Adungama Palkumbura",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.342795907",
+    "E": "80.54997794",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54997794,
+     7.342795907
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "399",
+    "GND Name": "Alawattegama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.364548109",
+    "E": "80.55228667",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55228667,
+     7.364548109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "402",
+    "GND Name": "Marawanagoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices - Land cultivated with mixed crops (35°-45°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.342721",
+    "E": "80.558544",
+    "Quantity": "1 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 800 m/ 2. Lock and spills - 100 m/ 3. Stone terracing - 100 m/ 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks",
+    "Uniti_Cost": "250.00 m-1/ 400.00 m-1/ 2500.00 m-1",
+    "Total_Cost": "490000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_115_1/Land cultivated with mixed crops_1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.558544,
+     7.342721
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "401",
+    "GND Name": "Namaltenna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.370733432",
+    "E": "80.55109294",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55109294,
+     7.370733432
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "403",
+    "GND Name": "Niyambepola",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices (30°-40°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.351832",
+    "E": "80.555183",
+    "Quantity": "6 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 2000 m/ 2. Live fencing - 2000 m/ 3. Lock and spills - 1000 m/ 4. Stone terracing - 1000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching,",
+    "Uniti_Cost": "250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1",
+    "Total_Cost": "3640000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.555183,
+     7.351832
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "403",
+    "GND Name": "Niyambepola",
+    "Key Activities proposed for Soil and Water conservation": "2. Soil conservation practices -  Around Ms. Champika's House (30°-40°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.352189",
+    "E": "80.55775",
+    "Quantity": "6 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 2000 m/ 2. Live fencing - 2000 m/ 3. Lock and spills - 1000 m/ 4. Stone terracing - 1000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching,",
+    "Uniti_Cost": "250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1",
+    "Total_Cost": "3640000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55775,
+     7.352189
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "403",
+    "GND Name": "Niyambepola",
+    "Key Activities proposed for Soil and Water conservation": "3. Soil conservation practices -  Around B.G. Sunil' House  (30°-40°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.351143",
+    "E": "80.560061",
+    "Quantity": "2 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 2000 m/2. Live fencing - 2000 m/ 3. Lock and spills - 1000 m/ 4. Stone terracing - 1000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching,",
+    "Uniti_Cost": "250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1",
+    "Total_Cost": "3640000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.560061,
+     7.351143
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "403",
+    "GND Name": "Niyambepola",
+    "Key Activities proposed for Soil and Water conservation": "4. Soil conservation practices -  Around Mr. Chandra Kumara' House (30°-40°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.352256",
+    "E": "80.564682",
+    "Quantity": "2 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 2000 m/ 2. Live fencing - 2000 m/ 3. Lock and spills - 1000 m/ 4. Stone terracing - 1000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching,",
+    "Uniti_Cost": "250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1",
+    "Total_Cost": "3640000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.564682,
+     7.352256
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "359",
+    "GND Name": "Diyapalagoda",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.352275814",
+    "E": "80.54738204",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54738204,
+     7.352275814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "362",
+    "GND Name": "Ethamulla",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.358731791",
+    "E": "80.5432313",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5432313,
+     7.358731791
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "363",
+    "GND Name": "Ban Anga",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.363834368",
+    "E": "80.54421236",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54421236,
+     7.363834368
+    ]
+   }
+  }
+ ]
+}

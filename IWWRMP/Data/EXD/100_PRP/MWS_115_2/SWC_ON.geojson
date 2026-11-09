@@ -1,3 +1,201 @@
-{"type":"FeatureCollection","name":"SWC_ON","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":17,"GND No.":483,"GND Name":"Bothota","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices (25°-35°)","Priority based on Soil Erosion Hazard":1,"N":7.356238,"E":80.58333,"Quantity":"40 ha","Proposed measure/s":"1. Establishing SALT  - 15000 m/ 2. Live Fencing - 15000 m/ 3. Lock and spills - 5000 m/ 4. Stone terracing - 5000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulchin","Uniti_Cost":"250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1","Total_Cost":22000000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_115_2/Soil conservation 2.jpg"},"geometry":{"type":"Point","coordinates":[80.58333,7.356238]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "483",
+    "GND Name": "Bothota",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices (25°-35°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.356238",
+    "E": "80.58333",
+    "Quantity": "40 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 15000 m/ 2. Live Fencing - 15000 m/ 3. Lock and spills - 5000 m/ 4. Stone terracing - 5000 m/ 5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulchin",
+    "Uniti_Cost": "250.00 m-1/ 120.00 m-1/ 400.00 m-1/ 2500.00 m-1",
+    "Total_Cost": "22000000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_115_2/Soil conservation 2.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58333,
+     7.356238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "484",
+    "GND Name": "Medawala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.361027242",
+    "E": "80.56164893",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56164893,
+     7.361027242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "485",
+    "GND Name": "Angoda",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.355197848",
+    "E": "80.55830267",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55830267,
+     7.355197848
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "486",
+    "GND Name": "Dembaralawa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.358954233",
+    "E": "80.5757442",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5757442,
+     7.358954233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "487",
+    "GND Name": "Doranegama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.37098764",
+    "E": "80.56514387",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56514387,
+     7.37098764
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "488",
+    "GND Name": "Amuwathdeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.368909863",
+    "E": "80.56128067",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56128067,
+     7.368909863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "489",
+    "GND Name": "Ihagama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.36383575",
+    "E": "80.57195018",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57195018,
+     7.36383575
+    ]
+   }
+  }
+ ]
+}

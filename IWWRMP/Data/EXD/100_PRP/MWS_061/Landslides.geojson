@@ -1,3 +1,254 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GN Division No.":"50H","GN Division":"Dimuthugama","Landslides":"Road damaged - The road below the Dimuthugama Playground","N":6.897712,"E":80.896014,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Construction of 50 m long, 3.0 m high (above ground level) concrete side wall on down side of the road. Also, it may need to construct a 4.88 m long, 600 mm Ø pipe culvert.  Also, follow the recommendations of NBRO after consulting.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_061/Landslided Road.jpg"},"geometry":{"type":"Point","coordinates":[80.896014,6.897712]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "50B",
+    "GN Division": "Thennakonwela",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.874339196",
+    "E": "80.86662506",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.86662506,
+     6.874339196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "50C",
+    "GN Division": "Palugama Ella",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.897091868",
+    "E": "80.88892275",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.88892275,
+     6.897091868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "50E",
+    "GN Division": "Erabadda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.885558723",
+    "E": "80.87402052",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.87402052,
+     6.885558723
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "50H",
+    "GN Division": "Dimuthugama",
+    "Landslides": "Road damaged - The road below the Dimuthugama Playground",
+    "Location_Detail": "Exact",
+    "N": "6.897712",
+    "E": "80.896014",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Construction of 50 m long, 3.0 m high (above ground level) concrete side wall on down side of the road. Also, it may need to construct a 4.88 m long, 600 mm Ø pipe culvert.  Also, follow the recommendations of NBRO after consulting.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_061/Landslided Road.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.896014,
+     6.897712
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "50I",
+    "GN Division": "Puranwela",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.894564324",
+    "E": "80.88003655",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.88003655,
+     6.894564324
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "50J",
+    "GN Division": "Bibiligamuwa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.863515473",
+    "E": "80.8583854",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8583854,
+     6.863515473
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "51A",
+    "GN Division": "Kalubululanda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.870262931",
+    "E": "80.88563254",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.88563254,
+     6.870262931
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "51B",
+    "GN Division": "Idamegama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.884520354",
+    "E": "80.88868323",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.88868323,
+     6.884520354
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "52A",
+    "GN Division": "Welimada Town",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.905769426",
+    "E": "80.91083214",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.91083214,
+     6.905769426
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "52B",
+    "GN Division": "Landegama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.898644693",
+    "E": "80.90813746",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90813746,
+     6.898644693
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "52D",
+    "GN Division": "Kabillegama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.88891817",
+    "E": "80.90241452",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.90241452,
+     6.88891817
+    ]
+   }
+  }
+ ]
+}

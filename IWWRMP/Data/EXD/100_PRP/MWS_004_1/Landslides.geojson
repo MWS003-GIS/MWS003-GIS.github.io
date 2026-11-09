@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "277",
+    "GN Division": "Gurudeniya Dambawela",
+    "Landslides": "Risk of collapsing boulders - Near 150, Dambawela Mr. Palitha's house",
+    "Location_Detail": "Approximation",
+    "N": "7.265550411",
+    "E": "80.68620213",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Break and remove the boulders with the consent of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68620213,
+     7.265550411
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "278",
+    "GN Division": "Gurudeniya West",
+    "Landslides": "1. Bank collapsing - Gurudeniya Kirimetiya\n2. Bank collapsing - Gurudeniya M.V.\n3. Bank collapsing - Area near the Resource Center",
+    "Location_Detail": "Approximation",
+    "N": "7.270356981",
+    "E": "80.68136022",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Developing drain systems, Soil conservation practices\nDeveloping drain systems, Soil conservation practices\nDeveloping drain systems, Soil conservation practices",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68136022,
+     7.270356981
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "280",
+    "GN Division": "Lewla",
+    "Landslides": "1. Landsliding - Eramudugolla Village\n2. Landsliding - In front of the Milko company at Thalathuoya - Kandy Road",
+    "Location_Detail": "Approximation",
+    "N": "7.257464345",
+    "E": "80.68099574",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Constructing a retaining wall (100 m x 3 m)\nConstructing a retaining wall (50 m x 3 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68099574,
+     7.257464345
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "281",
+    "GN Division": "Ketawala",
+    "Landslides": "1. Landsliding - Geethani Mallika, 130/1, Ankendagolla\n2. Landsliding - W.W.R.W.T.S. Weerasinghe, 178, Mahawatta\n3. Landsliding - Raveendra Silva, Temple Road, Upper Division\n4. Earth fissures - Padimadar Rupasinghe, 34, Elhena\n5. Earth fissures - A.M.T.B. Abesekara, 154/1, Ketawala",
+    "Location_Detail": "Approximation",
+    "N": "7.260462551",
+    "E": "80.67574065",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern\nNBRO is aware",
+    "Proposed Measures": "Alternative lands need to be provided.\nReport NBRO and act according to the recommendations\nReport NBRO and act according to the recommendations\nReport NBRO and act according to the recommendations\nConstructing a retaining wall (5 m x 3 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67574065,
+     7.260462551
+    ]
+   }
+  }
+ ]
+}

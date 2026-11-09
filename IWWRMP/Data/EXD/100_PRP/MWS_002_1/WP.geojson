@@ -1,0 +1,544 @@
+{
+ "type": "FeatureCollection",
+ "name": "WP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "1034",
+    "GN Division": "Wetakepotha",
+    "Non-point sources of pollution": "No major issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.174859532",
+    "E": "80.71537727",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71537727,
+     7.174859532
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "1037",
+    "GN Division": "Medakekila",
+    "Non-point sources of pollution": "No major issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.174711387",
+    "E": "80.7088426",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7088426,
+     7.174711387
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "1039",
+    "GN Division": "Pattiyagama Udagama",
+    "Non-point sources of pollution": "Potential to add agrochemicals and fertilizers to Loolkandura",
+    "Location_Detail": "Exact",
+    "N": "7.156713",
+    "E": "80.721332",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.721332,
+     7.156713
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "1040",
+    "GN Division": "Gonangoda",
+    "Non-point sources of pollution": "Addition of household waste into the Kandura near temple\nPoor quality of water - Pattiyagama water spring",
+    "Location_Detail": "Exact",
+    "N": "7.156902",
+    "E": "80.703267",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "25000",
+    "Total Cost (Rs.)": "500000",
+    "Contributions (Local Community, LA, Project)": "Water quality analysis by NWSDB/WRB",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.703267,
+     7.156902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "1040",
+    "GN Division": "Gonangoda",
+    "Non-point sources of pollution": "Addition of household waste into the Kandura near temple\nPoor quality of water - Pattiyagama water spring",
+    "Location_Detail": "Exact",
+    "N": "7.165773",
+    "E": "80.693855",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "25000",
+    "Total Cost (Rs.)": "500000",
+    "Contributions (Local Community, LA, Project)": "Water quality analysis by NWSDB/WRB",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.693855,
+     7.165773
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "1041",
+    "GN Division": "Karagaskada North",
+    "Non-point sources of pollution": "Addition of household waste into the drainage system in Club Road",
+    "Location_Detail": "Exact",
+    "N": "7.173908",
+    "E": "80.69787",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69787,
+     7.173908
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "1042",
+    "GN Division": "Karagaskada South",
+    "Non-point sources of pollution": "Addition of household waste into the drainage system in the Muslim Janapadaya\nAddition of household waste into the drainage system in Miniranwala",
+    "Location_Detail": "Exact",
+    "N": "7.172928",
+    "E": "80.701033",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.701033,
+     7.172928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "1042",
+    "GN Division": "Karagaskada South",
+    "Non-point sources of pollution": "Addition of household waste into the drainage system in the Muslim Janapadaya\nAddition of household waste into the drainage system in Miniranwala",
+    "Location_Detail": "Exact",
+    "N": "7.170872",
+    "E": "80.701206",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.701206,
+     7.170872
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "1042",
+    "GN Division": "Karagaskada South",
+    "Non-point sources of pollution": "Addition of household waste into the drainage system in the Muslim Janapadaya\nAddition of household waste into the drainage system in Miniranwala",
+    "Location_Detail": "Exact",
+    "N": "7.171972",
+    "E": "80.705069",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.705069,
+     7.171972
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "1042",
+    "GN Division": "Karagaskada South",
+    "Non-point sources of pollution": "Addition of household waste into the drainage system in the Muslim Janapadaya\nAddition of household waste into the drainage system in Miniranwala",
+    "Location_Detail": "Exact",
+    "N": "7.176083",
+    "E": "80.703742",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.703742,
+     7.176083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "1043",
+    "GN Division": "Great Valley Estate",
+    "Non-point sources of pollution": "No major issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.185966145",
+    "E": "80.70405822",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "-",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "-",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70405822,
+     7.185966145
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "1044",
+    "GN Division": "Gabadagama South",
+    "Non-point sources of pollution": "1. Potential to add agrochemicals and fertilizers to Meda Ela\n2. Potential to add agrochemicals and fertilizers to Pitiya Ela\n3. Potential to add agrochemicals and fertilizers to Thiyaragamna Ela",
+    "Location_Detail": "Exact",
+    "N": "7.149489",
+    "E": "80.720683",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.720683,
+     7.149489
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "1044",
+    "GN Division": "Gabadagama South",
+    "Non-point sources of pollution": "1. Potential to add agrochemicals and fertilizers to Meda Ela\n2. Potential to add agrochemicals and fertilizers to Pitiya Ela\n3. Potential to add agrochemicals and fertilizers to Thiyaragamna Ela",
+    "Location_Detail": "Exact",
+    "N": "7.153611",
+    "E": "80.721863",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.721863,
+     7.153611
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "1044",
+    "GN Division": "Gabadagama South",
+    "Non-point sources of pollution": "1. Potential to add agrochemicals and fertilizers to Meda Ela\n2. Potential to add agrochemicals and fertilizers to Pitiya Ela\n3. Potential to add agrochemicals and fertilizers to Thiyaragamna Ela",
+    "Location_Detail": "Exact",
+    "N": "7.154676",
+    "E": "80.721747",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.721747,
+     7.154676
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "1045",
+    "GN Division": "Gabadagama North",
+    "Non-point sources of pollution": "1. Potential to add human waste to water of Demodara Oya - from Line 2\n2. Potential to add human waste to water of Demodara Oya - from Line 4",
+    "Location_Detail": "Exact",
+    "N": "7.148587",
+    "E": "80.71991",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Providing toilet facility, Awareness programme",
+    "Recommended water quality improvement measures": "10/ 10",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71991,
+     7.148587
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "1045",
+    "GN Division": "Gabadagama North",
+    "Non-point sources of pollution": "1. Potential to add human waste to water of Demodara Oya - from Line 2\n2. Potential to add human waste to water of Demodara Oya - from Line 4",
+    "Location_Detail": "Exact",
+    "N": "7.148347",
+    "E": "80.714245",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Providing toilet facility, Awareness programme",
+    "Recommended water quality improvement measures": "10/ 10",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.714245,
+     7.148347
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "1046",
+    "GN Division": "Kandegama",
+    "Non-point sources of pollution": "Addition of household waste into Kandethenna Oya\nAddition of household waste into Kandethenna Wewa",
+    "Location_Detail": "Exact",
+    "N": "7.171348",
+    "E": "80.714688",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "350000",
+    "Contributions (Local Community, LA, Project)": "Labour and other basic services by the Local community/ Shramadana",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.714688,
+     7.171348
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "1046",
+    "GN Division": "Kandegama",
+    "Non-point sources of pollution": "Addition of household waste into Kandethenna Oya\nAddition of household waste into Kandethenna Wewa",
+    "Location_Detail": "Exact",
+    "N": "7.171363",
+    "E": "80.713705",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "350000",
+    "Contributions (Local Community, LA, Project)": "Labour and other basic services by the Local community/ Shramadana",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.713705,
+     7.171363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "1047",
+    "GN Division": "Wadiyagoda",
+    "Non-point sources of pollution": "Potential to add agrochemicals and fertilizers to Meegahayata Ela",
+    "Location_Detail": "Exact",
+    "N": "7.164809",
+    "E": "80.72158",
+    "Point sources of pollution": "-",
+    "Add. N ": "-",
+    "Add. E ": "Awareness programmes on proper use of agrochemicals and disposal of containers",
+    "Recommended water quality improvement measures": "-",
+    "Unit Cost (Rs.)": "-",
+    "Total Cost (Rs.)": "50000",
+    "Contributions (Local Community, LA, Project)": "-",
+    "Time frame for the implementation": "0.5 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.72158,
+     7.164809
+    ]
+   }
+  }
+ ]
+}

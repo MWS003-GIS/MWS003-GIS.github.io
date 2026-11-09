@@ -1,4 +1,122 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":5,"GN Division No.":1134,"GN Division":"Ududeniya","Landslides":"Landslide, Ududeniya","N":7.15029,"E":80.674117,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"It needs to follow the recommendations of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_125/Disaster_Landslide_Ududeniya_Crack.jpg"},"geometry":{"type":"Point","coordinates":[80.674117,7.15029]}},
-{"type":"Feature","properties":{"No.":2,"GN Division No.":1141,"GN Division":"Masgolla","Landslides":"Earthen dam collapse to road, Morahena","N":7.156566,"E":80.665726,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"It needs to follow the recommendations of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_125/Disaster_Bank_collapse (8).jpg"},"geometry":{"type":"Point","coordinates":[80.665726,7.156566]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "1147",
+    "GN Division": "Panvilathanna",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.160309478",
+    "E": "80.63728839",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63728839,
+     7.160309478
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "1141",
+    "GN Division": "Masgolla",
+    "Landslides": "Earthen dam collapse to road, Morahena",
+    "Location_Detail": "Exact",
+    "N": "7.156566",
+    "E": "80.665726",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "It needs to follow the recommendations of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_125/Disaster_Bank_collapse (8).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.665726,
+     7.156566
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "1138",
+    "GN Division": "Gurukele",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.177153368",
+    "E": "80.63622801",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63622801,
+     7.177153368
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "1142",
+    "GN Division": "Hunugala",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.139725168",
+    "E": "80.67334322",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67334322,
+     7.139725168
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "1134",
+    "GN Division": "Ududeniya",
+    "Landslides": "Landslide, Ududeniya",
+    "Location_Detail": "Exact",
+    "N": "7.15029",
+    "E": "80.674117",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "It needs to follow the recommendations of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_125/Disaster_Landslide_Ududeniya_Crack.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.674117,
+     7.15029
+    ]
+   }
+  }
+ ]
+}

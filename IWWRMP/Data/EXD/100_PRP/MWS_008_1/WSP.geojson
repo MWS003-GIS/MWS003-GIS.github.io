@@ -1,3 +1,34 @@
-{"type":"FeatureCollection","name":"WSP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No":1,"GND No.":1024,"Name of the Tank":"Magaha Madiththa Springs","N":7.19627,"E":80.76176,"Observation":"-","Description":"No vegetation in the reservation due to manmade fires. Recommend 100sqm dense randomly mixed natural reforestation, and double rows of Agave (Hana) and areca plantation along the boundary. Stake holders participation is Recommended to protect until growth established substantially.","Amount (Rs.)":"86,100","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_008_1/Unuwinna_East/UN(01)1.jpg"},"geometry":{"type":"Point","coordinates":[80.76176,7.19627]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "WSP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "1024",
+    "Name of the Tank": "Magaha Madiththa Springs",
+    "Location_Detail": "Exact",
+    "N": "7.19627",
+    "E": "80.76176",
+    "Observation": "-",
+    "Description": "No vegetation in the reservation due to manmade fires. Recommend 100sqm dense randomly mixed natural reforestation, and double rows of Agave (Hana) and areca plantation along the boundary. Stake holders participation is Recommended to protect until growth established substantially.",
+    "Amount (Rs.)": "86,100",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_008_1/Unuwinna_East/UN(01)1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.76176,
+     7.19627
+    ]
+   }
+  }
+ ]
+}

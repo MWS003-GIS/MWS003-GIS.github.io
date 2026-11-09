@@ -1,3 +1,116 @@
-{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":3,"GND No.":1182,"GND Name":"Rajathalawa","Key Activities proposed for Soil and Water conservation":"1. Construction of a Retaining Wall - Main Road, Rajathalawa","Priority based on Soil Erosion Hazard":4,"N":7.138901,"E":80.65297,"Quantity":"20 m long and 3.0 m  hight","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":"2,332,000.00","Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.65297,7.138901]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "1173",
+    "GND Name": "Millagahamula",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.151057408",
+    "E": "80.61519002",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61519002,
+     7.151057408
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "1148",
+    "GND Name": "Pambadeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.154393021",
+    "E": "80.62650766",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62650766,
+     7.154393021
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "1182",
+    "GND Name": "Rajathalawa",
+    "Key Activities proposed for Soil and Water conservation": "1. Construction of a Retaining Wall - Main Road, Rajathalawa",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.138901",
+    "E": "80.65297",
+    "Quantity": "20 m long and 3.0 m  hight",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2,332,000.00",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65297,
+     7.138901
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "1181",
+    "GND Name": "Pupuressa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.121559451",
+    "E": "80.68310972",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68310972,
+     7.121559451
+    ]
+   }
+  }
+ ]
+}

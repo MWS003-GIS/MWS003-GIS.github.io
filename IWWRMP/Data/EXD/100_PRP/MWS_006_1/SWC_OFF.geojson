@@ -1,0 +1,417 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "1000",
+    "GND Name": "Madadeniya",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Asweddumayaya Kandura\n2. Development of natural drains - Gamsara Ela\n3. Development of natural drains - Akkara 12 Kandura\n4. Development of natural drains - Welegammadda Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n3\n5\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.227944509",
+    "E": "80.73034438",
+    "Quantity": "80.731897\n80.730294\n80.732107\n80.725515",
+    "Proposed measure/s": "4400 m\n1300 m\n1100 m\n2 km",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "440000\n130000\n110000\n200000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73034438,
+     7.227944509
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "1007",
+    "GND Name": "Marassana",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura at R.M. Ranasinghe Banda\n2. Development of natural drains - Koswaththe Gedara Kandura\n3. Development of natural drains - Kandura near Hospital",
+    "Priority based on Soil Erosion Hazard": "1\n3\n3",
+    "Location_Detail": "Approximation",
+    "N": "7.222890356",
+    "E": "80.73555031",
+    "Quantity": "80.735387\n80.736393\n80.736041",
+    "Proposed measure/s": "450 m\n125 m\n250 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "45000\n125000\n250000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73555031,
+     7.222890356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "1008",
+    "GND Name": "Damunugolla",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near Madiththa Well\n2. Development of natural drains - Murapola Ela Kandura 1\n3. Development of natural drains - Murapola Ela Kandura 2\n5. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "5\n4\n1\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.224028137",
+    "E": "80.73990404",
+    "Quantity": "80.739881\n80.737452\n80.738231\n80.74117",
+    "Proposed measure/s": "200 m\n200 m\n250 m\n25 m x 2 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "20000\n20000\n25000\n1100000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73990404,
+     7.224028137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "1009",
+    "GND Name": "Meeruppa",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near Marassana Primary School\n2. Development of natural drains - Ududeniya (Road) Kandura\n6. Establishing a retaining wall - Dehikotuwa/Gayawaththa",
+    "Priority based on Soil Erosion Hazard": "4\n1\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.216934293",
+    "E": "80.74205965",
+    "Quantity": "80.736989\n80.740052\n80.742195",
+    "Proposed measure/s": "40 m\n200 m\n1000 m x 2 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "4000\n20000\n44000000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74205965,
+     7.216934293
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "1010",
+    "GND Name": "Elikewela",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Haragam Oya\n2. Development of natural drains - Elikewela Ela\n5. Establishing a retaining wall - Meeriyakada Oya\n6. Establishing a retaining wall - Meeriyakada Bridge",
+    "Priority based on Soil Erosion Hazard": "1\n1\n2\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.214961217",
+    "E": "80.73560815",
+    "Quantity": "80.736708\n80.733848\n80.740978\n80.736327",
+    "Proposed measure/s": "1 km\n500 m\n30 m x 2 m\n10 m x 2 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonry)\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "100000\n50000\n1320000\n440000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73560815,
+     7.214961217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "1011",
+    "GND Name": "Galagoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Muragalayala Kottagahamula Kandura\n2. Development of natural drains - Meeriyakada Oya\n7. Establishing a retaining wall - Meeriyakada Bridge/Bank erosion",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.209455445",
+    "E": "80.74458852",
+    "Quantity": "80.750039\n80.741504\n80.741372",
+    "Proposed measure/s": "50 m\n100 m\n20 m x 3 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices, Planting 'Epala'; Having stream reservations\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "5000\n10000\n2332000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74458852,
+     7.209455445
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "1012",
+    "GND Name": "Kiriwanagoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Nidihena Kandura",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Approximation",
+    "N": "7.202747762",
+    "E": "80.73674435",
+    "Quantity": "80.735208",
+    "Proposed measure/s": "200 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "20000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73674435,
+     7.202747762
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "1013",
+    "GND Name": "Kandewela",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.218083476",
+    "E": "80.73164844",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73164844,
+     7.218083476
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "1014",
+    "GND Name": "Bowlana",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Atambagolla Kandura\n2. Development of natural drains - Ihalakanda Kandura\n3. Development of natural drains - Deniye Kandura\n4. Development of natural drains - Damunugaspara Kandura\n5. Development of natural drains - Panwaththapara Kandura\n6. Development of natural drains - Pissakanatiya Kandura\n7. Development of natural drains - Udupihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "5\n4\n5\n1\n1\n3\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.213754652",
+    "E": "80.72266832",
+    "Quantity": "80.719306\n80.71986 80.720229\n80.721639\n80.716408\n80.716979\n80.721422\n80.715934",
+    "Proposed measure/s": "4 km\n600 m\n200 m\n2 km\n300 m\n4 km\n5 km",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "400000\n60000\n20000\n200000\n30000\n400000\n500000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.72266832,
+     7.213754652
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "1015",
+    "GND Name": "Oluwawaththa",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Haragam Oya\n2. Development of natural drains - Kandura to Rathhinda Ela\n3. Development of natural drains - Kandura at Diddanayaka House",
+    "Priority based on Soil Erosion Hazard": "1\n3\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.202044158",
+    "E": "80.72567295",
+    "Quantity": "80.73137\n80.732525\n80.731503",
+    "Proposed measure/s": "2.5 km\n100 m\n100 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "250000\n10000\n10000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.72567295,
+     7.202044158
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "1016",
+    "GND Name": "Hewawissa East",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near Dullinda",
+    "Priority based on Soil Erosion Hazard": "5",
+    "Location_Detail": "Approximation",
+    "N": "7.206663836",
+    "E": "80.73392493",
+    "Quantity": "80.73295",
+    "Proposed measure/s": "100 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "10000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73392493,
+     7.206663836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "1017",
+    "GND Name": "Hewawissa West",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura at U.M. Punchibanda's Home garden\n2. Development of natural drains - Ambakoluwa Kandura\n3. Development of natural drains - Gallana Mulla Kandura\n4. Development of natural drains - Panupe Kandura\n5. Development of natural drains - Panupe Athuru Kandura\n9. Retaining wall - K.B.G. Rosalin, Ambakotuwa (80°)",
+    "Priority based on Soil Erosion Hazard": "5\n4\n4\n4\n5\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.211046599",
+    "E": "80.73147677",
+    "Quantity": "80.729065\n80.72 7655\n80.727328\n80.730052\n80.729896\n80.72873",
+    "Proposed measure/s": "40 m\n2 km\n1 km\n1.5 km\n0.5 km\n20 m x 3 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "4000\n200000\n100000\n150000\n50000\n2332000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73147677,
+     7.211046599
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "1018",
+    "GND Name": "Bopitiya",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura at Mr. Ginasekara house\n2. Development of natural drains - Ganegodapitiya Kandura\n3. Development of natural drains - Kandura at Mr. Manoj\n4. Development of natural drains - Kandura at Ms. Dhanawathi\n5. Development of natural drains - Kandura at Dandumulla house\n6. Development of natural drains - Kandura at Mr. Dharmasiri\n7. Development of natural drains - Bopitiya Oya\n8. Development of natural drains - Udumulla Kandura\n9. Development of natural drains - Kandura at Mr. Ajith\n10. Development of natural drains - Kandura at Mr. Dasarathne\n11. Development of natural drains - Kandura at Mr. Dhanawansha\n12. Development of natural drains - Kandura at EDO Office, Kolethenna",
+    "Priority based on Soil Erosion Hazard": "4\n5\n5\n4\n1\n1\n5\n1\n3\n4\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.195927496",
+    "E": "80.73862662",
+    "Quantity": "80.742275\n80.740715\n80.737992\n80.737426\n80.735994\n80.735848\n80.735425\n80.735757\n80.736539\n80.737013\n80.738776",
+    "Proposed measure/s": "700 m\n500 m\n2 km\n1.5 km\n1.5 km\n1.5 km\n2 km\n1.5 km\n2 km\n2 km\n2.5 km\n400 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut, Epala, Bamboo) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "70000\n50000\n200000\n150000\n150000\n150000\n200000\n150000\n200000\n200000\n250000\n40000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73862662,
+     7.195927496
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "1022",
+    "GND Name": "Ududeniya Madihe",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura at Ududeniya Muslim College\n2. Development of natural drains - Wewe Kumbura Kandura\n5. Establishing a retaining wall - Priest's Quarters\n6. Establishing a retaining wall - Ududeniya Muslim College\n7. Establishing a retaining wall - Old Mosque Road\n8. Establishing a retaining wall - Madihe Urumaniya",
+    "Priority based on Soil Erosion Hazard": "1\n1\n4\n5\n3\n3",
+    "Location_Detail": "Approximation",
+    "N": "7.202968208",
+    "E": "80.74577743",
+    "Quantity": "80.746378\n80.74555\n80.7443007\n80.746505\n80.74681\n80.744293",
+    "Proposed measure/s": "500 m\n200 m\n5 m x 3 m\n3 m x 2 m\n10 m x 3 m\n5 m x 2 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "50000\n20000\n588500\n132000\n1171500\n220000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74577743,
+     7.202968208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "1023",
+    "GND Name": "Ududeniya",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Ududeniya Kandura\n2. Development of natural drains - Kandura 2\n3. Development of natural drains - Kandura 3\n4. Development of natural drains - Kandura 4",
+    "Priority based on Soil Erosion Hazard": "1\n5\n5\n5",
+    "Location_Detail": "Approximation",
+    "N": "7.200750407",
+    "E": "80.74593422",
+    "Quantity": "80.742254\n80.744845\n80.744172\n80.743618",
+    "Proposed measure/s": "750 m\n2 km\n4 km\n450 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "75000\n200000\n400000\n45000",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74593422,
+     7.200750407
+    ]
+   }
+  }
+ ]
+}

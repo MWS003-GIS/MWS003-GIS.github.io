@@ -1,4 +1,166 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":24,"GN Division No.":485,"GN Division":"Angoda","Landslides":"1. Bank collapsing - Sumedha Kulathunga, 198, Angoda Medawela","N":7.353863,"E":80.55718,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Planting areca nut plants. Follow recommendations of NBRO.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_115_2/angodayaya canal (1).jpg"},"geometry":{"type":"Point","coordinates":[80.55718,7.353863]}},
-{"type":"Feature","properties":{"No.":25,"GN Division No.":487,"GN Division":"Doranegama","Landslides":"Landsliding - A section of the road from Doraneegama to the end of Magarudeniya","N":7.373725,"E":80.558274,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Follow recommendations of NBRO. Construct a retaining wall (50 m x 3 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_115_2/diseaster road (2).jpg"},"geometry":{"type":"Point","coordinates":[80.558274,7.373725]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "483",
+    "GN Division": "Bothota",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.358413097",
+    "E": "80.58417737",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58417737,
+     7.358413097
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "484",
+    "GN Division": "Medawala",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.361027242",
+    "E": "80.56164893",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56164893,
+     7.361027242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "485",
+    "GN Division": "Angoda",
+    "Landslides": "1. Bank collapsing - Sumedha Kulathunga, 198, Angoda Medawela No special issues are reported",
+    "Location_Detail": "Exact",
+    "N": "7.353863",
+    "E": "80.55718",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Planting areca nut plants. Follow recommendations of NBRO.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_115_2/angodayaya canal (1).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55718,
+     7.353863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "486",
+    "GN Division": "Dembaralawa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.358954233",
+    "E": "80.5757442",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5757442,
+     7.358954233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "487",
+    "GN Division": "Doranegama",
+    "Landslides": "Landsliding - A section of the road from Doraneegama to the end of Magarudeniya",
+    "Location_Detail": "Exact",
+    "N": "7.373725",
+    "E": "80.558274",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow recommendations of NBRO. Construct a retaining wall (50 m x 3 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_115_2/diseaster road (2).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.558274,
+     7.373725
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "488",
+    "GN Division": "Amuwathdeniya",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.368909863",
+    "E": "80.56128067",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56128067,
+     7.368909863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "489",
+    "GN Division": "Ihagama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.36383575",
+    "E": "80.57195018",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57195018,
+     7.36383575
+    ]
+   }
+  }
+ ]
+}

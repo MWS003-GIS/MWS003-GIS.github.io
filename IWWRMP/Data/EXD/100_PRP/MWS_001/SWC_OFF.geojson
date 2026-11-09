@@ -1,0 +1,768 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.202572",
+    "E": "80.669722",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.669722,
+     7.202572
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.202427",
+    "E": "80.671835",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.671835,
+     7.202427
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.201328",
+    "E": "80.67214",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67214,
+     7.201328
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.197467",
+    "E": "80.67455",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67455,
+     7.197467
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.198085",
+    "E": "80.671542",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.671542,
+     7.198085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.2021111",
+    "E": "80.673026",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.673026,
+     7.2021111
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.194172",
+    "E": "80.685711",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.685711,
+     7.194172
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.193506",
+    "E": "80.676144",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.676144,
+     7.193506
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.191318",
+    "E": "80.676649",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.676649,
+     7.191318
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.195666",
+    "E": "80.678028",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.678028,
+     7.195666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.195803",
+    "E": "80.681866",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.681866,
+     7.195803
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "976",
+    "GND Name": "UdaDeltota",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha oya\n2. Renovation of natural drains - Palugama oya\n3. Renovation of natural drains - Kandura from Galaha town 1\n4. Renovation of natural drains - Kandura from Galaha town 2\n5. Renovation of natural drains - Kandura near UdaDeltota\n6. Renovation of natural drains - Galahathenna Oya\n7. Renovation of natural drains - Kandura near Galahathenna Hospital\n8. Renovation of natural drains - Kumarakanda Kandura\n9. Renovation of natural drains - Kandura in Nutson Part\n10. Renovation of natural drains - Kandura from Gallanthenna 1\n11. Renovation of natural drains - Galpihilla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n1\n4\n4\n4\n1\n2\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.194501",
+    "E": "80.685624",
+    "Quantity": "4 km\n4 km\n3 km\n750 m\n600 m\n100 m\n2.5 km\n1.5 km\n1.5 km\n500 m\n3 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "400000\n400000\n300000\n75000\n60000\n10000\n250000\n150000\n150000\n50000\n300000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.685624,
+     7.194501
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "977",
+    "GND Name": "Palugama",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Diyanilla Kandura\n2. Renovation of natural drains - Palugama Kandura\n3. Renovation of natural drains - Belwood Janapada Waththa Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n4\n2\n5\n2",
+    "Location_Detail": "Exact",
+    "N": "7.211463",
+    "E": "80.676525",
+    "Quantity": "20 m\n500 m\n200 m\n800 m\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "2000\n50000\n20000\n80000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.676525,
+     7.211463
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "977",
+    "GND Name": "Palugama",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Diyanilla Kandura\n2. Renovation of natural drains - Palugama Kandura\n3. Renovation of natural drains - Belwood Janapada Waththa Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n4\n2\n5\n2",
+    "Location_Detail": "Exact",
+    "N": "7.207131",
+    "E": "80.675861",
+    "Quantity": "20 m\n500 m\n200 m\n800 m\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "2000\n50000\n20000\n80000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.675861,
+     7.207131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "977",
+    "GND Name": "Palugama",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Diyanilla Kandura\n2. Renovation of natural drains - Palugama Kandura\n3. Renovation of natural drains - Belwood Janapada Waththa Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n4\n2\n5\n2",
+    "Location_Detail": "Exact",
+    "N": "7.206047",
+    "E": "80.676081",
+    "Quantity": "20 m\n500 m\n200 m\n800 m\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "2000\n50000\n20000\n80000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.676081,
+     7.206047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "977",
+    "GND Name": "Palugama",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Diyanilla Kandura\n2. Renovation of natural drains - Palugama Kandura\n3. Renovation of natural drains - Belwood Janapada Waththa Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n4\n2\n5\n2",
+    "Location_Detail": "Exact",
+    "N": "7.206217",
+    "E": "80.685755",
+    "Quantity": "20 m\n500 m\n200 m\n800 m\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "2000\n50000\n20000\n80000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.685755,
+     7.206217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "977",
+    "GND Name": "Palugama",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Diyanilla Kandura\n2. Renovation of natural drains - Palugama Kandura\n3. Renovation of natural drains - Belwood Janapada Waththa Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n4\n2\n5\n2",
+    "Location_Detail": "Exact",
+    "N": "7.209327",
+    "E": "80.683383",
+    "Quantity": "20 m\n500 m\n200 m\n800 m\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "2000\n50000\n20000\n80000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.683383,
+     7.209327
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "978",
+    "GND Name": "Galaha",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Muththusenwaththa Culvert\n2. Renovation of natural drains - Galaha Oya",
+    "Priority based on Soil Erosion Hazard": "5\n1",
+    "Location_Detail": "Exact",
+    "N": "7.195294",
+    "E": "80.669947",
+    "Quantity": "400 m\n1 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut, Kumbuk, Mee, Epala etc.) and other conservation practices",
+    "Uniti_Cost": "40000\n100000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.669947,
+     7.195294
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "978",
+    "GND Name": "Galaha",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Muththusenwaththa Culvert\n2. Renovation of natural drains - Galaha Oya",
+    "Priority based on Soil Erosion Hazard": "5\n1",
+    "Location_Detail": "Exact",
+    "N": "7.202388",
+    "E": "80.6624313",
+    "Quantity": "400 m\n1 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut, Kumbuk, Mee, Epala etc.) and other conservation practices",
+    "Uniti_Cost": "40000\n100000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6624313,
+     7.202388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GND No.": "979",
+    "GND Name": "Suduwella",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Hydewathta Kandura\n2. Renovation of natural drains - Kandura coming from Araliyagama Spring\n3. Renovation of natural drains - Kandura coming from Little Valley Janapadaya\n6. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "2\n1\n5\n1",
+    "Location_Detail": "Exact",
+    "N": "7.179307",
+    "E": "80.684663",
+    "Quantity": "1 km\n600 m\n3 km\n3 m x 2 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonary)",
+    "Uniti_Cost": "100000\n60000\n300000\n132000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.5 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.684663,
+     7.179307
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GND No.": "979",
+    "GND Name": "Suduwella",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Hydewathta Kandura\n2. Renovation of natural drains - Kandura coming from Araliyagama Spring\n3. Renovation of natural drains - Kandura coming from Little Valley Janapadaya\n6. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "2\n1\n5\n1",
+    "Location_Detail": "Exact",
+    "N": "7.180225",
+    "E": "80.691142",
+    "Quantity": "1 km\n600 m\n3 km\n3 m x 2 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonary)",
+    "Uniti_Cost": "100000\n60000\n300000\n132000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.5 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.691142,
+     7.180225
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GND No.": "979",
+    "GND Name": "Suduwella",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Hydewathta Kandura\n2. Renovation of natural drains - Kandura coming from Araliyagama Spring\n3. Renovation of natural drains - Kandura coming from Little Valley Janapadaya\n6. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "2\n1\n5\n1",
+    "Location_Detail": "Exact",
+    "N": "7.176497",
+    "E": "80.684867",
+    "Quantity": "1 km\n600 m\n3 km\n3 m x 2 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonary)",
+    "Uniti_Cost": "100000\n60000\n300000\n132000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.5 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.684867,
+     7.176497
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GND No.": "980",
+    "GND Name": "Perawaththa East",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Podi Oya",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.203197",
+    "E": "80.669752",
+    "Quantity": "2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Uniti_Cost": "200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.669752,
+     7.203197
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GND No.": "981",
+    "GND Name": "Perawaththa West",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha Oya\n2. Renovation of natural drains - Kandura near Ms. Samantha's house\n3. Renovation of natural drains - Kandura near Malberiya\n4. Renovation of natural drains - Kandura at Dunali Road, Maldeniya\n5. Renovation of natural drains - Kithulmuldola",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.202388",
+    "E": "80.6624313",
+    "Quantity": "6 km\n500 m\n500 m\n300 m\n700 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut, Kumbuk, Bamboo etc.)and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices",
+    "Uniti_Cost": "600000\n50000\n50000\n30000\n70000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6624313,
+     7.202388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "25",
+    "GND No.": "981",
+    "GND Name": "Perawaththa West",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha Oya\n2. Renovation of natural drains - Kandura near Ms. Samantha's house\n3. Renovation of natural drains - Kandura near Malberiya\n4. Renovation of natural drains - Kandura at Dunali Road, Maldeniya\n5. Renovation of natural drains - Kithulmuldola",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.201175",
+    "E": "80.661045",
+    "Quantity": "6 km\n500 m\n500 m\n300 m\n700 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut, Kumbuk, Bamboo etc.)and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices",
+    "Uniti_Cost": "600000\n50000\n50000\n30000\n70000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.661045,
+     7.201175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "26",
+    "GND No.": "981",
+    "GND Name": "Perawaththa West",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha Oya\n2. Renovation of natural drains - Kandura near Ms. Samantha's house\n3. Renovation of natural drains - Kandura near Malberiya\n4. Renovation of natural drains - Kandura at Dunali Road, Maldeniya\n5. Renovation of natural drains - Kithulmuldola",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.202959",
+    "E": "80.658428",
+    "Quantity": "6 km\n500 m\n500 m\n300 m\n700 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut, Kumbuk, Bamboo etc.)and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices",
+    "Uniti_Cost": "600000\n50000\n50000\n30000\n70000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.658428,
+     7.202959
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "27",
+    "GND No.": "981",
+    "GND Name": "Perawaththa West",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha Oya\n2. Renovation of natural drains - Kandura near Ms. Samantha's house\n3. Renovation of natural drains - Kandura near Malberiya\n4. Renovation of natural drains - Kandura at Dunali Road, Maldeniya\n5. Renovation of natural drains - Kithulmuldola",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.207257",
+    "E": "80.655539",
+    "Quantity": "6 km\n500 m\n500 m\n300 m\n700 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut, Kumbuk, Bamboo etc.)and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices",
+    "Uniti_Cost": "600000\n50000\n50000\n30000\n70000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.655539,
+     7.207257
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "28",
+    "GND No.": "981",
+    "GND Name": "Perawaththa West",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of natural drains - Galaha Oya\n2. Renovation of natural drains - Kandura near Ms. Samantha's house\n3. Renovation of natural drains - Kandura near Malberiya\n4. Renovation of natural drains - Kandura at Dunali Road, Maldeniya\n5. Renovation of natural drains - Kithulmuldola",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.218565",
+    "E": "80.649462",
+    "Quantity": "6 km\n500 m\n500 m\n300 m\n700 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Arecanut, Kumbuk, Bamboo etc.)and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices\nClearing and planting some trees along the banks and other conservation practices",
+    "Uniti_Cost": "600000\n50000\n50000\n30000\n70000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.649462,
+     7.218565
+    ]
+   }
+  }
+ ]
+}

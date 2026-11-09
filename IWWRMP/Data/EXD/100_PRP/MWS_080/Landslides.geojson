@@ -1,0 +1,320 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "852",
+    "GN Division": "Mediwaka",
+    "Landslides": "1. Landsliding - 1st mile post at Mediwaka Kalunthenna road\n2. landsliding, Bank collapsing - Godakumbura junction and Gangoda boundary\n3. Sinking - Nearby area of Mediwaka old school",
+    "Location_Detail": "Exact",
+    "N": "7.305123",
+    "E": "80.882312",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.882312,
+     7.305123
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "852",
+    "GN Division": "Mediwaka",
+    "Landslides": "1. Landsliding - 1st mile post at Mediwaka Kalunthenna road\n2. landsliding, Bank collapsing - Godakumbura junction and Gangoda boundary\n3. Sinking - Nearby area of Mediwaka old school",
+    "Location_Detail": "Exact",
+    "N": "7.304521",
+    "E": "80.887152",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.887152,
+     7.304521
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "852",
+    "GN Division": "Mediwaka",
+    "Landslides": "1. Landsliding - 1st mile post at Mediwaka Kalunthenna road\n2. landsliding, Bank collapsing - Godakumbura junction and Gangoda boundary\n3. Sinking - Nearby area of Mediwaka old school",
+    "Location_Detail": "Exact",
+    "N": "7.303752",
+    "E": "80.889023",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.889023,
+     7.303752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "854",
+    "GN Division": "Godakumbura",
+    "Landslides": "1. Roadsliding - Road from Peran Oya to Mediwaka junction (Gonnagaha watta landsliding)\n2. Landsliding - Between Suduwelithenna and Kaluthenna 1st mile post",
+    "Location_Detail": "Exact",
+    "N": "7.300671",
+    "E": "80.894205",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "It is best to take appropriate actions based on the NBRO's recommendations\nIt is best to take appropriate actions based on the NBRO's recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.894205,
+     7.300671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "854",
+    "GN Division": "Godakumbura",
+    "Landslides": "1. Roadsliding - Road from Peran Oya to Mediwaka junction (Gonnagaha watta landsliding)\n2. Landsliding - Between Suduwelithenna and Kaluthenna 1st mile post",
+    "Location_Detail": "Exact",
+    "N": "7.297022",
+    "E": "80.897797",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "It is best to take appropriate actions based on the NBRO's recommendations\nIt is best to take appropriate actions based on the NBRO's recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.897797,
+     7.297022
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "855",
+    "GN Division": "Gangoda",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.313985755",
+    "E": "80.89684683",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.89684683,
+     7.313985755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "856",
+    "GN Division": "Minuwangamuwa",
+    "Landslides": "1. Landsliding - Near the Minuwangamuwa school\n2. Landsliding - Mr. Yaparathna's land, Galapitamada\n3. Sinking and Landsliding - Near the Minuwangamuwa road",
+    "Location_Detail": "Exact",
+    "N": "7.291917",
+    "E": "80.890714",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.890714,
+     7.291917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "856",
+    "GN Division": "Minuwangamuwa",
+    "Landslides": "1. Landsliding - Near the Minuwangamuwa school\n2. Landsliding - Mr. Yaparathna's land, Galapitamada\n3. Sinking and Landsliding - Near the Minuwangamuwa road",
+    "Location_Detail": "Exact",
+    "N": "7.285785",
+    "E": "80.893102",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.893102,
+     7.285785
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "856",
+    "GN Division": "Minuwangamuwa",
+    "Landslides": "1. Landsliding - Near the Minuwangamuwa school\n2. Landsliding - Mr. Yaparathna's land, Galapitamada\n3. Sinking and Landsliding - Near the Minuwangamuwa road",
+    "Location_Detail": "Exact",
+    "N": "7.291421",
+    "E": "80.891713",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.891713,
+     7.291421
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "857",
+    "GN Division": "Kalalgamuwa",
+    "Landslides": "1. Landsliding - Kalalgamuwa 1st mile post\n2. Landsliding - Ritigahalanda",
+    "Location_Detail": "Exact",
+    "N": "7.295431",
+    "E": "80.896905",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.896905,
+     7.295431
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "857",
+    "GN Division": "Kalalgamuwa",
+    "Landslides": "1. Landsliding - Kalalgamuwa 1st mile post\n2. Landsliding - Ritigahalanda",
+    "Location_Detail": "Exact",
+    "N": "7.287542",
+    "E": "80.896757",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.896757,
+     7.287542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "858",
+    "GN Division": "Madugalla Udagammedda",
+    "Landslides": "1. Landsliding - The road from Galapara 1st section to the paddy field\n2. Landsliding - The main road of Rukkaththana wewakanda",
+    "Location_Detail": "Exact",
+    "N": "7.268356",
+    "E": "80.889451",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "It is best to take appropriate actions based on the NBRO's recommendations\nIt is best to take appropriate actions based on the NBRO's recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.889451,
+     7.268356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "858",
+    "GN Division": "Madugalla Udagammedda",
+    "Landslides": "1. Landsliding - The road from Galapara 1st section to the paddy field\n2. Landsliding - The main road of Rukkaththana wewakanda",
+    "Location_Detail": "Exact",
+    "N": "7.272138",
+    "E": "80.891288",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "It is best to take appropriate actions based on the NBRO's recommendations\nIt is best to take appropriate actions based on the NBRO's recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.891288,
+     7.272138
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "859",
+    "GN Division": "Madugalla North",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.266782642",
+    "E": "80.88431884",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.88431884,
+     7.266782642
+    ]
+   }
+  }
+ ]
+}

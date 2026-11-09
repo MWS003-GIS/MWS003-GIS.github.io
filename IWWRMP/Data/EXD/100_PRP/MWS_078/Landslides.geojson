@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "834",
+    "GN Division": "Pitigoda",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.220153681",
+    "E": "80.86151659",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.86151659,
+     7.220153681
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "861",
+    "GN Division": "Kalalwala",
+    "Landslides": "Landslide - Wall near the Mr. U.G. Hemachandra's house",
+    "Location_Detail": "Exact",
+    "N": "7.246285",
+    "E": "80.883802",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow NBRO advice",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.883802,
+     7.246285
+    ]
+   }
+  }
+ ]
+}

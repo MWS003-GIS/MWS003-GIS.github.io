@@ -1,11 +1,738 @@
 {
-"type": "FeatureCollection",
-"name": "Landslides",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No.": 8, "GN Division No.": 220, "GN Division": "Boowelikada", "Landslides": "Landsliding - Bodhiraja Mawatha", "N": 7.292517, "E": 80.649513, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "Constructing a concrete drain (25 m). Providing alternative lands.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_117/Bodhiraja Mawatha.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.649513, 7.292517 ] } },
-{ "type": "Feature", "properties": { "No.": 9, "GN Division No.": 239, "GN Division": "Mahaiyawa", "Landslides": "1. Bank collapsing - Sri Dammadassi Mawatha and 4th narrow road", "N": 7.305744, "E": 80.638391, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_117/4th lane disaster.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.638391, 7.305744 ] } },
-{ "type": "Feature", "properties": { "No.": 10, "GN Division No.": 239, "GN Division": "Mahaiyawa", "Landslides": "3. Landsliding - Karumariamman Kovil", "N": 7.301642, "E": 80.632771, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.", "photopath": "Not_Available" }, "geometry": { "type": "Point", "coordinates": [ 80.632771, 7.301642 ] } },
-{ "type": "Feature", "properties": { "No.": 11, "GN Division No.": 239, "GN Division": "Mahaiyawa", "Landslides": "4. Landsliding - Christian Church", "N": 7.301523, "E": 80.632791, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.", "photopath": "Not_Available" }, "geometry": { "type": "Point", "coordinates": [ 80.632791, 7.301523 ] } }
-]
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "220",
+    "GN Division": "Boowelikada",
+    "Landslides": "Landsliding - Bodhiraja Mawatha",
+    "Location_Detail": "Exact",
+    "N": "7.292517",
+    "E": "80.649513",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a concrete drain (25 m). Providing alternative lands.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_117/Bodhiraja Mawatha.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.649513,
+     7.292517
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "221",
+    "GN Division": "Thalwatta",
+    "Landslides": "1. Bank collapsing - KII Road\n2. Bank collapsing - Hewaheta Road\n3. Bank collapsing - Dharmashoka Mawatha\n4. Bank collapsing - Alwis Mawatha\n5. Bank collapsing - Lewella Road\n6. Bank collapsing - Bodhiraja Mawatha",
+    "Location_Detail": "Approximation",
+    "N": "7.294756784",
+    "E": "80.65313239",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Soil conservation should be adapted. Revisit Land Use Palnning.\nSoil conservation should be adapted. Revisit Land Use Palnning.\nSoil conservation should be adapted. Revisit Land Use Palnning.\nSoil conservation should be adapted. Revisit Land Use Palnning.\nSoil conservation should be adapted. Revisit Land Use Palnning.\nSoil conservation should be adapted. Revisit Land Use Palnning.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65313239,
+     7.294756784
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "222",
+    "GN Division": "Lewella",
+    "Landslides": "Landsliding - Storuwatta area",
+    "Location_Detail": "Approximation",
+    "N": "7.300480836",
+    "E": "80.64823679",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "There are many unauthorized residents. These people need to be relocated in other suitable lands.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64823679,
+     7.300480836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "223",
+    "GN Division": "Aruppala West",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.306626338",
+    "E": "80.64625656",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64625656,
+     7.306626338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "224",
+    "GN Division": "Aruppala East",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.309324886",
+    "E": "80.64852771",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64852771,
+     7.309324886
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "225",
+    "GN Division": "Nittawela",
+    "Landslides": "1. Bank collapsing - Mr. M.S. Gayan, Nittawela road, Kanda Deniyawatta\n2. Bank collapsing - Unauthorized constructions at \"Gewal 40\" area including Mrs. A.F. Somalatha",
+    "Location_Detail": "Approximation",
+    "N": "7.318593764",
+    "E": "80.63537811",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations.\nRelocation is needed.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63537811,
+     7.318593764
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "226",
+    "GN Division": "Siyambalagasthenna",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.323295646",
+    "E": "80.63148254",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63148254,
+     7.323295646
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "227",
+    "GN Division": "Mavilmada",
+    "Landslides": "Landsliding - Mavilmada GND",
+    "Location_Detail": "Approximation",
+    "N": "7.325376755",
+    "E": "80.63783906",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "The slided soils to be removed. Relocation is needed. Also, construction of road and some houses is needed.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63783906,
+     7.325376755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "228",
+    "GN Division": "Watapuluwa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.316787206",
+    "E": "80.64096646",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64096646,
+     7.316787206
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "229",
+    "GN Division": "Watapuluwa West",
+    "Landslides": "1. Bank collapsing - A part of the Davy Road\n2. Bank collapsing - House No. 20",
+    "Location_Detail": "Approximation",
+    "N": "7.307523575",
+    "E": "80.64075698",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Unathorized constructions should be avoided. Construction of a retaining wall (50 m x 3 m).\nUnathorized constructions should be avoided. Construction of a retaining wall (10 m x 3 m).",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64075698,
+     7.307523575
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "230",
+    "GN Division": "Watapuluwa South",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.311936552",
+    "E": "80.64342114",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64342114,
+     7.311936552
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "231",
+    "GN Division": "Mahaweli Uyana",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.319276963",
+    "E": "80.64388942",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64388942,
+     7.319276963
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "232",
+    "GN Division": "Nuwara Dodamwala",
+    "Landslides": "Risk of bank collapsing - Galkandawatta area (Dodamwala)",
+    "Location_Detail": "Approximation",
+    "N": "7.295413615",
+    "E": "80.61827127",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Formalizing the drain system and drainage is essential. Construct a concrete drain (100 m). Construct a retaining wall (100 m x 3 m). Remove trees with risk of collapsing.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61827127,
+     7.295413615
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "233",
+    "GN Division": "Aniwatta West",
+    "Landslides": "Landsliding - Riverdail Gardens Road",
+    "Location_Detail": "Approximation",
+    "N": "7.285519165",
+    "E": "80.61609681",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61609681,
+     7.285519165
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GN Division No.": "234",
+    "GN Division": "Aniwatta East",
+    "Landslides": "1. Earth fissures - Riverdail Gardens\n2. Bank collapsing - Riverdail Road, Aniwatta road, Galkanda road, Galkanda narrow road, Aniwatta roundabout Road",
+    "Location_Detail": "Approximation",
+    "N": "7.290822952",
+    "E": "80.61988407",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations. Construct a drain system (100 m)\nFollow NBRO recommendations. Rehabilitate the drains (100 m) and culverts",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61988407,
+     7.290822952
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GN Division No.": "235",
+    "GN Division": "Asgiriya",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.300446727",
+    "E": "80.63079108",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63079108,
+     7.300446727
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GN Division No.": "236",
+    "GN Division": "Bahirawa Kanda",
+    "Landslides": "Bank collapsing - Dodamwala Narrow Road",
+    "Location_Detail": "Approximation",
+    "N": "7.29646707",
+    "E": "80.62660335",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations. Construct a drain system (100 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62660335,
+     7.29646707
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GN Division No.": "237",
+    "GN Division": "Mapanawathura",
+    "Landslides": "1. Landsliding - Mapanawathura Passage Area\n2. Landsliding - Ramanayake Road\n3. Landsliding - Mapanawathura (Upper area)\n4. Landsliding - Mapanawathura Roundabout Road",
+    "Location_Detail": "Approximation",
+    "N": "7.310079616",
+    "E": "80.63035782",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Revisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting.\nRevisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting.\nRevisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting.\nRevisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63035782,
+     7.310079616
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GN Division No.": "238",
+    "GN Division": "Wattaranthenna",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.311546392",
+    "E": "80.62662266",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62662266,
+     7.311546392
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GN Division No.": "239",
+    "GN Division": "Mahaiyawa",
+    "Landslides": "1. Bank collapsing - Sri Dammadassi Mawatha and 4th narrow road 2. Emerging springs in banks, Bank collapsing - Lady Gorden Road 3. Emerging springs in banks, Bank collapsing - Lady Torrington Road 4. Bank collapsing - Katugasthota Road (School and Convent)",
+    "Location_Detail": "Exact",
+    "N": "7.305744",
+    "E": "80.638391",
+    "NBRO Recommendation N/A": "NBRO is aware Needs NBRO concern Needs NBRO concern NBRO is aware",
+    "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting. Revisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting. Revisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting. Revisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_117/4th lane disaster.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.638391,
+     7.305744
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GN Division No.": "239",
+    "GN Division": "Mahaiyawa",
+    "Landslides": "3. Landsliding - Karumariamman Kovil",
+    "Location_Detail": "Exact",
+    "N": "7.301642",
+    "E": "80.632771",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.632771,
+     7.301642
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GN Division No.": "239",
+    "GN Division": "Mahaiyawa",
+    "Landslides": "4. Landsliding - Christian Church",
+    "Location_Detail": "Exact",
+    "N": "7.301523",
+    "E": "80.632791",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.632791,
+     7.301523
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GN Division No.": "239",
+    "GN Division": "Mahaiyawa",
+    "Landslides": "3. Landsliding - Karumariamman Kovil",
+    "Location_Detail": "Exact",
+    "N": "7.301642",
+    "E": "80.632771",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.632771,
+     7.301642
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GN Division No.": "239",
+    "GN Division": "Mahaiyawa",
+    "Landslides": "4. Landsliding - Christian Church",
+    "Location_Detail": "Exact",
+    "N": "7.301523",
+    "E": "80.632791",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Revisit landuse planning.  Soil conservation should be done. Follow recommedations of NBRO after consulting.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.632791,
+     7.301523
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "25",
+    "GN Division No.": "241",
+    "GN Division": "Poorna Watta East",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.308120125",
+    "E": "80.63408868",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63408868,
+     7.308120125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "26",
+    "GN Division No.": "250",
+    "GN Division": "Pitakanda Gama",
+    "Landslides": "Bank collapsing - Railway reservation area",
+    "Location_Detail": "Exact",
+    "N": "7.309517",
+    "E": "80.636784",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Revisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.636784,
+     7.309517
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "27",
+    "GN Division No.": "269",
+    "GN Division": "Ampitiya Udagama North",
+    "Landslides": "Landsliding - Semaneriyawatta Mee Kanuwa",
+    "Location_Detail": "Approximation",
+    "N": "7.279043502",
+    "E": "80.65845495",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Revisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting. Construct a drain system (100 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65845495,
+     7.279043502
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "28",
+    "GN Division No.": "270",
+    "GN Division": "Ampitiya Udagama South",
+    "Landslides": "Bank collapsing - Helgahathenna Galpihilla Dalukgolla Ihala",
+    "Location_Detail": "Approximation",
+    "N": "7.275008184",
+    "E": "80.65171604",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Revisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65171604,
+     7.275008184
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "29",
+    "GN Division No.": "271",
+    "GN Division": "Ampitiya Pallegama",
+    "Landslides": "Landsliding - Helgahathenna Galpihilla Dalukgolla Ihala",
+    "Location_Detail": "Approximation",
+    "N": "7.273489392",
+    "E": "80.66568368",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Revisit landuse planning. Soil conservation should be done. Follow recommedations of NBRO after consulting. Construct a drain system (100 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66568368,
+     7.273489392
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "30",
+    "GN Division No.": "272",
+    "GN Division": "Meddegama",
+    "Landslides": "1. Landsliding - Meddepathana\n2. Landsliding -Meddegama",
+    "Location_Detail": "Approximation",
+    "N": "7.268052886",
+    "E": "80.65653801",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow recommendations of NBRO. Provide alternative lands.\nFollow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65653801,
+     7.268052886
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "31",
+    "GN Division No.": "273",
+    "GN Division": "Ulpathakumbura",
+    "Landslides": "1. Landsliding - Thalapiyannawa\n2. Landsliding - Goodhope\n3. Landsliding - Gangahawela\n4. Landsliding - Elhena\n5. Landsliding - Udathalapiyannawa",
+    "Location_Detail": "Approximation",
+    "N": "7.267958471",
+    "E": "80.67324259",
+    "NBRO Recommendation N/A": "Several places checked. Rest to be checked.",
+    "Proposed Measures": "Identified areas reported to the Local Council and will continue as the development projects in 2026",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67324259,
+     7.267958471
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "32",
+    "GN Division No.": "274",
+    "GN Division": "Wewathenna",
+    "Landslides": "Landsliding - Radagaspatha Watta",
+    "Location_Detail": "Approximation",
+    "N": "7.263012686",
+    "E": "80.66411941",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow recommendations of NBRO. Provide alternative lands.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66411941,
+     7.263012686
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "33",
+    "GN Division No.": "275",
+    "GN Division": "Thennakumbura",
+    "Landslides": "Landsliding - Pahala Thennakumbura Pattiyakele Watta",
+    "Location_Detail": "Approximation",
+    "N": "7.283708317",
+    "E": "80.66226784",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Revist Land Use Planning and provide alternative lands. Follw NBRO recommendations after consulting",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66226784,
+     7.283708317
+    ]
+   }
+  }
+ ]
 }

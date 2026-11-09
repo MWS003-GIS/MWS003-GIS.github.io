@@ -1,0 +1,122 @@
+{
+ "type": "FeatureCollection",
+ "name": "SR",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "485",
+    "Scheme": "Angoda yaye Ela",
+    "Location_Detail": "Exact",
+    "N": "7.356129",
+    "E": "80.556738",
+    "Observation": "6 acers, damage canal bunds and damage the road as well. no cultivation around 10 years",
+    "Description": "Paving available stone in the river banks and Planting treesDry rubble packing (with locally found rubble, size over 225mm )-Along the river banksVegetative cover improving for narrow strips (1.5m‐2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover crop along the river banksMiscellaneousContingencies (10%)",
+    "Amount (Rs.)": "852500",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.556738,
+     7.356129
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "486",
+    "Scheme": "Oya (Flowing across the area) (Started from Warakadeniya GN)",
+    "Location_Detail": "Exact",
+    "N": "7.366056",
+    "E": "80.580418",
+    "Observation": "damaged canal bunds in several locations",
+    "Description": "Repair the damaged canal bunds in necessary locationsVegetative cover improving for narrow strips (1.5m‐2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover crop along the river banksReplanting bamboo species around the river bank MiscellaneousContingencies (10%)",
+    "Amount (Rs.)": "825000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.580418,
+     7.366056
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "488",
+    "Scheme": "Kumburegama Kurudugas hinna road",
+    "Location_Detail": "Exact",
+    "N": "7.371043",
+    "E": "80.555483",
+    "Observation": "The canal banks are eroded.",
+    "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall - Along the canalVegetative cover improving for narrow strips (1.5m‐2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover crop along the river banksReplanting bamboo species around the river bank MiscellaneousContingencies (10%)",
+    "Amount (Rs.)": "8745000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.555483,
+     7.371043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "488",
+    "Scheme": "Pigaoya Flooding of paddy fields during rainy days.",
+    "Location_Detail": "Exact",
+    "N": "7.370152",
+    "E": "80.555484",
+    "Observation": "The canal banks are eroded. 3 acres are cultivated.",
+    "Description": "Construction of 1.0m high 1:3:6 (40mm) cement concrete Retaining Wall - Along the canalVegetative cover improving for narrow strips (1.5m‐2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover crop along the river banksReplanting bamboo species around the river bank MiscellaneousContingencies (10%)",
+    "Amount (Rs.)": "22399300",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.555484,
+     7.370152
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "489",
+    "Scheme": "Piga oya",
+    "Location_Detail": "Exact",
+    "N": "7.367624",
+    "E": "80.57395",
+    "Observation": "The river bank has been heavily damaged due to high water flow",
+    "Description": "Clean around the river bankVegetative cover improving for narrow strips (1.5m‐2.0m wide) with Arecanut seedlings at 1.5m spacing in 2 rows, Betel plants VP at 3m spacing in 1 row, Green gram as a cover crop along the river banksReplanting bamboo species around the river bank MiscellaneousContingencies (10%)",
+    "Amount (Rs.)": "716100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57395,
+     7.367624
+    ]
+   }
+  }
+ ]
+}

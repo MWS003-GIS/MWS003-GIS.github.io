@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "1180",
+    "GN Division": "Doragala",
+    "Landslides": "1. Landsliding - Near the Tamil School at NP division of New Peacock Watta\n2. Landsliding - Near the Indrapala store at chuply Janapadaya",
+    "Location_Detail": "Exact",
+    "N": "7.092814",
+    "E": "80.59886",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59886,
+     7.092814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "1180",
+    "GN Division": "Doragala",
+    "Landslides": "1. Landsliding - Near the Tamil School at NP division of New Peacock Watta\n2. Landsliding - Near the Indrapala store at chuply Janapadaya",
+    "Location_Detail": "Exact",
+    "N": "7.111619",
+    "E": "80.618063",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.618063,
+     7.111619
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "1185",
+    "GN Division": "Galatha",
+    "Landslides": "1. Landsliding\n2. Land subsidence\n3. Land subsidence, Cracking walls of the houses",
+    "Location_Detail": "Exact",
+    "N": "7.111488",
+    "E": "80.583483",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.583483,
+     7.111488
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "1185",
+    "GN Division": "Galatha",
+    "Landslides": "1. Landsliding\n2. Land subsidence\n3. Land subsidence, Cracking walls of the houses",
+    "Location_Detail": "Exact",
+    "N": "7.118466",
+    "E": "80.585283",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.585283,
+     7.118466
+    ]
+   }
+  }
+ ]
+}

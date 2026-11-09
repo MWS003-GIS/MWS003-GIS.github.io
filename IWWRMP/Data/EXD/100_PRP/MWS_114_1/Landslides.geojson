@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "141",
+    "GN Division": "Kobbekaduwa",
+    "Landslides": "Bank collapsing - Karanduwawala",
+    "Location_Detail": "Approximation",
+    "N": "7.309057306",
+    "E": "80.55700421",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Retaining walls, Lock & spill drains, Live hedges etc. are needed. Follow the recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55700421,
+     7.309057306
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "142",
+    "GN Division": "Ihala Kobbekaduwa",
+    "Landslides": "1. Landsliding - Dodamdeniya House\n2. Landsliding - Kobbekaduwa",
+    "Location_Detail": "Approximation",
+    "N": "7.315424777",
+    "E": "80.55694957",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNBRO is aware",
+    "Proposed Measures": "Retaining walls, Lock & spill drains, Live hedges etc. are needed. Follow recommendations of NBRO having consulted.\nProviding alternative lands and displace the residents. Establishing Retaining walls, Live hedges are needed. Follow other recommendations of NBRO.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55694957,
+     7.315424777
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "737",
+    "GN Division": "Thawalanthenna",
+    "Landslides": "1. Landslide - Lebanan Waththa\n2. Landslide - Liyangala Waththa",
+    "Location_Detail": "Approximation",
+    "N": "7.40840068",
+    "E": "80.78102493",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Land acquisition and providing new lands are needed. Follow other recommendations of NBRO.\nLand use Planning needs to be improved. Follow other recommendations of NBRO.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.78102493,
+     7.40840068
+    ]
+   }
+  }
+ ]
+}

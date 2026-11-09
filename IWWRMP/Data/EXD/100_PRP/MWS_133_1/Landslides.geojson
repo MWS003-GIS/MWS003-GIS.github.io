@@ -1,0 +1,232 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "94",
+    "GN Division": "Dihitideniya",
+    "Landslides": "Soil erosion - No.115/2, E.R.M.Wijerathna's land",
+    "Location_Detail": "Approximation",
+    "N": "7.193030899",
+    "E": "80.56298066",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow soil conservation and revisit land use",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56298066,
+     7.193030899
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "95",
+    "GN Division": "Appallagoda East",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.193724237",
+    "E": "80.55716385",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55716385,
+     7.193724237
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "96",
+    "GN Division": "Appallagoda West",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.191720819",
+    "E": "80.55200929",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55200929,
+     7.191720819
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "97",
+    "GN Division": "Kotagaloluwa",
+    "Landslides": "Landsliding - Alakotuwa culvert",
+    "Location_Detail": "Approximation",
+    "N": "7.193730394",
+    "E": "80.57008945",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Constructing a retaining wall (50 m x 3 m) and a concrete drain (50 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57008945,
+     7.193730394
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "98",
+    "GN Division": "Deldeniya",
+    "Landslides": "Landsliding - 27E, Galkoho",
+    "Location_Detail": "Approximation",
+    "N": "7.188209392",
+    "E": "80.56932536",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow soil conservation and revisit land use",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56932536,
+     7.188209392
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "99",
+    "GN Division": "Viharagama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.199063528",
+    "E": "80.55833126",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55833126,
+     7.199063528
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "100",
+    "GN Division": "Welamboda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.201900934",
+    "E": "80.55168354",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55168354,
+     7.201900934
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "102",
+    "GN Division": "Watadeniya",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.195701594",
+    "E": "80.54935619",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54935619,
+     7.195701594
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "103",
+    "GN Division": "Maveekumbura North",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.193324611",
+    "E": "80.54264286",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54264286,
+     7.193324611
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "106",
+    "GN Division": "Kooradeniya",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.207959103",
+    "E": "80.54638035",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54638035,
+     7.207959103
+    ]
+   }
+  }
+ ]
+}

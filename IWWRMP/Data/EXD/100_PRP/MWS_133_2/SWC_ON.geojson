@@ -1,20 +1,964 @@
-{"type":"FeatureCollection","name":"SWC_ON","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No_":72,"MWS_ID":"133-2","GN_Divisio":1117,"GN_Divis_1":"Godagama","Key_Activi":"1. Soil conservation practices - Farmlands at slopy lands near the Godagama reservoir road and Saman Weerarathna Road (45�-60�)","Priority_b":"-","N":7.157373,"E":80.554556,"Quantity":"5 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"1,250,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation.jpg"},"geometry":{"type":"Point","coordinates":[80.554556,7.157373]}},
-{"type":"Feature","properties":{"No_":73,"MWS_ID":"133-2","GN_Divisio":1118,"GN_Divis_1":"Sinhapitiya South","Key_Activi":"1. Soil conservation practices - Sinhapitiya Village (30�-40�)","Priority_b":"-","N":7.164402,"E":80.552575,"Quantity":"4 ha","Proposed_m":"Lock and spills and/or live fencing/SALT, stone terracing, as applied","Uniti_Cost":"400.00 m-1","Total_Cost":"1,600,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation (4).jpg"},"geometry":{"type":"Point","coordinates":[80.552575,7.164402]}},
-{"type":"Feature","properties":{"No_":74,"MWS_ID":"133-2","GN_Divisio":1119,"GN_Divis_1":"Kahatapitiya","Key_Activi":"1. Soil conservation practices - Luunuwatta Division (45�-55�)","Priority_b":"-","N":7.179957,"E":80.576847,"Quantity":"0.5 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"125,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands-Soil_conservation.jpg"},"geometry":{"type":"Point","coordinates":[80.576847,7.179957]}},
-{"type":"Feature","properties":{"No_":76,"MWS_ID":"133-2","GN_Divisio":1121,"GN_Divis_1":"Unambuwa","Key_Activi":"1. Soil conservation practices - Gardens  (20�-30�)","Priority_b":"-","N":7.177744,"E":80.564135,"Quantity":"1 ha","Proposed_m":"Lock and spills and/or live fencing/SALT, stone terracing, as applied","Uniti_Cost":"400.00 m-1","Total_Cost":"400,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation (3).jpg"},"geometry":{"type":"Point","coordinates":[80.564135,7.177744]}},
-{"type":"Feature","properties":{"No_":77,"MWS_ID":"133-2","GN_Divisio":1121,"GN_Divis_1":"Unambuwa","Key_Activi":"2. Soil conservation practices - Gardens  (40�-50�)","Priority_b":"-","N":7.175174,"E":80.568017,"Quantity":"1 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"250,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation - Udawerella (7).jpg"},"geometry":{"type":"Point","coordinates":[80.568017,7.175174]}},
-{"type":"Feature","properties":{"No_":79,"MWS_ID":"133-2","GN_Divisio":1122,"GN_Divis_1":"Mount temple","Key_Activi":"1. Soil conservation practices - Mount temple GND (35�-45�)","Priority_b":"-","N":7.168163,"E":80.568765,"Quantity":"0.5 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"125,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soi; conservation (2).jpg"},"geometry":{"type":"Point","coordinates":[80.568765,7.168163]}},
-{"type":"Feature","properties":{"No_":80,"MWS_ID":"133-2","GN_Divisio":1123,"GN_Divis_1":"Kirinda","Key_Activi":"1. Soil conservation practices - Kirinda Govi Sevaka land  (50�-60�)","Priority_b":"-","N":7.18665,"E":80.587362,"Quantity":"0.5 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"250,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Govisewana (4).jpg"},"geometry":{"type":"Point","coordinates":[80.587362,7.18665]}},
-{"type":"Feature","properties":{"No_":81,"MWS_ID":"133-2","GN_Divisio":1123,"GN_Divis_1":"Kirinda","Key_Activi":"2. Soil conservation practices - Galgediyawa  (30�-40�)","Priority_b":"-","N":7.181446,"E":80.586033,"Quantity":"2 ha","Proposed_m":"Lock and spills and/or live fencing/SALT, stone terracing, as applied","Uniti_Cost":"400.00 m-1","Total_Cost":"400,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Galgediyawa (2).jpg"},"geometry":{"type":"Point","coordinates":[80.586033,7.181446]}},
-{"type":"Feature","properties":{"No_":82,"MWS_ID":"133-2","GN_Divisio":1124,"GN_Divis_1":"Galgediyawa","Key_Activi":"1. Soil conservation practices - Alupotha (35�-55�)","Priority_b":"-","N":7.183478,"E":80.577327,"Quantity":"8 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"2,000,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Dalupotha (7).jpg"},"geometry":{"type":"Point","coordinates":[80.577327,7.183478]}},
-{"type":"Feature","properties":{"No_":83,"MWS_ID":"133-2","GN_Divisio":1124,"GN_Divis_1":"Galgediyawa","Key_Activi":"2. Soil conservation practices - Delgolla (40�-60�)","Priority_b":"-","N":7.185764,"E":80.576605,"Quantity":"6 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"1,500,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Delgolla (5).jpg"},"geometry":{"type":"Point","coordinates":[80.576605,7.185764]}},
-{"type":"Feature","properties":{"No_":84,"MWS_ID":"133-2","GN_Divisio":1124,"GN_Divis_1":"Galgediyawa","Key_Activi":"3. Soil conservation practices - Diddeniya (35�-55�)","Priority_b":"-","N":7.184419,"E":80.573456,"Quantity":"4 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"1,000,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Diddeniya (4).jpg"},"geometry":{"type":"Point","coordinates":[80.573456,7.184419]}},
-{"type":"Feature","properties":{"No_":85,"MWS_ID":"133-2","GN_Divisio":1124,"GN_Divis_1":"Galgediyawa","Key_Activi":"4. Soil conservation practices - Magalhena (45�-60�)","Priority_b":"-","N":7.181141,"E":80.574333,"Quantity":"4 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"1,000,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Magalhena.jpg"},"geometry":{"type":"Point","coordinates":[80.574333,7.181141]}},
-{"type":"Feature","properties":{"No_":86,"MWS_ID":"133-2","GN_Divisio":1124,"GN_Divis_1":"Galgediyawa","Key_Activi":"5. Soil conservation practices - Rathwatta (35�-50�)","Priority_b":"-","N":7.184743,"E":80.581338,"Quantity":"8 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"2,000,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Rathwattha (7).jpg"},"geometry":{"type":"Point","coordinates":[80.581338,7.184743]}},
-{"type":"Feature","properties":{"No_":87,"MWS_ID":"133-2","GN_Divisio":1124,"GN_Divis_1":"Galgediyawa","Key_Activi":"6. Soil conservation practices -Sundaliya Watta (45�-60�)","Priority_b":"-","N":7.182621,"E":80.573491,"Quantity":"6 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"1,500,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Sundaliyawattha.jpg"},"geometry":{"type":"Point","coordinates":[80.573491,7.182621]}},
-{"type":"Feature","properties":{"No_":88,"MWS_ID":"133-2","GN_Divisio":1125,"GN_Divis_1":"Udovita","Key_Activi":"1. Soil conservation practices - Near the Raja Ela (50�-60�)","Priority_b":"-","N":7.182904,"E":80.592099,"Quantity":"0.5 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"125,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation (3).jpg"},"geometry":{"type":"Point","coordinates":[80.592099,7.182904]}},
-{"type":"Feature","properties":{"No_":89,"MWS_ID":"133-2","GN_Divisio":1126,"GN_Divis_1":"Rathmalkaduwa","Key_Activi":"1. Soil conservation practices - Akkara 100 (45�-60�)","Priority_b":"-","N":7.182395,"E":80.547508,"Quantity":"8 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"2,000,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Soil Conservation - Akkara 100 area.jpg"},"geometry":{"type":"Point","coordinates":[80.547508,7.182395]}},
-{"type":"Feature","properties":{"No_":90,"MWS_ID":"133-2","GN_Divisio":1126,"GN_Divis_1":"Rathmalkaduwa","Key_Activi":"2. Soil conservation practices - Akkara 60 (45�-60�)","Priority_b":"-","N":7.181183,"E":80.548188,"Quantity":"15 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"3,750,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.5 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Soil Conservation - Akkara 60 area (2).jpg"},"geometry":{"type":"Point","coordinates":[80.548188,7.181183]}},
-{"type":"Feature","properties":{"No_":91,"MWS_ID":"133-2","GN_Divisio":1126,"GN_Divis_1":"Rathmalkaduwa","Key_Activi":"3. Soil conservation practices - Heartfield (35�-45�)","Priority_b":"-","N":7.175995,"E":80.552232,"Quantity":"30 ha","Proposed_m":"Live fencing/SALT and/or stone terracing/lock and spills, as applied","Uniti_Cost":"250.00 m-1","Total_Cost":"7,500,000.00","Contributi":"Labour and other basic services by the Local community","Time_frame":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Heart field Estate.jpg"},"geometry":{"type":"Point","coordinates":[80.552232,7.175995]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "1",
+    "MWS_ID": "-",
+    "GN_Divisio": "1108",
+    "GN_Divis_1": "Gampola East",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.17181732",
+    "E": "80.57401987",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57401987,
+     7.17181732
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "2",
+    "MWS_ID": "-",
+    "GN_Divisio": "1109",
+    "GN_Divis_1": "Bothalapitiya",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.171675499",
+    "E": "80.5774286",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5774286,
+     7.171675499
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "3",
+    "MWS_ID": "-",
+    "GN_Divisio": "1110",
+    "GN_Divis_1": "Illawathura",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.164895061",
+    "E": "80.5744986",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5744986,
+     7.164895061
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "4",
+    "MWS_ID": "-",
+    "GN_Divisio": "1111",
+    "GN_Divis_1": "Gampola West",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.163459637",
+    "E": "80.56632907",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56632907,
+     7.163459637
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "5",
+    "MWS_ID": "-",
+    "GN_Divisio": "1112",
+    "GN_Divis_1": "Polkumbura",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.164225076",
+    "E": "80.56959301",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56959301,
+     7.164225076
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "72",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1117",
+    "GN_Divis_1": "Godagama",
+    "Key_Activi": "1. Soil conservation practices - Farmlands at slopy lands near the Godagama reservoir road and Saman Weerarathna Road (45?-60?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.157373",
+    "E": "80.554556",
+    "Quantity": "5 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,250,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.554556,
+     7.157373
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "73",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1118",
+    "GN_Divis_1": "Sinhapitiya South",
+    "Key_Activi": "1. Soil conservation practices - Sinhapitiya Village (30?-40?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.164402",
+    "E": "80.552575",
+    "Quantity": "4 ha",
+    "Proposed_m": "Lock and spills and/or live fencing/SALT, stone terracing, as applied",
+    "Uniti_Cost": "400.00 m-1",
+    "Total_Cost": "1,600,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation (4).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.552575,
+     7.164402
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "74",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1119",
+    "GN_Divis_1": "Kahatapitiya",
+    "Key_Activi": "1. Soil conservation practices - Luunuwatta Division (45?-55?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.179957",
+    "E": "80.576847",
+    "Quantity": "0.5 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "125,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands-Soil_conservation.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.576847,
+     7.179957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "6",
+    "MWS_ID": "-",
+    "GN_Divisio": "1120",
+    "GN_Divis_1": "Ilangawatta",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.176025139",
+    "E": "80.57488795",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57488795,
+     7.176025139
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "76",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1121",
+    "GN_Divis_1": "Unambuwa",
+    "Key_Activi": "1. Soil conservation practices - Gardens  (20?-30?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.177744",
+    "E": "80.564135",
+    "Quantity": "1 ha",
+    "Proposed_m": "Lock and spills and/or live fencing/SALT, stone terracing, as applied",
+    "Uniti_Cost": "400.00 m-1",
+    "Total_Cost": "400,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation (3).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.564135,
+     7.177744
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "77",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1121",
+    "GN_Divis_1": "Unambuwa",
+    "Key_Activi": "2. Soil conservation practices - Gardens  (40?-50?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.175174",
+    "E": "80.568017",
+    "Quantity": "1 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "250,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation - Udawerella (7).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.568017,
+     7.175174
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "79",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1122",
+    "GN_Divis_1": "Mount temple",
+    "Key_Activi": "1. Soil conservation practices - Mount temple GND (35?-45?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.168163",
+    "E": "80.568765",
+    "Quantity": "0.5 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "125,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soi; conservation (2).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.568765,
+     7.168163
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "80",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1123",
+    "GN_Divis_1": "Kirinda",
+    "Key_Activi": "1. Soil conservation practices - Kirinda Govi Sevaka land  (50?-60?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.18665",
+    "E": "80.587362",
+    "Quantity": "0.5 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "250,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Govisewana (4).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.587362,
+     7.18665
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "81",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1123",
+    "GN_Divis_1": "Kirinda",
+    "Key_Activi": "2. Soil conservation practices - Galgediyawa  (30?-40?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.181446",
+    "E": "80.586033",
+    "Quantity": "2 ha",
+    "Proposed_m": "Lock and spills and/or live fencing/SALT, stone terracing, as applied",
+    "Uniti_Cost": "400.00 m-1",
+    "Total_Cost": "400,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Galgediyawa (2).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.586033,
+     7.181446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "82",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1124",
+    "GN_Divis_1": "Galgediyawa",
+    "Key_Activi": "1. Soil conservation practices - Alupotha (35?-55?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.183478",
+    "E": "80.577327",
+    "Quantity": "8 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "2,000,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Dalupotha (7).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.577327,
+     7.183478
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "83",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1124",
+    "GN_Divis_1": "Galgediyawa",
+    "Key_Activi": "2. Soil conservation practices - Delgolla (40?-60?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.185764",
+    "E": "80.576605",
+    "Quantity": "6 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,500,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Delgolla (5).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.576605,
+     7.185764
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "84",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1124",
+    "GN_Divis_1": "Galgediyawa",
+    "Key_Activi": "3. Soil conservation practices - Diddeniya (35?-55?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.184419",
+    "E": "80.573456",
+    "Quantity": "4 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,000,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Diddeniya (4).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.573456,
+     7.184419
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "85",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1124",
+    "GN_Divis_1": "Galgediyawa",
+    "Key_Activi": "4. Soil conservation practices - Magalhena (45?-60?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.181141",
+    "E": "80.574333",
+    "Quantity": "4 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,000,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Magalhena.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.574333,
+     7.181141
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "86",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1124",
+    "GN_Divis_1": "Galgediyawa",
+    "Key_Activi": "5. Soil conservation practices - Rathwatta (35?-50?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.184743",
+    "E": "80.581338",
+    "Quantity": "8 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "2,000,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Rathwattha (7).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.581338,
+     7.184743
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "87",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1124",
+    "GN_Divis_1": "Galgediyawa",
+    "Key_Activi": "6. Soil conservation practices -Sundaliya Watta (45?-60?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.182621",
+    "E": "80.573491",
+    "Quantity": "6 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "1,500,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Sundaliyawattha.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.573491,
+     7.182621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "88",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1125",
+    "GN_Divis_1": "Udovita",
+    "Key_Activi": "1. Soil conservation practices - Near the Raja Ela (50?-60?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.182904",
+    "E": "80.592099",
+    "Quantity": "0.5 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "125,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil conservation (3).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.592099,
+     7.182904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "89",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1126",
+    "GN_Divis_1": "Rathmalkaduwa",
+    "Key_Activi": "1. Soil conservation practices - Akkara 100 (45?-60?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.182395",
+    "E": "80.547508",
+    "Quantity": "8 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "2,000,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Soil Conservation - Akkara 100 area.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.547508,
+     7.182395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "90",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1126",
+    "GN_Divis_1": "Rathmalkaduwa",
+    "Key_Activi": "2. Soil conservation practices - Akkara 60 (45?-60?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.181183",
+    "E": "80.548188",
+    "Quantity": "15 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "3,750,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.5 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Soil Conservation - Akkara 60 area (2).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.548188,
+     7.181183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "91",
+    "MWS_ID": "133-2",
+    "GN_Divisio": "1126",
+    "GN_Divis_1": "Rathmalkaduwa",
+    "Key_Activi": "3. Soil conservation practices - Heartfield (35?-45?)",
+    "Priority_b": "-",
+    "Location_Detail": "Exact",
+    "N": "7.175995",
+    "E": "80.552232",
+    "Quantity": "30 ha",
+    "Proposed_m": "Live fencing/SALT and/or stone terracing/lock and spills, as applied",
+    "Uniti_Cost": "250.00 m-1",
+    "Total_Cost": "7,500,000.00",
+    "Contributi": "Labour and other basic services by the Local community",
+    "Time_frame": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Lands - Soil Conservation - Heart field Estate.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.552232,
+     7.175995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "7",
+    "MWS_ID": "-",
+    "GN_Divisio": "1127",
+    "GN_Divis_1": "Sinhapitiya North",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.167096473",
+    "E": "80.54780452",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54780452,
+     7.167096473
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "8",
+    "MWS_ID": "-",
+    "GN_Divisio": "1128",
+    "GN_Divis_1": "Hapugaspitiya",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.173469021",
+    "E": "80.55772665",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55772665,
+     7.173469021
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "9",
+    "MWS_ID": "-",
+    "GN_Divisio": "1129",
+    "GN_Divis_1": "Keerapane",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.165599096",
+    "E": "80.56279331",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56279331,
+     7.165599096
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "10",
+    "MWS_ID": "-",
+    "GN_Divisio": "1130",
+    "GN_Divis_1": "Ranawala",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.182517356",
+    "E": "80.56239896",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56239896,
+     7.182517356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "11",
+    "MWS_ID": "-",
+    "GN_Divisio": "1131",
+    "GN_Divis_1": "Bowala",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.18506497",
+    "E": "80.55528392",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55528392,
+     7.18506497
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "12",
+    "MWS_ID": "-",
+    "GN_Divisio": "1159",
+    "GN_Divis_1": "Egoda Kalugamuwa",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.206627151",
+    "E": "80.60385248",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60385248,
+     7.206627151
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "13",
+    "MWS_ID": "-",
+    "GN_Divisio": "1113",
+    "GN_Divis_1": "Aregoda",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.15386806",
+    "E": "80.56687144",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56687144,
+     7.15386806
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "14",
+    "MWS_ID": "-",
+    "GN_Divisio": "1114",
+    "GN_Divis_1": "Kurukude",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.149650982",
+    "E": "80.56837432",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56837432,
+     7.149650982
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "15",
+    "MWS_ID": "-",
+    "GN_Divisio": "1115",
+    "GN_Divis_1": "Kudamake",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.154032668",
+    "E": "80.56410864",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56410864,
+     7.154032668
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No_": "16",
+    "MWS_ID": "-",
+    "GN_Divisio": "1116",
+    "GN_Divis_1": "Jayamalapura",
+    "Key_Activi": "No special issues are reported",
+    "Priority_b": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.143386295",
+    "E": "80.56899842",
+    "Quantity": "-",
+    "Proposed_m": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contributi": "-",
+    "Time_frame": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56899842,
+     7.143386295
+    ]
+   }
+  }
+ ]
+}

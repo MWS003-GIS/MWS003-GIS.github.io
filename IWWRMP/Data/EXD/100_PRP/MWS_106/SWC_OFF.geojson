@@ -1,8 +1,480 @@
-{"type":"FeatureCollection","name":"SWC_OFF","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GND No.":603,"GND Name":"Meegammana West","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - Ella in front of Mr. W. Punchihami's House","Priority based on Soil Erosion Hazard":4,"N":7.341109,"E":80.663149,"Quantity":"20 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":2128500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/Punchihami landslide risk.jpg"},"geometry":{"type":"Point","coordinates":[80.663149,7.341109]}},
-{"type":"Feature","properties":{"No.":2,"GND No.":603,"GND Name":"Meegammana West","Key Activities proposed for Soil and Water conservation":"2. Establishing a retaining wall - At the end of the Sanasa Road","Priority based on Soil Erosion Hazard":3,"N":7.341287,"E":80.655078,"Quantity":"20 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":2128500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/Sanasa rd disaster.jpg"},"geometry":{"type":"Point","coordinates":[80.655078,7.341287]}},
-{"type":"Feature","properties":{"No.":3,"GND No.":609,"GND Name":"Polgolla","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - Sarasavi Mawatha (near Mrs. Nilani's house)","Priority based on Soil Erosion Hazard":3,"N":7.327938,"E":80.651135,"Quantity":"10 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":1067000,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/Sarasavi road near NIlas house.jpg"},"geometry":{"type":"Point","coordinates":[80.651135,7.327938]}},
-{"type":"Feature","properties":{"No.":4,"GND No.":610,"GND Name":"Balanagala","Key Activities proposed for Soil and Water conservation":"Establishing a retaining wall - Mahaweli School","Priority based on Soil Erosion Hazard":1,"N":7.329197,"E":80.640955,"Quantity":"10 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":1067000,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/Mahaweli school landslide.jpg"},"geometry":{"type":"Point","coordinates":[80.640955,7.329197]}},
-{"type":"Feature","properties":{"No.":5,"GND No.":617,"GND Name":"Millanga","Key Activities proposed for Soil and Water conservation":"1. Establishing a retaining wall - Ella and the road at near the Mrs. Kusumawathi's house near the DO Office","Priority based on Soil Erosion Hazard":2,"N":7.343861,"E":80.632887,"Quantity":"15 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":1600500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/kusuma house.jpg"},"geometry":{"type":"Point","coordinates":[80.632887,7.343861]}},
-{"type":"Feature","properties":{"No.":6,"GND No.":632,"GND Name":"Mandandawela","Key Activities proposed for Soil and Water conservation":"Establishing a retaining wall - A part of the Udagahamuduna road near Mr. P.V. James's house","Priority based on Soil Erosion Hazard":3,"N":7.357946,"E":80.635293,"Quantity":"12 m x 3 m","Proposed measure/s":"Retaining Wall (Concrete)","Total_Cost":1281500,"Contribution (Local Community, LA, and the project)":"By the project","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.635293,7.357946]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "600",
+    "GND Name": "Doragamuwa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.361443807",
+    "E": "80.65666211",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65666211,
+     7.361443807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "603",
+    "GND Name": "Meegammana West",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Ella in front of Mr. W. Punchihami's House",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.341109",
+    "E": "80.663149",
+    "Quantity": "20 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2128500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/Punchihami landslide risk.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.663149,
+     7.341109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "603",
+    "GND Name": "Meegammana West",
+    "Key Activities proposed for Soil and Water conservation": "2. Establishing a retaining wall - At the end of the Sanasa Road",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.341287",
+    "E": "80.655078",
+    "Quantity": "20 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "2128500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/Sanasa rd disaster.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.655078,
+     7.341287
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "605",
+    "GND Name": "Kahalla",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.333050641",
+    "E": "80.63183796",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63183796,
+     7.333050641
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "606",
+    "GND Name": "Kalugalawatta",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.335652478",
+    "E": "80.62459254",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62459254,
+     7.335652478
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "608",
+    "GND Name": "Nawayalathenna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.330721719",
+    "E": "80.63338927",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63338927,
+     7.330721719
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "609",
+    "GND Name": "Polgolla",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Sarasavi Mawatha (near Mrs. Nilani's house)",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.327938",
+    "E": "80.651135",
+    "Quantity": "10 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "1067000",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/Sarasavi road near NIlas house.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.651135,
+     7.327938
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "610",
+    "GND Name": "Balanagala",
+    "Key Activities proposed for Soil and Water conservation": "Establishing a retaining wall - Mahaweli School",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.329197",
+    "E": "80.640955",
+    "Quantity": "10 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "1067000",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/Mahaweli school landslide.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.640955,
+     7.329197
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "612",
+    "GND Name": "Galadeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.347343124",
+    "E": "80.65060566",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65060566,
+     7.347343124
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "613",
+    "GND Name": "Pallethalavinna",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.338090701",
+    "E": "80.64018285",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64018285,
+     7.338090701
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "617",
+    "GND Name": "Millanga",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Ella and the road at near the Mrs. Kusumawathi's house near the DO Office",
+    "Priority based on Soil Erosion Hazard": "2",
+    "Location_Detail": "Exact",
+    "N": "7.343861",
+    "E": "80.632887",
+    "Quantity": "15 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "1600500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_106/kusuma house.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.632887,
+     7.343861
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "618",
+    "GND Name": "Megodagama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.340759144",
+    "E": "80.62694889",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62694889,
+     7.340759144
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "619",
+    "GND Name": "Molagodayawatta",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.341293774",
+    "E": "80.62176003",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62176003,
+     7.341293774
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "625",
+    "GND Name": "Aluthgama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.360497368",
+    "E": "80.64568349",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64568349,
+     7.360497368
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "626",
+    "GND Name": "Bogahakumbura",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.35870032",
+    "E": "80.64647264",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64647264,
+     7.35870032
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "627",
+    "GND Name": "Paranagama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.354802652",
+    "E": "80.63546687",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63546687,
+     7.354802652
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "628",
+    "GND Name": "Moonamale",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.349473925",
+    "E": "80.63734968",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63734968,
+     7.349473925
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "632",
+    "GND Name": "Mandandawela",
+    "Key Activities proposed for Soil and Water conservation": "Establishing a retaining wall - A part of the Udagahamuduna road near Mr. P.V. James's house",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.357946",
+    "E": "80.635293",
+    "Quantity": "12 m x 3 m",
+    "Proposed measure/s": "Retaining Wall (Concrete)",
+    "Total_Cost": "1281500",
+    "Contribution (Local Community, LA, and the project)": "By the project",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.635293,
+     7.357946
+    ]
+   }
+  }
+ ]
+}

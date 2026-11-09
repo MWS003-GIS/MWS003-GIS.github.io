@@ -1,10 +1,782 @@
 {
-"type": "FeatureCollection",
-"name": "Landslides",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No.": 1, "GN Division No.": 565, "GN Division": "Thelambugahawatta", "Landslides": "1. Bank collapsing - Above the school on Thelambugahawatta Road", "N": 7.372449, "E": 80.628102, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "Formalizing the drain system and drainage is essential. Construct a concrete drain (100 m).", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_2/21-05-2026_11-29-39_6120.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.628102, 7.372449 ] } },
-{ "type": "Feature", "properties": { "No.": 2, "GN Division No.": 565, "GN Division": "Thelambugahawatta", "Landslides": "2. Erosion of the road - Near the meat shop on Thelambugahawatta Road", "N": 7.370785, "E": 80.625398, "NBRO Recommendation N/A": "Needs NBRO concern", "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_2/21-05-2026_11-27-48_8932.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.625398, 7.370785 ] } },
-{ "type": "Feature", "properties": { "No.": 3, "GN Division No.": 573, "GN Division": "Pangollamada", "Landslides": "Landsliding - Pangollamada", "N": 7.3868032, "E": 80.644546, "NBRO Recommendation N/A": "NBRO is aware", "Proposed Measures": "Formalizing the drain system and drainage is essential. Construct a concrete drain (500 m).", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_2/Pangollamada landslide.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.644546, 7.3868032 ] } }
-]
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "559",
+    "GN Division": "Bulugohothenna",
+    "Landslides": "Landsliding - Below area to the Maha Palliya",
+    "Location_Detail": "Approximation",
+    "N": "7.37095681",
+    "E": "80.61116756",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61116756,
+     7.37095681
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "563",
+    "GN Division": "Dodangolla",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.364534982",
+    "E": "80.61578605",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61578605,
+     7.364534982
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "564",
+    "GN Division": "Akurana",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.370683559",
+    "E": "80.61993781",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61993781,
+     7.370683559
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "565",
+    "GN Division": "Thelambugahawatta",
+    "Landslides": "1. Bank collapsing - Above the school on Thelambugahawatta Road",
+    "Location_Detail": "Exact",
+    "N": "7.372449",
+    "E": "80.628102",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Formalizing the drain system and drainage is essential. Construct a concrete drain (100 m).",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_2/21-05-2026_11-29-39_6120.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.628102,
+     7.372449
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "565",
+    "GN Division": "Thelambugahawatta",
+    "Landslides": "2. Erosion of the road - Near the meat shop on Thelambugahawatta Road",
+    "Location_Detail": "Exact",
+    "N": "7.370785",
+    "E": "80.625398",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_2/21-05-2026_11-27-48_8932.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.625398,
+     7.370785
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "565",
+    "GN Division": "Thelambugahawatta",
+    "Landslides": "2. Erosion of the road - Near the meat shop on Thelambugahawatta Road",
+    "Location_Detail": "Exact",
+    "N": "7.370785",
+    "E": "80.625398",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_2/21-05-2026_11-27-48_8932.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.625398,
+     7.370785
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "565",
+    "GN Division": "Thelambugahawatta",
+    "Landslides": "1. Bank collapsing - Above the school on Thelambugahawatta Road",
+    "Location_Detail": "Exact",
+    "N": "7.372449",
+    "E": "80.628102",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Formalizing the drain system and drainage is essential. Construct a concrete drain (100 m).",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_2/21-05-2026_11-29-39_6120.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.628102,
+     7.372449
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "566",
+    "GN Division": "Waragashinna",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.367883531",
+    "E": "80.6205884",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6205884,
+     7.367883531
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "567",
+    "GN Division": "Neerella",
+    "Landslides": "1. Bank collapsing - Neerella Tower Road",
+    "Location_Detail": "Approximation",
+    "N": "7.375392058",
+    "E": "80.61621091",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61621091,
+     7.375392058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "567",
+    "GN Division": "Neerella",
+    "Landslides": "2. Bank collapsing - Galdowa Road",
+    "Location_Detail": "Approximation",
+    "N": "7.375392058",
+    "E": "80.61621091",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61621091,
+     7.375392058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "567",
+    "GN Division": "Neerella",
+    "Landslides": "3. Bank collapsing - Neerella Malwana Road",
+    "Location_Detail": "Approximation",
+    "N": "7.375392058",
+    "E": "80.61621091",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61621091,
+     7.375392058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "568",
+    "GN Division": "Melchena",
+    "Landslides": "Bank collapsing - Road of the Melchena GND",
+    "Location_Detail": "Approximation",
+    "N": "7.377606674",
+    "E": "80.61122493",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations. Soil conservation should be adopted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61122493,
+     7.377606674
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "569",
+    "GN Division": "Malwanahinna",
+    "Landslides": "Bank collapsing - Various places in GND",
+    "Location_Detail": "Approximation",
+    "N": "7.38353338",
+    "E": "80.61477072",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing retaining walls (200 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61477072,
+     7.38353338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "570",
+    "GN Division": "Kurugoda",
+    "Landslides": "Bank erosion - Palugollamada Road",
+    "Location_Detail": "Approximation",
+    "N": "7.380345892",
+    "E": "80.62410425",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing retaining walls (100 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62410425,
+     7.380345892
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GN Division No.": "571",
+    "GN Division": "Hureegolla",
+    "Landslides": "Bank collapsing - 1 km from 8th mile post to 7th mile post direction, upper area of the A9 Road",
+    "Location_Detail": "Approximation",
+    "N": "7.383927525",
+    "E": "80.62091103",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Raising awareness of households through on Land Use Planning. Formalizing the drain system and drainage is essential. Construct a concrete drain (100 m).",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62091103,
+     7.383927525
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GN Division No.": "572",
+    "GN Division": "Delgasthenna",
+    "Landslides": "Landsliding - Delgasthenna",
+    "Location_Detail": "Approximation",
+    "N": "7.377296613",
+    "E": "80.62517812",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Soil conservation practices should be adopted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62517812,
+     7.377296613
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GN Division No.": "573",
+    "GN Division": "Pangollamada",
+    "Landslides": "Landsliding - Pangollamada",
+    "Location_Detail": "Exact",
+    "N": "7.3868032",
+    "E": "80.644546",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Formalizing the drain system and drainage is essential. Construct a concrete drain (500 m).",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_108_2/Pangollamada landslide.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.644546,
+     7.3868032
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GN Division No.": "574",
+    "GN Division": "Malgamandeniya",
+    "Landslides": "1. Collapsing banks - Malgamandeniya",
+    "Location_Detail": "Approximation",
+    "N": "7.396438881",
+    "E": "80.6340177",
+    "NBRO Recommendation N/A": "NBRO is aware.",
+    "Proposed Measures": "Revisit Land Use Planning and follow NBRO recommendation.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6340177,
+     7.396438881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GN Division No.": "574",
+    "GN Division": "Malgamandeniya",
+    "Landslides": "2. Collapsing banks - Henthenna Village",
+    "Location_Detail": "Approximation",
+    "N": "7.396438881",
+    "E": "80.6340177",
+    "NBRO Recommendation N/A": "NBRO is aware.",
+    "Proposed Measures": "Revisit Land Use Planning and follow NBRO recommendation.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6340177,
+     7.396438881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GN Division No.": "575",
+    "GN Division": "Rathukoho",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.38914778",
+    "E": "80.63241044",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63241044,
+     7.38914778
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GN Division No.": "576",
+    "GN Division": "Deegala",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.383133737",
+    "E": "80.63601587",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63601587,
+     7.383133737
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GN Division No.": "577",
+    "GN Division": "Palle Deegala",
+    "Landslides": "Unstable lands - All over the GND",
+    "Location_Detail": "Approximation",
+    "N": "7.377069209",
+    "E": "80.63515604",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Land Use Planning AND Soil conservation practices are essential.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63515604,
+     7.377069209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GN Division No.": "578",
+    "GN Division": "Dunuvila North",
+    "Landslides": "Unstable lands - All over the GND",
+    "Location_Detail": "Approximation",
+    "N": "7.381248528",
+    "E": "80.65205692",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Soil conservation methods for stabilizing the banks",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65205692,
+     7.381248528
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GN Division No.": "579",
+    "GN Division": "Dunuvila South",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.374635726",
+    "E": "80.64932391",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64932391,
+     7.374635726
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "25",
+    "GN Division No.": "580",
+    "GN Division": "Mawathupola",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.40122814",
+    "E": "80.62026219",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62026219,
+     7.40122814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "26",
+    "GN Division No.": "581",
+    "GN Division": "Konakalagala",
+    "Landslides": "1. Bank collapsing - TGMM Wickramasinghe's house",
+    "Location_Detail": "Approximation",
+    "N": "7.392249902",
+    "E": "80.62028874",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62028874,
+     7.392249902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "27",
+    "GN Division No.": "581",
+    "GN Division": "Konakalagala",
+    "Landslides": "2. Bank collapsing - Several other places of GND",
+    "Location_Detail": "Approximation",
+    "N": "7.392249902",
+    "E": "80.62028874",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62028874,
+     7.392249902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "28",
+    "GN Division No.": "582",
+    "GN Division": "Marahela",
+    "Landslides": "Bank collapsing - Various places of GND",
+    "Location_Detail": "Approximation",
+    "N": "7.390065459",
+    "E": "80.62641507",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a retaining wall (100 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62641507,
+     7.390065459
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "29",
+    "GN Division No.": "584",
+    "GN Division": "Arambepola",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.394773801",
+    "E": "80.6130439",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6130439,
+     7.394773801
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "30",
+    "GN Division No.": "586",
+    "GN Division": "Dippitiya",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.387890266",
+    "E": "80.60710127",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60710127,
+     7.387890266
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "31",
+    "GN Division No.": "587",
+    "GN Division": "Walahena",
+    "Landslides": "1. Bank collapsing - Walahena area above the Ankumbura Road",
+    "Location_Detail": "Approximation",
+    "N": "7.404771058",
+    "E": "80.60310366",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Constructing a retaining wall (100 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60310366,
+     7.404771058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "32",
+    "GN Division No.": "587",
+    "GN Division": "Walahena",
+    "Landslides": "2. Bank collapsing - Walahena",
+    "Location_Detail": "Approximation",
+    "N": "7.404771058",
+    "E": "80.60310366",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Constructing a retaining wall (50 m). Follow NBRO recommendations.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60310366,
+     7.404771058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "33",
+    "GN Division No.": "588",
+    "GN Division": "Delgasgoda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.397578439",
+    "E": "80.60476338",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60476338,
+     7.397578439
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "34",
+    "GN Division No.": "592",
+    "GN Division": "Kurudugahaela",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.362626668",
+    "E": "80.62145128",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62145128,
+     7.362626668
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "35",
+    "GN Division No.": "593",
+    "GN Division": "Uggala",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.367333054",
+    "E": "80.62907285",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62907285,
+     7.367333054
+    ]
+   }
+  }
+ ]
 }

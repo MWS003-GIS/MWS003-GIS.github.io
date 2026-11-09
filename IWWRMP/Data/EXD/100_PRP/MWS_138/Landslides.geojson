@@ -1,0 +1,78 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "1079",
+    "GN Division": "Westhole",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.987726074",
+    "E": "80.56971675",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56971675,
+     6.987726074
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "1080",
+    "GN Division": "Hydree",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.961108231",
+    "E": "80.56246279",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56246279,
+     6.961108231
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "1098",
+    "GN Division": "Inguruoya South",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "6.991942217",
+    "E": "80.54265012",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54265012,
+     6.991942217
+    ]
+   }
+  }
+ ]
+}

@@ -1,3 +1,166 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":23,"GN Division No.":472,"GN Division":"Hedeniya","Landslides":"1. Landsliding - Heedeniya Kurunagala Main Road","N":7.340126,"E":80.554563,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"New lands should be provided. Follow recommendations of NBRO.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_114_2/kurunagala main road land slide (1).jpg"},"geometry":{"type":"Point","coordinates":[80.554563,7.340126]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "472",
+    "GN Division": "Hedeniya",
+    "Landslides": "1. Landsliding - Heedeniya Kurunagala Main Road 2. Landsliding - Heedeniya Kurunagala Main Road",
+    "Location_Detail": "Exact",
+    "N": "7.340126",
+    "E": "80.554563",
+    "NBRO Recommendation N/A": "NBRO is aware Needs the NBRO concern",
+    "Proposed Measures": "New lands should be provided. Follow recommendations of NBRO. New lands should be provided. Follow recommendations of NBRO after consulting.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_114_2/kurunagala main road land slide (1).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.554563,
+     7.340126
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "473",
+    "GN Division": "Narangoda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.33630288",
+    "E": "80.55822345",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55822345,
+     7.33630288
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "475",
+    "GN Division": "Palkumbura",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.329846748",
+    "E": "80.54779833",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54779833,
+     7.329846748
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "477",
+    "GN Division": "Karanduwawala Ihala",
+    "Landslides": "Landsliding - Deniya Kumbura Canal Bank",
+    "Location_Detail": "Approximation",
+    "N": "7.320067959",
+    "E": "80.55962928",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55962928,
+     7.320067959
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "476",
+    "GN Division": "Rajasinghagama",
+    "Landslides": "Landsliding - Girandeniya",
+    "Location_Detail": "Approximation",
+    "N": "7.333528455",
+    "E": "80.55418143",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55418143,
+     7.333528455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "478",
+    "GN Division": "Karanduwawala Pahala",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.323068364",
+    "E": "80.55741285",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55741285,
+     7.323068364
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "479",
+    "GN Division": "Owathenna",
+    "Landslides": "Landsliding - No. 9, Janapadaye Uchchamale Kanda",
+    "Location_Detail": "Approximation",
+    "N": "7.323497562",
+    "E": "80.55169028",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Providing land to settlers & removal from those places; Establishing systematic forest plantations on the relevant lands; Removing the electrical transformer with caution. Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55169028,
+     7.323497562
+    ]
+   }
+  }
+ ]
+}

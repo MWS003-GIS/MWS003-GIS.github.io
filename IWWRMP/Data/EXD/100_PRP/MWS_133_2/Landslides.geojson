@@ -1,0 +1,738 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "1108",
+    "GN Division": "Gampola East",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.17181732",
+    "E": "80.57401987",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57401987,
+     7.17181732
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "1110",
+    "GN Division": "Illawathura",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.164895061",
+    "E": "80.5744986",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5744986,
+     7.164895061
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "1111",
+    "GN Division": "Gampola West",
+    "Landslides": "Landsliding - Urban Council Housing Scheme",
+    "Location_Detail": "Exact",
+    "N": "7.166326",
+    "E": "80.565506",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.565506,
+     7.166326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "1112",
+    "GN Division": "Polkumbura",
+    "Landslides": "Landsliding - Near Pinwattha Road",
+    "Location_Detail": "Exact",
+    "N": "7.168966",
+    "E": "80.570228",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "It is appropriate to take appropriate action after obtaining the recommendation of the NBRO.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.570228,
+     7.168966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "1117",
+    "GN Division": "Godagama",
+    "Landslides": "1. Bank collapsing - Bank collapsing onto Dolosbage Road near the Cadet Office of Jinaraja School\n2. Bank collapsing - Bank collapsing/ bank erosion of the canal behind Mr. Dhanesh Weerasekara's house",
+    "Location_Detail": "Exact",
+    "N": "7.158926",
+    "E": "80.556866",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "It is appropriate to construct Concrete Retaining wall of L = 10 m, H = 3 m\nIt is advisable to construct the canal (L = 20 m, H = 1.5 m, W = 2.4 m) and a retaining wall (L = 30 m, H = 2.0 m). Also, to prevent bank erosion, it is advisable to pave available stones in the streams and plant trees such as Kumbuk, arica nut, bamboo in necessary places. Special attention should be paid to preventing the discharge of garbage into these streams and marking the boundaries of reservations lands.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.556866,
+     7.158926
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "1117",
+    "GN Division": "Godagama",
+    "Landslides": "1. Bank collapsing - Bank collapsing onto Dolosbage Road near the Cadet Office of Jinaraja School\n2. Bank collapsing - Bank collapsing/ bank erosion of the canal behind Mr. Dhanesh Weerasekara's house",
+    "Location_Detail": "Exact",
+    "N": "7.159185",
+    "E": "80.560411",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "It is appropriate to construct Concrete Retaining wall of L = 10 m, H = 3 m\nIt is advisable to construct the canal (L = 20 m, H = 1.5 m, W = 2.4 m) and a retaining wall (L = 30 m, H = 2.0 m). Also, to prevent bank erosion, it is advisable to pave available stones in the streams and plant trees such as Kumbuk, arica nut, bamboo in necessary places. Special attention should be paid to preventing the discharge of garbage into these streams and marking the boundaries of reservations lands.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.560411,
+     7.159185
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "1118",
+    "GN Division": "Sinhapitiya South",
+    "Landslides": "Landsliding - Near the Gal Pihilla area",
+    "Location_Detail": "Exact",
+    "N": "7.164339",
+    "E": "80.552596",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.552596,
+     7.164339
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "1119",
+    "GN Division": "Kahatapitiya",
+    "Landslides": "1. Landsliding - Rathketiya\n2. Flooding - Bebila Division",
+    "Location_Detail": "Exact",
+    "N": "7.179721",
+    "E": "80.580598",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations\nIt is advisable to construct the canal up to 200 m length (W = 0.9 m H = 0.9 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.580598,
+     7.179721
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "1119",
+    "GN Division": "Kahatapitiya",
+    "Landslides": "1. Landsliding - Rathketiya\n2. Flooding - Bebila Division",
+    "Location_Detail": "Exact",
+    "N": "7.177531",
+    "E": "80.577531",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations\nIt is advisable to construct the canal up to 200 m length (W = 0.9 m H = 0.9 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.577531,
+     7.177531
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "1120",
+    "GN Division": "Ilangawatta",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.176025139",
+    "E": "80.57488795",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57488795,
+     7.176025139
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "1121",
+    "GN Division": "Unambuwa",
+    "Landslides": "Bank collapsing - Hunugalawatta",
+    "Location_Detail": "Exact",
+    "N": "7.173438",
+    "E": "80.571214",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.571214,
+     7.173438
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "1122",
+    "GN Division": "Mount temple",
+    "Landslides": "1. Landsliding - BTS Division\n2. Landsliding - Kadugannawa Road\n3. Landsliding - Galwala Road",
+    "Location_Detail": "Exact",
+    "N": "7.168504",
+    "E": "80.56957",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern\nNBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations\nIt is appropriate to take appropriate action after obtaining the recommendation of the NBRO.\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56957,
+     7.168504
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "1122",
+    "GN Division": "Mount temple",
+    "Landslides": "1. Landsliding - BTS Division\n2. Landsliding - Kadugannawa Road\n3. Landsliding - Galwala Road",
+    "Location_Detail": "Exact",
+    "N": "7.171353",
+    "E": "80.562442",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern\nNBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations\nIt is appropriate to take appropriate action after obtaining the recommendation of the NBRO.\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.562442,
+     7.171353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "1122",
+    "GN Division": "Mount temple",
+    "Landslides": "1. Landsliding - BTS Division\n2. Landsliding - Kadugannawa Road\n3. Landsliding - Galwala Road",
+    "Location_Detail": "Exact",
+    "N": "7.170005",
+    "E": "80.56957",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern\nNBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations\nIt is appropriate to take appropriate action after obtaining the recommendation of the NBRO.\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56957,
+     7.170005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GN Division No.": "1123",
+    "GN Division": "Kirinda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.185721909",
+    "E": "80.58450893",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58450893,
+     7.185721909
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GN Division No.": "1124",
+    "GN Division": "Galgediyawa",
+    "Landslides": "1. Landsliding - Hilly lands below the Mr. Pussagolla's land from Galgediyawa Bowala Road\n2. Landsliding - The bridge of Kirinda Hodiyadeniya Gamsabha road is damaged",
+    "Location_Detail": "Exact",
+    "N": "7.183271",
+    "E": "80.581943",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations\nIt is appropriate that they focus their attention on the construction of a new bridge with the support of the relevant government agencies (Municipal council, DS Office)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.581943,
+     7.183271
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GN Division No.": "1124",
+    "GN Division": "Galgediyawa",
+    "Landslides": "1. Landsliding - Hilly lands below the Mr. Pussagolla's land from Galgediyawa Bowala Road\n2. Landsliding - The bridge of Kirinda Hodiyadeniya Gamsabha road is damaged",
+    "Location_Detail": "Exact",
+    "N": "7.184158",
+    "E": "80.58199",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations\nIt is appropriate that they focus their attention on the construction of a new bridge with the support of the relevant government agencies (Municipal council, DS Office)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58199,
+     7.184158
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GN Division No.": "1125",
+    "GN Division": "Udovita",
+    "Landslides": "Soil sloughing/landsliding to the road, sinking, erosion of highly slopy area - Rillahena Division",
+    "Location_Detail": "Exact",
+    "N": "7.183163",
+    "E": "80.59126",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "It is appropriate to take appropriate action after obtaining the recommendation of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59126,
+     7.183163
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GN Division No.": "1126",
+    "GN Division": "Rathmalkaduwa",
+    "Landslides": "Landsliding - Heartfield Watta",
+    "Location_Detail": "Approximation",
+    "N": "7.17643542",
+    "E": "80.55058095",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55058095,
+     7.17643542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GN Division No.": "1127",
+    "GN Division": "Sinhapitiya North",
+    "Landslides": "1. Landsliding - 1st Mile Post Road\n2. Landsliding - Road above the Arama Road\n3. Both Landsliding and Contamination of water sources - Ganethenna Road",
+    "Location_Detail": "Exact",
+    "N": "7.169923",
+    "E": "80.549526",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations\nFollow NBRO recommendations\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.549526,
+     7.169923
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GN Division No.": "1127",
+    "GN Division": "Sinhapitiya North",
+    "Landslides": "1. Landsliding - 1st Mile Post Road\n2. Landsliding - Road above the Arama Road\n3. Both Landsliding and Contamination of water sources - Ganethenna Road",
+    "Location_Detail": "Exact",
+    "N": "7.166767",
+    "E": "80.553378",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow NBRO recommendations\nFollow NBRO recommendations\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.553378,
+     7.166767
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GN Division No.": "1128",
+    "GN Division": "Hapugaspitiya",
+    "Landslides": "1. Landsliding - Land area below the road from Hirigahamula of Kadugannawa to Wanawasala Temple\n2. Bank erosion - Paddy lands of Maberipitiya",
+    "Location_Detail": "Exact",
+    "N": "7.16924",
+    "E": "80.561653",
+    "NBRO Recommendation N/A": "Some areas have been checked by NBRO\nNeeds NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.561653,
+     7.16924
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GN Division No.": "1128",
+    "GN Division": "Hapugaspitiya",
+    "Landslides": "1. Landsliding - Land area below the road from Hirigahamula of Kadugannawa to Wanawasala Temple\n2. Bank erosion - Paddy lands of Maberipitiya",
+    "Location_Detail": "Exact",
+    "N": "7.172227",
+    "E": "80.557259",
+    "NBRO Recommendation N/A": "Some areas have been checked by NBRO\nNeeds NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.557259,
+     7.172227
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GN Division No.": "1129",
+    "GN Division": "Keerapane",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.165599096",
+    "E": "80.56279331",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56279331,
+     7.165599096
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "25",
+    "GN Division No.": "1130",
+    "GN Division": "Ranawala",
+    "Landslides": "1. Landsliding - The road from Pambadeniya to Community Hall\n2. Landsliding - Road areas of Ranawiru Mawatha\n3. Landsliding - Road areas of Ranawiru Mawatha (near Mr. R.M. Daskon's and Mr. Gunasekara's houses)",
+    "Location_Detail": "Exact",
+    "N": "7.178303",
+    "E": "80.562437",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations\nFollow NBRO recommendations\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.562437,
+     7.178303
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "26",
+    "GN Division No.": "1130",
+    "GN Division": "Ranawala",
+    "Landslides": "1. Landsliding - The road from Pambadeniya to Community Hall\n2. Landsliding - Road areas of Ranawiru Mawatha\n3. Landsliding - Road areas of Ranawiru Mawatha (near Mr. R.M. Daskon's and Mr. Gunasekara's houses)",
+    "Location_Detail": "Exact",
+    "N": "7.176251",
+    "E": "80.563199",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations\nFollow NBRO recommendations\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.563199,
+     7.176251
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "27",
+    "GN Division No.": "1130",
+    "GN Division": "Ranawala",
+    "Landslides": "1. Landsliding - The road from Pambadeniya to Community Hall\n2. Landsliding - Road areas of Ranawiru Mawatha\n3. Landsliding - Road areas of Ranawiru Mawatha (near Mr. R.M. Daskon's and Mr. Gunasekara's houses)",
+    "Location_Detail": "Exact",
+    "N": "7.175123",
+    "E": "80.56099",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Follow NBRO recommendations\nFollow NBRO recommendations\nFollow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56099,
+     7.175123
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "28",
+    "GN Division No.": "1131",
+    "GN Division": "Bowala",
+    "Landslides": "Landsliding - Pahala Bowala",
+    "Location_Detail": "Exact",
+    "N": "7.186411",
+    "E": "80.557642",
+    "NBRO Recommendation N/A": "Some areas have been checked by NBRO",
+    "Proposed Measures": "Follow NBRO recommendations",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.557642,
+     7.186411
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "29",
+    "GN Division No.": "1159",
+    "GN Division": "Egoda Kalugamuwa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.206627151",
+    "E": "80.60385248",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60385248,
+     7.206627151
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "30",
+    "GN Division No.": "1113",
+    "GN Division": "Aregoda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.15386806",
+    "E": "80.56687144",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56687144,
+     7.15386806
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "31",
+    "GN Division No.": "1114",
+    "GN Division": "Kurukude",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.149650982",
+    "E": "80.56837432",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56837432,
+     7.149650982
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "32",
+    "GN Division No.": "1115",
+    "GN Division": "Kudamake",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.154032668",
+    "E": "80.56410864",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56410864,
+     7.154032668
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "33",
+    "GN Division No.": "1116",
+    "GN Division": "Jayamalapura",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.143386295",
+    "E": "80.56899842",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56899842,
+     7.143386295
+    ]
+   }
+  }
+ ]
+}

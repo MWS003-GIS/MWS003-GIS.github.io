@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "1186",
+    "GN Division": "Kekulanda",
+    "Landslides": "Landsliding - Kekulanda Village",
+    "Location_Detail": "Exact",
+    "N": "7.09939",
+    "E": "80.58417",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "The NBRO has assessed the situation and based on its recommendations, the people in this area have been given land elsewhere. But people are still living in this vulnerable area. People are reluctant to go to the area where the land has been given because the facilities in that area are poor. Follow the recommendations of NBRO.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58417,
+     7.09939
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "1187",
+    "GN Division": "Mawathura",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.085745653",
+    "E": "80.57925121",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57925121,
+     7.085745653
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "1188",
+    "GN Division": "Weligaga",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.097063822",
+    "E": "80.56967252",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56967252,
+     7.097063822
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "1189",
+    "GN Division": "Kalugalhinna",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.086949876",
+    "E": "80.56176259",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56176259,
+     7.086949876
+    ]
+   }
+  }
+ ]
+}

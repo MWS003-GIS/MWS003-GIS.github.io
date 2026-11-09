@@ -1,0 +1,390 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "956",
+    "GND Name": "Koshinna",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of Gamameda Kandura Main Drain\n2. Renovation of Kosssinna Waththa Kandura as a Main Drain\n3. Renovation of 5th Post Kandura as a Main Drain\n4. Renovation of Gamameda Kandura (II) as a Main Drain\n5. Renovation of Peeneswaththa Kandura (I) as a Main Drain\n6. Renovation of Peeneswaththa Kandura (II) as a Main Drain\n7. Establishing a Retaining Wall in Kossinna\n8. Establishing a Retaining Wall in Gammeda Kumbura",
+    "Priority based on Soil Erosion Hazard": "1\n2\n4\n5\n3\n3\n3\n1\n5",
+    "Location_Detail": "Approximation",
+    "N": "7.261056154",
+    "E": "80.68550832",
+    "Quantity": "80.684221\n80.68304\n80.686741\n80.684775\n80.684519\n80.684442\n80.684741\n80.6833362\n80.684775",
+    "Proposed measure/s": "300 m\n1 km\n400 m\n900 m\n400 m\n500 m\n20 m x 2 m\n15 m x 3 m\n50 m x 2 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonry)\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "30000\n100000\n40000\n90000\n40000\n50000\n880000\n1749000\n2200000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68550832,
+     7.261056154
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "968",
+    "GND Name": "Ethulgama East",
+    "Key Activities proposed for Soil and Water conservation": "1. Renovation of Pinarawa Kandura\n2. Developing a drainage facility to Pananwala Road\n3. Renovation of Pinarawa drainage lines\n4. Renovation of the wall near Pananwala Temple\n5. Establishment of retaining wall in Maha Assadduma Ela",
+    "Priority based on Soil Erosion Hazard": "4\n1\n4\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.242552813",
+    "E": "80.67677907",
+    "Quantity": "80.6780236\n80.67364\n80.677111\n80.67769",
+    "Proposed measure/s": "1.1 km\n200 m\n10 m\n15 m x 3 m\n150 m x 2 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nConcrete Drain\nConcrete Drain\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "110000\n12034000\n605000\n1749000\n6600000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67677907,
+     7.242552813
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "957",
+    "GND Name": "Pussathenna",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishment of side wall of Ethkandura (Moraluwaka)\n2. Establishment of retaining wall\n3. Establishing a leader drain (Kongahakotuwa Ela)\n4. Establishing a side wall - near Thalathuoya Pussathenna, Mr. B.G. Ranjith's house\n5. Establishing a side wall - near the house of Mr. I.M. Kiribanda",
+    "Priority based on Soil Erosion Hazard": "4\n2\n3\n1\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.258069434",
+    "E": "80.69566952",
+    "Quantity": "80.697539\n80.694498\n80.689746\n80.689942\n80.697071",
+    "Proposed measure/s": "50 m x 2 m\n10 m x 2 m\n100 m\n12 m x 2 m\n8 m x 3 m",
+    "Uniti_Cost": "Retaining Wall (Masonry)\nRetaining Wall (Masonry)\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonry)\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "2200000\n440000\n10000\n528000\n940500",
+    "Time frame for the implementation": "By the project\nBy the project\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69566952,
+     7.258069434
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "959",
+    "GND Name": "Batagalla",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of Batagalla Kandura\n2. Development of Theniwaththa Kandura",
+    "Priority based on Soil Erosion Hazard": "3\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.2464546",
+    "E": "80.68432275",
+    "Quantity": "80.677961\n80.688951",
+    "Proposed measure/s": "800 m\n600 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks and other conservation practices\nPlanting trees (Areca nut, Caryota, Nuga)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "80000\n60000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68432275,
+     7.2464546
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "961",
+    "GND Name": "Thalathuoya East",
+    "Key Activities proposed for Soil and Water conservation": "1. Conservation of river banks - Kiwul Oya\n2. Establishing a side wall, from the Post Office, Gurudeniya to Samurdhi Bank - 80°\n3. Establishing a drain - 30°\n4. Establishing a drain near Tamil School",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.248360872",
+    "E": "80.69210354",
+    "Quantity": "80.689677\n80.690158\n80.691408\n80.692401",
+    "Proposed measure/s": "500 m\n500 m x 3 m\n100 m\n20 m",
+    "Uniti_Cost": "Planting Kumbuk trees\nRetaining Wall (Concrete)\nConcrete Drain\nConcrete Drain",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "50000\n58047000\n6017000\n1204500",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69210354,
+     7.248360872
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "965",
+    "GND Name": "Ethulgama South",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a side wall, Kottagaskandura\n2. Establishing a drain, the same Kottagaskandura",
+    "Priority based on Soil Erosion Hazard": "5\n5",
+    "Location_Detail": "Approximation",
+    "N": "7.235688793",
+    "E": "80.66630997",
+    "Quantity": "80.668028\n80.668028",
+    "Proposed measure/s": "8 m x 2 m\n8 m",
+    "Uniti_Cost": "Retaining Wall (Masonry)\nConcrete Drain",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "352000\n484000",
+    "Time frame for the implementation": "By the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66630997,
+     7.235688793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "960",
+    "GND Name": "Thalathuoya West",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "2\n4\n5",
+    "Location_Detail": "Approximation",
+    "N": "7.254837891",
+    "E": "80.690682",
+    "Quantity": "80.68903\n80.68876\n80.690094",
+    "Proposed measure/s": "20 m x 2 m\n20 m x 3 m\n30 m x 2 m",
+    "Uniti_Cost": "Retaining Wall (Masonry)\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "880000\n2332000\n1320000",
+    "Time frame for the implementation": "By the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.690682,
+     7.254837891
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "969",
+    "GND Name": "Haputhale Udagama",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of drain in Kandura\n2. Development of Batagolla Kandura\n3. Development of Galpoththa Kandura\n4. Establishing a Retaining Wall - Isipathanaramaya (70°)\n5. Establishing a Retaining Wall - W.M. Upali Wickramasinghe Homegarden",
+    "Priority based on Soil Erosion Hazard": "5\n5\n5\n4\n3",
+    "Location_Detail": "Approximation",
+    "N": "7.233338535",
+    "E": "80.67614919",
+    "Quantity": "80.675423\n80.671663\n80.677625\n80.681315\n80.674639",
+    "Proposed measure/s": "1 km\n1 km\n1 km\n20 m x 3 m\n12 m x 3 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Concrete)\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "100000\n100000\n100000\n2332000\n1402500",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67614919,
+     7.233338535
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "970",
+    "GND Name": "Haputhale Pallegama",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Wewewathttha Well (30°)\n2. Establishing a retaining wall - Palle Well (30°)\n3. Developing natural drains - Konara Kumbura Dola\n6. Establishing retaining wall (I.P. Nimal Senevirathne)",
+    "Priority based on Soil Erosion Hazard": "2\n4\n3\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.232841481",
+    "E": "80.68610192",
+    "Quantity": "80.687227\n80.682863\n80.688603\n80.687425",
+    "Proposed measure/s": "6 m X 2 m\n6 m X 2 m\n500 m x 2 m\n17 m x 3 m",
+    "Uniti_Cost": "Retaining Wall (Masonry)\nRetaining Wall (Masonry)\nRetaining Wall (Masonry)\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "264000\n264000\n22000000\n1985500",
+    "Time frame for the implementation": "By the project\nBy the project\nBy the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68610192,
+     7.232841481
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "971",
+    "GND Name": "Ankelipitiya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.239564351",
+    "E": "80.68824352",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68824352,
+     7.239564351
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "973",
+    "GND Name": "Moragolla",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Near Baswaththa Pihilla\n2. Development of natural drains - Assaduma Iwuru Ela\n3. Development of natural drains - Letiyagolla Kandura lower\n4. Development of natural drains - Letiyagolla Kandura upper\n5. Development of natural drains - near Moragolla Kovila\n6. Establishing a Retaining Wall - Dewale Ella\n7. Establishing a Retaining Wall - Ranhotikanda (60°)\n8. Establishing a Retaining Wall\n9. Establishing a Retaining Wall - J.M. Manel Kumari\n10. Establishing a Retaining Wall\n11. Establishing a Retaining Wall - near the shop 'Persy'\n12. Establishing a Retaining Wall",
+    "Priority based on Soil Erosion Hazard": "5\n1\n5\n1\n2\n5\n2\n4\n4\n1\n4\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.228644689",
+    "E": "80.67978624",
+    "Quantity": "80.677481\n80.680146\n80.679001\n80.678541\n80.674655\n80.675713\n80.677026\n80.683095\n80.682097\n80.684847\n80.681912\n80.682346",
+    "Proposed measure/s": "20 m x 2 m\n30 m\n400 m\n400 m\n1 km\n50 m x 3 m\n20 m x 3 m\n20 m x 2 m\n10 m x 2 m\n10 m x 2 m\n30 m x 3 m\n10 m x 2 m",
+    "Uniti_Cost": "Retaining Wall (Masonry)\nPlanting trees\nAdopting proper soil conservation practices in lands adjacent\nPlanting trees along banks\nRemoval of waste accumulated\nPlanting trees along banks\nRemoval of waste accumulated\nPlanting trees along banks\nRemoval of waste accumulated\nPlanting trees along banks\nCleaning the drain\nRetaining Wall (Concrete)\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)\nRetaining Wall (Masonry)\nRetaining Wall (Masonry)\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "880000\n100000\n100000\n100000\n100000\n5813500\n2332000\n880000\n440000\n440000\n3492500\n440000",
+    "Time frame for the implementation": "By the project\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project\nBy the project\nBy the project\nBy the project\nBy the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67978624,
+     7.228644689
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "972",
+    "GND Name": "Haputhale Egodagama",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Mr. Rasika Nalaka (85°)\n2. Establishing a retaining wall - Pinunwanatha Pihilla (30°)\n3. Establishing a retaining wall - Egodagama, Dodamgasthenne Road (85°)",
+    "Priority based on Soil Erosion Hazard": "5\n4\n3",
+    "Location_Detail": "Approximation",
+    "N": "7.237210764",
+    "E": "80.67624509",
+    "Quantity": "80.673124\n80.673144\n80.674364",
+    "Proposed measure/s": "10 m x 3 m\n6 m x 2 m\n20 m x 3 m",
+    "Uniti_Cost": "Retaining Wall (Concrete)\nRetaining Wall (Masonry)\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "1171500\n264000\n2332000",
+    "Time frame for the implementation": "By the project\nBy the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67624509,
+     7.237210764
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "958",
+    "GND Name": "Hippala",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drain - Aththammawaththa linda\n2. Development of natural drain - Hippalagama Meda\n3. Development of natural drain - Aththanayaka Gedara Waththa Kandura\n4. Establishing a drain near Hippala Road, Sarvodaya Building\n5. Removing blocks/barriers to avoid blocking Thalathuoya",
+    "Priority based on Soil Erosion Hazard": "1\n1\n3\n4\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.251577905",
+    "E": "80.68289305",
+    "Quantity": "80.684486\n80.684215\n80.68195\n80.684427\n80.678084",
+    "Proposed measure/s": "250 m\n1 km\n600 m\n6 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nConcrete Drain\nRemoving blocking",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "25000\n100000\n60000\n363000\n200000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nLabour and other basic services by the Local community",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68289305,
+     7.251577905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "986",
+    "GND Name": "Pinnagolla",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drain\n2. Establishing a retaining wall - Pinnagolla Road",
+    "Priority based on Soil Erosion Hazard": "1\n2\n3\n1\n4\n1\n1\n4\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.250341133",
+    "E": "80.70212924",
+    "Quantity": "80.69741\n80.69937\n80.699356\n80.700473\n80.701226\n80.702269\n80.70258\n80.700973\n80.699358",
+    "Proposed measure/s": "700 m x 1 m x 1 m\n300 m x 1 m x 1m\n2500 m x 1 m x 1m\n300 m x 1 m x 1m\n800 m x 1 m x 1m\n700 m x 1 m x 1 m\n700 m x 1 m x 1 m\n6 m x 2 m\n200 m x 2 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut)\nAvoiding blocking\nClearing and planting some trees along the banks (Arecanut)\nAvoiding blocking\nClearing and planting some trees along the banks (Arecanut)\nAvoiding blocking\nClearing and planting some trees along the banks (Arecanut)\nAvoiding blocking\nClearing and planting some trees along the banks (Arecanut)\nAvoiding blocking\nClearing and planting some trees along the banks (Arecanut)\nAvoiding blocking\nClearing and planting some trees along the banks (Arecanut)\nRetaining Wall (Masonry)\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "70000\n30000\n250000\n30000\n80000\n70000\n70000\n264000\n8800000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70212924,
+     7.250341133
+    ]
+   }
+  }
+ ]
+}

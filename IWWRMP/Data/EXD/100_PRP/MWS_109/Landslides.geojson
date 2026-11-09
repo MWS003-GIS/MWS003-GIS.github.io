@@ -1,0 +1,430 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "518",
+    "GN Division": "Dolapihilla North",
+    "Landslides": "Soil erosion - Dolapihilla North",
+    "Location_Detail": "Approximation",
+    "N": "7.392188258",
+    "E": "80.58677563",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Retaining walls, Lock & spill drains, Live hedges etc. are needed.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58677563,
+     7.392188258
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "520",
+    "GN Division": "Kahatagasthenna",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.40764653",
+    "E": "80.58128644",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58128644,
+     7.40764653
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "521",
+    "GN Division": "Godahena",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.401349104",
+    "E": "80.57603261",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57603261,
+     7.401349104
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "522",
+    "GN Division": "Watagalathenna",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.409869634",
+    "E": "80.57217545",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57217545,
+     7.409869634
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "525",
+    "GN Division": "Kovilamuduna",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.418114284",
+    "E": "80.56922142",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56922142,
+     7.418114284
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "526",
+    "GN Division": "Palliya Kotuwa",
+    "Landslides": "1. Landsliding - Kattappuwa Store at the main road\n2. Landsliding - Lower area of the Kattappuwa Road\n3. Landsliding - Behind the Kattappuwa Church (M. Musjid)",
+    "Location_Detail": "Approximation",
+    "N": "7.414961924",
+    "E": "80.56598421",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNBRO is aware\nNeeds NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted.\nProviding alternative lands and displace the residents. Follow other recommendations of NBRO.\nFollow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56598421,
+     7.414961924
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "527",
+    "GN Division": "Batagolladeniya",
+    "Landslides": "Cracking walls - Side walls of the Jamaliya School",
+    "Location_Detail": "Approximation",
+    "N": "7.416175512",
+    "E": "80.57865914",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57865914,
+     7.416175512
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "528",
+    "GN Division": "Ihalamulla",
+    "Landslides": "Landsliding - The road area of the Kokowatta Road, near U Oya Mrs. Sriyani Gunasekara's house\nLandsliding - Near the Galwanguwa of Ihalamulla Bogahagedara Parawatta Road",
+    "Location_Detail": "Approximation",
+    "N": "7.44919923",
+    "E": "80.56419985",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Retaining walls may be needed. Also, apply other soil conservation measures like live hedges. Land Use Planning should be revisited, having consilted NBRO.\nLand Use Planning should be revisited having consulted NBRO.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56419985,
+     7.44919923
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "529",
+    "GN Division": "Dehiwatta",
+    "Landslides": "Landslide prone area - High slope areas of Wanatha Division and Hapugodella area",
+    "Location_Detail": "Approximation",
+    "N": "7.451878741",
+    "E": "80.56719095",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Introducing soil conservation practices; Retaining walls with Lock & spill drains. Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56719095,
+     7.451878741
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "530",
+    "GN Division": "Egodamulla South",
+    "Landslides": "1. Erosion of the road - Udawatta area\n2. Landsliding - Panchamale Line house area",
+    "Location_Detail": "Approximation",
+    "N": "7.440411636",
+    "E": "80.56485959",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern",
+    "Proposed Measures": "Retaining walls may be needed. Land Use Planning should be revisited, having consilted NBRO.\nProviding alternative lands is needed. Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56485959,
+     7.440411636
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "531",
+    "GN Division": "Egodamulla North",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.446205463",
+    "E": "80.55462294",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55462294,
+     7.446205463
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "532",
+    "GN Division": "Ankumbura South",
+    "Landslides": "Bank erosion - Bank erosion in Aramba Division",
+    "Location_Detail": "Approximation",
+    "N": "7.43323678",
+    "E": "80.5720975",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Retaining walls will be needed for preventing bank erosion. Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5720975,
+     7.43323678
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "533",
+    "GN Division": "Ankumbura North",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.434832273",
+    "E": "80.57714318",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57714318,
+     7.434832273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "534",
+    "GN Division": "Pallegama Pahala",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.425344098",
+    "E": "80.57840639",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57840639,
+     7.425344098
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GN Division No.": "535",
+    "GN Division": "Uggala Janapadaya",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.427763657",
+    "E": "80.58307582",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58307582,
+     7.427763657
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GN Division No.": "536",
+    "GN Division": "Ankumbura Udagama",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.423225892",
+    "E": "80.5692805",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5692805,
+     7.423225892
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GN Division No.": "537",
+    "GN Division": "Welgala",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.420537103",
+    "E": "80.57688214",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57688214,
+     7.420537103
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GN Division No.": "539",
+    "GN Division": "Uda Kithulgolla",
+    "Landslides": "1. Landslide risk, bank collapsing, erosion of roads - Area near Nelligala stairs\n2. Bank erosion - Millagahamada Division\n3. Bank erosion, earth fissures - Ambalama Division",
+    "Location_Detail": "Approximation",
+    "N": "7.430418637",
+    "E": "80.56784599",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern\nNBRO is aware",
+    "Proposed Measures": "Provided a land to one person. Live hedges, safety walls, safe staircase are needed.\nConstructing a safety wall with available stones\nConstructing a safety wall with available stones",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56784599,
+     7.430418637
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GN Division No.": "541",
+    "GN Division": "Watagoda",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.397208843",
+    "E": "80.58991971",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58991971,
+     7.397208843
+    ]
+   }
+  }
+ ]
+}

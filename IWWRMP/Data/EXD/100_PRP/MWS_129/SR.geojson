@@ -1,9 +1,166 @@
-{"type":"FeatureCollection","name":"SR","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No":1,"MWS_ID":129,"GND_No_":1171,"Descriptio":"Nalle canal","N":7.144301,"E":80.62549,"Observatio":"There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.","Descript_1":"Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m","Amount":"688,875","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.62549,7.144301]}},
-{"type":"Feature","properties":{"No":2,"MWS_ID":129,"GND_No_":1171,"Descriptio":"Bulana canal","N":7.140917,"E":80.625622,"Observatio":"There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.","Descript_1":"Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m","Amount":"866,800","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.625622,7.140917]}},
-{"type":"Feature","properties":{"No":3,"MWS_ID":129,"GND_No_":1174,"Descriptio":"Ihalagama Naaya Karawwatta canal","N":7.139556,"E":80.632988,"Observatio":"There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.","Descript_1":"Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m","Amount":"733,700","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.632988,7.139556]}},
-{"type":"Feature","properties":{"No":4,"MWS_ID":129,"GND_No_":1175,"Descriptio":"Batagaala canal","N":7.143406,"E":80.627321,"Observatio":"There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.","Descript_1":"Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m","Amount":"537,570","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.627321,7.143406]}},
-{"type":"Feature","properties":{"No":5,"MWS_ID":129,"GND_No_":1175,"Descriptio":"Rammunawela canal","N":7.144755,"E":80.628405,"Observatio":"There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.","Descript_1":"Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m","Amount":"537,570","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.628405,7.144755]}},
-{"type":"Feature","properties":{"No":6,"MWS_ID":129,"GND_No_":1183,"Descriptio":"Peragolle canal","N":7.128572,"E":80.639233,"Observatio":"There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.","Descript_1":"Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m","Amount":"688,875","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.639233,7.128572]}},
-{"type":"Feature","properties":{"No":7,"MWS_ID":129,"GND_No_":1184,"Descriptio":"Akkaramale Oya","N":7.144321,"E":80.641968,"Observatio":"There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.","Descript_1":"Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m","Amount":"476,465","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.641968,7.144321]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SR",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "1171",
+    "Scheme": "Nalle canal",
+    "Location_Detail": "Exact",
+    "N": "7.1443",
+    "E": "80.62549",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Arecanut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking reservations Contingencies (10%)",
+    "Amount (Rs.)": "688875",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62549,
+     7.1443
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "1171",
+    "Scheme": "Bulana canal",
+    "Location_Detail": "Exact",
+    "N": "7.14092",
+    "E": "80.62562",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Arecanut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking reservations Contingencies (10%)",
+    "Amount (Rs.)": "866800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62562,
+     7.14092
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "1174",
+    "Scheme": "Ihalagama Naaya Karaw watta canal",
+    "Location_Detail": "Exact",
+    "N": "7.13956",
+    "E": "80.63299",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Arecanut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid interval Marking reservations Contingencies (10%)",
+    "Amount (Rs.)": "733700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63299,
+     7.13956
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "1175",
+    "Scheme": "Batagaala canal",
+    "Location_Detail": "Exact",
+    "N": "7.14341",
+    "E": "80.62732",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Arecanut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking reservations Contingencies (10%)",
+    "Amount (Rs.)": "537570",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62732,
+     7.14341
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "1175",
+    "Scheme": "Rammuna wela canal",
+    "Location_Detail": "Exact",
+    "N": "7.14476",
+    "E": "80.62841",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Arecanut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking reservations Contingencies (10%)",
+    "Amount (Rs.)": "537570",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62841,
+     7.14476
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "1183",
+    "Scheme": "Peragolle canal",
+    "Location_Detail": "Exact",
+    "N": "7.12857",
+    "E": "80.63923",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Arecanut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking reservations Contingencies (10%)",
+    "Amount (Rs.)": "688875",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63923,
+     7.12857
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "1184",
+    "Scheme": "Akkara male Oya",
+    "Location_Detail": "Exact",
+    "N": "7.14432",
+    "E": "80.64197",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, small amounts of garbage have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Arecanut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking reservations Contingencies (10%)",
+    "Amount (Rs.)": "476465",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64197,
+     7.14432
+    ]
+   }
+  }
+ ]
+}

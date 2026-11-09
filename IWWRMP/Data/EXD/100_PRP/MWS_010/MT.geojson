@@ -1,3 +1,31 @@
-{"type":"FeatureCollection","name":"MT","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"Name_of_Tank":"Muloya Wewa","Custodians":"NWS&DB","N":7.10277,"E":80.75558,"Remarks":"Recommended to desilt the tank and improve reservation and agroforestry","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.75558,7.10277]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "MT",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Name_of_Tank": "Muloya Wewa",
+    "Custodians": "NWS&DB",
+    "Location_Detail": "Exact",
+    "N": "7.10277",
+    "E": "80.75558",
+    "Remarks": "Recommended to desilt the tank and improve reservation and agroforestry",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75558,
+     7.10277
+    ]
+   }
+  }
+ ]
+}

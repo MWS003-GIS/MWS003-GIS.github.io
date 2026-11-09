@@ -1,33 +1,694 @@
 {
-"type": "FeatureCollection",
-"name": "SR",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "No": 1, "MWS_ID": "133-2", "GND_No_": 1109, "Descriptio": "Mahaweli River", "N": 7.173775, "E": 80.581519, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused.", "Descript_1": "Arrange stone packing-rubble packing\n\nCanal reservation protection by concrete lining  For  100mm thick , 0.3m  wide  and 0.3m high canal \ndouble banking\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m gri", "Amount": "604,410", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Mahaweli river.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.581519, 7.173775 ] } },
-{ "type": "Feature", "properties": { "No": 2, "MWS_ID": "133-2", "GND_No_": 1109, "Descriptio": "Canal (Near the IOC Fuel station)", "N": 7.166873, "E": 80.575763, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "489,230", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams-Canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.575763, 7.166873 ] } },
-{ "type": "Feature", "properties": { "No": 3, "MWS_ID": "133-2", "GND_No_": 1110, "Descriptio": "Mahaweli River", "N": 7.165004, "E": 80.57831, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused.", "Descript_1": "Arrange stone packing-rubble packing\n\nCanal reservation protection by concrete lining  For  100mm thick , 0.3m  wide  and 0.3m high canal \ndouble banking\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m gri", "Amount": "618,970", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Mahaweli river.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.57831, 7.165004 ] } },
-{ "type": "Feature", "properties": { "No": 4, "MWS_ID": "133-2", "GND_No_": 1112, "Descriptio": "Mahaweli river", "N": 7.162463, "E": 80.573102, "Observatio": "Although bamboo trees have been planted to protect the banks, there are still subjected to erosion.  Additionally, garbage dumping has occurred in the area. (The garbage put in to small water streams are  mixed with river)", "Descript_1": "Vegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m grid interval\n\nReplanting�bamboo�s", "Amount": "386,350", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Mahaweli river.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.573102, 7.162463 ] } },
-{ "type": "Feature", "properties": { "No": 5, "MWS_ID": "133-2", "GND_No_": 1112, "Descriptio": "Keerapane Canal", "N": 7.161133, "E": 80.571113, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "692,480", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Keerapane canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.571113, 7.161133 ] } },
-{ "type": "Feature", "properties": { "No": 6, "MWS_ID": "133-2", "GND_No_": 1112, "Descriptio": "Zaheera canal", "N": 7.169661, "E": 80.570856, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "572,330", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Zaheera canal (5).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.570856, 7.169661 ] } },
-{ "type": "Feature", "properties": { "No": 7, "MWS_ID": "133-2", "GND_No_": 1117, "Descriptio": "Canal near the Devi balika collage", "N": 7.157423, "E": 80.556427, "Observatio": "Its reported that due to the dilapidated condition of the existing canal, water overflows during rainy season, damaging the playground and toilets. There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows", "Descript_1": "Canal Protection by Concrete Lining and Earth Filling\n\nSite preparation and setting out\n\nPlywood form work including making, fixing & \nremoving for structure ?05 uses\n\nCutting, Bending & Placing tor steel \nreinforcement bars\n\n1:2:4 concrete with concrete", "Amount": "911,770", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Near the devi balika School (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.556427, 7.157423 ] } },
-{ "type": "Feature", "properties": { "No": 8, "MWS_ID": "133-2", "GND_No_": 1117, "Descriptio": "Canal 2 near the main entrance of Jineraja Vidyalaya", "N": 7.161444, "E": 80.557469, "Observatio": "If there are large trees at some places on both sides of the bank, they are eroded in rainy season due to too much of water flow.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "697,840", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Canal 2 Near the jinaraja main gate (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.557469, 7.161444 ] } },
-{ "type": "Feature", "properties": { "No": 9, "MWS_ID": "133-2", "GND_No_": 1117, "Descriptio": "Canal 1 near the playground of Jineraja Vidyalaya", "N": 7.160019, "E": 80.557072, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. It is reported that during the rainy season, waterflows making it difficult to continue work on the playground and in some classro", "Descript_1": "Canal Protection by Concrete Lining and Earth Filling\n\nSite preparation and setting out\n\nPlywood form work including making, fixing & \nremoving for structure ?05 uses\n\nCutting, Bending & Placing tor steel \nreinforcement bars\n\n1:2:4 concrete with concrete", "Amount": "1,065,900", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Canal 1 Near the jinaraja ground.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.557072, 7.160019 ] } },
-{ "type": "Feature", "properties": { "No": 10, "MWS_ID": "133-2", "GND_No_": 1118, "Descriptio": "Canal 1 near the Sinhapitiya Aramaya", "N": 7.164339, "E": 80.552596, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "661,980", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams- Arama canal 1 (4).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.552596, 7.164339 ] } },
-{ "type": "Feature", "properties": { "No": 12, "MWS_ID": "133-2", "GND_No_": 1118, "Descriptio": "Yatiyawala canal", "N": 7.162212, "E": 80.559195, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "800,250", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Yatiyawala canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.559195, 7.162212 ] } },
-{ "type": "Feature", "properties": { "No": 13, "MWS_ID": "133-2", "GND_No_": 1119, "Descriptio": "In between Bothalapitiya - Kahatapitiya (Mahaweli River)", "N": 7.177572, "E": 80.582572, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "498,000", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Mahaweli river (5).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.582572, 7.177572 ] } },
-{ "type": "Feature", "properties": { "No": 15, "MWS_ID": "133-2", "GND_No_": 1120, "Descriptio": "In between Ilangawatta and Kahatapitiya (Bamunupala Canal)", "N": 7.173811, "E": 80.57626, "Observatio": "Most of the part of this canal is improved. The villagers used to put garbage to this canal currently.", "Descript_1": "Marking boundaries\n\nContingencies (10%)", "Amount": "33,000", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams_Bamunupele_canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.57626, 7.173811 ] } },
-{ "type": "Feature", "properties": { "No": 16, "MWS_ID": "133-2", "GND_No_": 1123, "Descriptio": "Kirinda Galgediyawa Oya (from the Hodiyadeniya Heenatideniya Kumbura to Kirinda anicut)", "N": 7.187205, "E": 80.57655, "Observatio": "This 3Km long stream has suffered severe erosion of its bottom and banks to the heavy flow of water during the rainy season. This is the boundary between Kirinda and Galgediyawa GN divisions.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "771,400", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Galgediyawa oya.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.57655, 7.187205 ] } },
-{ "type": "Feature", "properties": { "No": 17, "MWS_ID": "133-2", "GND_No_": 1123, "Descriptio": "Left side bank from canal's culvert of Kandy - Gampola main road to Kalu Paalama", "N": 7.182089, "E": 80.582892, "Observatio": "Unauthorized construction and garbage dumping are common in this area.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "425,910", "photopath": "Not_Available" }, "geometry": { "type": "Point", "coordinates": [ 80.582892, 7.182089 ] } },
-{ "type": "Feature", "properties": { "No": 18, "MWS_ID": "133-2", "GND_No_": 1124, "Descriptio": "Kirinda Galgediyawa Oya", "N": 7.182125, "E": 80.582786, "Observatio": "This 3Km long stream has suffered severe erosion of its bottom and banks to the heavy flow of water during the rainy season. This is the boundary between Kirinda and Galgediyawa GN divisions.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "47,370", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Galgediyawa oya (9).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.582786, 7.182125 ] } },
-{ "type": "Feature", "properties": { "No": 19, "MWS_ID": "133-2", "GND_No_": 1124, "Descriptio": "Diddeniya ????? ??? ??", "N": 7.18673, "E": 80.578989, "Observatio": "This 750 m long stream has suffered severe erosion of its banks to the heavy flow of water during the rainy season.  Although some parts of the canal have been concreted but some parts are severely damaged. (W=0.9m and, H=0.75m). 9 Acres of paddy is cult", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "565,240", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Diddeniya dakunu goda ela canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.578989, 7.18673 ] } },
-{ "type": "Feature", "properties": { "No": 21, "MWS_ID": "133-2", "GND_No_": 1125, "Descriptio": "Mahaweli river", "N": 7.192907, "E": 80.60378, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused.", "Descript_1": "Arrange stone packing-rubble packing\n\nCanal reservation protection by concrete lining  For  100mm thick , 0.3m  wide  and 0.3m high canal \ndouble banking\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m gri", "Amount": "632,700", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Mahaweli_River.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.60378, 7.192907 ] } },
-{ "type": "Feature", "properties": { "No": 22, "MWS_ID": "133-2", "GND_No_": 1125, "Descriptio": "Oppinna canal", "N": 7.185665, "E": 80.591932, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "373,000", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams-Oppinna Canal (4).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.591932, 7.185665 ] } },
-{ "type": "Feature", "properties": { "No": 23, "MWS_ID": "133-2", "GND_No_": 1125, "Descriptio": "Kabol kaduwa canal", "N": 7.185609, "E": 80.595493, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "502,540", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams-Kabolkaduwa Canal (3).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.595493, 7.185609 ] } },
-{ "type": "Feature", "properties": { "No": 24, "MWS_ID": "133-2", "GND_No_": 1125, "Descriptio": "Amuhena canal", "N": 7.183098, "E": 80.595665, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "587,100", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams-Amuhena Canal (2).jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.595665, 7.183098 ] } },
-{ "type": "Feature", "properties": { "No": 26, "MWS_ID": "133-2", "GND_No_": 1126, "Descriptio": "Bank of the Kekunadola canal (Hapugaspitiya canal)", "N": 7.170799, "E": 80.557394, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "688,880", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Kekuna dola canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.557394, 7.170799 ] } },
-{ "type": "Feature", "properties": { "No": 27, "MWS_ID": "133-2", "GND_No_": 1128, "Descriptio": "Hapugaspitiya - Kirapane canal", "N": 7.168335, "E": 80.559575, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "688,880", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Hapugaspitiya keerapane canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.559575, 7.168335 ] } },
-{ "type": "Feature", "properties": { "No": 28, "MWS_ID": "133-2", "GND_No_": 1129, "Descriptio": "Keerapane canal", "N": 7.163466, "E": 80.563102, "Observatio": "Although this canal was built a minor irrigation canal, it is currently not used as a MI  canal. Many parts of it have been developed. It appears that garbage is being dumped.", "Descript_1": "Marking boundaries\n\nContingencies (10%)", "Amount": "44,000", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Streams - Keerapane canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.563102, 7.163466 ] } },
-{ "type": "Feature", "properties": { "No": 29, "MWS_ID": "133-2", "GND_No_": 1131, "Descriptio": "Haputhenna Ela", "N": 7.186347, "E": 80.555386, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places. There are no side walls.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "535,760", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Minor Irrigation - Haputhanna Canal.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.555386, 7.186347 ] } },
-{ "type": "Feature", "properties": { "No": 30, "MWS_ID": "133-2", "GND_No_": 1159, "Descriptio": "Mahaweli river", "N": 7.207853, "E": 80.607219, "Observatio": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.", "Descript_1": "Arrange stone packing-rubble packing\n\nVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m", "Amount": "707,800", "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_133_2/Mahaweli_River_1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 80.607219, 7.207853 ] } }
-]
+ "type": "FeatureCollection",
+ "name": "SR",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "1109",
+    "Scheme": "Mahaweli River",
+    "Location_Detail": "Exact",
+    "N": "7.173775",
+    "E": "80.581519",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused. A Vegetative cover needs to be improved.",
+    "Description": "Arrange stone packing-rubble packingCanal reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal double bankingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesReplanting bamboo species Contingencies (10%)",
+    "Amount (Rs.)": "604410",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.581519,
+     7.173775
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "1109",
+    "Scheme": "Canal (Near the IOC Fuel station)",
+    "Location_Detail": "Exact",
+    "N": "7.166873",
+    "E": "80.575763",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused. A Vegetative cover needs to be improved.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesContingencies (10%)",
+    "Amount (Rs.)": "489230",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.575763,
+     7.166873
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "1110",
+    "Scheme": "Mahaweli River",
+    "Location_Detail": "Exact",
+    "N": "7.165004",
+    "E": "80.57831",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused. A Vegetative cover needs to be improved.",
+    "Description": "Arrange stone packing-rubble packingCanal reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal double bankingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesReplanting bamboo species Contingencies (10%)",
+    "Amount (Rs.)": "618970",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57831,
+     7.165004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "1112",
+    "Scheme": "Mahaweli river",
+    "Location_Detail": "Exact",
+    "N": "7.162463",
+    "E": "80.573102",
+    "Observation": "Although bamboo trees have been planted to protect the banks, there are still subjected to erosion. Additionally, garbage dumping has occurred in the area. (The garbage put in to small water streams are mixed with river)",
+    "Description": "Vegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Contingencies (10%)",
+    "Amount (Rs.)": "386350",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.573102,
+     7.162463
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "1112",
+    "Scheme": "Keerapane Canal",
+    "Location_Detail": "Exact",
+    "N": "7.161133",
+    "E": "80.571113",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "692480",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.571113,
+     7.161133
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "1112",
+    "Scheme": "Zaheera canal",
+    "Location_Detail": "Exact",
+    "N": "7.169661",
+    "E": "80.570856",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesContingencies (10%)",
+    "Amount (Rs.)": "572330",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.570856,
+     7.169661
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "1117",
+    "Scheme": "Canal near the Devi balika collage",
+    "Location_Detail": "Exact",
+    "N": "7.157423",
+    "E": "80.556427",
+    "Observation": "Its reported that due to the dilapidated condition of the existing canal, water overflows during rainy season, damaging the playground and toilets. There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season.",
+    "Description": "Canal Protection by Concrete Lining and Earth FillingSite preparation and setting outPlywood form work including making, fixing & removing for structure ‐05 usesCutting, Bending & Placing tor steel reinforcement bars1:2:4 concrete with concrete mixer (volume batching) Supplying and fixing of 250mm rubber water bar at construction joints in 10m intervals Spreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150‐225 mm Thick Layers (Loose Volume)Machine transportTidying UpStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5mArrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalContingencies (10%)",
+    "Amount (Rs.)": "911770",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.556427,
+     7.157423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "8",
+    "GND No.": "1117",
+    "Scheme": "Canal 2 near the main entrance of Jineraja Vidyalaya",
+    "Location_Detail": "Exact",
+    "N": "7.161444",
+    "E": "80.557469",
+    "Observation": "If there are large trees at some places on both sides of the bank, they are eroded in rainy season due to too much of water flow. Leakages are observed (along the canal). Canal bund has been encroached at some places therefore farmers requested to strengthen the bund and demarcate the reservation by planting Arecanut trees.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesContingencies (10%)",
+    "Amount (Rs.)": "697840",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.557469,
+     7.161444
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "9",
+    "GND No.": "1117",
+    "Scheme": "Canal 1 near the playground of Jineraja Vidyalaya",
+    "Location_Detail": "Exact",
+    "N": "7.160019",
+    "E": "80.557072",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. It is reported that during the rainy season, waterflows making it difficult to continue work on the playground and in some classrooms.",
+    "Description": "Canal Protection by Concrete Lining and Earth FillingSite preparation and setting outPlywood form work including making, fixing & removing for structure ‐05 usesCutting, Bending & Placing tor steel reinforcement bars1:2:4 concrete with concrete mixer (volume batching) Supplying and fixing of 250mm rubber water bar at construction joints in 10m intervals Spreading , Leveling and Compacting Manually Using Standard Cast Iron Stamper or Equivalent and Filling in 150‐225 mm Thick Layers (Loose Volume)Machine transportTidying UpStream / canal reservation protection by earth filling of strip of 1.5m to 2m wide and average Depth of 0.5mConstruction of 1.8m high 1:3:6 (40mm) cement concrete Retaining Wall Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Contingencies (10%)",
+    "Amount (Rs.)": "1065900",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.557072,
+     7.160019
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "10",
+    "GND No.": "1118",
+    "Scheme": "Canal 1 near the Sinhapitiya Aramaya",
+    "Location_Detail": "Exact",
+    "N": "7.164339",
+    "E": "80.552596",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesContingencies (10%)",
+    "Amount (Rs.)": "661980",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.552596,
+     7.164339
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "11",
+    "GND No.": "1118",
+    "Scheme": "Canal 2 near the Sinhapitiya Aramaya",
+    "Location_Detail": "Approximation",
+    "N": "7.163807371",
+    "E": "80.5581568",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesContingencies (10%)",
+    "Amount (Rs.)": "728530",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5581568,
+     7.163807371
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "12",
+    "GND No.": "1118",
+    "Scheme": "Yatiyawala canal",
+    "Location_Detail": "Exact",
+    "N": "7.162212",
+    "E": "80.559195",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesContingencies (10%)",
+    "Amount (Rs.)": "800250",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.559195,
+     7.162212
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "13",
+    "GND No.": "1119",
+    "Scheme": "In between Bothalapitiya - Kahatapitiya (Mahaweli River)",
+    "Location_Detail": "Exact",
+    "N": "7.177572",
+    "E": "80.582572",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "498000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.582572,
+     7.177572
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "14",
+    "GND No.": "1119",
+    "Scheme": "Area in between Kahatapitiya and Mekalapitiya",
+    "Location_Detail": "Approximation",
+    "N": "7.178966607",
+    "E": "80.57904581",
+    "Observation": "Although bamboo trees have been planted to protect the banks, there are still subjected to erosion. Additionally, garbage dumping has occurred in the area. (The garbage put in to small water streams are mixed with river)",
+    "Description": "Vegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species",
+    "Amount (Rs.)": "520630",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57904581,
+     7.178966607
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "15",
+    "GND No.": "1120",
+    "Scheme": "In between Ilangawatta and Kahatapitiya (Bamunupala Canal)",
+    "Location_Detail": "Exact",
+    "N": "7.173811",
+    "E": "80.57626",
+    "Observation": "Most of the part of this canal is improved. The villagers used to put garbage to this canal currently.",
+    "Description": "Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "33000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57626,
+     7.173811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "16",
+    "GND No.": "1123",
+    "Scheme": "Kirinda Galgediyawa Oya (from the Hodiyadeniya Heenatideniya Kumbura to Kirinda anicut)",
+    "Location_Detail": "Exact",
+    "N": "7.187205",
+    "E": "80.57655",
+    "Observation": "This 3Km long stream has suffered severe erosion of its bottom and banks to the heavy flow of water during the rainy season. This is the boundary between Kirinda and Galgediyawa GN divisions.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "771400",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57655,
+     7.187205
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "17",
+    "GND No.": "1123",
+    "Scheme": "Left side bank from canal's culvert of Kandy - Gampola main road to Kalu Paalama",
+    "Location_Detail": "Exact",
+    "N": "7.182089",
+    "E": "80.582892",
+    "Observation": "Unauthorized construction and garbage dumping are common in this area.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "425910",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.582892,
+     7.182089
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "18",
+    "GND No.": "1124",
+    "Scheme": "Kirinda Galgediyawa Oya",
+    "Location_Detail": "Exact",
+    "N": "7.182125",
+    "E": "80.582786",
+    "Observation": "This 3Km long stream has suffered severe erosion of its bottom and banks to the heavy flow of water during the rainy season. This is the boundary between Kirinda and Galgediyawa GN divisions.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "47370",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.582786,
+     7.182125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "19",
+    "GND No.": "1124",
+    "Scheme": "Diddeniya දකුණු ගොඩ ඇළ",
+    "Location_Detail": "Exact",
+    "N": "7.18673",
+    "E": "80.578989",
+    "Observation": "This 750 m long stream has suffered severe erosion of its banks to the heavy flow of water during the rainy season. Although some parts of the canal have been concreted but some parts are severely damaged. (W=0.9m and, H=0.75m). 9 Acres of paddy is cultivated from this canal.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "565240",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.578989,
+     7.18673
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "20",
+    "GND No.": "1124",
+    "Scheme": "Alupotha Yaaya canal",
+    "Location_Detail": "Approximation",
+    "N": "7.183480046",
+    "E": "80.57645278",
+    "Observation": "This 600 m long stream has suffered severe erosion of its banks to the heavy flow of water during the rainy season. Although some parts of the canal have been concreted but some parts are severely damaged. (W=0.45m and, H=0.45m). 8 Acres of paddy is cultivated from this canal.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Concrete Canal ConstructionEarth excavation for foundation or quarry materials and haul the surplus materials up to 30m by Manually.Plywood form work including making, fixing & removing for concrete canals at ground level - 05 uses1:3:6 (40mm) concrete with concrete mixer (volume batching)Backfilling around the structuresTransport materialTiding upContingencies (10%)",
+    "Amount (Rs.)": "1035650",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.57645278,
+     7.183480046
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "21",
+    "GND No.": "1125",
+    "Scheme": "Mahaweli river",
+    "Location_Detail": "Exact",
+    "N": "7.192907",
+    "E": "80.60378",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places, reserved lands are being misused.",
+    "Description": "Arrange stone packing-rubble packingCanal reservation protection by concrete lining For 100mm thick , 0.3m wide and 0.3m high canal double bankingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Contingencies (10%)",
+    "Amount (Rs.)": "632700",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60378,
+     7.192907
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "22",
+    "GND No.": "1125",
+    "Scheme": "Oppinna canal",
+    "Location_Detail": "Exact",
+    "N": "7.185665",
+    "E": "80.591932",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. Leakages are observed (along the canal). Canal bund has been encroached at some places therefore farmers requested to strengthen the bund and demarcate the reservation by planting Arecanut trees.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalContingencies (10%)",
+    "Amount (Rs.)": "373000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.591932,
+     7.185665
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "23",
+    "GND No.": "1125",
+    "Scheme": "Kabol kaduwa canal",
+    "Location_Detail": "Exact",
+    "N": "7.185609",
+    "E": "80.595493",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesContingencies (10%)",
+    "Amount (Rs.)": "502540",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.595493,
+     7.185609
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "24",
+    "GND No.": "1125",
+    "Scheme": "Amuhena canal",
+    "Location_Detail": "Exact",
+    "N": "7.183098",
+    "E": "80.595665",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalContingencies (10%)",
+    "Amount (Rs.)": "587100",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.595665,
+     7.183098
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "25",
+    "GND No.": "1125",
+    "Scheme": "Elpitiya area",
+    "Location_Detail": "Approximation",
+    "N": "7.186104555",
+    "E": "80.59752395",
+    "Observation": "Although bamboo trees have been planted to protect the banks, there are still subjected to erosion. Additionally, garbage dumping has occurred in the area. (The garbage put in to small water streams are mixed with river)",
+    "Description": "Vegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species",
+    "Amount (Rs.)": "593230",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59752395,
+     7.186104555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "26",
+    "GND No.": "1126",
+    "Scheme": "Bank of the Kekunadola canal (Hapugaspitiya canal)",
+    "Location_Detail": "Exact",
+    "N": "7.170799",
+    "E": "80.557394",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesContingencies (10%)",
+    "Amount (Rs.)": "688880",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.557394,
+     7.170799
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "27",
+    "GND No.": "1128",
+    "Scheme": "Hapugaspitiya - Kirapane canal",
+    "Location_Detail": "Exact",
+    "N": "7.168335",
+    "E": "80.559575",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMarking boundariesContingencies (10%)",
+    "Amount (Rs.)": "688880",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.559575,
+     7.168335
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "28",
+    "GND No.": "1129",
+    "Scheme": "Keerapane canal",
+    "Location_Detail": "Exact",
+    "N": "7.163466",
+    "E": "80.563102",
+    "Observation": "Although this canal was built a minor irrigation canal, it is currently not used as a MI canal. Many parts of it have been developed. It appears that garbage is being dumped.",
+    "Description": "Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "44000",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.563102,
+     7.163466
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "29",
+    "GND No.": "1131",
+    "Scheme": "Haputhenna Ela",
+    "Location_Detail": "Exact",
+    "N": "7.186347",
+    "E": "80.555386",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places. There are no side walls.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "535760",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.555386,
+     7.186347
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "30",
+    "GND No.": "1159",
+    "Scheme": "Mahaweli river",
+    "Location_Detail": "Exact",
+    "N": "7.207853",
+    "E": "80.607219",
+    "Observation": "There are large trees at some places on both sides of the bank. But banks are eroded. Too much water flows in rainy season. In some places, waste have been dumped into streams, and in some places.",
+    "Description": "Arrange stone packing-rubble packingVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species Marking boundariesContingencies (10%)",
+    "Amount (Rs.)": "707800",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.607219,
+     7.207853
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "31",
+    "GND No.": "1159",
+    "Scheme": "Kalugamuwa",
+    "Location_Detail": "Approximation",
+    "N": "7.206627151",
+    "E": "80.60385248",
+    "Observation": "Although bamboo trees have been planted to protect the banks, there are still subjected to erosion. Additionally, garbage dumping has occurred in the area. (The garbage put in to small water streams are mixed with river)",
+    "Description": "Vegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalReplanting bamboo species",
+    "Amount (Rs.)": "835230",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60385248,
+     7.206627151
+    ]
+   }
+  }
+ ]
 }

@@ -1,5 +1,336 @@
-{"type":"FeatureCollection","name":"SWC_ON","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":4,"GND No.":511,"GND Name":"Madadeniya","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices -  Madadeniya Kanishta Vidyalaya  (45°-55°)","Priority based on Soil Erosion Hazard":3,"N":7.370269,"E":80.5779,"Quantity":"1 ha","Proposed measure/s":"1. Establishing SALT  - 500 m\n2. Lock and spills - 250 m\n3. Stone terracing - 250 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":850000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.5779,7.370269]}},
-{"type":"Feature","properties":{"No.":5,"GND No.":519,"GND Name":"Dolapihilla South","Key Activities proposed for Soil and Water conservation":"1. Soil conservation practices - Near Galgana Rajamaha Viharaya (45°-70°)","Priority based on Soil Erosion Hazard":3,"N":7.392179,"E":80.580331,"Quantity":"1 ha","Proposed measure/s":"1. Live fencing/SALT  - 500 m\n2. Lock and spills - 250 m\n3. Stone terracing - 250 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":850000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.580331,7.392179]}},
-{"type":"Feature","properties":{"No.":6,"GND No.":519,"GND Name":"Dolapihilla South","Key Activities proposed for Soil and Water conservation":"3. Soil conservation practices - Dolapihilla Maha Vidyalaya (45°-65°)","Priority based on Soil Erosion Hazard":1,"N":7.390958,"E":80.578956,"Quantity":"1 ha","Proposed measure/s":"1. Live fencing/SALT  - 500 m\n2. Lock and spills - 250 m\n3. Stone terracing - 250 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":850000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.578956,7.390958]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "495",
+    "GND Name": "Henegama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.381949407",
+    "E": "80.54362346",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54362346,
+     7.381949407
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "496",
+    "GND Name": "Ambaruppa",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.380088683",
+    "E": "80.53929733",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.53929733,
+     7.380088683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "502",
+    "GND Name": "Bokkawala",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.391004508",
+    "E": "80.5546216",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5546216,
+     7.391004508
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "504",
+    "GND Name": "Waldeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.385212505",
+    "E": "80.55830674",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.55830674,
+     7.385212505
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "509",
+    "GND Name": "Marathugoda South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.380663983",
+    "E": "80.56166817",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56166817,
+     7.380663983
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "511",
+    "GND Name": "Madadeniya",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices -  Madadeniya Kanishta Vidyalaya  (45°-55°)",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.370269",
+    "E": "80.5779",
+    "Quantity": "1 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 500 m\n2. Lock and spills - 250 m\n3. Stone terracing - 250 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "850000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5779,
+     7.370269
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "515",
+    "GND Name": "Dombagammana",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.380593223",
+    "E": "80.58020107",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58020107,
+     7.380593223
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "519",
+    "GND Name": "Dolapihilla South",
+    "Key Activities proposed for Soil and Water conservation": "1. Soil conservation practices - Near Galgana Rajamaha Viharaya (45°-70°) 2. Soil conservation practices - Homegardens (45°-70°)",
+    "Priority based on Soil Erosion Hazard": "3",
+    "Location_Detail": "Exact",
+    "N": "7.392179",
+    "E": "80.580331",
+    "Quantity": "1 ha",
+    "Proposed measure/s": "1. Live fencing/SALT  - 500 m\n2. Lock and spills - 250 m\n3. Stone terracing - 250 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes. 1. Live fencing/SALT - 10000 m 2. Lock and spills - 2500 m 3. Stone terracing - 2500 m 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "850000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.580331,
+     7.392179
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "519",
+    "GND Name": "Dolapihilla South",
+    "Key Activities proposed for Soil and Water conservation": "3. Soil conservation practices - Dolapihilla Maha Vidyalaya (45°-65°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.390958",
+    "E": "80.578956",
+    "Quantity": "1 ha",
+    "Proposed measure/s": "1. Live fencing/SALT  - 500 m\n2. Lock and spills - 250 m\n3. Stone terracing - 250 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "850000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.578956,
+     7.390958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "547",
+    "GND Name": "Diddeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.382638049",
+    "E": "80.58948428",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58948428,
+     7.382638049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "548",
+    "GND Name": "Batagalla North",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.368126537",
+    "E": "80.58837626",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.58837626,
+     7.368126537
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "549",
+    "GND Name": "Batagalla South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.363288005",
+    "E": "80.59030758",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.59030758,
+     7.363288005
+    ]
+   }
+  }
+ ]
+}

@@ -1,5 +1,122 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GN Division No.":"62","GN Division":"Rathkarawwa","Landslides":"Bank collapsing - Yalpathwela, Haputhale Road","N":6.804653,"E":80.908548,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Follow the recommedations of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_051/IMG_20250807_095234 Earth slip.jpg"},"geometry":{"type":"Point","coordinates":[80.908548,6.804653]}},
-{"type":"Feature","properties":{"No.":2,"GN Division No.":"62E","GN Division":"Hinnarangolla","Landslides":"Crackinh houses - Landsling prone area","N":6.816003,"E":80.887268,"NBRO Recommendation N/A":"NBRO is aware","Proposed Measures":"Follow the recommedations of NBRO","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_051/IMG_20250801_115138 Earth slip land.jpg"},"geometry":{"type":"Point","coordinates":[80.887268,6.816003]}},
-{"type":"Feature","properties":{"No.":5,"GN Division No.":"62K","GN Division":"Ohiya Estate","Landslides":"Landsliding - Ohiya Estate Lower part","N":6.786995,"E":80.856627,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow the recommedations of NBRO after consulting","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_051/IMG_20250805_095554 Earth slip land.jpg"},"geometry":{"type":"Point","coordinates":[80.856627,6.786995]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "62",
+    "GN Division": "Rathkarawwa",
+    "Landslides": "Bank collapsing - Yalpathwela, Haputhale Road",
+    "Location_Detail": "Exact",
+    "N": "6.804653",
+    "E": "80.908548",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommedations of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_051/IMG_20250807_095234 Earth slip.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.908548,
+     6.804653
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "62E",
+    "GN Division": "Hinnarangolla",
+    "Landslides": "Crackinh houses - Landsling prone area",
+    "Location_Detail": "Exact",
+    "N": "6.816003",
+    "E": "80.887268",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow the recommedations of NBRO",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_051/IMG_20250801_115138 Earth slip land.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.887268,
+     6.816003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "62G",
+    "GN Division": "Maligathenna",
+    "Landslides": "Landsliding - Near the Bowa Watta factory\nLandsliding - Near the Bowa Co-op",
+    "Location_Detail": "Approximation",
+    "N": "6.789311883",
+    "E": "80.8962791",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow the recommendations of NBRO\nFollow the recommendations of NBRO",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8962791,
+     6.789311883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "62I",
+    "GN Division": "Pitapola",
+    "Landslides": "Erosion of side drains - From Kulubokka to Maha Oya\nErosion of side drains - Himbiliyagaha Ella road",
+    "Location_Detail": "Approximation",
+    "N": "6.804491676",
+    "E": "80.88700919",
+    "NBRO Recommendation N/A": "Needs NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Activate the spill tail canal\nActivate the spill tail canal",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.88700919,
+     6.804491676
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "62K",
+    "GN Division": "Ohiya Estate",
+    "Landslides": "Landsliding - Ohiya Estate Lower part",
+    "Location_Detail": "Exact",
+    "N": "6.786995",
+    "E": "80.856627",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow the recommedations of NBRO after consulting",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_051/IMG_20250805_095554 Earth slip land.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.856627,
+     6.786995
+    ]
+   }
+  }
+ ]
+}

@@ -1,12 +1,660 @@
-{"type":"FeatureCollection","name":"SWC_ON","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":2,"GND No.":191,"GND Name":"Amunupura","Key Activities proposed for Soil and Water conservation":"1 Soil conservation practices -  Blana-Thepelpala Primary Medial Unit (65°-75°)","Priority based on Soil Erosion Hazard":"1","N":7.27341,"E":80.507622,"Quantity":"1 ha","Proposed measure/s":"1. Establishing SALT  - 800 m\n2. Lock and spills - 100 m\n3. Stone terracing - 100 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":490000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/08-04-2026_01-32-38_6634.jpg"},"geometry":{"type":"Point","coordinates":[80.507622,7.27341]}},
-{"type":"Feature","properties":{"No.":3,"GND No.":191,"GND Name":"Amunupura","Key Activities proposed for Soil and Water conservation":"2. Soil conservation practices -  Sri Rajasinghe Cave Temple (70°-80°)","Priority based on Soil Erosion Hazard":"-","N":7.271974,"E":80.495441,"Quantity":"1 ha","Proposed measure/s":"1. Establishing SALT  - 800 m\n2. Lock and spills - 100 m\n3. Stone terracing - 100 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":490000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/08-04-2026_01-11-55_9383.jpg"},"geometry":{"type":"Point","coordinates":[80.495441,7.271974]}},
-{"type":"Feature","properties":{"No.":4,"GND No.":191,"GND Name":"Amunupura","Key Activities proposed for Soil and Water conservation":"3. Soil conservation practices -  Amunupura tea plantations (55°-65°)","Priority based on Soil Erosion Hazard":"1","N":7.268499,"E":80.499323,"Quantity":"4 ha","Proposed measure/s":"1. Establishing SALT  - 2000 m\n2. Lock and spills - 1000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":3400000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Tea Cultivated Soil.jpg"},"geometry":{"type":"Point","coordinates":[80.499323,7.268499]}},
-{"type":"Feature","properties":{"No.":5,"GND No.":191,"GND Name":"Amunupura","Key Activities proposed for Soil and Water conservation":"4. Soil conservation practices -  Amunupura coconut plantations (65°-75°)","Priority based on Soil Erosion Hazard":"2","N":7.270148,"E":80.50648,"Quantity":"1 ha","Proposed measure/s":"1. Establishing SALT  - 800 m\n2. Lock and spills - 100 m\n3. Stone terracing - 100 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":490000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Coconut Cultivated soil.jpg"},"geometry":{"type":"Point","coordinates":[80.50648,7.270148]}},
-{"type":"Feature","properties":{"No.":6,"GND No.":191,"GND Name":"Amunupura","Key Activities proposed for Soil and Water conservation":"5. Soil conservation practices -  Amunupura homegardens (55°-65°)","Priority based on Soil Erosion Hazard":"4","N":7.270874,"E":80.507407,"Quantity":"1 ha","Proposed measure/s":"1. Establishing SALT  - 800 m\n2. Lock and spills - 100 m\n3. Stone terracing - 100 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":490000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/08-04-2026_12-20-36_2728.jpg"},"geometry":{"type":"Point","coordinates":[80.507407,7.270874]}},
-{"type":"Feature","properties":{"No.":7,"GND No.":196,"GND Name":"Udarathmeewala","Key Activities proposed for Soil and Water conservation":"Soil conservation practices -  Udarathmeewala homegardens  (35°-60°)","Priority based on Soil Erosion Hazard":"1","N":7.279486,"E":80.508844,"Quantity":"3 ha","Proposed measure/s":"1. Establishing SALT  - 1000 m\n2. Live fencing - 1000 m\n3. Lock and spills - 500 m\n4. Stone terracing - 500 m\n5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, conto","Uniti_Cost":"250.00 m-1\n120.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":1820000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Home Gardens Udarathmiwala .jpg"},"geometry":{"type":"Point","coordinates":[80.508844,7.279486]}},
-{"type":"Feature","properties":{"No.":8,"GND No.":197,"GND Name":"Pahala Rathmeewala","Key Activities proposed for Soil and Water conservation":"Soil conservation practices -  Pahala Rathmeewala homegardens (30°-50°)","Priority based on Soil Erosion Hazard":"1","N":7.274547,"E":80.510762,"Quantity":"25 ha","Proposed measure/s":"1. Establishing SALT  - 10000 m\n2. Live fencing - 10000 m\n3. Lock and spills - 2500 m\n4. Stone terracing - 2500 m\n5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, c","Uniti_Cost":"250.00 m-1\n120.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":10950000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Rathmiwala soil.jpg"},"geometry":{"type":"Point","coordinates":[80.510762,7.274547]}},
-{"type":"Feature","properties":{"No.":9,"GND No.":201,"GND Name":"Mamudawala","Key Activities proposed for Soil and Water conservation":"Soil conservation practices - Mamudawala Naththaranpotha (40°-60°)","Priority based on Soil Erosion Hazard":"1","N":7.2765037,"E":80.530128,"Quantity":"4 ha","Proposed measure/s":"1. Establishing SALT  - 2000 m\n2. Lock and spills - 1000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":3400000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Soil.jpg"},"geometry":{"type":"Point","coordinates":[80.530128,7.2765037]}},
-{"type":"Feature","properties":{"No.":10,"GND No.":207,"GND Name":"Kavudupana","Key Activities proposed for Soil and Water conservation":"Soil conservation practices -  Kavudupana Village (25°-60°)","Priority based on Soil Erosion Hazard":"1","N":7.271342,"E":80.526683,"Quantity":"6 ha","Proposed measure/s":"1. Establishing SALT  - 2000 m\n2. Live fencing  - 2000 m\n3. Lock and spills - 1000 m\n4. Stone terracing - 1000 m\n5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, co","Uniti_Cost":"250.00 m-1\n120.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":3640000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Home Garden Soil 2.jpg"},"geometry":{"type":"Point","coordinates":[80.526683,7.271342]}},
-{"type":"Feature","properties":{"No.":11,"GND No.":215,"GND Name":"Kotaligoda North","Key Activities proposed for Soil and Water conservation":"1 Soil conservation practices -  Kotaligoda Village (35°-65°)","Priority based on Soil Erosion Hazard":"2","N":7.294126,"E":80.515457,"Quantity":"10 ha","Proposed measure/s":"1. Establishing SALT  - 7000 m\n2. Lock and spills - 2000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks","Uniti_Cost":"250.00 m-1\n400.00 m-1\n2500.00 m-1","Total_Cost":5050000,"Contribution (Local Community, LA, and the project)":"Labour and other basic services by the Local community","Time frame for the implementation":"0.25 Years","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Soil consevation .jpg"},"geometry":{"type":"Point","coordinates":[80.515457,7.294126]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "SWC_ON",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "166",
+    "GND Name": "Embilmeegama North",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.267519249",
+    "E": "80.56055647",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56055647,
+     7.267519249
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "167",
+    "GND Name": "Embilmeegama South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.26286235",
+    "E": "80.56279327",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.56279327,
+     7.26286235
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "173",
+    "GND Name": "Ilukwatta",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.259400815",
+    "E": "80.54503159",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.54503159,
+     7.259400815
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "176",
+    "GND Name": "Madarangoda",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.260991382",
+    "E": "80.5351675",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.5351675,
+     7.260991382
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "188",
+    "GND Name": "Gondeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.277120262",
+    "E": "80.4961705",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.4961705,
+     7.277120262
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "191",
+    "GND Name": "Amunupura",
+    "Key Activities proposed for Soil and Water conservation": "1 Soil conservation practices -  Blana-Thepelpala Primary Medial Unit (65°-75°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.27341",
+    "E": "80.507622",
+    "Quantity": "1 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 800 m\n2. Lock and spills - 100 m\n3. Stone terracing - 100 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "490000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/08-04-2026_01-32-38_6634.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.507622,
+     7.27341
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "191",
+    "GND Name": "Amunupura",
+    "Key Activities proposed for Soil and Water conservation": "2. Soil conservation practices -  Sri Rajasinghe Cave Temple (70°-80°)",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Exact",
+    "N": "7.271974",
+    "E": "80.495441",
+    "Quantity": "1 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 800 m\n2. Lock and spills - 100 m\n3. Stone terracing - 100 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "490000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/08-04-2026_01-11-55_9383.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.495441,
+     7.271974
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "191",
+    "GND Name": "Amunupura",
+    "Key Activities proposed for Soil and Water conservation": "3. Soil conservation practices -  Amunupura tea plantations (55°-65°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.268499",
+    "E": "80.499323",
+    "Quantity": "4 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 2000 m\n2. Lock and spills - 1000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "3400000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Tea Cultivated Soil.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.499323,
+     7.268499
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "191",
+    "GND Name": "Amunupura",
+    "Key Activities proposed for Soil and Water conservation": "4. Soil conservation practices -  Amunupura coconut plantations (65°-75°)",
+    "Priority based on Soil Erosion Hazard": "2",
+    "Location_Detail": "Exact",
+    "N": "7.270148",
+    "E": "80.50648",
+    "Quantity": "1 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 800 m\n2. Lock and spills - 100 m\n3. Stone terracing - 100 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "490000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Coconut Cultivated soil.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.50648,
+     7.270148
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "191",
+    "GND Name": "Amunupura",
+    "Key Activities proposed for Soil and Water conservation": "5. Soil conservation practices -  Amunupura homegardens (55°-65°)",
+    "Priority based on Soil Erosion Hazard": "4",
+    "Location_Detail": "Exact",
+    "N": "7.270874",
+    "E": "80.507407",
+    "Quantity": "1 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 800 m\n2. Lock and spills - 100 m\n3. Stone terracing - 100 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "490000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/08-04-2026_12-20-36_2728.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.507407,
+     7.270874
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "194",
+    "GND Name": "Pahala Mudaliwatta",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.263603217",
+    "E": "80.50649699",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.50649699,
+     7.263603217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "195",
+    "GND Name": "Madiligama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.279896424",
+    "E": "80.50084155",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.50084155,
+     7.279896424
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "196",
+    "GND Name": "Udarathmeewala",
+    "Key Activities proposed for Soil and Water conservation": "Soil conservation practices -  Udarathmeewala homegardens  (35°-60°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.279486",
+    "E": "80.508844",
+    "Quantity": "3 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 1000 m\n2. Live fencing - 1000 m\n3. Lock and spills - 500 m\n4. Stone terracing - 500 m\n5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n120.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "1820000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Home Gardens Udarathmiwala .jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.508844,
+     7.279486
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "197",
+    "GND Name": "Pahala Rathmeewala",
+    "Key Activities proposed for Soil and Water conservation": "Soil conservation practices -  Pahala Rathmeewala homegardens (30°-50°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.274547",
+    "E": "80.510762",
+    "Quantity": "25 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 10000 m\n2. Live fencing - 10000 m\n3. Lock and spills - 2500 m\n4. Stone terracing - 2500 m\n5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n120.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "10950000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Rathmiwala soil.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.510762,
+     7.274547
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "201",
+    "GND Name": "Mamudawala",
+    "Key Activities proposed for Soil and Water conservation": "Soil conservation practices - Mamudawala Naththaranpotha (40°-60°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.2765037",
+    "E": "80.530128",
+    "Quantity": "4 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 2000 m\n2. Lock and spills - 1000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "3400000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Soil.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.530128,
+     7.2765037
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "202",
+    "GND Name": "Ketakumbura",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.268993017",
+    "E": "80.51309111",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51309111,
+     7.268993017
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "204",
+    "GND Name": "Kadawathgama",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.255803383",
+    "E": "80.52316929",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52316929,
+     7.255803383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "206",
+    "GND Name": "Walgowwagoda",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.277735863",
+    "E": "80.52405294",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52405294,
+     7.277735863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "207",
+    "GND Name": "Kavudupana",
+    "Key Activities proposed for Soil and Water conservation": "Soil conservation practices -  Kavudupana Village (25°-60°)",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.271342",
+    "E": "80.526683",
+    "Quantity": "6 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 2000 m\n2. Live fencing  - 2000 m\n3. Lock and spills - 1000 m\n4. Stone terracing - 1000 m\n5. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n120.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "3640000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Home Garden Soil 2.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.526683,
+     7.271342
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GND No.": "208",
+    "GND Name": "Kandangama North",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.266596905",
+    "E": "80.52765221",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.52765221,
+     7.266596905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GND No.": "210",
+    "GND Name": "Panabokka",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.261707771",
+    "E": "80.51988959",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51988959,
+     7.261707771
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GND No.": "214",
+    "GND Name": "Doluwa West",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.291067427",
+    "E": "80.51678075",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51678075,
+     7.291067427
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GND No.": "215",
+    "GND Name": "Kotaligoda North",
+    "Key Activities proposed for Soil and Water conservation": "1 Soil conservation practices -  Kotaligoda Village (35°-65°)",
+    "Priority based on Soil Erosion Hazard": "2",
+    "Location_Detail": "Exact",
+    "N": "7.294126",
+    "E": "80.515457",
+    "Quantity": "10 ha",
+    "Proposed measure/s": "1. Establishing SALT  - 7000 m\n2. Lock and spills - 2000 m\n3. Stone terracing - 1000 m\n4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes. 1. Establishing SALT - 7000 m 2. Lock and spills - 2000 m 3. Stone terracing - 1000 m 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes. 1. Establishing SALT - 7000 m 2. Lock and spills - 2000 m 3. Stone terracing - 1000 m 4. Agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied). Slope of the terraces should be maintained towards the inside. Also, the walls of the terraces should not be scrapped away during land preparation. A ridge/embarkment should be maintained at the free end of the terrace (opposite to terrace wall). Weedicide application to terrace wall is not recommended. Additionally, planning Vetiver like grasses is encouraged in steep slopes.",
+    "Uniti_Cost": "250.00 m-1\n400.00 m-1\n2500.00 m-1",
+    "Total_Cost": "5050000",
+    "Contribution (Local Community, LA, and the project)": "Labour and other basic services by the Local community Labour and other basic services by the Local community Labour and other basic services by the Local community",
+    "Time frame for the implementation": "0.25 Years",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_119_2/Soil consevation .jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.515457,
+     7.294126
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GND No.": "218",
+    "GND Name": "Deldeniya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported. However, agronomic practices should be adapted at optimum level (conservation tillage, crop rotation and diversification, cover crops, mulching, contour farming, windbreaks and shelterbelts, water management techniques, and nutrient management etc., as applied).",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.282029234",
+    "E": "80.51410649",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.51410649,
+     7.282029234
+    ]
+   }
+  }
+ ]
+}

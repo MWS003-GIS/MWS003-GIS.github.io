@@ -1,0 +1,471 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "974",
+    "GND Name": "Shriyagama",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drain - Kandura to Ambanmana Wewa\n2. Development of natural drain - Batagolla Kandura\n3. Development of natural drain - Kandura from Ambanmana New Village\n4. Development of natural drain - Kandura near Kirimatiya School\n10. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "5\n1\n1\n5\n3\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.218382914",
+    "E": "80.68315225",
+    "Quantity": "80.67348\n80.6702401\n80.66847\n80.674145\n80.69033\n80.688977",
+    "Proposed measure/s": "350 m x 1 m x 1 m\n3,300 m x 1 m x 1 m\n500 m x 1 m x 1 m\n3,500 m x 1 m x 1 m\n3,000 m x 1 m x 1 m\n10 m x 3 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nAwareness program on waste disposal\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "35000\n330000\n50000\n350000\n300000\n1171500",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68315225,
+     7.218382914
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "975",
+    "GND Name": "Latiyagoolla",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drain - Katukithula Pihilla\n2. Development of natural drain - Kandura from Katukithula Wewa\n3. Development of natural drain - Kirimatiya Katukithula Kandura\n4. Development of natural drain - Katukithula Kandura near Mr. Wijerathne\n5. Development of natural drain - Kirimatiya Kvila Kandura\n6. Development of natural drain - Gorakaella Kandura\n10. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "4\n4\n3\n5\n3\n1\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.222863769",
+    "E": "80.68448713",
+    "Quantity": "80.682177\n80.68096\n80.681619\n80.684907\n80.687845\n80.691241\n80.686003",
+    "Proposed measure/s": "1 km\n100 m\n300 m\n1.5 km\n2.5 km\n1 km\n500 m x 3 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "100000\n10000\n30000\n150000\n250000\n100000\n58047000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68448713,
+     7.222863769
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "982",
+    "GND Name": "Nugaliyadda Pahala",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drain - Galpihilla Gammadda\n2. Development of natural drain - Aswaduma Kandura\n3. Development of banks of Nugaliyadda Oya",
+    "Priority based on Soil Erosion Hazard": "2\n4\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.230909575",
+    "E": "80.69463432",
+    "Quantity": "80.693209\n80.691826\n80.694538",
+    "Proposed measure/s": "3 km\n3 km\n2.5 km",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nPlanting trees along the banks (Arecanut, Nuga, Mee etc.)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "300000\n300000\n250000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69463432,
+     7.230909575
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "983",
+    "GND Name": "Nugaliyadda Ihala",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drain - Kirigalpoththa Kandura\n2. Development of natural drain - Dewatahena Kandura\n3. Development of natural drain - Kandura near the house of Lokubanda\n4. Development of natural drain - Walharupa Kandura\n5. Development of natural drain - Kandegama Mada Kandura\n6. Development of natural drain - Galpoththe Kandura\n7. Development of natural drain - Latiyagolla near the house of Jayarathne\n8. Development of natural drain - Kandura near the house of Dingiribanda",
+    "Priority based on Soil Erosion Hazard": "5\n4\n1\n5\n1\n4\n4\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.227202722",
+    "E": "80.68988612",
+    "Quantity": "80.684609\n80.685275\n80.684597\n80.683777\n80.687594\n80.689722\n80.689561\n80.690016",
+    "Proposed measure/s": "250 m\n250 m\n250 m\n250 m\n50 m\n500 m\n150 m\n500 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "25000\n25000\n25000\n25000\n5000\n50000\n150000\n50000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.68988612,
+     7.227202722
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "984",
+    "GND Name": "Butawawaththa North",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drain - Pinnagolla Kandura\n2. Development of natural drain - 5 Culvert (Bokkuwe) Kandura\n3. Development of natural drain - 4 Culvert (Bokkuwe) Kandura\n4. Development of natural drain - Kadakula Kandura\n5. Development of natural drain - 2 Culvert (Bokkuwe) Kandura\n6. Development of natural drain - 1 Culvert (Bokkuwe) Kandura\n7. Soil conservation practices (70°) - Yogaraja's house",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n4\n3\n3\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.243269014",
+    "E": "80.69821254",
+    "Quantity": "80.701285\n80.698426\n80.698226\n80.697061\n80.696828\n80.696828\n80.702227",
+    "Proposed measure/s": "1 km\n2.5 km\n1 km\n2.5 km\n1.1 km\n1 km\n6 m x 2 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "100000\n250000\n100000\n250000\n110000\n100000\n264000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69821254,
+     7.243269014
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "985",
+    "GND Name": "Butawawaththa South",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.236580212",
+    "E": "80.69825398",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69825398,
+     7.236580212
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "989",
+    "GND Name": "Godamunna East",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drain - Koswaththa Kandura\n2. Development of natural drain - Bolagedara Kande Kandura\n3. Development of natural drain - Pallegama Kandura\n6. Development if natural drain - Pallage Waththage Kamdura (60°)",
+    "Priority based on Soil Erosion Hazard": "1\n5\n4\n3",
+    "Location_Detail": "Approximation",
+    "N": "7.224178791",
+    "E": "80.70346899",
+    "Quantity": "80.704609\n80.69822\n80.703612\n80.703597",
+    "Proposed measure/s": "900 m\n800 m\n1150 m\n50 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "90000\n80000\n110000\n5000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70346899,
+     7.224178791
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "990",
+    "GND Name": "Godamunna West",
+    "Key Activities proposed for Soil and Water conservation": "1. Development if natural drain - Kandura near the 1 Mile Post\n2. Development if natural drain - Near the house of Mr. Wijesooriya",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Approximation",
+    "N": "7.227678488",
+    "E": "80.69899943",
+    "Quantity": "80.709681",
+    "Proposed measure/s": "800 m\n50 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "80000\n5000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.69899943,
+     7.227678488
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "991",
+    "GND Name": "Kapuliyadda West",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of Kandura near Kapuliyadda Maha Vidyalaya\n3. Bank conservation - Kivullinda Oya",
+    "Priority based on Soil Erosion Hazard": "3\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.239197881",
+    "E": "80.71088741",
+    "Quantity": "80.717803\n80.714602",
+    "Proposed measure/s": "25 m x 2 m",
+    "Uniti_Cost": "Retaining Wall (Masonry)\nPlanting Areca nut palms",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "1100000\n100000",
+    "Time frame for the implementation": "By the project\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71088741,
+     7.239197881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "992",
+    "GND Name": "Kapuliyadda East",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kapuliyadda Oya\n2. Development of natural drains - near temple\n2. Development of natural drains - Meegasamulla Kandura",
+    "Priority based on Soil Erosion Hazard": "1\n2\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.241752459",
+    "E": "80.71666054",
+    "Quantity": "80.709314\n80.708367\n80.712968",
+    "Proposed measure/s": "100 m x 2 m\n52 m\n1.5 km",
+    "Uniti_Cost": "Retaining Wall (Masonry)\nPlanting trees along the banks (Arecanut, Nuga, Mee etc.)\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "4400000\n52000\n150000",
+    "Time frame for the implementation": "By the project\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71666054,
+     7.241752459
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "993",
+    "GND Name": "Narangasthenna",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Dulmuramulla Kandura\n2. Development of natural drains - Kandura near Nikalawela Pathaha\n3. Establishing a side wall - Malaliyadda anicut (90°)\n7. Development of natural drains - Elle Oya",
+    "Priority based on Soil Erosion Hazard": "2\n3\n4\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.234568065",
+    "E": "80.71136131",
+    "Quantity": "80.704322\n80.710941\n80.707395\n80.713083",
+    "Proposed measure/s": "500 m\n800 m\n2.5 m x 2 m\n2 m x 2 m\nCovering 12 ac either side",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonry)\nRetaining Wall (Masonry)\nPlanting Areca nut palms\nPlanting Areca nut palms and other trees (Bamboo, Nuga etc.)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "50000\n80000\n110000\n88000\n100000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nBy the project\nBy the project\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71136131,
+     7.234568065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "995",
+    "GND Name": "Welegama",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Pansalwaththa Arawa Kandura\n2. Development of natural drains - Kanda Oya\n3. Development of natural drains - Kandura near Welegama Temple\n4. Development of natural drains - Miyana Kandura\n5. Development of natural drains - Doiwelgolla Kandura\n6. Development of natural drains - Kiriwanagoda Kandura\n7. Development of natural drains - Siyambalagaha Kandura\n8. Development of natural drains - Kandura 4\n7. Development of natural drains - Siyambalagaha Kandura\n7. Development of natural drains - Siyambalagaha Kandura\n12. Establishing a retaining wall - Ms. R.M. Nayana Kumari (60°) to avoid water flowing inside the house",
+    "Priority based on Soil Erosion Hazard": "4\n3\n5\n1\n1\n3\n1\n3\n5\n1\n2\n4\n4\n2\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.228379868",
+    "E": "80.71381712",
+    "Quantity": "80.709328\n80.707597\n80.710464\n80.713884\n80.715555\n80.715765\n80.715555\n80.715765\n80.716723\n80.717422\n80.717682\n80.714682\n80.719629\n80.720662\n80.799269",
+    "Proposed measure/s": "500 m\n2 km\n600 m\n600 m\n200 m\n200 m\n200 m\n200 m\n400 m\n400m\n700 m\n700 m\n350 m\n800 m\n10 m x 3 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices, E.g. grass cultivation\nHaving a stream reservation\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "50000\n200000\n60000\n60000\n80000\n80000\n70000\n70000\n35000\n80000\n1171500",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71381712,
+     7.228379868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "996",
+    "GND Name": "Madagama Udagama",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Bulugasmulla Kandura\n2. Development of natural drains - Ganegoda Kandura\n3. Development of natural drains - Lokuwaththa Kandura\n4. Development of natural drains - Lokuwaththa Mala-Kandura\n5. Development of natural drains - near Lokuwaththa Line\n6. Development of natural drains - Punchiwaththa Oya\n7. Development of natural drains - Thulamuwa Ulpathe Kandura\n8. Development of natural drains - Punchwaththa Kandura\n9. Development of natural drains -Madagama Oya\n16. Removal of boulders/stones - Galapamula (falling down boulders/stones)",
+    "Priority based on Soil Erosion Hazard": "5\n4\n5\n5\n1\n5\n5\n5\n3\n1",
+    "Location_Detail": "Approximation",
+    "N": "7.207253252",
+    "E": "80.70493285",
+    "Quantity": "80.702412\n80.703312\n80.70402\n80.70329\n80.701248\n80.701387\n80.701688\n80.704877\n80.70518\n80.707201",
+    "Proposed measure/s": "1 km\n6 km\n2 km\n2 km\n200 m\n4 km\n3 km\n6 km\n3 km",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nPlanting trees along the banks (Arecanut, Nuga, Mee etc.)\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nPlanting trees along the banks (Arecanut, Nuga, Mee etc.)\nRemoving boulders/rocks that can fall down, awareness on soil conservation",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "100000\n600000\n200000\n200000\n20000\n400000\n300000\n600000\n300000\n50000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70493285,
+     7.207253252
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "997",
+    "GND Name": "Medagama Pallegama",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Gurugalkumbura Kandura\n2. Development of natural drains - Poththagahapitiya Kandura\n3. Development of natural drains - Rathambe Kandura\n4. Development of natural drains - Welikada Thenna\n5. Establishing a retaining wall - Medagama Central College/Lower the road (85°)\n6. Establishing a retaining wall - Medagama Central College/Lower the road (70°)",
+    "Priority based on Soil Erosion Hazard": "5\n3\n3\n4\n4\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.221147349",
+    "E": "80.71743462",
+    "Quantity": "80.713134\n80.711882\n80.71632\n80.719931\n80.713457\n80.713459",
+    "Proposed measure/s": "800 m\n100 m\n650 m\n2 km\n150 m x 3 m\n200 m x 3 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Concrete)\nRetaining Wall (Concrete)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "80000\n10000\n65000\n200000\n17418500\n23226500",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nBy the project\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71743462,
+     7.221147349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "999",
+    "GND Name": "Bolapa",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kiwullinda Oya\n2. Development of natural drains - Kiwullinda Lunu Ella\n3. Development of natural drains - Lunu Ella Kandura\n4. Development of natural drains - Mala Kandura\n5. Development of natural drains - Bolapa 4th Mile Post/Mala Kandura\n6. Development of natural drains - Galkandawaththa/Mala Kandura\n7. Development of natural drains - Kandura 6/Mala Kandura\n8. Development of natural drains – Bolapa Kandura 6\n9. Development of natural drains - Kandura 8 Bolapa Egodawaththa\n10. Development of natural drains - Kandura 9 Bolapa Oya\n11. Development of natural drains - Kandura 10 Mala Kandura",
+    "Priority based on Soil Erosion Hazard": "5\n4\n5\n5\n1\n1\n4\n1\n1\n1\n4",
+    "Location_Detail": "Approximation",
+    "N": "7.235070069",
+    "E": "80.72423175",
+    "Quantity": "80.722535\n80.722278 80.723213\n80.722538\n80.726075\n80.727297\n80.727945\n80.728175\n80.725806\n80.722568\n80.72259\n80.723418",
+    "Proposed measure/s": "1.2 km\n510 m\n510 m\n800 m\n850 m\n750 m\n600 m\n350 m\n1 km\n6 km\n400 m",
+    "Uniti_Cost": "Planting trees along the banks (Arecanut, Nuga, Mee etc.)\nPlanting trees along the banks (Arecanut, Nuga, Mee etc.)\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "120000\n51000\n51000\n80000\n85000\n75000\n60000\n60000\n100000\n100000\n40000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.72423175,
+     7.235070069
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "987",
+    "GND Name": "Doolmure",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Dulmure Kandura 1\n2. Development of natural drains - Dulmure Kandura 2\n3. Development of natural drains - Dulmure Kandura 3\n4. Development of natural drains - Dulmure Kandura 4\n8. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "1\n3\n1\n4\n3",
+    "Location_Detail": "Approximation",
+    "N": "7.24113771",
+    "E": "80.70609561",
+    "Quantity": "80.705796\n80.706107\n80.702646\n80.706393\n80.706107",
+    "Proposed measure/s": "750 m\n400 m\n200 m\n200 m\n60 m x 2 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nRetaining Wall (Masonry)",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "75000\n40000\n20000\n20000\n2640000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/ Sharamadana\nLabour and other basic services by the Local community/ Sharamadana\nLabour and other basic services by the Local community/ Sharamadana\nBy the project",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70609561,
+     7.24113771
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "994",
+    "GND Name": "Godalawela",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Godalawela Kandura 1\n2. Development of natural drains - Akuwitiya Kandura\n3. Development of natural drains - Godalawela Kandura 3\n4. Development of natural drains - Godalawela Kandura 4",
+    "Priority based on Soil Erosion Hazard": "1\n1\n3",
+    "Location_Detail": "Approximation",
+    "N": "7.236913132",
+    "E": "80.71683299",
+    "Quantity": "80.716881\n80.71744\n80.714319",
+    "Proposed measure/s": "300 m\n100 m\n2 km\n50 m",
+    "Uniti_Cost": "Clearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "30000\n10000\n200000\n5000\n245000",
+    "Time frame for the implementation": "Labour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana\nLabour and other basic services by the Local community/Sharamadana",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.71683299,
+     7.236913132
+    ]
+   }
+  }
+ ]
+}

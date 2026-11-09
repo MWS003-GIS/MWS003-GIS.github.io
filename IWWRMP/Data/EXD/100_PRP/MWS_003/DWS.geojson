@@ -1,0 +1,342 @@
+{
+ "type": "FeatureCollection",
+ "name": "DWS",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "962",
+    "Scheme": "Nehiniwela",
+    "Location_Detail": "Approximation",
+    "N": "7.252560184",
+    "E": "80.66824813",
+    "Observation": "-",
+    "Description": "-",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66824813,
+     7.252560184
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "953",
+    "Scheme": "Wathuliyadda",
+    "Location_Detail": "Exact",
+    "N": "1.0",
+    "E": "3.0",
+    "Observation": "-",
+    "Description": "-",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.0,
+     1.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "949",
+    "Scheme": "Uduwela Pallegama East",
+    "Location_Detail": "Exact",
+    "N": "1.0",
+    "E": "1.0",
+    "Observation": "-",
+    "Description": "1",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0,
+     1.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "954",
+    "Scheme": "Uduwela Waththa Colony",
+    "Location_Detail": "Exact",
+    "N": "1.0",
+    "E": "2.0",
+    "Observation": "-",
+    "Description": "1",
+    "Estimated Cost": "1",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.0,
+     1.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "5",
+    "GND No.": "955",
+    "Scheme": "Galthenna",
+    "Location_Detail": "Approximation",
+    "N": "7.255460797",
+    "E": "80.64743857",
+    "Observation": "15",
+    "Description": "-",
+    "Estimated Cost": "1",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64743857,
+     7.255460797
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "6",
+    "GND No.": "963",
+    "Scheme": "Godompitiya",
+    "Location_Detail": "Approximation",
+    "N": "7.250697803",
+    "E": "80.67562922",
+    "Observation": "-",
+    "Description": "1",
+    "Estimated Cost": "1",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.67562922,
+     7.250697803
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "7",
+    "GND No.": "950",
+    "Scheme": "Uduwela Pallegama West",
+    "Location_Detail": "Exact",
+    "N": "1.0",
+    "E": "1.0",
+    "Observation": "10",
+    "Description": "-",
+    "Estimated Cost": "6",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0,
+     1.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "8",
+    "GND No.": "947",
+    "Scheme": "Uduwela Udagama West",
+    "Location_Detail": "Exact",
+    "N": "2.0",
+    "E": "1.0",
+    "Observation": "-",
+    "Description": "-",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0,
+     2.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "9",
+    "GND No.": "951",
+    "Scheme": "Ratemulla",
+    "Location_Detail": "Exact",
+    "N": "3.0",
+    "E": "4.0",
+    "Observation": "-",
+    "Description": "-",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.0,
+     3.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "10",
+    "GND No.": "966",
+    "Scheme": "Ethulgama West",
+    "Location_Detail": "Approximation",
+    "N": "7.229831975",
+    "E": "80.65835989",
+    "Observation": "-",
+    "Description": "1",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65835989,
+     7.229831975
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "11",
+    "GND No.": "964",
+    "Scheme": "Puliyadda",
+    "Location_Detail": "Approximation",
+    "N": "7.241325727",
+    "E": "80.65551239",
+    "Observation": "-",
+    "Description": "-",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65551239,
+     7.241325727
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "12",
+    "GND No.": "967",
+    "Scheme": "Ethulgama North",
+    "Location_Detail": "Approximation",
+    "N": "7.246296904",
+    "E": "80.66741044",
+    "Observation": "-",
+    "Description": "3",
+    "Estimated Cost": "1",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66741044,
+     7.246296904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "13",
+    "GND No.": "948",
+    "Scheme": "Uduwela Pallegama South",
+    "Location_Detail": "Approximation",
+    "N": "7.252479159",
+    "E": "80.65314516",
+    "Observation": "3",
+    "Description": "2",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65314516,
+     7.252479159
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "14",
+    "GND No.": "946",
+    "Scheme": "Uduwela Udagama East",
+    "Location_Detail": "Exact",
+    "N": "2.0",
+    "E": "7.0",
+    "Observation": "-",
+    "Description": "1",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.0,
+     2.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "15",
+    "GND No.": "952",
+    "Scheme": "Monarangala",
+    "Location_Detail": "Approximation",
+    "N": "7.256642884",
+    "E": "80.65670749",
+    "Observation": "-",
+    "Description": "1",
+    "Estimated Cost": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65670749,
+     7.256642884
+    ]
+   }
+  }
+ ]
+}

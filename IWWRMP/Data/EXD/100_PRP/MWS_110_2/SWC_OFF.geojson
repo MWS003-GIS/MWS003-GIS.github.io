@@ -1,0 +1,120 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "560",
+    "GND Name": "Kasawatta",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.372905728",
+    "E": "80.60115978",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60115978,
+     7.372905728
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "561",
+    "GND Name": "Udaweliketiya",
+    "Key Activities proposed for Soil and Water conservation": "1. Establishing a retaining wall - Kutugolla area",
+    "Priority based on Soil Erosion Hazard": "100 m x 3 m",
+    "Location_Detail": "Approximation",
+    "N": "7.366912833",
+    "E": "80.60864802",
+    "Quantity": "By the project",
+    "Proposed measure/s": "0.25",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60864802,
+     7.366912833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "561",
+    "GND Name": "Udaweliketiya",
+    "Key Activities proposed for Soil and Water conservation": "2. Establishing a retaining wall - Bosanka",
+    "Priority based on Soil Erosion Hazard": "100 m x 3 m",
+    "Location_Detail": "Approximation",
+    "N": "7.366912833",
+    "E": "80.60864802",
+    "Quantity": "By the project",
+    "Proposed measure/s": "0.25",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60864802,
+     7.366912833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "562",
+    "GND Name": "Palleweliketiya",
+    "Key Activities proposed for Soil and Water conservation": "No special issues are reported",
+    "Priority based on Soil Erosion Hazard": "-",
+    "Location_Detail": "Approximation",
+    "N": "7.365064076",
+    "E": "80.61212005",
+    "Quantity": "-",
+    "Proposed measure/s": "-",
+    "Uniti_Cost": "-",
+    "Total_Cost": "-",
+    "Contribution (Local Community, LA, and the project)": "-",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61212005,
+     7.365064076
+    ]
+   }
+  }
+ ]
+}

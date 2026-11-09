@@ -1,6 +1,100 @@
-{"type":"FeatureCollection","name":"WSP","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No":1,"GND No.":865,"Name of the Tank":"Gama Meda Pihilla","N":7.277388,"E":80.902813,"Observation":"Water is taken for  drinking and bathing, A sprin well  is constructed. (2.6m x 2.5m x 1.5m,L xW x h)The Boundary wall is damaged.","Description":"Existing wall removal \n\nEarth excavation for foundation or quarry \nmaterials and haul the surplus materials up to \n30m by Manually --Boundary wall\n\n150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures - Boundary wall\n\n 1:2","Amount (Rs.)":"278,850.00","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Gamameda pihilla.jpg"},"geometry":{"type":"Point","coordinates":[80.902813,7.277388]}},
-{"type":"Feature","properties":{"No":2,"GND No.":867,"Name of the Tank":"Galpihilla spring","N":7.289159,"E":80.916858,"Observation":"There is a dilapidated  collecting tank","Description":"Collection Tank Construction\n\n Site preparation & setting out\n\n150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures - Boundary wall\n\nPlaster 12mm thick in 1:3 cement and sand \nfinished smooth with gray cement floating\n\n 50","Amount (Rs.)":"966,900.00","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Galpihilla ulpatha  stream.jpg"},"geometry":{"type":"Point","coordinates":[80.916858,7.289159]}},
-{"type":"Feature","properties":{"No":3,"GND No.":867,"Name of the Tank":"Panavelgolla Public Well","N":7.280673,"E":80.906078,"Observation":"There is a 2.1mx2.1mx2.1m(LxWxH)well. Water is taken for   drinking and bathing.Well wall has collapsed","Description":"Well Renovation\n\n150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures - Repair the gaps\n\n 1:2:4 (20mm) concrete manual mix  (volume batching)-repair the gaps\n\nPlaster 12mm thick in 1:3 cement and sand \nfinished smooth with","Amount (Rs.)":"85,250.00","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Panawelgolla Public well.jpg"},"geometry":{"type":"Point","coordinates":[80.906078,7.280673]}},
-{"type":"Feature","properties":{"No":4,"GND No.":868,"Name of the Tank":"Medawela spring (within the reservation) (4 acres)","N":7.288462,"E":80.910619,"Observation":"The source was developed in 2004","Description":"Vegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m grid interval","Amount (Rs.)":"484,000.00","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Medawela Spring (3).jpg"},"geometry":{"type":"Point","coordinates":[80.910619,7.288462]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "WSP",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "1",
+    "GND No.": "865",
+    "Name of the Tank": "Gama Meda Pihilla",
+    "Location_Detail": "Exact",
+    "N": "7.277388",
+    "E": "80.902813",
+    "Observation": "Water is taken for  drinking and bathing, A sprin well  is constructed. (2.6m x 2.5m x 1.5m,L xW x h)The Boundary wall is damaged.",
+    "Description": "Existing wall removal \n\nEarth excavation for foundation or quarry \nmaterials and haul the surplus materials up to \n30m by Manually --Boundary wall\n\n150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures - Boundary wall\n\n 1:2:4 (20mm) concrete manual mix (volume batching)- Raisen the well wallVegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x 1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed seedlings and planting at 3.5m x 3.5 m grid intervalMiscellaneousContingancies 10%",
+    "Amount (Rs.)": "278,850.00",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Gamameda pihilla.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.902813,
+     7.277388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "2",
+    "GND No.": "867",
+    "Name of the Tank": "Galpihilla spring",
+    "Location_Detail": "Exact",
+    "N": "7.289159",
+    "E": "80.916858",
+    "Observation": "There is a dilapidated  collecting tank",
+    "Description": "Collection Tank Construction\n\n Site preparation & setting out\n\n150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures - Boundary wall\n\nPlaster 12mm thick in 1:3 cement and sand \nfinished smooth with gray cement floating\n\n 50 mm GI pipe installationWater Stock tank with filteration system construction Construction of Concrete water storage tank of 20 cum ‐ size internal t 3mx3mx2.5Filteration system instalation50 mm GI pipe installationMiscellaneousContingancies 10%",
+    "Amount (Rs.)": "966,900.00",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Galpihilla ulpatha  stream.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.916858,
+     7.289159
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "3",
+    "GND No.": "867",
+    "Name of the Tank": "Panavelgolla Public Well",
+    "Location_Detail": "Exact",
+    "N": "7.280673",
+    "E": "80.906078",
+    "Observation": "There is a 2.1mx2.1mx2.1m(LxWxH)well. Water is taken for   drinking and bathing.Well wall has collapsed",
+    "Description": "Well Renovation\n\n150mm x 225mm Random Rubble masonry work in 1:5 cement and sand mortar in structures - Repair the gaps\n\n 1:2:4 (20mm) concrete manual mix  (volume batching)-repair the gaps\n\nPlaster 12mm thick in 1:3 cement and sand \nfinished smooth with gray cement floatingFabricating & fixing security weld mesh in open type buildings in GI weld mesh 50mm x 50mm SWG 10, welded on 40mm x 40mm x 5mm angle frame complete with application of two coats enamel paint over two coats of anticorrosive paint and complete.All as per detail drawing No.CPC/CS/11/04/2017/TYPE‐ST/07-well1:3:6 (40mm) concrete manual mix (volume batching) - Pavemet around the wellMiscellaneousContingancies 10%",
+    "Amount (Rs.)": "85,250.00",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Panawelgolla Public well.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.906078,
+     7.280673
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No": "4",
+    "GND No.": "868",
+    "Name of the Tank": "Medawela spring (within the reservation) (4 acres)",
+    "Location_Detail": "Exact",
+    "N": "7.288462",
+    "E": "80.910619",
+    "Observation": "The source was developed in 2004",
+    "Description": "Vegetative cover improving around structures (5m x 10m) with Areca nut seedling in 1.5m x \n1.5m grid, Kumbuk/ Mee/ Godapara/ Kaduru/ Aththikka/ Wal Del/ Kekuna/ randomly mixed \nseedlings and planting at 3.5m x 3.5 m grid interval",
+    "Amount (Rs.)": "484,000.00",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_076/Medawela Spring (3).jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.910619,
+     7.288462
+    ]
+   }
+  }
+ ]
+}

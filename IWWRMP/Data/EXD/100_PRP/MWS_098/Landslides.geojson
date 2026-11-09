@@ -1,0 +1,34 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "738",
+    "GN Division": "Gomaraya",
+    "Landslides": "No special issue are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.39134931",
+    "E": "80.77469175",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.77469175,
+     7.39134931
+    ]
+   }
+  }
+ ]
+}

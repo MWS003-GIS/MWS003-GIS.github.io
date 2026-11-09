@@ -1,8 +1,540 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":2,"GN Division No.":255,"GN Division":"Katukele","Landslides":"1. Bank collapsing, Landsliding - Part of the Bahirawakanda Road","N":7.294192,"E":80.629436,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow soil conservation methods and revisit Land Use Planning","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at bahirawakand mv -2026-07-05-20-40-00 2.jpg"},"geometry":{"type":"Point","coordinates":[80.629436,7.294192]}},
-{"type":"Feature","properties":{"No.":3,"GN Division No.":255,"GN Division":"Katukele","Landslides":"2. Bank collapsing - Pushpadana Mawatha","N":7.293856,"E":80.630253,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow soil conservation methods and revisit Land Use Planning","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster nat pushpadana road-2026-07-05-20-36-50.jpg"},"geometry":{"type":"Point","coordinates":[80.630253,7.293856]}},
-{"type":"Feature","properties":{"No.":4,"GN Division No.":255,"GN Division":"Katukele","Landslides":"4. Bank collapsing - George E De Silva Mawatha","N":7.288047,"E":80.622897,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow soil conservation methods and revisit Land Use Planning","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster near to geore silva house-2026-07-05-20-35-52.jpg"},"geometry":{"type":"Point","coordinates":[80.622897,7.288047]}},
-{"type":"Feature","properties":{"No.":5,"GN Division No.":258,"GN Division":"Ihala Katukele","Landslides":"1. Bank collapsing","N":7.293714,"E":80.631272,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow recommendations of NBRO having consulted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at samagi road-2026-07-05-20-43-23 2.jpg"},"geometry":{"type":"Point","coordinates":[80.631272,7.293714]}},
-{"type":"Feature","properties":{"No.":6,"GN Division No.":258,"GN Division":"Ihala Katukele","Landslides":"2. Bank collapsing","N":7.294574,"E":80.631677,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow recommendations of NBRO having consulted.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at wewa para-2026-07-05-20-41-46.jpg"},"geometry":{"type":"Point","coordinates":[80.631677,7.294574]}},
-{"type":"Feature","properties":{"No.":7,"GN Division No.":258,"GN Division":"Ihala Katukele","Landslides":"3. Damaging to the road","N":7.291188,"E":80.632571,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Follow recommendations of NBRO having consulted. Constructing retaining walls (100 m x 3 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at samagi road-2026-07-05-20-43-24.jpg"},"geometry":{"type":"Point","coordinates":[80.632571,7.291188]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "242",
+    "GN Division": "Heeressagala",
+    "Landslides": "1. Landsliding - Moragolla\n2. High wind, Landsliding - Hanthana",
+    "Location_Detail": "Approximation",
+    "N": "7.269071855",
+    "E": "80.62902094",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern",
+    "Proposed Measures": "Relocation is needed. Follow recommendations of NBRO\nFollow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62902094,
+     7.269071855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "243",
+    "GN Division": "Mulgampala",
+    "Landslides": "1. Landsliding - Siyambalapitiya area\n2. Landsliding - A part of the Vihara Mawatha",
+    "Location_Detail": "Approximation",
+    "N": "7.276318446",
+    "E": "80.6196534",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Providing alternative lands lands\nConstructing a retaining wall (50 m x 3 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6196534,
+     7.276318446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "244",
+    "GN Division": "Uda Bowala",
+    "Landslides": "1. Landsliding - Elagolla area\n2. Landsliding - Area near Godamunna Road\n3. Landsliding - Dangolla area",
+    "Location_Detail": "Approximation",
+    "N": "7.267891279",
+    "E": "80.61395846",
+    "NBRO Recommendation N/A": "NBRO is aware\nNeeds NBRO concern\nNeeds NBRO concern",
+    "Proposed Measures": "Follow soil conservation practices and revisit Land Use Planning\nFollow soil conservation practices and revisit Land Use Planning\nFollow soil conservation practices and revisit Land Use Planning",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61395846,
+     7.267891279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "245",
+    "GN Division": "Bowala",
+    "Landslides": "Landsliding - Rosawatta",
+    "Location_Detail": "Approximation",
+    "N": "7.271148113",
+    "E": "80.61433224",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61433224,
+     7.271148113
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "246",
+    "GN Division": "Ogastawatta",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.26275829",
+    "E": "80.61134843",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61134843,
+     7.26275829
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "252",
+    "GN Division": "Ampitiya North",
+    "Landslides": "Bank collapsing - Periswatta Upper Division",
+    "Location_Detail": "Approximation",
+    "N": "7.286135013",
+    "E": "80.65254246",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow recommendations of NBRO.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.65254246,
+     7.286135013
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "253",
+    "GN Division": "Ampitiya South",
+    "Landslides": "1. Landsliding-Rajapihilla Road (Ginihiriya Division)\n2. Landsliding - Rajapihilla road (Makarawatta Division)",
+    "Location_Detail": "Approximation",
+    "N": "7.28283125",
+    "E": "80.64801681",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow recommendations of NBRO.\nFollow recommendations of NBRO.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64801681,
+     7.28283125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "254",
+    "GN Division": "Malwatta",
+    "Landslides": "Landsliding - Reservoir Road",
+    "Location_Detail": "Approximation",
+    "N": "7.278633187",
+    "E": "80.64278227",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Relocation is needed with an alternative land. Also, Land Use Palnning should be revisited.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64278227,
+     7.278633187
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GN Division No.": "255",
+    "GN Division": "Katukele",
+    "Landslides": "1. Bank collapsing, Landsliding - Part of the Bahirawakanda Road",
+    "Location_Detail": "Exact",
+    "N": "7.294192",
+    "E": "80.629436",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow soil conservation methods and revisit Land Use Planning",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at bahirawakand mv -2026-07-05-20-40-00 2.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.629436,
+     7.294192
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "255",
+    "GN Division": "Katukele",
+    "Landslides": "2. Bank collapsing - Pushpadana Mawatha 3. Bank collapsing - Part of the Peradeniya Road",
+    "Location_Detail": "Exact",
+    "N": "7.293856",
+    "E": "80.630253",
+    "NBRO Recommendation N/A": "Needs NBRO concern Needs NBRO concern",
+    "Proposed Measures": "Follow soil conservation methods and revisit Land Use Planning Follow soil conservation methods and revisit Land Use Planning",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster nat pushpadana road-2026-07-05-20-36-50.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.630253,
+     7.293856
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "255",
+    "GN Division": "Katukele",
+    "Landslides": "4. Bank collapsing - George E De Silva Mawatha",
+    "Location_Detail": "Exact",
+    "N": "7.288047",
+    "E": "80.622897",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow soil conservation methods and revisit Land Use Planning",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster near to geore silva house-2026-07-05-20-35-52.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.622897,
+     7.288047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "256",
+    "GN Division": "Katukele West",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.284928951",
+    "E": "80.62376735",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62376735,
+     7.284928951
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "257",
+    "GN Division": "Mahanuwara",
+    "Landslides": "Bank collapsing on to the house - E.M.K.G.S.B. Ekanayake",
+    "Location_Detail": "Approximation",
+    "N": "7.296284155",
+    "E": "80.63776562",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63776562,
+     7.296284155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "258",
+    "GN Division": "Ihala Katukele",
+    "Landslides": "1. Bank collapsing",
+    "Location_Detail": "Exact",
+    "N": "7.293714",
+    "E": "80.631272",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at samagi road-2026-07-05-20-43-23 2.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.631272,
+     7.293714
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GN Division No.": "258",
+    "GN Division": "Ihala Katukele",
+    "Landslides": "2. Bank collapsing",
+    "Location_Detail": "Exact",
+    "N": "7.294574",
+    "E": "80.631677",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at wewa para-2026-07-05-20-41-46.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.631677,
+     7.294574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GN Division No.": "258",
+    "GN Division": "Ihala Katukele",
+    "Landslides": "3. Damaging to the road",
+    "Location_Detail": "Exact",
+    "N": "7.291188",
+    "E": "80.632571",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Follow recommendations of NBRO having consulted. Constructing retaining walls (100 m x 3 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_116/disaster at samagi road-2026-07-05-20-43-24.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.632571,
+     7.291188
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GN Division No.": "259",
+    "GN Division": "Getambe",
+    "Landslides": "1. Landsliding - Mable Cooray Mawatha\n2. Landsliding - Primrose, Uyanwatta",
+    "Location_Detail": "Approximation",
+    "N": "7.272831207",
+    "E": "80.60233016",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Revit Land Use Planning, Widening the drains to a formal drainage, Providing alternative lands\nRevit Land Use Planning, Widening the drains to a formal drainage, Providing alternative lands",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.60233016,
+     7.272831207
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GN Division No.": "260",
+    "GN Division": "Welata",
+    "Landslides": "Landsliding - From 640/13 house to the Sudu Niwasa of the Mable Cooray Mawatha (1 km) is landsliding towards Sirimawo Bandaranayake Mawatha",
+    "Location_Detail": "Approximation",
+    "N": "7.279182332",
+    "E": "80.61669676",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow soil conservation methods, Revisit Land Useand Use Planning",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.61669676,
+     7.279182332
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GN Division No.": "261",
+    "GN Division": "Deiyannewela",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.28746141",
+    "E": "80.63084653",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63084653,
+     7.28746141
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GN Division No.": "262",
+    "GN Division": "Nagasthenna",
+    "Landslides": "1. Landsliding - Ihala Nagasthenna canal\n2. Landsliding - Upper area of Nagasthenna Hanthana Road",
+    "Location_Detail": "Approximation",
+    "N": "7.282742631",
+    "E": "80.63086074",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware",
+    "Proposed Measures": "Follow soil conservation methods, Revisit Land Useand Use Planning\nFollow soil conservation methods, Revisit Land Useand Use Planning",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63086074,
+     7.282742631
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GN Division No.": "263",
+    "GN Division": "Hanthana Pedesa",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.275163962",
+    "E": "80.63701517",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63701517,
+     7.275163962
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GN Division No.": "264",
+    "GN Division": "Bogambara",
+    "Landslides": "Bank collapsing - Ehelepola Kumarihami Mawatha",
+    "Location_Detail": "Approximation",
+    "N": "7.28873752",
+    "E": "80.6352784",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Constructing a retaining wall (100 m x 3 m)",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6352784,
+     7.28873752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GN Division No.": "265",
+    "GN Division": "Suduhumpala East",
+    "Landslides": "Landsliding - Pathaha Watta",
+    "Location_Detail": "Approximation",
+    "N": "7.281335133",
+    "E": "80.62891755",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow recommendations of NBRO.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62891755,
+     7.281335133
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GN Division No.": "266",
+    "GN Division": "Suduhumpala West",
+    "Landslides": "Bank collapsing",
+    "Location_Detail": "Approximation",
+    "N": "7.28113498",
+    "E": "80.62453967",
+    "NBRO Recommendation N/A": "NBRO is aware",
+    "Proposed Measures": "Follow recommendations of NBRO.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62453967,
+     7.28113498
+    ]
+   }
+  }
+ ]
+}

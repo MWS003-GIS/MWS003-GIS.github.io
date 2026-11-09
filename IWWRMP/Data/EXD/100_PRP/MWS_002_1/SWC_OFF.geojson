@@ -1,0 +1,984 @@
+{
+ "type": "FeatureCollection",
+ "name": "SWC_OFF",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GND No.": "1034",
+    "GND Name": "Wetakepotha",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near the house of Mr. Raseem",
+    "Priority based on Soil Erosion Hazard": "1",
+    "Location_Detail": "Exact",
+    "N": "7.172474",
+    "E": "80.717046",
+    "Quantity": "170 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "17000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.717046,
+     7.172474
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GND No.": "1037",
+    "GND Name": "Medakekila",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Miniranwala Oya\n2. Development of natural drains - Arakewela Janapada Kandura\n3. Establishing a retaining wall\n4. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "5\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.17545",
+    "E": "80.705897",
+    "Quantity": "1 km\n200 m\n5 m x 3 m\n7 m x 2 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut, Kumbuk, Bamboo etc.) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)",
+    "Uniti_Cost": "100000\n20000\n588500\n308000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.705897,
+     7.17545
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GND No.": "1037",
+    "GND Name": "Medakekila",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Miniranwala Oya\n2. Development of natural drains - Arakewela Janapada Kandura\n3. Establishing a retaining wall\n4. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "5\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.179818",
+    "E": "80.708588",
+    "Quantity": "1 km\n200 m\n5 m x 3 m\n7 m x 2 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut, Kumbuk, Bamboo etc.) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)",
+    "Uniti_Cost": "100000\n20000\n588500\n308000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.708588,
+     7.179818
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GND No.": "1037",
+    "GND Name": "Medakekila",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Miniranwala Oya\n2. Development of natural drains - Arakewela Janapada Kandura\n3. Establishing a retaining wall\n4. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "5\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.172908",
+    "E": "80.708957",
+    "Quantity": "1 km\n200 m\n5 m x 3 m\n7 m x 2 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut, Kumbuk, Bamboo etc.) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)",
+    "Uniti_Cost": "100000\n20000\n588500\n308000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.708957,
+     7.172908
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GND No.": "1037",
+    "GND Name": "Medakekila",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Miniranwala Oya\n2. Development of natural drains - Arakewela Janapada Kandura\n3. Establishing a retaining wall\n4. Establishing a retaining wall",
+    "Priority based on Soil Erosion Hazard": "5\n1\n1\n4",
+    "Location_Detail": "Exact",
+    "N": "7.172452",
+    "E": "80.711725",
+    "Quantity": "1 km\n200 m\n5 m x 3 m\n7 m x 2 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut, Kumbuk, Bamboo etc.) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nRetaining Wall (Concrete)\nRetaining Wall (Masonry)",
+    "Uniti_Cost": "100000\n20000\n588500\n308000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.711725,
+     7.172452
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GND No.": "1039",
+    "GND Name": "Pattiyagama Udagama",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near the house of Mr. Kumarathunga\n2. Development of natural drains - Lulekandura",
+    "Priority based on Soil Erosion Hazard": "4\n1",
+    "Location_Detail": "Exact",
+    "N": "7.158803",
+    "E": "80.720361",
+    "Quantity": "100 m\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "10000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.720361,
+     7.158803
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GND No.": "1039",
+    "GND Name": "Pattiyagama Udagama",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near the house of Mr. Kumarathunga\n2. Development of natural drains - Lulekandura",
+    "Priority based on Soil Erosion Hazard": "4\n1",
+    "Location_Detail": "Exact",
+    "N": "7.160966",
+    "E": "80.716848",
+    "Quantity": "100 m\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "10000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.716848,
+     7.160966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GND No.": "1040",
+    "GND Name": "Gonangoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kalugala Oya\n2. Development of natural drains - Kandura near temple\n3. Development of natural drains - Kandura near the house of Mr. Premasiri\n4. Development of natural drains - Thenna Elehi Kandura\n5. Building a drain",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n1",
+    "Location_Detail": "Exact",
+    "N": "7.157017",
+    "E": "80.706613",
+    "Quantity": "750 m\n50 m\n50 m\n300 m\n300 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut, Kumbuk, Bamboo etc.) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain",
+    "Uniti_Cost": "75000\n5000\n5000\n30000\n18051000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.706613,
+     7.157017
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "9",
+    "GND No.": "1040",
+    "GND Name": "Gonangoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kalugala Oya\n2. Development of natural drains - Kandura near temple\n3. Development of natural drains - Kandura near the house of Mr. Premasiri\n4. Development of natural drains - Thenna Elehi Kandura\n5. Building a drain",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n1",
+    "Location_Detail": "Exact",
+    "N": "7.156739",
+    "E": "80.703891",
+    "Quantity": "750 m\n50 m\n50 m\n300 m\n300 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut, Kumbuk, Bamboo etc.) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain",
+    "Uniti_Cost": "75000\n5000\n5000\n30000\n18051000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.703891,
+     7.156739
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GND No.": "1040",
+    "GND Name": "Gonangoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kalugala Oya\n2. Development of natural drains - Kandura near temple\n3. Development of natural drains - Kandura near the house of Mr. Premasiri\n4. Development of natural drains - Thenna Elehi Kandura\n5. Building a drain",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n1",
+    "Location_Detail": "Exact",
+    "N": "7.156637",
+    "E": "80.70406",
+    "Quantity": "750 m\n50 m\n50 m\n300 m\n300 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut, Kumbuk, Bamboo etc.) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain",
+    "Uniti_Cost": "75000\n5000\n5000\n30000\n18051000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70406,
+     7.156637
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GND No.": "1040",
+    "GND Name": "Gonangoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kalugala Oya\n2. Development of natural drains - Kandura near temple\n3. Development of natural drains - Kandura near the house of Mr. Premasiri\n4. Development of natural drains - Thenna Elehi Kandura\n5. Building a drain",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n1",
+    "Location_Detail": "Exact",
+    "N": "7.15596",
+    "E": "80.707358",
+    "Quantity": "750 m\n50 m\n50 m\n300 m\n300 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut, Kumbuk, Bamboo etc.) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain",
+    "Uniti_Cost": "75000\n5000\n5000\n30000\n18051000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.707358,
+     7.15596
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GND No.": "1040",
+    "GND Name": "Gonangoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kalugala Oya\n2. Development of natural drains - Kandura near temple\n3. Development of natural drains - Kandura near the house of Mr. Premasiri\n4. Development of natural drains - Thenna Elehi Kandura\n5. Building a drain",
+    "Priority based on Soil Erosion Hazard": "1\n1\n1\n3\n1",
+    "Location_Detail": "Exact",
+    "N": "7.155333",
+    "E": "80.708605",
+    "Quantity": "750 m\n50 m\n50 m\n300 m\n300 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut, Kumbuk, Bamboo etc.) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain",
+    "Uniti_Cost": "75000\n5000\n5000\n30000\n18051000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.708605,
+     7.155333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GND No.": "1041",
+    "GND Name": "Karagaskada North",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Karagaskada Janapadaya Kandura\n2. Development of natural drains - Kandura near Karagaskada School",
+    "Priority based on Soil Erosion Hazard": "5, 2\n1",
+    "Location_Detail": "Exact",
+    "N": "7.175284",
+    "E": "80.698999",
+    "Quantity": "200 m\n500 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "20000\n50000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.698999,
+     7.175284
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GND No.": "1042",
+    "GND Name": "Karagaskada South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Riverside Kandura\n2. Development of natural drains - Leele Weli Kandura\n3. Development of natural drains - Kandura that separates Karagaskada Northa and K. South\n4. Establishing a drain - Hajara Mawatha\n5. Establishing a retaining wall - Riverside Mawatha",
+    "Priority based on Soil Erosion Hazard": "4\n1\n3\n5\n5",
+    "Location_Detail": "Exact",
+    "N": "7.170504",
+    "E": "80.703951",
+    "Quantity": "3 km\n320 m\n700 m\n300 m\n5 m x 3 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain\nRetaining Wall (Concrete)",
+    "Uniti_Cost": "300000\n32000\n70000\n18051000\n588500",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Year\n0.25 Year",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.703951,
+     7.170504
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GND No.": "1042",
+    "GND Name": "Karagaskada South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Riverside Kandura\n2. Development of natural drains - Leele Weli Kandura\n3. Development of natural drains - Kandura that separates Karagaskada Northa and K. South\n4. Establishing a drain - Hajara Mawatha\n5. Establishing a retaining wall - Riverside Mawatha",
+    "Priority based on Soil Erosion Hazard": "4\n1\n3\n5\n5",
+    "Location_Detail": "Exact",
+    "N": "7.174968",
+    "E": "80.70178",
+    "Quantity": "3 km\n320 m\n700 m\n300 m\n5 m x 3 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain\nRetaining Wall (Concrete)",
+    "Uniti_Cost": "300000\n32000\n70000\n18051000\n588500",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Year\n0.25 Year",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.70178,
+     7.174968
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GND No.": "1042",
+    "GND Name": "Karagaskada South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Riverside Kandura\n2. Development of natural drains - Leele Weli Kandura\n3. Development of natural drains - Kandura that separates Karagaskada Northa and K. South\n4. Establishing a drain - Hajara Mawatha\n5. Establishing a retaining wall - Riverside Mawatha",
+    "Priority based on Soil Erosion Hazard": "4\n1\n3\n5\n5",
+    "Location_Detail": "Exact",
+    "N": "7.174663",
+    "E": "80.699966",
+    "Quantity": "3 km\n320 m\n700 m\n300 m\n5 m x 3 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain\nRetaining Wall (Concrete)",
+    "Uniti_Cost": "300000\n32000\n70000\n18051000\n588500",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Year\n0.25 Year",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.699966,
+     7.174663
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GND No.": "1042",
+    "GND Name": "Karagaskada South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Riverside Kandura\n2. Development of natural drains - Leele Weli Kandura\n3. Development of natural drains - Kandura that separates Karagaskada Northa and K. South\n4. Establishing a drain - Hajara Mawatha\n5. Establishing a retaining wall - Riverside Mawatha",
+    "Priority based on Soil Erosion Hazard": "4\n1\n3\n5\n5",
+    "Location_Detail": "Exact",
+    "N": "7.172395",
+    "E": "80.7034",
+    "Quantity": "3 km\n320 m\n700 m\n300 m\n5 m x 3 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain\nRetaining Wall (Concrete)",
+    "Uniti_Cost": "300000\n32000\n70000\n18051000\n588500",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Year\n0.25 Year",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7034,
+     7.172395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GND No.": "1042",
+    "GND Name": "Karagaskada South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Riverside Kandura\n2. Development of natural drains - Leele Weli Kandura\n3. Development of natural drains - Kandura that separates Karagaskada Northa and K. South\n4. Establishing a drain - Hajara Mawatha\n5. Establishing a retaining wall - Riverside Mawatha",
+    "Priority based on Soil Erosion Hazard": "4\n1\n3\n5\n5",
+    "Location_Detail": "Exact",
+    "N": "7.170953",
+    "E": "80.704587",
+    "Quantity": "3 km\n320 m\n700 m\n300 m\n5 m x 3 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nConcrete Drain\nRetaining Wall (Concrete)",
+    "Uniti_Cost": "300000\n32000\n70000\n18051000\n588500",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nBy the project\nBy the project",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Year\n0.25 Year",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.704587,
+     7.170953
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GND No.": "1043",
+    "GND Name": "Great Valley Estate",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Great Valley Estate Ela\n2. Development of natural drains - Great Valley Estate Kandura 2\n3. Development of natural drains - Punchiwathta Dola\n4. Development of natural drains - Great Valley Estate Kandura 1\n5. Development of natural drains - Great Valley Estate Kandura 3",
+    "Priority based on Soil Erosion Hazard": "3\n1\n1\n5\n3",
+    "Location_Detail": "Exact",
+    "N": "7.180335",
+    "E": "80.703264",
+    "Quantity": "1 km\n300 m\n800 m\n300 m\n1200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "100000\n30000\n80000\n30000\n120000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.703264,
+     7.180335
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "20",
+    "GND No.": "1043",
+    "GND Name": "Great Valley Estate",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Great Valley Estate Ela\n2. Development of natural drains - Great Valley Estate Kandura 2\n3. Development of natural drains - Punchiwathta Dola\n4. Development of natural drains - Great Valley Estate Kandura 1\n5. Development of natural drains - Great Valley Estate Kandura 3",
+    "Priority based on Soil Erosion Hazard": "3\n1\n1\n5\n3",
+    "Location_Detail": "Exact",
+    "N": "7.194288",
+    "E": "80.705246",
+    "Quantity": "1 km\n300 m\n800 m\n300 m\n1200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "100000\n30000\n80000\n30000\n120000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.705246,
+     7.194288
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "21",
+    "GND No.": "1043",
+    "GND Name": "Great Valley Estate",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Great Valley Estate Ela\n2. Development of natural drains - Great Valley Estate Kandura 2\n3. Development of natural drains - Punchiwathta Dola\n4. Development of natural drains - Great Valley Estate Kandura 1\n5. Development of natural drains - Great Valley Estate Kandura 3",
+    "Priority based on Soil Erosion Hazard": "3\n1\n1\n5\n3",
+    "Location_Detail": "Exact",
+    "N": "7.194051",
+    "E": "80.709311",
+    "Quantity": "1 km\n300 m\n800 m\n300 m\n1200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "100000\n30000\n80000\n30000\n120000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.709311,
+     7.194051
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "22",
+    "GND No.": "1043",
+    "GND Name": "Great Valley Estate",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Great Valley Estate Ela\n2. Development of natural drains - Great Valley Estate Kandura 2\n3. Development of natural drains - Punchiwathta Dola\n4. Development of natural drains - Great Valley Estate Kandura 1\n5. Development of natural drains - Great Valley Estate Kandura 3",
+    "Priority based on Soil Erosion Hazard": "3\n1\n1\n5\n3",
+    "Location_Detail": "Exact",
+    "N": "7.194818",
+    "E": "80.703922",
+    "Quantity": "1 km\n300 m\n800 m\n300 m\n1200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "100000\n30000\n80000\n30000\n120000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.703922,
+     7.194818
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "23",
+    "GND No.": "1043",
+    "GND Name": "Great Valley Estate",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Great Valley Estate Ela\n2. Development of natural drains - Great Valley Estate Kandura 2\n3. Development of natural drains - Punchiwathta Dola\n4. Development of natural drains - Great Valley Estate Kandura 1\n5. Development of natural drains - Great Valley Estate Kandura 3",
+    "Priority based on Soil Erosion Hazard": "3\n1\n1\n5\n3",
+    "Location_Detail": "Exact",
+    "N": "7.180065",
+    "E": "80.202067",
+    "Quantity": "1 km\n300 m\n800 m\n300 m\n1200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "100000\n30000\n80000\n30000\n120000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.202067,
+     7.180065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "24",
+    "GND No.": "1044",
+    "GND Name": "Gabadagama South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near Weaven\n2. Development of natural drains - Kandura at Weralu Danda Ela\n3. Development of natural drains - Gabadagama Road Kandura\n4. Development of natural drains - Ata Lehe Ela\n5. Development of natural drains - Embulampe Kandura",
+    "Priority based on Soil Erosion Hazard": "4\n4\n4\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.15557",
+    "E": "80.723566",
+    "Quantity": "20 m\n250 m\n100 m\n5 km\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "2000\n25000\n10000\n500000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.723566,
+     7.15557
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "25",
+    "GND No.": "1044",
+    "GND Name": "Gabadagama South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near Weaven\n2. Development of natural drains - Kandura at Weralu Danda Ela\n3. Development of natural drains - Gabadagama Road Kandura\n4. Development of natural drains - Ata Lehe Ela\n5. Development of natural drains - Embulampe Kandura",
+    "Priority based on Soil Erosion Hazard": "4\n4\n4\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.155891",
+    "E": "80.723833",
+    "Quantity": "20 m\n250 m\n100 m\n5 km\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "2000\n25000\n10000\n500000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.723833,
+     7.155891
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "26",
+    "GND No.": "1044",
+    "GND Name": "Gabadagama South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near Weaven\n2. Development of natural drains - Kandura at Weralu Danda Ela\n3. Development of natural drains - Gabadagama Road Kandura\n4. Development of natural drains - Ata Lehe Ela\n5. Development of natural drains - Embulampe Kandura",
+    "Priority based on Soil Erosion Hazard": "4\n4\n4\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.15642",
+    "E": "80.724919",
+    "Quantity": "20 m\n250 m\n100 m\n5 km\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "2000\n25000\n10000\n500000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.724919,
+     7.15642
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "27",
+    "GND No.": "1044",
+    "GND Name": "Gabadagama South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near Weaven\n2. Development of natural drains - Kandura at Weralu Danda Ela\n3. Development of natural drains - Gabadagama Road Kandura\n4. Development of natural drains - Ata Lehe Ela\n5. Development of natural drains - Embulampe Kandura",
+    "Priority based on Soil Erosion Hazard": "4\n4\n4\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.157876",
+    "E": "80.724698",
+    "Quantity": "20 m\n250 m\n100 m\n5 km\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "2000\n25000\n10000\n500000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.724698,
+     7.157876
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "28",
+    "GND No.": "1044",
+    "GND Name": "Gabadagama South",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandura near Weaven\n2. Development of natural drains - Kandura at Weralu Danda Ela\n3. Development of natural drains - Gabadagama Road Kandura\n4. Development of natural drains - Ata Lehe Ela\n5. Development of natural drains - Embulampe Kandura",
+    "Priority based on Soil Erosion Hazard": "4\n4\n4\n3\n5",
+    "Location_Detail": "Exact",
+    "N": "7.149464",
+    "E": "80.720256",
+    "Quantity": "20 m\n250 m\n100 m\n5 km\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "2000\n25000\n10000\n500000\n20000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.720256,
+     7.149464
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "29",
+    "GND No.": "1045",
+    "GND Name": "Gabadagama North",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Deekirilla Madiththa Kandura\n2. Development of natural drains - Rathpahe Kandura\n3. Development of natural drains - Kandura near Kovila\n4. Development of natural drains - Holman Kandura\n5. Development of natural drains - Ibi Kandura",
+    "Priority based on Soil Erosion Hazard": "3\n5\n2\n5",
+    "Location_Detail": "Exact",
+    "N": "7.153818",
+    "E": "80.720265",
+    "Quantity": "3 km\n2 km\n1 km\n1 km\n5 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "300000\n200000\n100000\n100000\n500000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.720265,
+     7.153818
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "30",
+    "GND No.": "1045",
+    "GND Name": "Gabadagama North",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Deekirilla Madiththa Kandura\n2. Development of natural drains - Rathpahe Kandura\n3. Development of natural drains - Kandura near Kovila\n4. Development of natural drains - Holman Kandura\n5. Development of natural drains - Ibi Kandura",
+    "Priority based on Soil Erosion Hazard": "3\n5\n2\n5",
+    "Location_Detail": "Exact",
+    "N": "7.155975",
+    "E": "80.717178",
+    "Quantity": "3 km\n2 km\n1 km\n1 km\n5 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "300000\n200000\n100000\n100000\n500000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.717178,
+     7.155975
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "31",
+    "GND No.": "1045",
+    "GND Name": "Gabadagama North",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Deekirilla Madiththa Kandura\n2. Development of natural drains - Rathpahe Kandura\n3. Development of natural drains - Kandura near Kovila\n4. Development of natural drains - Holman Kandura\n5. Development of natural drains - Ibi Kandura",
+    "Priority based on Soil Erosion Hazard": "3\n5\n2\n5",
+    "Location_Detail": "Exact",
+    "N": "7.15107",
+    "E": "80.717673",
+    "Quantity": "3 km\n2 km\n1 km\n1 km\n5 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "300000\n200000\n100000\n100000\n500000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.717673,
+     7.15107
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "32",
+    "GND No.": "1045",
+    "GND Name": "Gabadagama North",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Deekirilla Madiththa Kandura\n2. Development of natural drains - Rathpahe Kandura\n3. Development of natural drains - Kandura near Kovila\n4. Development of natural drains - Holman Kandura\n5. Development of natural drains - Ibi Kandura",
+    "Priority based on Soil Erosion Hazard": "3\n5\n2\n5",
+    "Location_Detail": "Exact",
+    "N": "7.150506",
+    "E": "80.717659",
+    "Quantity": "3 km\n2 km\n1 km\n1 km\n5 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "300000\n200000\n100000\n100000\n500000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.717659,
+     7.150506
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "33",
+    "GND No.": "1046",
+    "GND Name": "Kandegama",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandegama Kandura I\n2. Development of natural drains - Kandegama Kandura II",
+    "Priority based on Soil Erosion Hazard": "5\n1",
+    "Location_Detail": "Exact",
+    "N": "7.166503",
+    "E": "80.714932",
+    "Quantity": "500 m\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "50000\n50000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.714932,
+     7.166503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "34",
+    "GND No.": "1046",
+    "GND Name": "Kandegama",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Kandegama Kandura I\n2. Development of natural drains - Kandegama Kandura II",
+    "Priority based on Soil Erosion Hazard": "5\n1",
+    "Location_Detail": "Exact",
+    "N": "7.167883",
+    "E": "80.714605",
+    "Quantity": "500 m\n200 m",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "50000\n50000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.25 Years\n0.25 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.714605,
+     7.167883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "35",
+    "GND No.": "1047",
+    "GND Name": "Wadiyagoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Appallawala Kandura\n2. Development of natural drains - Kuda Oya Ela\n3. Development of natural drains - Angutubedda Kandura",
+    "Priority based on Soil Erosion Hazard": "4\n5\n3, 2",
+    "Location_Detail": "Exact",
+    "N": "7.16671",
+    "E": "80.719766",
+    "Quantity": "2 km\n4 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "200000\n400000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.719766,
+     7.16671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "36",
+    "GND No.": "1047",
+    "GND Name": "Wadiyagoda",
+    "Key Activities proposed for Soil and Water conservation": "1. Development of natural drains - Appallawala Kandura\n2. Development of natural drains - Kuda Oya Ela\n3. Development of natural drains - Angutubedda Kandura",
+    "Priority based on Soil Erosion Hazard": "4\n5\n3, 2",
+    "Location_Detail": "Exact",
+    "N": "7.164308",
+    "E": "80.721883",
+    "Quantity": "2 km\n4 km\n2 km",
+    "Proposed measure/s": "Clearing and planting some trees along the banks (Areca Nut) and other conservation practices\nClearing and planting some trees along the banks (Arecanut) and other conservation practices\nClearing and planting some trees along the banks (Areca Nut) and other conservation practices",
+    "Uniti_Cost": "200000\n400000\n200000",
+    "Total_Cost": "Labour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana\nLabour and other basic services by the Local community/ Shramadana",
+    "Contribution (Local Community, LA, and the project)": "0.5 Years\n0.5 Years\n0.5 Years",
+    "Time frame for the implementation": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.721883,
+     7.164308
+    ]
+   }
+  }
+ ]
+}

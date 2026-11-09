@@ -1,3 +1,78 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No. ":2,"GN Division No.":731,"GN Division":"Madulkele","Land Slides":"Landslide - Near the Mr.Govindra Raja  Nandasena's house","N":7.400209,"E":80.732922,"NBRO Recommendation":"Needs NBRO concern","Proposed Measures":"Landuse plan needs to be improved. Recommendations of NBRO should be followed having consulted; Also, the attention and mediation of RDA are needed.","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_099/Near the Mr.Govindra Raja   Nandasena home _ disaster_5618.jpg"},"geometry":{"type":"Point","coordinates":[80.732922,7.400209]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No. ": "1",
+    "GN Division No.": "731",
+    "GN Division": "Madulkele",
+    "Land Slides": "Landslide - Near the Mr.Govindra Raja  Nandasena's house",
+    "Location_Detail": "Exact",
+    "N": "7.400209",
+    "E": "80.732922",
+    "NBRO Recommendation": "Needs NBRO concern",
+    "Proposed Measures": "Landuse plan needs to be improved. Recommendations of NBRO should be followed having consulted; Also, the attention and mediation of RDA are needed.",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_099/Near the Mr.Govindra Raja   Nandasena home _ disaster_5618.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.732922,
+     7.400209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No. ": "2",
+    "GN Division No.": "736",
+    "GN Division": "Baddegama",
+    "Land Slides": "Road erosion - Near Dipami's house; Near Ruwanwanige's house; Near Samanthage's house; and Near Lalithage's house",
+    "Location_Detail": "Approximation",
+    "N": "7.386782314",
+    "E": "80.75435354",
+    "NBRO Recommendation": "Needs NBRO concern",
+    "Proposed Measures": "No critical issues are reported. However, recommendations of NBRO should be followed having consulted; Also, the attention and mediation of RDA are needed.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.75435354,
+     7.386782314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No. ": "3",
+    "GN Division No.": "730",
+    "GN Division": "Arattana",
+    "Land Slides": "No special issues are reported.",
+    "Location_Detail": "Approximation",
+    "N": "7.377604872",
+    "E": "80.7408922",
+    "NBRO Recommendation": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7408922,
+     7.377604872
+    ]
+   }
+  }
+ ]
+}

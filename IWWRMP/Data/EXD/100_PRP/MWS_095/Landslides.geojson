@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "734",
+    "GN Division": "Watakele",
+    "Landslides": "No special issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.428705477",
+    "E": "80.74110874",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74110874,
+     7.428705477
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "735",
+    "GN Division": "Kelebokka",
+    "Landslides": "Landslide - Hulankanda\nLandslide - Medakotasa\nLandslide - Uda Kotasa\nLandslide - Galahiriya\nBank collapsing - Kabaragala Road, Udakotasa Road, Nellimale Road",
+    "Location_Detail": "Approximation",
+    "N": "7.447770202",
+    "E": "80.72421529",
+    "NBRO Recommendation N/A": "NBRO is aware\nNBRO is aware\nNBRO is aware\nNBRO is aware\nNeeds NBRO concern",
+    "Proposed Measures": "No critical issues are reported. However, land acquisition/providing houses will be needed.\nNo critical issues are reported. However, land acquisition/providing houses will be needed.\nNo critical issues are reported. However, land acquisition/soil conservation will be needed.\nNo critical issues are reported. However, land acquisition/soil conservation will be needed.\nNo critical issues are reported. However, some stone terracing, live fences etc. will be needed.",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.72421529,
+     7.447770202
+    ]
+   }
+  }
+ ]
+}

@@ -1,13 +1,408 @@
-{"type":"FeatureCollection","name":"Landslides","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
-{"type":"Feature","properties":{"No.":1,"GN Division No.":"499","GN Division":"Bambaragama","Landslides":"Bank collapsing due to heavy rain","N":7.139369,"E":80.734907,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Establishing a retaining wall (5 m x 3 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/B (11)1.jpg"},"geometry":{"type":"Point","coordinates":[80.734907,7.139369]}},
-{"type":"Feature","properties":{"No.":4,"GN Division No.":"500","GN Division":"Bowala","Landslides":"Land sliding/soil sloughing","N":7.150467,"E":80.734474,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Establishing a retaining wall (40 m x 1.2 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/BO (11)1.jpg"},"geometry":{"type":"Point","coordinates":[80.734474,7.150467]}},
-{"type":"Feature","properties":{"No.":7,"GN Division No.":"499A","GN Division":"Handawalapitiya","Landslides":"1. Bank collapsing","N":7.127388,"E":80.736036,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Establishing a retaining wall (15 m x 2.4 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/HW1.jpg"},"geometry":{"type":"Point","coordinates":[80.736036,7.127388]}},
-{"type":"Feature","properties":{"No.":8,"GN Division No.":"499A","GN Division":"Handawalapitiya","Landslides":"2. Bank collapsing","N":7.127448,"E":80.736334,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Establishing a retaining wall (20 m x 3.6 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/HW2.jpg"},"geometry":{"type":"Point","coordinates":[80.736334,7.127448]}},
-{"type":"Feature","properties":{"No.":10,"GN Division No.":"500A","GN Division":"Kithulpe","Landslides":"1. Landsliding - Madamure village","N":7.153257,"E":80.741161,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Establishing retaining walls; lock & spill drains need to be constructed and crops need to be cultivated (Crops- Coffee, Cocoa, Pepper).","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/K (11)1.jpg"},"geometry":{"type":"Point","coordinates":[80.741161,7.153257]}},
-{"type":"Feature","properties":{"No.":11,"GN Division No.":"500A","GN Division":"Kithulpe","Landslides":"2. Landsliding - Near the Kithulpe temple","N":7.156924,"E":80.740558,"NBRO Recommendation N/A":"NBRO has issued Red Notice","Proposed Measures":"Transfering people to other suitable lands, Remove heavy weight structures, trees etc.\nFacilitate drainage facility\nAdopting proper soil and water conservation methods","photopath":"Not_Available"},"geometry":{"type":"Point","coordinates":[80.740558,7.156924]}},
-{"type":"Feature","properties":{"No.":14,"GN Division No.":"500C","GN Division":"Warapitiya","Landslides":"1. Flooding - Road near the Palle Bowala Primary School","N":7.155533,"E":80.736339,"NBRO Recommendation N/A":"-","Proposed Measures":"Establishing a retaining wall (100 m x 0.6 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)2.jpg"},"geometry":{"type":"Point","coordinates":[80.736339,7.155533]}},
-{"type":"Feature","properties":{"No.":15,"GN Division No.":"500C","GN Division":"Warapitiya","Landslides":"2. Soil sloughing - Playground of the Palle Bowala Primary School","N":7.155535,"E":80.736395,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Establishing a retaining wall (100 m x 0.6 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)3.jpg"},"geometry":{"type":"Point","coordinates":[80.736395,7.155535]}},
-{"type":"Feature","properties":{"No.":16,"GN Division No.":"500C","GN Division":"Warapitiya","Landslides":"3. Flooding - Palle Bowala Secondary School","N":7.155297,"E":80.735902,"NBRO Recommendation N/A":"-","Proposed Measures":"Establishing a leader drain (10 m x 1 m x 1 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)5.jpg"},"geometry":{"type":"Point","coordinates":[80.735902,7.155297]}},
-{"type":"Feature","properties":{"No.":17,"GN Division No.":"500C","GN Division":"Warapitiya","Landslides":"4. Collapsing retaining wall - Palle Bowala Secondary School","N":7.155666,"E":80.736301,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Establishing a retaining wall (75 m x 0.6 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)6.jpg"},"geometry":{"type":"Point","coordinates":[80.736301,7.155666]}},
-{"type":"Feature","properties":{"No.":18,"GN Division No.":"500C","GN Division":"Warapitiya","Landslides":"5. Bank collapsing - Makumbura Waththa","N":7.156644,"E":80.736338,"NBRO Recommendation N/A":"Needs NBRO concern","Proposed Measures":"Establishing a retaining wall (100 m x 0.6 m)","photopath":"https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)7.jpg"},"geometry":{"type":"Point","coordinates":[80.736338,7.156644]}}
-]}
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "499",
+    "GN Division": "Bambaragama",
+    "Landslides": "Bank collapsing due to heavy rain",
+    "Location_Detail": "Exact",
+    "N": "7.139369",
+    "E": "80.734907",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing a retaining wall (5 m x 3 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/B (11)1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.734907,
+     7.139369
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "499E",
+    "GN Division": "Bambaragama East",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.139569312",
+    "E": "80.74136145",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74136145,
+     7.139569312
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "499F",
+    "GN Division": "Bambaragama West",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.136086985",
+    "E": "80.73286707",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73286707,
+     7.136086985
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "500",
+    "GN Division": "Bowala",
+    "Landslides": "Land sliding/soil sloughing",
+    "Location_Detail": "Exact",
+    "N": "7.150467",
+    "E": "80.734474",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing a retaining wall (40 m x 1.2 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/BO (11)1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.734474,
+     7.150467
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "499C",
+    "GN Division": "Daraoya",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.122539216",
+    "E": "80.73611611",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73611611,
+     7.122539216
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "6",
+    "GN Division No.": "503",
+    "GN Division": "Gannewa Udugama",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.138616452",
+    "E": "80.72444404",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.72444404,
+     7.138616452
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "7",
+    "GN Division No.": "499A",
+    "GN Division": "Handawalapitiya",
+    "Landslides": "1. Bank collapsing",
+    "Location_Detail": "Exact",
+    "N": "7.127388",
+    "E": "80.736036",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing a retaining wall (15 m x 2.4 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/HW1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.736036,
+     7.127388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "8",
+    "GN Division No.": "499A",
+    "GN Division": "Handawalapitiya",
+    "Landslides": "2. Bank collapsing",
+    "Location_Detail": "Exact",
+    "N": "7.127448",
+    "E": "80.736334",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing a retaining wall (20 m x 3.6 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/HW2.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.736334,
+     7.127448
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "10",
+    "GN Division No.": "500A",
+    "GN Division": "Kithulpe",
+    "Landslides": "1. Landsliding - Madamure village",
+    "Location_Detail": "Exact",
+    "N": "7.153257",
+    "E": "80.741161",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing retaining walls; lock & spill drains need to be constructed and crops need to be cultivated (Crops- Coffee, Cocoa, Pepper).",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/K (11)1.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.741161,
+     7.153257
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "11",
+    "GN Division No.": "500A",
+    "GN Division": "Kithulpe",
+    "Landslides": "2. Landsliding - Near the Kithulpe temple",
+    "Location_Detail": "Exact",
+    "N": "7.156924",
+    "E": "80.740558",
+    "NBRO Recommendation N/A": "NBRO has issued Red Notice",
+    "Proposed Measures": "Transfering people to other suitable lands, Remove heavy weight structures, trees etc.\nFacilitate drainage facility\nAdopting proper soil and water conservation methods",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.740558,
+     7.156924
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "12",
+    "GN Division No.": "503A",
+    "GN Division": "Malanwatta",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.147093532",
+    "E": "80.72685932",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.72685932,
+     7.147093532
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "13",
+    "GN Division No.": "500B",
+    "GN Division": "Medagama",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.15681843",
+    "E": "80.73155685",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.73155685,
+     7.15681843
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "14",
+    "GN Division No.": "500C",
+    "GN Division": "Warapitiya",
+    "Landslides": "2. Soil sloughing - Playground of the Palle Bowala Primary School",
+    "Location_Detail": "Exact",
+    "N": "7.155535",
+    "E": "80.736395",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing a retaining wall (100 m x 0.6 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)3.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.736395,
+     7.155535
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "15",
+    "GN Division No.": "500C",
+    "GN Division": "Warapitiya",
+    "Landslides": "4. Collapsing retaining wall - Palle Bowala Secondary School",
+    "Location_Detail": "Exact",
+    "N": "7.155666",
+    "E": "80.736301",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing a retaining wall (75 m x 0.6 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)6.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.736301,
+     7.155666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "16",
+    "GN Division No.": "500C",
+    "GN Division": "Warapitiya",
+    "Landslides": "5. Bank collapsing - Makumbura Waththa",
+    "Location_Detail": "Exact",
+    "N": "7.156644",
+    "E": "80.736338",
+    "NBRO Recommendation N/A": "Needs NBRO concern",
+    "Proposed Measures": "Establishing a retaining wall (100 m x 0.6 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)7.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.736338,
+     7.156644
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "17",
+    "GN Division No.": "500C",
+    "GN Division": "Warapitiya",
+    "Landslides": "1. Flooding - Road near the Palle Bowala Primary School",
+    "Location_Detail": "Exact",
+    "N": "7.155533",
+    "E": "80.736339",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Establishing a retaining wall (100 m x 0.6 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)2.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.736339,
+     7.155533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "18",
+    "GN Division No.": "500C",
+    "GN Division": "Warapitiya",
+    "Landslides": "3. Flooding - Palle Bowala Secondary School",
+    "Location_Detail": "Exact",
+    "N": "7.155297",
+    "E": "80.735902",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "Establishing a leader drain (10 m x 1 m x 1 m)",
+    "photopath": "https://raw.githubusercontent.com/MWS003-GIS/MWS003-GIS.github.io/main/IWWRMP/Data/EXD/200_photo/MWS_009/W (11)5.jpg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.735902,
+     7.155297
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "19",
+    "GN Division No.": "499D",
+    "GN Division": "Wetesthenna",
+    "Landslides": "No special issues reported",
+    "Location_Detail": "Approximation",
+    "N": "7.129573336",
+    "E": "80.74134346",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.74134346,
+     7.129573336
+    ]
+   }
+  }
+ ]
+}

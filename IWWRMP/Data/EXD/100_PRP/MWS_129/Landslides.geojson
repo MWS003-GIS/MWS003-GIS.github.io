@@ -1,0 +1,122 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landslides",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "1",
+    "GN Division No.": "1171",
+    "GN Division": "Udagama",
+    "Landslides": "No major issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.140493704",
+    "E": "80.62182262",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.62182262,
+     7.140493704
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "2",
+    "GN Division No.": "1174",
+    "GN Division": "Ihalagama",
+    "Landslides": "No major issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.135234207",
+    "E": "80.63125951",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63125951,
+     7.135234207
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "3",
+    "GN Division No.": "1175",
+    "GN Division": "Hunukotugama",
+    "Landslides": "No major issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.143009083",
+    "E": "80.63040856",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.63040856,
+     7.143009083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "4",
+    "GN Division No.": "1183",
+    "GN Division": "Dunukmulla",
+    "Landslides": "No major issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.126670861",
+    "E": "80.64674065",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.64674065,
+     7.126670861
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "No.": "5",
+    "GN Division No.": "1184",
+    "GN Division": "Wanahaluwa",
+    "Landslides": "No major issues are reported",
+    "Location_Detail": "Approximation",
+    "N": "7.112048285",
+    "E": "80.66944223",
+    "NBRO Recommendation N/A": "-",
+    "Proposed Measures": "-",
+    "photopath": "Not_Available"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.66944223,
+     7.112048285
+    ]
+   }
+  }
+ ]
+}
